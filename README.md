@@ -14,4 +14,4 @@ I've personally made three libraries in three programming languages that uses th
 - [`Python`](https://github.com/kkrypt0nn/pymanuf)
 - [`Go`](https://github.com/kkrypt0nn/gomanuf)
 
-Each folder has its own `README` file with the instructions on how to use the library.
+Each project has its own `README` file with the instructions on how to use the library.
