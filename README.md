@@ -4,7 +4,7 @@ The **_Manuf Project_** is a project made to keep an up to date list of MAC addr
 
 ## Update
 
-The list is updated every hour and can be used as you wish.
+The list is updated every six hours and can be used as you wish.
 
 ## Available Libraries
 
