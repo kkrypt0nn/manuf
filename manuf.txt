@@ -53953,6 +53953,7 @@ F4:96:34		Intel Corporate
 F4:96:51		NAKAYO Inc
 F4:97:9D		IEEE Registration Authority
 F4:97:9D:70:00:00/28	Luxshare - Ict(Nghe An) Limited
+F4:97:9D:C0:00:00/28	Lab241 Co.,Ltd.
 F4:97:C2		Nebulon Inc
 F4:99:AC		WEBER Schraubautomaten GmbH
 F4:9C:12		Structab AB
