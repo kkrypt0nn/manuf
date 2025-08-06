@@ -22598,6 +22598,7 @@
 2C:48:81		vivo Mobile Communication Co., Ltd.
 2C:4A:11		Ciena Corporation
 2C:4C:15		Juniper Networks
+2C:4C:7D		New H3C Technologies Co., Ltd
 2C:4C:C6		Murata Manufacturing Co., Ltd.
 2C:4D:54		ASUSTek COMPUTER INC.
 2C:4D:79		Weifang Goertek Electronics Co.,Ltd
@@ -22762,7 +22763,7 @@
 2C:9A:A4		Eolo SpA
 2C:9C:58		Cloud Network Technology Singapore Pte. Ltd.
 2C:9D:1E		Huawei Technologies Co.,Ltd
-2C:9D:4B		Lavelle Network Private Limited
+2C:9D:4B		Lavelle Networks Private Limited
 2C:9D:5A		Flaircomm Microelectronics,Inc.
 2C:9D:65		vivo Mobile Communication Co., Ltd.
 2C:9E:00		Sony Interactive Entertainment Inc.
@@ -23510,6 +23511,7 @@
 34:26:06		CarePredict, Inc.
 34:27:92		Freebox Sas
 34:28:40		Apple, Inc.
+34:28:65		Juniper Networks
 34:28:F0		ATN International Limited
 34:29:12		Huawei Technologies Co.,Ltd
 34:29:8F		IEEE Registration Authority
@@ -28177,6 +28179,7 @@
 54:91:AF:C0:00:00/28	DanuTech Europe Kft
 54:91:AF:D0:00:00/28	Ningbo Joynext Technology Corporation
 54:91:AF:E0:00:00/28	Jiangxi Anbaichuan Electric Co.(ABC),Ltd
+54:91:E1		Vitalacy Inc.
 54:92:09		Huawei Technologies Co.,Ltd
 54:92:6A		GD Midea Air-Conditioning Equipment Co.,Ltd.
 54:92:BE		Samsung Electronics Co.,Ltd
@@ -30636,6 +30639,7 @@
 68:F0:BC		Shenzhen LiWiFi Technology Co., Ltd
 68:F0:D0		SkyBell Technologies Inc.
 68:F1:25		Data Controls Inc.
+68:F2:1F		Bose Corporation
 68:F3:8E		Juniper Networks
 68:F4:4B		Home Control Singapore Pte Ltd
 68:F5:43		Huawei Technologies Co.,Ltd
@@ -39565,6 +39569,7 @@
 8C:1F:64:4A:E0:00/36	KCS Co., Ltd.
 8C:1F:64:4A:F0:00/36	miniDSP
 8C:1F:64:4B:00:00/36	U -Mei-Dah Int'L Enterprise Co.,Ltd.
+8C:1F:64:4B:20:00/36	GV Technology Co.,Ltd.
 8C:1F:64:4B:40:00/36	Point One Navigation
 8C:1F:64:4B:80:00/36	astTECS Communications Private Limited
 8C:1F:64:4B:B0:00/36	IWS Global Pty Ltd
@@ -47087,6 +47092,7 @@ BC:54:51		Samsung Electronics Co.,Ltd
 BC:54:F9		Drogoo Technology Co., Ltd.
 BC:54:FC		Shenzhen Mercury Communication Technologies Co.,Ltd.
 BC:57:29		Shenzhen KKM Co., Ltd
+BC:5A:34		New H3C Technologies Co., Ltd
 BC:5A:56		Cisco Systems, Inc
 BC:5B:D5		Commscope
 BC:5C:17		Qingdao Intelligent&Precise Electronics Co.,Ltd.
@@ -52018,6 +52024,7 @@ E4:6A:35		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 E4:6C:21		messMa GmbH
 E4:6C:D1		Calix Inc.
 E4:6D:7F		Ciena Corporation
+E4:6E:8A		BYD Lithium Battery Co., Ltd.
 E4:6F:13		D-Link International
 E4:70:B8		Intel Corporate
 E4:71:85		Securifi Ltd
@@ -52523,6 +52530,7 @@ E8:A2:45		Juniper Networks
 E8:A3:4E		Huawei Technologies Co.,Ltd
 E8:A3:64		Signal Path International / Peachtree Audio
 E8:A4:C1		Deep Sea Electronics Ltd
+E8:A5:5A		Juniper Networks
 E8:A6:60		Huawei Technologies Co.,Ltd
 E8:A6:CA		Huawei Device Co., Ltd.
 E8:A7:2F		Microsoft Corporation
@@ -53979,6 +53987,7 @@ F4:96:51		NAKAYO Inc
 F4:97:9D		IEEE Registration Authority
 F4:97:9D:60:00:00/28	camnex innovation pvt ltd
 F4:97:9D:70:00:00/28	Luxshare - Ict(Nghe An) Limited
+F4:97:9D:80:00:00/28	Shanghai Kanghai Infomation System CO.,LTD
 F4:97:9D:B0:00:00/28	Kaiware (Shenzhen) Technologies Co.,Ltd
 F4:97:9D:C0:00:00/28	Lab241 Co.,Ltd.
 F4:97:C2		Nebulon Inc
