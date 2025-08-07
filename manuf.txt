@@ -19722,6 +19722,7 @@
 14:74:11		Rim
 14:75:5B		Intel Corporate
 14:75:90		Tp-Link Technologies Co.,Ltd.
+14:75:E5		ELMAX Srl
 14:77:40		Huawei Device Co., Ltd.
 14:78:0B		Varex Imaging Deutschland AG
 14:79:F3		China Mobile Group Device Co.,Ltd.
@@ -21056,6 +21057,7 @@
 20:0C:86		GX India Pvt Ltd
 20:0C:C8		Netgear
 20:0D:B0		Shenzhen Four Seas Global Link Network Technology Co., Ltd.
+20:0E:0F		Panasonic Marketing Middle East & Africa FZE
 20:0E:2B		Apple, Inc.
 20:0E:95		Iec – Tc9 Wg43
 20:0F:70		Foxtech
@@ -22854,6 +22856,7 @@
 2C:CA:75		Robert Bosch GmbH AnP
 2C:CC:15		Nokia Corporation
 2C:CC:44		Sony Interactive Entertainment Inc.
+2C:CC:7A		AltoBeam Inc.
 2C:CC:E6		Skyworth Digital Technology(Shenzhen) Co.,Ltd
 2C:CD:27		Precor Inc
 2C:CD:43		Summit Technology Group
@@ -24370,6 +24373,7 @@
 38:C4:3A		Apple, Inc.
 38:C4:E8		NSS Sp. z o.o.
 38:C6:BD		Xiaomi Communications Co Ltd
+38:C6:CE		Nintendo Co.,Ltd
 38:C7:0A		WiFiSong
 38:C7:BA		CS Services Co.,Ltd.
 38:C8:04		Hui Zhou Gaoshengda Technology Co.,LTD
@@ -41769,6 +41773,7 @@
 90:27:78		Open Infrastructure
 90:27:E4		Apple, Inc.
 90:28:F6		Wuhan Yangtze Optical Technology CO.,Ltd.
+90:29:62		Linkpower Microelectronics Co., Ltd.
 90:2A:EE		Xiaomi Communications Co Ltd
 90:2B:34		Giga-Byte Technology Co.,Ltd.
 90:2B:D2		Huawei Technologies Co.,Ltd
@@ -53998,6 +54003,8 @@ F4:95:1B		Hefei Radio Communication Technology Co., Ltd
 F4:96:34		Intel Corporate
 F4:96:51		NAKAYO Inc
 F4:97:9D		IEEE Registration Authority
+F4:97:9D:10:00:00/28	Frame the space
+F4:97:9D:40:00:00/28	Merry Electronics Co., Ltd.
 F4:97:9D:60:00:00/28	camnex innovation pvt ltd
 F4:97:9D:70:00:00/28	Luxshare - Ict(Nghe An) Limited
 F4:97:9D:80:00:00/28	Shanghai Kanghai Infomation System CO.,LTD
