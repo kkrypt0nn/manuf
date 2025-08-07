@@ -20958,6 +20958,7 @@
 1C:D6:BD		Leedarson Lighting Co., Ltd.
 1C:D6:BE		Wistron Neweb Corporation
 1C:DA:27		vivo Mobile Communication Co., Ltd.
+1C:DB:D4		Espressif Inc.
 1C:DD:EA		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 1C:DE:57		Fiberhome Telecommunication Technologies Co.,LTD
 1C:DE:A7		Cisco Systems, Inc
@@ -21049,6 +21050,7 @@
 20:0A:0D:D0:00:00/28	Bently & EL  Co. Ltd.
 20:0A:0D:E0:00:00/28	HANGZHOU DANGBEI NETWORK TECH.Co.,Ltd
 20:0A:5E		Xiangshan Giant Eagle Technology Developing Co., Ltd.
+20:0A:87		Guangzhou On-Bright Electronics Co., Ltd.
 20:0B:16		Texas Instruments
 20:0B:74		AzureWave Technology Inc.
 20:0B:C5		Cisco Systems, Inc
@@ -45616,6 +45618,7 @@ B0:10:A0		Texas Instruments
 B0:12:03		Dynamics Hong Kong Limited
 B0:12:66		Futaba-Kikaku
 B0:14:08		Lightspeed International Co.
+B0:14:DF		MitraStar Technology Corp.
 B0:16:56		Huawei Technologies Co.,Ltd
 B0:17:43		Edison Global Circuits Llc
 B0:18:31		Apple, Inc.
@@ -50488,6 +50491,7 @@ D4:E8:B2		Samsung Electronics Co.,Ltd
 D4:E9:0B		Cvt Co.,Ltd
 D4:E9:5E		Texas Instruments
 D4:E9:8A		Intel Corporate
+D4:E9:F4		Espressif Inc.
 D4:EA:0E		Avaya Inc
 D4:EB:68		Cisco Systems, Inc
 D4:EC:0C		Harley-Davidson Motor Company
@@ -51659,6 +51663,7 @@ E0:89:7E		Apple, Inc.
 E0:89:9D		Cisco Systems, Inc
 E0:8A:7E		Exponent
 E0:8C:3C		Cisco Systems, Inc
+E0:8C:FE		Espressif Inc.
 E0:8E:3C		Aztech Electronics Pte Ltd
 E0:8F:4C		Intel Corporate
 E0:8F:EC		Repotec Co., Ltd.
@@ -52366,6 +52371,7 @@ E8:3E:FB		Geodesic Ltd.
 E8:3E:FC		Commscope
 E8:3F:67		Huawei Device Co., Ltd.
 E8:40:40		Cisco Systems, Inc
+E8:40:74		Barrot Technology Co.,Ltd.
 E8:40:F2		Pegatron Corporation
 E8:43:68		zte corporation
 E8:43:B6		QNAP Systems, Inc.
@@ -54005,6 +54011,7 @@ F4:96:51		NAKAYO Inc
 F4:97:9D		IEEE Registration Authority
 F4:97:9D:10:00:00/28	Frame the space
 F4:97:9D:40:00:00/28	Merry Electronics Co., Ltd.
+F4:97:9D:50:00:00/28	Warner Technology Corp
 F4:97:9D:60:00:00/28	camnex innovation pvt ltd
 F4:97:9D:70:00:00/28	Luxshare - Ict(Nghe An) Limited
 F4:97:9D:80:00:00/28	Shanghai Kanghai Infomation System CO.,LTD
