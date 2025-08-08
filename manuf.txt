@@ -19223,6 +19223,7 @@
 10:59:17		Tonal
 10:59:32		Roku, Inc
 10:5A:17		Tuya Smart Inc.
+10:5A:95		TP-Link Systems Inc.
 10:5A:F7		ADB Italia
 10:5B:AD		Mega Well Limited
 10:5C:3B		Perma-Pipe, Inc.
@@ -21958,6 +21959,7 @@
 28:24:C9		Amazon Technologies Inc.
 28:24:FF		Wistron Neweb Corporation
 28:25:36		Shenzhen Holatek Co.,Ltd
+28:25:5F		Humax Networks
 28:26:A6		PBR electronics GmbH
 28:27:BF		Samsung Electronics Co.,Ltd
 28:28:5D		Zyxel Communications Corporation
@@ -24768,6 +24770,7 @@
 3C:77:E6		Hon Hai Precision Ind. Co.,Ltd.
 3C:78:43		Huawei Technologies Co.,Ltd
 3C:78:73		Airsonics
+3C:78:95		TP-Link Systems Inc.
 3C:79:2B		Dongguan Auklink TechnologyCo.,Ltd
 3C:7A:8A		Commscope
 3C:7A:AA		China Dragon Technology Limited
@@ -40047,6 +40050,7 @@
 8C:1F:64:7D:80:00/36	HIROSAWA ELECTRIC Co.,Ltd.
 8C:1F:64:7D:90:00/36	Noisewave Corporation
 8C:1F:64:7D:A0:00/36	Xpti Tecnologias em Segurança Ltda
+8C:1F:64:7D:B0:00/36	Raco Universal Technology Co., Ltd.
 8C:1F:64:7D:C0:00/36	Lineage Power Pvt Ltd.,
 8C:1F:64:7D:D0:00/36	TAKASAKI KYODO COMPUTING CENTER Co.,LTD.
 8C:1F:64:7D:E0:00/36	SOCNOC AI Inc
@@ -45903,6 +45907,7 @@ B0:B9:8A		Netgear
 B0:BB:8B		Wavetel Technology Limited
 B0:BB:E5		Sagemcom Broadband SAS
 B0:BC:7A		Harman/Becker Automotive Systems GmbH
+B0:BC:8E		SkyMirr
 B0:BD:1B		Dongguan Liesheng Electronic Co., Ltd.
 B0:BD:6D		Echostreams Innovative Solutions
 B0:BD:A1		Zaklad Elektroniczny Sims
@@ -54015,6 +54020,8 @@ F4:97:9D:50:00:00/28	Warner Technology Corp
 F4:97:9D:60:00:00/28	camnex innovation pvt ltd
 F4:97:9D:70:00:00/28	Luxshare - Ict(Nghe An) Limited
 F4:97:9D:80:00:00/28	Shanghai Kanghai Infomation System CO.,LTD
+F4:97:9D:90:00:00/28	Beijing Jiaxin Technology Co., Ltd
+F4:97:9D:A0:00:00/28	MARKT Co., Ltd
 F4:97:9D:B0:00:00/28	Kaiware (Shenzhen) Technologies Co.,Ltd
 F4:97:9D:C0:00:00/28	Lab241 Co.,Ltd.
 F4:97:C2		Nebulon Inc
@@ -54275,6 +54282,7 @@ F8:1E:6F		EBG compleo GmbH
 F8:1E:DF		Apple, Inc.
 F8:1F:32		Motorola Mobility LLC, a Lenovo Company
 F8:20:55		Green Information System
+F8:20:97		Aditya Infotech Ltd.
 F8:20:A9		Huawei Device Co., Ltd.
 F8:20:D2		Vantiva USA LLC
 F8:21:11		HMD Global Oy
