@@ -17702,6 +17702,7 @@
 04:A8:1C		Huawei Technologies Co.,Ltd
 04:A8:2A		Nokia Corporation
 04:A8:5A		Sz Dji Technology Co.,Ltd
+04:A9:24		Mist Systems, Inc.
 04:A9:59		New H3C Technologies Co., Ltd
 04:AA:E1		Beijing Microvision Technology Co.,Ltd
 04:AB:08		Shenzhen Skyworth Digital  Technology  CO., Ltd
@@ -19960,6 +19961,7 @@
 18:14:56		Nokia Corporation
 18:14:6C		Zhejiang Tmall Technology Co., Ltd.
 18:14:AE		Nokia
+18:16:28		SharkNinja Operating LLC
 18:16:C9		Samsung Electronics Co.,Ltd
 18:16:E8		Siliconware Precision Industries Co., Ltd.
 18:17:14		Daewoois
@@ -39626,6 +39628,7 @@
 8C:1F:64:4E:D0:00/36	Ventionex Innovations Sdn Bhd
 8C:1F:64:4F:00:00/36	Tieline Research Pty Ltd
 8C:1F:64:4F:10:00/36	Abbott Diagnostics Technologies AS
+8C:1F:64:4F:20:00/36	Automation Displays Inc.
 8C:1F:64:4F:40:00/36	Staco Energy Products
 8C:1F:64:4F:60:00/36	Private
 8C:1F:64:4F:70:00/36	SmartD Technologies Inc
@@ -41210,6 +41213,7 @@
 8C:1F:64:FC:30:00/36	Cyclops Technology Group
 8C:1F:64:FC:40:00/36	Dorlet Sau
 8C:1F:64:FC:50:00/36	Sumico
+8C:1F:64:FC:60:00/36	Invertek Drives Ltd
 8C:1F:64:FC:C0:00/36	Gredmann Taiwan Ltd.
 8C:1F:64:FC:D0:00/36	elbit systems - EW and sigint - Elisra
 8C:1F:64:FD:00:00/36	Near Earth Autonomy
@@ -51499,6 +51503,8 @@ E0:23:3B		IEEE Registration Authority
 E0:23:3B:00:00:00/28	Quality Pay Systems S.L.
 E0:23:3B:30:00:00/28	356 Productions
 E0:23:3B:50:00:00/28	Iofac
+E0:23:3B:80:00:00/28	Suzhou Visrgb Technology Co., Ltd
+E0:23:3B:A0:00:00/28	ShenZhen Chainway Information Technology Co., Ltd.
 E0:23:3B:B0:00:00/28	Shenzhen C & D Electronics Co., Ltd.
 E0:23:D7		Sleep Number
 E0:23:FF		Fortinet, Inc.
