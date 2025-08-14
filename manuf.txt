@@ -52049,6 +52049,7 @@ E4:55:A8		Cisco Meraki
 E4:55:EA		Dedicated Computing
 E4:56:14		Suttle Apparatus
 E4:56:AC		Silicon Laboratories
+E4:56:CA		Fractal BMS
 E4:57:40		Commscope
 E4:57:68		vivo Mobile Communication Co., Ltd.
 E4:57:A8		Stuart Manufacturing, Inc.
