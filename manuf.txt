@@ -18827,6 +18827,7 @@
 0C:98:38		Xiaomi Communications Co Ltd
 0C:9A:3C		Intel Corporate
 0C:9A:42		Fn-Link Technology Limited
+0C:9A:E6		Sz Dji Technology Co.,Ltd
 0C:9B:13		Shanghai Magic Mobile Telecommunication Co.Ltd.
 0C:9B:78		Extreme Networks Headquarters
 0C:9D:56		Consort Controls Ltd
@@ -51510,6 +51511,7 @@ E0:23:3B:50:00:00/28	Iofac
 E0:23:3B:80:00:00/28	Suzhou Visrgb Technology Co., Ltd
 E0:23:3B:A0:00:00/28	ShenZhen Chainway Information Technology Co., Ltd.
 E0:23:3B:B0:00:00/28	Shenzhen C & D Electronics Co., Ltd.
+E0:23:3B:D0:00:00/28	Magosys Systems LTD
 E0:23:D7		Sleep Number
 E0:23:FF		Fortinet, Inc.
 E0:24:7F		Huawei Technologies Co.,Ltd
