@@ -17709,6 +17709,7 @@
 04:AB:18		Elecom Co.,Ltd.
 04:AB:6A		Chun-il Co.,Ltd.
 04:AC:44		Holtek Semiconductor Inc.
+04:AE:47		Beijing Xiaomi Mobile Software Co., Ltd
 04:AE:C7		Marquardt
 04:B0:66		Private
 04:B0:E7		Huawei Technologies Co.,Ltd
@@ -27179,6 +27180,7 @@
 4C:8B:EF		Huawei Technologies Co.,Ltd
 4C:8D:53		Huawei Technologies Co.,Ltd
 4C:8D:79		Apple, Inc.
+4C:8E:19		Xiaomi Communications Co Ltd
 4C:8E:CC		Silkan Sa
 4C:8F:A5		Jastec
 4C:90:DB		JL Audio
@@ -27315,6 +27317,7 @@
 4C:C4:49		Icotera A/S
 4C:C4:52		Shang Hai Tyd. Electon Technology Ltd.
 4C:C5:3E		Zyxel Communications Corporation
+4C:C5:D9		Dell Inc.
 4C:C6:02		Radios, Inc.
 4C:C6:4C		Beijing Xiaomi Mobile Software Co., Ltd
 4C:C6:81		Shenzhen Aisat Electronic Co., Ltd.
@@ -38124,6 +38127,7 @@
 84:9C:02		Druid Software
 84:9C:A4		Mimosa Networks
 84:9C:A6		Arcadyan Technology Corporation
+84:9D:4B		Shenzhen Boomtech Industrial Corporation
 84:9D:64		SMC Corporation
 84:9D:C2		Shanghai MXCHIP Information Technology Co., Ltd.
 84:9D:C5		Centera Photonics Inc.
@@ -38385,6 +38389,7 @@
 88:2D:53		Baidu Online Network Technology (Beijing) Co., Ltd.
 88:2E:5A		storONE
 88:2F:64		BCOM Networks Limited
+88:2F:92		Xiaomi Communications Co Ltd
 88:30:37		Juniper Networks
 88:30:8A		Murata Manufacturing Co., Ltd.
 88:32:9B		Samsung Electro-Mechanics(Thailand)
@@ -39945,6 +39950,7 @@
 8C:1F:64:71:30:00/36	Nstek Co., Ltd.
 8C:1F:64:71:50:00/36	Internet Protocolo Logica Sl
 8C:1F:64:71:80:00/36	Abb
+8C:1F:64:71:90:00/36	delResearch, LLC
 8C:1F:64:71:A0:00/36	Chell Instruments Ltd
 8C:1F:64:71:B0:00/36	Adasky Ltd.
 8C:1F:64:71:D0:00/36	Epigon spol. s r.o.
@@ -43156,6 +43162,7 @@
 98:DD:EA		Infinix mobility limited
 98:DE:D0		Tp-Link Technologies Co.,Ltd.
 98:DF:82		Hangzhou Hikvision Digital Technology Co.,Ltd.
+98:E0:81		Beijing Xiaomi Mobile Software Co., Ltd
 98:E0:D9		Apple, Inc.
 98:E1:65		Accutome
 98:E2:55		Nintendo Co.,Ltd
@@ -51507,7 +51514,10 @@ E0:23:3B		IEEE Registration Authority
 E0:23:3B:00:00:00/28	Quality Pay Systems S.L.
 E0:23:3B:10:00:00/28	Elvys s.r.o
 E0:23:3B:30:00:00/28	356 Productions
+E0:23:3B:40:00:00/28	The KIE
 E0:23:3B:50:00:00/28	Iofac
+E0:23:3B:60:00:00/28	Kiwimoore(Shanghai) Semiconductor Co.,Ltd
+E0:23:3B:70:00:00/28	Rehear Audiology Company LTD.
 E0:23:3B:80:00:00/28	Suzhou Visrgb Technology Co., Ltd
 E0:23:3B:A0:00:00/28	ShenZhen Chainway Information Technology Co., Ltd.
 E0:23:3B:B0:00:00/28	Shenzhen C & D Electronics Co., Ltd.
@@ -52537,6 +52547,7 @@ E8:78:EE		New H3C Technologies Co., Ltd
 E8:79:A3		Cisco Systems, Inc
 E8:7A:F3		S5 Tech S.r.l.
 E8:7E:1C		Huawei Technologies Co.,Ltd
+E8:7E:EF		Xiaomi Communications Co Ltd
 E8:7F:6B		Samsung Electronics Co.,Ltd
 E8:7F:95		Apple, Inc.
 E8:80:2E		Apple, Inc.
