@@ -19480,6 +19480,7 @@
 10:E3:C7		Seohwa Telecom
 10:E4:AF		Apr, Llc
 10:E4:C2		Samsung Electronics Co.,Ltd
+10:E6:6B		Kaon Broadband CO., LTD.
 10:E6:8F		Kwangsung Electronics Korea Co.,Ltd.
 10:E6:AE		Source Technologies, LLC
 10:E7:7A		STMicrolectronics International NV
@@ -19886,6 +19887,7 @@
 14:D1:9E		Apple, Inc.
 14:D4:24		AzureWave Technology Inc.
 14:D4:FE		Commscope
+14:D5:C6		slash dev slash agents, inc
 14:D6:4D		D-Link International
 14:D7:25		Barrot Technology Co.,Ltd.
 14:D7:6E		CONCH ELECTRONIC Co.,Ltd
@@ -21290,6 +21292,7 @@
 20:93:4D		Fujian Star-Net Communication Co.,Ltd
 20:96:8A		China Mobile (Hangzhou) Information Technology Co., Ltd.
 20:97:27		Teltonika Networks Uab
+20:98:8E		Shenzhen Feasycom Co., Ltd
 20:98:D8		Shenzhen Yingdakang Technology CO., LTD
 20:98:ED		AltoBeam Inc.
 20:99:52		Xiaomi Communications Co Ltd
@@ -21922,6 +21925,7 @@
 28:04:C6		Wanan Hongsheng Electronic Co.Ltd
 28:04:E0		Fermax Electronica S.A.U.
 28:05:2E		Dematic Corp
+28:05:A5		Espressif Inc.
 28:06:1E		Ningbo Global Useful Electric Co.,Ltd
 28:06:8D		Itl, Llc
 28:07:08		Samsung Electronics Co.,Ltd
@@ -38462,6 +38466,7 @@
 88:54:1F		Google, Inc.
 88:54:6B		Texas Instruments
 88:54:8E		vivo Mobile Communication Co., Ltd.
+88:56:A6		Espressif Inc.
 88:57:1D		Seongji Industry Company
 88:57:21		Espressif Inc.
 88:57:6D		XTA Electronics Ltd
@@ -44328,6 +44333,7 @@ A4:38:CC		Nintendo Co.,Ltd
 A4:38:FC		Plastic Logic
 A4:39:B3		Beijing Xiaomi Mobile Software Co., Ltd
 A4:39:B6		Shenzhen Peizhe Microelectronics Co .Ltd
+A4:3A:39		Aurora Technologies Co.,Ltd.
 A4:3A:69		Vers Inc
 A4:3B:0E		Huawei Device Co., Ltd.
 A4:3B:FA		IEEE Registration Authority
@@ -50785,6 +50791,7 @@ D8:80:DC		Huawei Device Co., Ltd.
 D8:81:CE		Ahn Inc.
 D8:83:32		TaiXin Semiconductor Co., Ltd
 D8:84:66		Extreme Networks Headquarters
+D8:85:AC		Espressif Inc.
 D8:86:0B		IEEE Registration Authority
 D8:86:0B:00:00:00/28	Inspur Group Co., Ltd.
 D8:86:0B:10:00:00/28	Krspace
@@ -51513,14 +51520,17 @@ E0:22:A1		AltoBeam Inc.
 E0:23:3B		IEEE Registration Authority
 E0:23:3B:00:00:00/28	Quality Pay Systems S.L.
 E0:23:3B:10:00:00/28	Elvys s.r.o
+E0:23:3B:20:00:00/28	PluralFusion INC
 E0:23:3B:30:00:00/28	356 Productions
 E0:23:3B:40:00:00/28	The KIE
 E0:23:3B:50:00:00/28	Iofac
 E0:23:3B:60:00:00/28	Kiwimoore(Shanghai) Semiconductor Co.,Ltd
 E0:23:3B:70:00:00/28	Rehear Audiology Company LTD.
 E0:23:3B:80:00:00/28	Suzhou Visrgb Technology Co., Ltd
+E0:23:3B:90:00:00/28	Hanet Technology
 E0:23:3B:A0:00:00/28	ShenZhen Chainway Information Technology Co., Ltd.
 E0:23:3B:B0:00:00/28	Shenzhen C & D Electronics Co., Ltd.
+E0:23:3B:C0:00:00/28	Chengdu ChengFeng   Technology co,. Ltd.
 E0:23:3B:D0:00:00/28	Magosys Systems LTD
 E0:23:D7		Sleep Number
 E0:23:FF		Fortinet, Inc.
