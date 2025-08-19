@@ -26450,6 +26450,7 @@
 48:08:EB		IEEE Registration Authority
 48:08:EB:00:00:00/28	Eloc8 Sro
 48:08:EB:20:00:00/28	Guangdong Three Link Technology Co., Ltd
+48:08:EB:40:00:00/28	Quanta Storage Inc.
 48:0B:B2		IEEE Registration Authority
 48:0B:B2:00:00:00/28	Ridango AS
 48:0B:B2:10:00:00/28	Baja Electronics Technology Limited
