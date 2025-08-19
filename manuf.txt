@@ -26447,6 +26447,7 @@
 48:05:E2		Huawei Device Co., Ltd.
 48:06:2B		Private
 48:06:6A		Tempered Networks, Inc.
+48:08:EB		IEEE Registration Authority
 48:08:EB:00:00:00/28	Eloc8 Sro
 48:08:EB:20:00:00/28	Guangdong Three Link Technology Co., Ltd
 48:0B:B2		IEEE Registration Authority
