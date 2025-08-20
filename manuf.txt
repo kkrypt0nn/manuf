@@ -21888,6 +21888,7 @@
 24:EC:D6		CSG Science & Technology Co.,Ltd.Hefei
 24:ED:FD		Siemens Canada Limited
 24:EE:3A		Chengdu Yingji Electronic Hi-tech Co Ltd
+24:EE:5D		Vizio, Inc
 24:EE:9A		Intel Corporate
 24:EF:B4		Shanghai Neardi Technologies Co. Ltd.
 24:F0:94		Apple, Inc.
@@ -29711,6 +29712,7 @@
 60:C1:CB		Fujian Great Power PLC Equipment Co.,Ltd
 60:C2:2A		Allwinner Technology Co., Ltd
 60:C3:97		2Wire Inc
+60:C4:18		TPV Display Technology (Xiamen) Co.,Ltd.
 60:C5:47		Apple, Inc.
 60:C5:A8		Beijing LT Honway Technology Co.,Ltd
 60:C5:AD		Samsung Electronics Co.,Ltd
