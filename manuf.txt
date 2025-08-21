@@ -15467,7 +15467,6 @@
 00:6A:5E:30:00:00/28	Shenzhen yeahmoo Technology Co., Ltd.
 00:6A:5E:40:00:00/28	Evercomm (Pty) Ltd
 00:6A:5E:50:00:00/28	Rayneo (wuxi) ltd
-00:6A:5E:60:00:00/28	Shenzhen Lightx Technology Co., Ltd
 00:6A:5E:70:00:00/28	Jiangsu Alstom NUG Propulsion System Co., Ltd
 00:6A:5E:80:00:00/28	Hilti Corporation
 00:6A:5E:90:00:00/28	Annapurna labs
@@ -22219,6 +22218,7 @@
 28:B0:CC		Xenya d.o.o.
 28:B1:33		SHINEMAN(SHENZHEN) Tech. Cor., Ltd.
 28:B2:21		Sienda Multimedia Ltd
+28:B2:7C		Sailing Northern Technology
 28:B2:BD		Intel Corporate
 28:B3:71		Ruckus Wireless
 28:B3:AB		Genmark Automation
@@ -26456,6 +26456,9 @@
 48:08:EB:20:00:00/28	Guangdong Three Link Technology Co., Ltd
 48:08:EB:40:00:00/28	Quanta Storage Inc.
 48:08:EB:50:00:00/28	Hangzhou Jianan Technology Co.,Ltd
+48:08:EB:80:00:00/28	Dspread Technology (Beijing) Inc.
+48:08:EB:90:00:00/28	Guangzhou Chuangsou Network Technology Co., Ltd.
+48:08:EB:B0:00:00/28	Eruminc Co.,Ltd.
 48:08:EB:C0:00:00/28	Zhejiang Aike Intelligenttechnology Co.Ltd
 48:08:EB:D0:00:00/28	Silicon Dynamic Networks
 48:0B:B2		IEEE Registration Authority
@@ -38258,6 +38261,7 @@
 84:D8:1B		Tp-Link Technologies Co.,Ltd.
 84:D9:31		Hangzhou H3C Technologies Co., Limited
 84:D9:C8		Unipattern Co.,
+84:D9:E0		eero inc.
 84:DB:2F		Sierra Wireless, ULC
 84:DB:9E		Pink Nectarine Health AB
 84:DB:A4		Huawei Device Co., Ltd.
@@ -47015,6 +47019,7 @@ BC:08:66		Nestle Purina PetCare
 BC:09:1B		Intel Corporate
 BC:09:5C		FiSens GmbH
 BC:09:63		Apple, Inc.
+BC:09:B9		Hui Zhou Gaoshengda Technology Co.,LTD
 BC:09:EB		Tecno Mobile Limited
 BC:0D:A5		Texas Instruments
 BC:0E:AB		Samsung Electronics Co.,Ltd
@@ -47654,6 +47659,7 @@ C0:61:9A:C0:00:00/28	JAM-Labs Corp
 C0:61:9A:D0:00:00/28	Uhnder
 C0:61:9A:E0:00:00/28	Zhejiang Haikang Science And Technology Co.,Ltd
 C0:62:6B		Cisco Systems, Inc
+C0:62:F2		Beijing Cotytech Co.,LTD
 C0:63:69		Binxin Technology(Zhejiang) Ltd.
 C0:63:80		Texas Instruments
 C0:63:94		Apple, Inc.
@@ -55062,6 +55068,7 @@ FC:86:2A		Huawei Device Co., Ltd.
 FC:87:43		Huawei Technologies Co.,Ltd
 FC:8A:3D		zte corporation
 FC:8A:F7		zte corporation
+FC:8B:1F		GUTOR Electronic
 FC:8B:97		Shenzhen Gongjin Electronics Co.,Lt
 FC:8C:11		Microsoft Corporation
 FC:8D:13		Fujian Star-Net Communication Co.,Ltd
