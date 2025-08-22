@@ -19413,6 +19413,7 @@
 10:C2:2F		China Entropy Co., Ltd.
 10:C2:5A		Vantiva USA LLC
 10:C2:BA		UTT Co., Ltd.
+10:C3:4D		Shenzhen Water World Co.,Ltd.
 10:C3:7B		ASUSTek COMPUTER INC.
 10:C3:AB		Huawei Technologies Co.,Ltd
 10:C4:CA		HUMAX Co., Ltd.
@@ -26433,6 +26434,7 @@
 44:F4:E7		Cohesity Inc
 44:F5:3E		Earda Technologies co Ltd
 44:F7:70		Beijing Xiaomi Mobile Software Co., Ltd
+44:F7:9F		Cloud Network Technology Singapore Pte. Ltd.
 44:F8:49		Union Pacific Railroad
 44:F9:71		Shenzhen Mercury Communication Technologies Co.,Ltd.
 44:FA:66		Cloud Network Technology Singapore Pte. Ltd.
@@ -30888,6 +30890,7 @@
 6C:44:2A		Huawei Technologies Co.,Ltd
 6C:45:98		Antex Electronic Corp.
 6C:45:C4		Cloudflare, Inc.
+6C:47:25		Rochester Network Supply, Inc.
 6C:47:60		Sunitec Enterprise Co.,Ltd
 6C:48:3F		Xiaomi Communications Co Ltd
 6C:48:A6		Fiberhome Telecommunication Technologies Co.,LTD
@@ -38480,6 +38483,7 @@
 88:45:F0		Guangdong Genius Technology Co., Ltd.
 88:46:04		Xiaomi Communications Co Ltd
 88:46:2A		Telechips Inc.
+88:49:2D		Shenzhen Bilian Electronic Co.，Ltd
 88:4A:18		Opulinks
 88:4A:70		Wacom Co.,Ltd.
 88:4A:EA		Texas Instruments
@@ -38971,6 +38975,7 @@
 8C:1F:64:02:00:00/36	Utthunga Techologies Pvt Ltd
 8C:1F:64:02:10:00/36	Savant Group
 8C:1F:64:02:20:00/36	Telica Telecom Private Limited
+8C:1F:64:02:30:00/36	Omnilink Tecnologia S/A
 8C:1F:64:02:40:00/36	Shin Nihon Denshi Co., Ltd.
 8C:1F:64:02:50:00/36	SMITEC S.p.A.
 8C:1F:64:02:80:00/36	eyrise B.V.
@@ -45750,6 +45755,7 @@ B0:27:CF		Extreme Networks Headquarters
 B0:28:5B		JUHUA Technology Inc.
 B0:2A:1F		Wingtech Group (HongKong）Limited
 B0:2A:43		Google, Inc.
+B0:2E:BA		Earda Technologies co Ltd
 B0:2E:E0		Huawei Device Co., Ltd.
 B0:30:55		China Mobile IOT Company Limited
 B0:30:C8		Teal Drones, Inc.
