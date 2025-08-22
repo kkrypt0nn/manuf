@@ -20144,6 +20144,7 @@
 18:68:6A		zte corporation
 18:68:82		Beward R&D Co., Ltd.
 18:68:CB		Hangzhou Hikvision Digital Technology Co.,Ltd.
+18:69:0A		Silicon Laboratories
 18:69:D4		Samsung Electronics Co.,Ltd
 18:69:D8		Tuya Smart Inc.
 18:69:DA		China Mobile Group Device Co.,Ltd.
@@ -26463,6 +26464,7 @@
 48:08:EB:20:00:00/28	Guangdong Three Link Technology Co., Ltd
 48:08:EB:40:00:00/28	Quanta Storage Inc.
 48:08:EB:50:00:00/28	Hangzhou Jianan Technology Co.,Ltd
+48:08:EB:60:00:00/28	Aureka, Inc.
 48:08:EB:80:00:00/28	Dspread Technology (Beijing) Inc.
 48:08:EB:90:00:00/28	Guangzhou Chuangsou Network Technology Co., Ltd.
 48:08:EB:A0:00:00/28	Yeacode (Xiamen) Inkjet Inc.
@@ -35952,6 +35954,7 @@
 74:50:4E		New H3C Technologies Co., Ltd
 74:50:CD		Huawei Technologies Co.,Ltd
 74:51:BA		Xiaomi Communications Co Ltd
+74:52:CE		Hengtai Intelligent Technology (Zhongshan) Co., LTD
 74:53:27		Commsen Co., Limited
 74:53:A8		ACL Airshop BV
 74:54:27		Shenzhen Fast Technologies Co.,Ltd
@@ -39920,6 +39923,7 @@
 8C:1F:64:69:70:00/36	Sontay Ltd.
 8C:1F:64:69:80:00/36	Arcus-EDS GmbH
 8C:1F:64:69:90:00/36	FIDICA GmbH & Co. KG
+8C:1F:64:69:D0:00/36	Bots Unlimited LLC
 8C:1F:64:69:E0:00/36	AT-Automation Technology GmbH
 8C:1F:64:69:F0:00/36	Insightec
 8C:1F:64:6A:00:00/36	Avionica
@@ -40964,6 +40968,7 @@
 8C:1F:64:D9:D0:00/36	Mitsubishi Heavy Industries Thermal Systems, Ltd.
 8C:1F:64:D9:E0:00/36	Wagner Group GmbH
 8C:1F:64:DA:10:00/36	Hangteng (HK) Technology Co., Limited
+8C:1F:64:DA:40:00/36	Foenix Coding Ltd
 8C:1F:64:DA:50:00/36	Daom
 8C:1F:64:DA:60:00/36	Power Electronics Espana, S.L.
 8C:1F:64:DA:A0:00/36	Davetech Limited
@@ -44520,6 +44525,7 @@ A4:63:A1		Inventus Power Eletronica do Brasil LTDA
 A4:67:06		Apple, Inc.
 A4:68:BC		Oakley Inc.
 A4:6B:1F		eero inc.
+A4:6B:40		China Dragon Technology Limited
 A4:6B:B6		Intel Corporate
 A4:6C:24		Huawei Technologies Co.,Ltd
 A4:6C:2A		Cisco Systems, Inc
@@ -53491,6 +53497,7 @@ F0:42:1C		Intel Corporate
 F0:42:F5		Huawei Device Co., Ltd.
 F0:43:35		DVN(Shanghai)Ltd.
 F0:43:47		Huawei Technologies Co.,Ltd
+F0:44:D3		Silicon Laboratories
 F0:45:DA		Texas Instruments
 F0:46:3B		Comcast Cable Corporation
 F0:4A:02		Cisco Systems, Inc
