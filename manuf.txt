@@ -19131,6 +19131,7 @@
 10:29:59		Apple, Inc.
 10:29:AB		Samsung Electronics Co.,Ltd
 10:2A:B3		Xiaomi Communications Co Ltd
+10:2B:1C		Motorola Mobility LLC, a Lenovo Company
 10:2B:41		Samsung Electronics Co.,Ltd
 10:2B:AA		Sagemcom Broadband SAS
 10:2C:6B		AMPAK Technology, Inc.
@@ -21141,6 +21142,7 @@
 20:35:43		Sagemcom Broadband SAS
 20:36:26		TP-Link Systems Inc
 20:36:5B		Megafone Limited
+20:36:D0		Motorola Mobility LLC, a Lenovo Company
 20:36:D7		Shanghai Reacheng  Communication Technology Co.,Ltd
 20:37:06		Cisco Systems, Inc
 20:37:A5		Apple, Inc.
@@ -21912,6 +21914,7 @@
 24:F6:03		Huawei Technologies Co.,Ltd
 24:F6:77		Apple, Inc.
 24:F6:8D		Nokia
+24:FA:D4		ShenZhen More Star Technology Co.,LTD
 24:FA:F3		Shanghai Flexem Technology Co.,Ltd.
 24:FB:65		Huawei Technologies Co.,Ltd
 24:FB:E3		HP Inc.
@@ -37563,6 +37566,7 @@
 80:48:9F		Hangzhou Hikvision Digital Technology Co.,Ltd.
 80:48:A5		Sichuan Tianyi Comheart Telecom Co.,LTD
 80:49:71		Apple, Inc.
+80:49:BF		Taicang T&W Electronics
 80:4A:14		Apple, Inc.
 80:4A:F2		Sonos, Inc.
 80:4B:20		Ventilation Control
