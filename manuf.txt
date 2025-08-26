@@ -19403,6 +19403,7 @@
 10:BC:97		vivo Mobile Communication Co., Ltd.
 10:BD:18		Cisco Systems, Inc
 10:BD:3A		Apple, Inc.
+10:BD:43		Robert Bosch Elektronikai Kft.
 10:BD:55		Q-Lab Corporation
 10:BE:99		Netberg
 10:BE:F5		D-Link International
@@ -26472,6 +26473,7 @@
 48:08:EB:40:00:00/28	Quanta Storage Inc.
 48:08:EB:50:00:00/28	Hangzhou Jianan Technology Co.,Ltd
 48:08:EB:60:00:00/28	Aureka, Inc.
+48:08:EB:70:00:00/28	Shenzhen Electron Technology Co., LTD.
 48:08:EB:80:00:00/28	Dspread Technology (Beijing) Inc.
 48:08:EB:90:00:00/28	Guangzhou Chuangsou Network Technology Co., Ltd.
 48:08:EB:A0:00:00/28	Yeacode (Xiamen) Inkjet Inc.
@@ -47585,6 +47587,7 @@ C0:2C:7A		Shenzhen Horn Audio Co.,Ltd.
 C0:2C:ED		Silicon Laboratories
 C0:2D:2E		China Mobile Group Device Co.,Ltd.
 C0:2D:EE		Cuff
+C0:2E:1D		Nokia Solutions and Networks GmbH & Co. KG
 C0:2E:25		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 C0:2E:26		iRhythm Technologies, Inc.
 C0:2F:F1		Volta Networks
