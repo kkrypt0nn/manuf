@@ -26480,6 +26480,7 @@
 48:08:EB:B0:00:00/28	Eruminc Co.,Ltd.
 48:08:EB:C0:00:00/28	Zhejiang Aike Intelligenttechnology Co.Ltd
 48:08:EB:D0:00:00/28	Silicon Dynamic Networks
+48:08:EB:E0:00:00/28	uniline energy systems pvt ltd
 48:0B:B2		IEEE Registration Authority
 48:0B:B2:00:00:00/28	Ridango AS
 48:0B:B2:10:00:00/28	Baja Electronics Technology Limited
@@ -27968,6 +27969,11 @@
 50:F9:58		Huawei Device Co., Ltd.
 50:FA:84		Tp-Link Technologies Co.,Ltd.
 50:FA:AB		L-tek d.o.o.
+50:FA:CB		IEEE Registration Authority
+50:FA:CB:30:00:00/28	Huaihua Jiannan Electronic Technology Co.,Ltd.
+50:FA:CB:70:00:00/28	Zenopix Teknoloji San Ve Tic Ltd Sti
+50:FA:CB:90:00:00/28	Bosch Security Systems
+50:FA:CB:C0:00:00/28	The Scotts Company
 50:FB:19		Chipsea Technologies (Shenzhen) Corp.
 50:FC:30		Treehouse Labs
 50:FC:9F		Samsung Electronics Co.,Ltd
@@ -29254,6 +29260,7 @@
 5C:BD:9E		Hongkong Miracle Eagle Technology(Group) Limited
 5C:BE:05		Ispec
 5C:BE:69		Oraimo Technology Limited
+5C:BF:03		Emoco Labs Ab
 5C:C0:A0		Huawei Technologies Co.,Ltd
 5C:C1:D7		Samsung Electronics Co.,Ltd
 5C:C1:F2		Huawei Technologies Co.,Ltd
@@ -37110,6 +37117,7 @@
 7C:6B:F7		NTI co., ltd.
 7C:6C:39		Pixsys Srl
 7C:6C:8F		Ams Neve Ltd
+7C:6C:E1		Shenzhen Honesty Electronics Co.,Ltd.
 7C:6C:F0		Shenzhen TINNO Mobile Technology Corp.
 7C:6D:62		Apple, Inc.
 7C:6D:A6		Superwave Group LLC
@@ -39470,6 +39478,7 @@
 8C:1F:64:37:60:00/36	DIAS Infrared GmbH
 8C:1F:64:37:70:00/36	Solotech
 8C:1F:64:37:80:00/36	spar Power Technologies Inc.
+8C:1F:64:37:A0:00/36	Getqcall
 8C:1F:64:37:B0:00/36	Mitsubishi Electric India Pvt. Ltd.
 8C:1F:64:37:C0:00/36	Moiz
 8C:1F:64:37:D0:00/36	Season Electronics Ltd
@@ -39984,6 +39993,7 @@
 8C:1F:64:6E:30:00/36	ViewSonic International Corporation
 8C:1F:64:6E:40:00/36	RAB Microfluidics R&D Company Ltd
 8C:1F:64:6E:70:00/36	WiTricity Corporation
+8C:1F:64:6E:80:00/36	Combined Public Communications, LLC
 8C:1F:64:6E:90:00/36	SHENZHEN sunforest Co.LTD
 8C:1F:64:6E:A0:00/36	KMtronic ltd
 8C:1F:64:6E:B0:00/36	Enless Wireless
@@ -40500,6 +40510,7 @@
 8C:1F:64:A5:F0:00/36	Wattson Audio SA
 8C:1F:64:A6:00:00/36	Active Optical Systems, LLC
 8C:1F:64:A6:10:00/36	Breas Medical AB
+8C:1F:64:A6:40:00/36	Vigor Electric Corp.
 8C:1F:64:A6:70:00/36	Electrovymir LLC
 8C:1F:64:A6:A0:00/36	Sphere Com Services Pvt Ltd
 8C:1F:64:A6:D0:00/36	CyberneX Co., Ltd
@@ -40616,6 +40627,7 @@
 8C:1F:64:B2:D0:00/36	wonder meditec
 8C:1F:64:B2:F0:00/36	Mtechnology - Gamma Commerciale Srl
 8C:1F:64:B3:20:00/36	Plug Power
+8C:1F:64:B3:50:00/36	RADA Electronics Industries Ltd.
 8C:1F:64:B3:60:00/36	Pneumax Spa
 8C:1F:64:B3:70:00/36	Flextronics International Kft
 8C:1F:64:B3:A0:00/36	dream DNS
@@ -41141,6 +41153,7 @@
 8C:1F:64:EB:E0:00/36	Trafag Italia S.r.l.
 8C:1F:64:EB:F0:00/36	STEAMIQ, Inc.
 8C:1F:64:EC:10:00/36	Actronika SAS
+8C:1F:64:EC:20:00/36	Harbin Digital Economy Development Co.,Ltd
 8C:1F:64:EC:C0:00/36	Baldwin Jimek AB
 8C:1F:64:EC:F0:00/36	Monnit Corporation
 8C:1F:64:ED:00:00/36	Shanghai Jupper Technology Co.Ltd
@@ -46933,6 +46946,7 @@ B8:CB:93		Ic Boss.Com Tech Inc
 B8:CC:5F		Shenzhen iComm Semiconductor CO.,LTD
 B8:CD:93		Penetek, Inc
 B8:CD:A7		Maxeler Technologies Ltd.
+B8:CE:ED		Broadcom
 B8:CE:F6		Mellanox Technologies, Inc.
 B8:D0:6F		Guangzhou Hkust Fok Ying Tung Research Institute
 B8:D0:F0		Fcnt Llc
@@ -47307,6 +47321,7 @@ BC:85:29		Jiangxi Remote lntelligence Technology Co.,Ltd
 BC:85:56		Hon Hai Precision Ind. Co.,Ltd.
 BC:85:D0		Sky Uk Limited
 BC:86:A5		Cambridge Mobile Telematics, Inc.
+BC:87:53		Sera Network Inc.
 BC:87:FA		Bose Corporation
 BC:88:93		VILLBAU Ltd.
 BC:88:C3		Ningbo Dooya Mechanic & Electronic Technology Co., Ltd
