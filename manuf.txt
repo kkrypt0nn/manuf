@@ -31150,6 +31150,7 @@
 6C:D7:1F		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 6C:D7:A0		WIKO Terminal Technology (Dongguan) Co., Ltd.
 6C:D8:69		Guangzhou Sat Infrared Co.,LTD
+6C:D8:FB		Qorvo Utrecht B.V.
 6C:D9:4C		vivo Mobile Communication Co., Ltd.
 6C:DC:6A		Promethean Limited
 6C:DD:30		Cisco Systems, Inc
