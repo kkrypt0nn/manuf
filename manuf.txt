@@ -27974,10 +27974,14 @@
 50:FA:AB		L-tek d.o.o.
 50:FA:CB		IEEE Registration Authority
 50:FA:CB:00:00:00/28	todoc
+50:FA:CB:20:00:00/28	Kyocera AVX Components (Timisoara) SRL
 50:FA:CB:30:00:00/28	Huaihua Jiannan Electronic Technology Co.,Ltd.
+50:FA:CB:40:00:00/28	Darveen Technology Limited
 50:FA:CB:50:00:00/28	Shenzhen Hill Technology Co., LTD.
 50:FA:CB:70:00:00/28	Zenopix Teknoloji San Ve Tic Ltd Sti
 50:FA:CB:90:00:00/28	Bosch Security Systems
+50:FA:CB:A0:00:00/28	Varex Imaging Finland
+50:FA:CB:B0:00:00/28	Combined Public Communications, LLC
 50:FA:CB:C0:00:00/28	The Scotts Company
 50:FB:19		Chipsea Technologies (Shenzhen) Corp.
 50:FC:30		Treehouse Labs
@@ -35928,6 +35932,7 @@
 74:30:AF		Fiberhome Telecommunication Technologies Co.,LTD
 74:31:70		Arcadyan Technology Corporation
 74:31:74		Apple, Inc.
+74:31:7E		Ruckus Wireless
 74:32:56		NT-ware Systemprg GmbH
 74:32:C2		Kyolis
 74:33:57		vivo Mobile Communication Co., Ltd.
@@ -39267,6 +39272,7 @@
 8C:1F:64:1F:50:00/36	NanoThings Inc.
 8C:1F:64:1F:70:00/36	Sicon srl
 8C:1F:64:1F:90:00/36	TelecomWadi
+8C:1F:64:1F:A0:00/36	YDIIT Co., Ltd.
 8C:1F:64:1F:C0:00/36	Yu Heng Electric CO. TD
 8C:1F:64:1F:E0:00/36	Burk Technology
 8C:1F:64:20:10:00/36	Hiwin Mikrosystem Corp.
@@ -39628,6 +39634,7 @@
 8C:1F:64:46:50:00/36	Ixorigue Technologies Sl
 8C:1F:64:46:60:00/36	Intamsys Technology Co.Ltd
 8C:1F:64:46:A0:00/36	Pharsighted LLC
+8C:1F:64:46:D0:00/36	MB connect line GmbH
 8C:1F:64:47:00:00/36	Canfield Scientific Inc
 8C:1F:64:47:20:00/36	Surge Networks, Inc.
 8C:1F:64:47:30:00/36	Plum sp. z.o.o.
@@ -40292,6 +40299,7 @@
 8C:1F:64:8C:F0:00/36	Diffraction Limited
 8C:1F:64:8D:00:00/36	Enerthing GmbH
 8C:1F:64:8D:10:00/36	Orlaco Products B.V.
+8C:1F:64:8D:20:00/36	Sonic Italia
 8C:1F:64:8D:40:00/36	Recab Sweden AB
 8C:1F:64:8D:50:00/36	Agramkow A/S
 8C:1F:64:8D:60:00/36	ADC Global Technology Sdn Bhd
@@ -40830,6 +40838,7 @@
 8C:1F:64:C6:B0:00/36	Mediana
 8C:1F:64:C6:D0:00/36	EA Elektro-Automatik GmbH
 8C:1F:64:C6:E0:00/36	Safe Instruments
+8C:1F:64:C6:F0:00/36	Luneau Technology Operations
 8C:1F:64:C7:10:00/36	Yaviar LLC
 8C:1F:64:C7:40:00/36	Nippon Techno Lab Inc
 8C:1F:64:C7:50:00/36	Abbott Diagnostics Technologies AS
@@ -45962,6 +45971,7 @@ B0:96:6C		Lanbowan Technology Ltd.
 B0:96:EA		GD Midea Air-Conditioning Equipment Co.,Ltd.
 B0:97:38		Shenzhen Skyworth Digital  Technology  CO., Ltd
 B0:97:3A		E-Fuel Corporation
+B0:97:E6		Fujian Fucan Wecon Co Ltd
 B0:98:2B		Sagemcom Broadband SAS
 B0:98:9F		Lg Cns
 B0:98:BC		Huawei Device Co., Ltd.
@@ -48472,6 +48482,7 @@ C4:D3:6A		Texas Instruments
 C4:D4:38		Huawei Technologies Co.,Ltd
 C4:D4:89		JiangSu Joyque Information Industry Co.,Ltd
 C4:D4:96		Shenzhen Excelsecu Data Technology Co.,Ltd
+C4:D4:D0		Shenzhen Tecno Technology
 C4:D6:55		Tercel technology co.,ltd
 C4:D6:66		Cisco Meraki
 C4:D6:D3		Dell Inc.
