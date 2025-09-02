@@ -2815,7 +2815,7 @@
 00:0B:0C		Agile Systems Inc.
 00:0B:0D		Air2U, Inc.
 00:0B:0E		Trapeze Networks
-00:0B:0F		Bosch Rexroth
+00:0B:0F		Bosch Rexroth AG
 00:0B:10		11wave Technonlogy Co.,Ltd
 00:0B:11		Himeji Abc Trading Co.,Ltd.
 00:0B:12		NURI Telecom Co., Ltd.
@@ -7029,7 +7029,7 @@
 00:1B:82		Taiwan Semiconductor Co., Ltd.
 00:1B:83		Finsoft Ltd
 00:1B:84		Scan Engineering Telecom
-00:1B:85		MAN Energy Solutions
+00:1B:85		Everllence
 00:1B:86		Bosch Access Systems GmbH
 00:1B:87		Deepsound Tech. Co., Ltd
 00:1B:88		Divinet Access Technologies Ltd
@@ -27975,12 +27975,14 @@
 50:FA:AB		L-tek d.o.o.
 50:FA:CB		IEEE Registration Authority
 50:FA:CB:00:00:00/28	todoc
+50:FA:CB:10:00:00/28	Shenzhen Evertones Quantum Technology Co., Ltd.
 50:FA:CB:20:00:00/28	Kyocera AVX Components (Timisoara) SRL
 50:FA:CB:30:00:00/28	Huaihua Jiannan Electronic Technology Co.,Ltd.
 50:FA:CB:40:00:00/28	Darveen Technology Limited
 50:FA:CB:50:00:00/28	Shenzhen Hill Technology Co., LTD.
 50:FA:CB:60:00:00/28	1208815047
 50:FA:CB:70:00:00/28	Zenopix Teknoloji San Ve Tic Ltd Sti
+50:FA:CB:80:00:00/28	VeriFone Systems(China),Inc
 50:FA:CB:90:00:00/28	Bosch Security Systems
 50:FA:CB:A0:00:00/28	Varex Imaging Finland
 50:FA:CB:B0:00:00/28	Combined Public Communications, LLC
@@ -29570,6 +29572,7 @@
 60:5B:30		Dell Inc.
 60:5B:B4		AzureWave Technology Inc.
 60:5E:4F		Huawei Device Co., Ltd.
+60:5E:65		Mellanox Technologies, Inc.
 60:5F:8D		eero inc.
 60:5F:AA		Huawei Device Co., Ltd.
 60:60:1F		Sz Dji Technology Co.,Ltd
@@ -46401,6 +46404,7 @@ B4:59:76		Apple, Inc.
 B4:5B:86		Funshion Online Technologies Co.,Ltd
 B4:5B:D1		TP-Link Systems Inc.
 B4:5C:A4		Thing-talk Wireless Communication Technologies Corporation Limited
+B4:5C:B5		Mellanox Technologies, Inc.
 B4:5D:50		Hewlett Packard Enterprise
 B4:5F:84		zte corporation
 B4:60:77		Sichuan Changhong Electric Ltd.
