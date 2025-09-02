@@ -63,13 +63,32 @@ def main() -> None:
     for url in urls:
         csv_content = get_csv(url)
         reader = csv.reader(csv_content.splitlines())
-        next(reader)  # We ignore the title row
-        for row in reader:
+        header = next(reader)  # We ignore the title row
+        if len(header) != 4:
+            raise ValueError(f"Unexpected CSV header format in {url}: {header}")
+
+        for row_num, row in enumerate(reader, start=2):
+            if len(row) != 4:
+                raise ValueError(
+                    f"Unexpected row format in {url} at line {row_num}: {row}"
+                )
+
+            assignment = row[1].upper().strip()
+            if not assignment.isalnum() or len(assignment) not in (6, 7, 9):
+                raise ValueError(
+                    f"Invalid assignment format in {url} at line {row_num}: {assignment}"
+                )
             # Row format: Registry,Assignment,Organization Name,Organization Address
             # We only need the Assignment && Organization Name
-            prefix = assignment_to_prefix(row[1].upper())
-            manufacturer = format_manufacturer(row[2])
-            content[prefix] = manufacturer
+            try:
+                prefix = assignment_to_prefix(assignment)
+                manufacturer = format_manufacturer(row[2])
+                content[prefix] = manufacturer
+            except Exception as e:
+                raise RuntimeError(
+                    f"Failed to process row in {url} at line {row_num}: {e}"
+                )
+
     keys = list(content.keys())
     keys.sort()
     sorted_content = {i: content[i] for i in keys}
