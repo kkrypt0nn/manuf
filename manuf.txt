@@ -20303,6 +20303,7 @@
 18:AF:8F		Apple, Inc.
 18:AF:9F		DIGITRONIC Automationsanlagen GmbH
 18:AF:A1		Shenzhen Yifang Network Technology Co., Ltd.
+18:B0:A4		zte corporation
 18:B1:69		Sonicwall
 18:B1:85		Qiao Information Technology (Zhengzhou) Co., Ltd.
 18:B2:09		Torrey Pines Logic, Inc
@@ -25205,6 +25206,7 @@
 40:50:E0		Milton Security Group LLC
 40:51:6C		Grandex International Corporation
 40:52:0D		Pico Technology
+40:54:93		zte corporation
 40:54:E4		Wearsafe Labs Inc
 40:55:39		Cisco Systems, Inc
 40:55:48		Quectel Wireless Solutions Co.,Ltd.
@@ -30364,7 +30366,7 @@
 68:1A:B2		zte corporation
 68:1B:EF		Huawei Technologies Co.,Ltd
 68:1C:A2		Rosewill Inc.
-68:1D:4C		eSystems MTG GmbH
+68:1D:4C		Kontron eSystems GmbH
 68:1D:64		Sunwave Communications Co., Ltd
 68:1D:EF		Shenzhen CYX Technology Co., Ltd.
 68:1E:8B		InfoSight Corporation
@@ -39094,6 +39096,7 @@
 8C:1F:64:09:E0:00/36	IWS Global Pty Ltd
 8C:1F:64:09:F0:00/36	MB connect line GmbH Fernwartungssysteme
 8C:1F:64:0A:00:00/36	Techniwave
+8C:1F:64:0A:20:00/36	Best
 8C:1F:64:0A:40:00/36	Dynamic Research, Inc.
 8C:1F:64:0A:50:00/36	Gomero Nordic AB
 8C:1F:64:0A:80:00/36	SamabaNova Systems
@@ -39127,6 +39130,7 @@
 8C:1F:64:0D:80:00/36	Power Electronics Espana, S.L.
 8C:1F:64:0D:F0:00/36	Leidos
 8C:1F:64:0E:00:00/36	Autopharma
+8C:1F:64:0E:30:00/36	JISEONGENG Co,.LTD
 8C:1F:64:0E:50:00/36	Rugged Science
 8C:1F:64:0E:60:00/36	Cleanwatts Digital, S.A.
 8C:1F:64:0E:A0:00/36	SmartSky Networks LLC
@@ -39960,6 +39964,7 @@
 8C:1F:64:68:50:00/36	Sanchar Wireless Communications Ltd
 8C:1F:64:68:60:00/36	Pazzk
 8C:1F:64:68:70:00/36	Lamontec
+8C:1F:64:68:90:00/36	Aureka Smart Living W.L.L
 8C:1F:64:68:C0:00/36	GuangZhou HOKO Electric CO.,LTD
 8C:1F:64:68:E0:00/36	Oriental Electronics, Inc.
 8C:1F:64:69:00:00/36	Potter Electric Signal Co. LLC
@@ -40227,6 +40232,7 @@
 8C:1F:64:83:D0:00/36	L-signature
 8C:1F:64:83:E0:00/36	Sicon srl
 8C:1F:64:84:20:00/36	Potter Electric Signal Co. LLC
+8C:1F:64:84:30:00/36	Image Soft Oy
 8C:1F:64:84:60:00/36	Fo Xie Optoelectronics Technology Co., Ltd
 8C:1F:64:84:80:00/36	Jena-Optronik GmbH
 8C:1F:64:84:90:00/36	Talleres de Escoriaza SAU
@@ -40906,6 +40912,7 @@
 8C:1F:64:CD:30:00/36	Pionierkraft GmbH
 8C:1F:64:CD:40:00/36	Shengli Technologies
 8C:1F:64:CD:60:00/36	USM Pty Ltd
+8C:1F:64:CD:70:00/36	Embedded Designs Services India Pvt Ltd
 8C:1F:64:CD:80:00/36	Gogo Business Aviation
 8C:1F:64:CD:90:00/36	Fingoti Limited
 8C:1F:64:CD:A0:00/36	SPX Flow Technology BV
@@ -42348,6 +42355,7 @@
 90:FD:61		Apple, Inc.
 90:FD:73		zte corporation
 90:FD:9F		Silicon Laboratories
+90:FE:E2		Isif
 90:FF:79		Metro Ethernet Forum
 90:FF:D6		Honor Device Co., Ltd.
 94:00:06		jinyoung
@@ -43758,6 +43766,10 @@
 9C:E3:30		Cisco Meraki
 9C:E3:3F		Apple, Inc.
 9C:E3:74		Huawei Technologies Co.,Ltd
+9C:E4:50:60:00:00/28	Shenzhen GW Technology Co., LTD
+9C:E4:50:80:00:00/28	ROHOTEK(shenzhen) Technology co., LTD
+9C:E4:50:A0:00:00/28	Auo Display Plus Corporation
+9C:E4:50:C0:00:00/28	XTX Markets Technologies Limited
 9C:E5:49		IEEE Registration Authority
 9C:E5:49:00:00:00/28	Speedtech Corp.
 9C:E5:49:10:00:00/28	Lightmatter, Inc.
@@ -46790,6 +46802,7 @@ B8:4F:D5		Microsoft Corporation
 B8:50:01		Extreme Networks Headquarters
 B8:50:D8		Beijing Xiaomi Mobile Software Co., Ltd
 B8:51:A9		Nokia
+B8:52:13		zte corporation
 B8:52:E0		Beijing Xiaomi Electronics Co.,Ltd
 B8:53:AC		Apple, Inc.
 B8:55:10		Zioncom Electronics (Shenzhen) Ltd.
@@ -48821,6 +48834,7 @@ C8:6C:1E		Display Systems Ltd
 C8:6C:20		Sichuan Tianyi Comheart Telecom Co.,LTD
 C8:6C:3D		Amazon Technologies Inc.
 C8:6C:87		Zyxel Communications Corporation
+C8:6C:9A		SNUC System
 C8:6C:B6		Optcom Co., Ltd.
 C8:6E:08		Intel Corporate
 C8:6F:1D		Apple, Inc.
@@ -50209,6 +50223,7 @@ D4:0A:A9		Commscope
 D4:0A:DC		Qingdao Intelligent&Precise Electronics Co.,Ltd.
 D4:0B:1A		HTC Corporation
 D4:0B:B9		Solid Semecs bv.
+D4:0D:AB		Shenzhen Cudy Technology Co., Ltd.
 D4:0E:60		Nanjing phx-gctech Information Technology Co., Ltd
 D4:0F:9E		Apple, Inc.
 D4:0F:B2		Applied Micro Electronics AME bv
@@ -53210,7 +53225,7 @@ EC:94:68		Meta System Spa
 EC:94:CB		Espressif Inc.
 EC:94:D5		Juniper Networks
 EC:96:81		2276427 Ontario Inc
-EC:96:BF		eSystems MTG GmbH
+EC:96:BF		Kontron eSystems GmbH
 EC:97:A2		Apple, Inc.
 EC:97:B2		SUMEC Machinery & Electric Co.,Ltd.
 EC:97:E0		Hangzhou Ezviz Software Co.,Ltd.
@@ -54222,6 +54237,7 @@ F4:97:9D:40:00:00/28	Merry Electronics Co., Ltd.
 F4:97:9D:50:00:00/28	Warner Technology Corp
 F4:97:9D:60:00:00/28	camnex innovation pvt ltd
 F4:97:9D:70:00:00/28	Luxshare - Ict(Nghe An) Limited
+F4:97:9D:80:00:00/28	Smart Access Designs, LLC
 F4:97:9D:90:00:00/28	Beijing Jiaxin Technology Co., Ltd
 F4:97:9D:A0:00:00/28	MARKT Co., Ltd
 F4:97:9D:B0:00:00/28	Kaiware (Shenzhen) Technologies Co.,Ltd
