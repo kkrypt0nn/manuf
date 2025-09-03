@@ -27987,6 +27987,7 @@
 50:FA:CB:A0:00:00/28	Varex Imaging Finland
 50:FA:CB:B0:00:00/28	Combined Public Communications, LLC
 50:FA:CB:C0:00:00/28	The Scotts Company
+50:FA:CB:D0:00:00/28	Vortex Infotech Private Limited
 50:FA:CB:E0:00:00/28	Advant sp. z o.o.
 50:FB:19		Chipsea Technologies (Shenzhen) Corp.
 50:FC:30		Treehouse Labs
@@ -40774,6 +40775,7 @@
 8C:1F:64:BF:40:00/36	Fluid Components Intl
 8C:1F:64:BF:50:00/36	The Urban Jungle Project
 8C:1F:64:BF:60:00/36	Panoramic Power
+8C:1F:64:BF:70:00/36	Intellicon Private Limited
 8C:1F:64:BF:80:00/36	Cdsi
 8C:1F:64:BF:B0:00/36	TechArgos
 8C:1F:64:BF:C0:00/36	ASiS Technologies Pte Ltd
@@ -41095,6 +41097,7 @@
 8C:1F:64:E2:10:00/36	LG-LHT Aircraft Solutions GmbH
 8C:1F:64:E2:30:00/36	Chemito Infotech PVT LTD
 8C:1F:64:E2:40:00/36	Cometa Sas
+8C:1F:64:E2:60:00/36	HyperSilicon Co.,Ltd
 8C:1F:64:E2:B0:00/36	Glotech Exim Private Limited
 8C:1F:64:E2:D0:00/36	RADA Electronics Industries Ltd.
 8C:1F:64:E2:E0:00/36	RADA Electronics Industries Ltd.
@@ -42040,6 +42043,7 @@
 90:6F:A9		Nanjing Putian Telecommunications Technology Co.,Ltd.
 90:70:25		Garea Microsys Co.,Ltd.
 90:70:65		Texas Instruments
+90:70:69		Espressif Inc.
 90:70:BF		Mimosa Networks
 90:70:D3		Fiberhome Telecommunication Technologies Co.,LTD
 90:72:40		Apple, Inc.
@@ -44317,6 +44321,7 @@ A0:F4:59		Fn-Link Technology Limited
 A0:F4:79		Huawei Technologies Co.,Ltd
 A0:F5:09		IEI Integration Corp.
 A0:F6:FD		Texas Instruments
+A0:F7:C3		Ficosa Electronics Slu
 A0:F8:49		Cisco Systems, Inc
 A0:F8:95		Shenzhen TINNO Mobile Technology Corp.
 A0:F9:B7		Ademco Smart Homes Technology(Tianjin)Co.,Ltd.
@@ -44838,6 +44843,7 @@ A4:ED:4E		Commscope
 A4:EE:57		Seiko Epson Corporation
 A4:EF:15		AltoBeam (China) Inc.
 A4:EF:52		Telewave Co., Ltd.
+A4:F0:0F		Espressif Inc.
 A4:F0:5E		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 A4:F1:E8		Apple, Inc.
 A4:F3:3B		zte corporation
@@ -50551,6 +50557,7 @@ D4:A4:25		SMAX Technology Co., Ltd.
 D4:A4:99		InView Technology Corporation
 D4:A5:B4		Hengji Jiaye (Hangzhou) Technology Co., Ltd
 D4:A6:51		Tuya Smart Inc.
+D4:A7:EA		Solar76
 D4:A9:23		Huawei Technologies Co.,Ltd
 D4:A9:28		GreenWave Reality Inc
 D4:AA:FF		Micro World
@@ -52704,6 +52711,7 @@ E8:8D:28		Apple, Inc.
 E8:8D:A6		Quectel Wireless Solutions Co.,Ltd.
 E8:8D:F5		ZNYX Networks, Inc.
 E8:8E:60		NSD Corporation
+E8:8F:16		Skullcandy
 E8:8F:6F		TCT mobile ltd
 E8:8F:C4		Mobiwire Mobiles(Ningbo) Co.,Ltd
 E8:91:0F		Fiberhome Telecommunication Technologies Co.,LTD
@@ -52900,6 +52908,7 @@ E8:F2:E3		Starcor Beijing Co.,Limited
 E8:F3:75		Nokia
 E8:F4:08		Intel Corporate
 E8:F4:94		AltoBeam Inc.
+E8:F6:0A		Espressif Inc.
 E8:F6:54		Huawei Technologies Co.,Ltd
 E8:F6:73		Microsoft Corporation
 E8:F7:24		Hewlett Packard Enterprise
@@ -53056,6 +53065,7 @@ EC:46:2C		Infinix mobility limited
 EC:46:44		Ttk Sas
 EC:46:54		Apple, Inc.
 EC:46:70		Meinberg Funkuhren GmbH & Co. KG
+EC:46:84		Microsoft Corporation
 EC:47:0C		Universal Electronics, Inc.
 EC:47:3C		Redwire, LLC
 EC:49:93		Qihan Technology Co., Ltd
