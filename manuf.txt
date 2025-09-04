@@ -43766,6 +43766,7 @@
 9C:E3:30		Cisco Meraki
 9C:E3:3F		Apple, Inc.
 9C:E3:74		Huawei Technologies Co.,Ltd
+9C:E4:50		IEEE Registration Authority
 9C:E4:50:60:00:00/28	Shenzhen GW Technology Co., LTD
 9C:E4:50:80:00:00/28	ROHOTEK(shenzhen) Technology co., LTD
 9C:E4:50:A0:00:00/28	Auo Display Plus Corporation
