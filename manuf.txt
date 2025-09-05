@@ -22561,6 +22561,7 @@
 2C:27:9E:D0:00:00/28	Jiangsu JianHu Science & Technology Co., Ltd.
 2C:27:9E:E0:00:00/28	Amaryllo International Inc.
 2C:27:D7		Hewlett Packard
+2C:27:E4		Luxshare Precision Industry (Xuancheng) Co.,Ltd.
 2C:28:2D		Bbk Educational Electronics Corp.,Ltd.
 2C:28:B7		Hangzhou Ruiying technology co., LTD
 2C:29:97		Microsoft Corporation
@@ -30922,6 +30923,7 @@
 6C:41:6A		Cisco Systems, Inc
 6C:41:DE		Huawei Technologies Co.,Ltd
 6C:42:AB		Subscriber Networks, Inc.
+6C:43:29		Cosmiq Edusnap Private Limited
 6C:43:3C		Tecno Mobile Limited
 6C:44:18		Zappware
 6C:44:2A		Huawei Technologies Co.,Ltd
@@ -39066,6 +39068,7 @@
 8C:1F:64:07:30:00/36	Potter Electric Signal Co. LLC
 8C:1F:64:07:60:00/36	Pack'R
 8C:1F:64:07:70:00/36	Engage Technologies
+8C:1F:64:07:80:00/36	Salience Labs
 8C:1F:64:07:A0:00/36	Flextronics International Kft
 8C:1F:64:07:D0:00/36	Talleres de Escoriaza SAU
 8C:1F:64:07:E0:00/36	FLOYD inc.
@@ -39778,6 +39781,7 @@
 8C:1F:64:54:00:00/36	Enclavamientos y Señalización Ferroviaria Enyse S.A.
 8C:1F:64:54:20:00/36	Landis+Gyr Equipamentos de Medição Ltda
 8C:1F:64:54:40:00/36	Tinkerbee Innovations Private Limited
+8C:1F:64:54:60:00/36	DEUTA Werke GmbH
 8C:1F:64:54:80:00/36	Beijing Congyun Technology Co.,Ltd
 8C:1F:64:54:90:00/36	Brad Technology
 8C:1F:64:54:A0:00/36	Belden India Private Limited
@@ -40436,6 +40440,7 @@
 8C:1F:64:9A:40:00/36	LabLogic Systems
 8C:1F:64:9A:50:00/36	Xi‘an Shengxin Science& Technology Development Co.?Ltd.
 8C:1F:64:9A:60:00/36	Instituto De Gestão, Redes Tecnológicas E Nergias
+8C:1F:64:9A:70:00/36	Nihon Bouhan Camera Inc
 8C:1F:64:9A:90:00/36	Tiama
 8C:1F:64:9A:B0:00/36	Dave Srl
 8C:1F:64:9A:C0:00/36	Hangzhou Jingtang Communication Technology Co.,Ltd.
@@ -43768,6 +43773,7 @@
 9C:E3:3F		Apple, Inc.
 9C:E3:74		Huawei Technologies Co.,Ltd
 9C:E4:50		IEEE Registration Authority
+9C:E4:50:10:00:00/28	Aio Systems
 9C:E4:50:60:00:00/28	Shenzhen GW Technology Co., LTD
 9C:E4:50:80:00:00/28	ROHOTEK(shenzhen) Technology co., LTD
 9C:E4:50:A0:00:00/28	Auo Display Plus Corporation
