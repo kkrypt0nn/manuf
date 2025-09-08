@@ -17332,6 +17332,7 @@
 00:E4:21		Sony Interactive Entertainment Inc.
 00:E5:E4		Sichuan Tianyi Comheart Telecom Co.,LTD
 00:E5:F1		Buffalo.Inc
+00:E6:07		Aurcore Technology Inc.
 00:E6:0E		Extreme Networks Headquarters
 00:E6:3A		Ruckus Wireless
 00:E6:66		ARIMA Communications Corp.
@@ -22996,6 +22997,7 @@
 30:05:3F		JTI Co.,Ltd.
 30:05:5C		Brother industries, LTD.
 30:07:4D		Samsung Electro-Mechanics(Thailand)
+30:07:5C		43403
 30:09:C0		Motorola Mobility LLC, a Lenovo Company
 30:09:F9		IEEE Registration Authority
 30:09:F9:00:00:00/28	Hurray Cloud Technology Co., Ltd.
@@ -26117,6 +26119,7 @@
 44:38:8C		Sumitomo Electric Industries, Ltd
 44:38:E8		Intel Corporate
 44:38:F3		EM Microelectronic
+44:39:AA		G.Tech Technology Ltd.
 44:39:C4		Universal Global Scientific Industrial Co., Ltd.
 44:3B:14		MitraStar Technology Corp.
 44:3B:32		Intelbras
@@ -39381,6 +39384,7 @@
 8C:1F:64:29:70:00/36	IGEMA GmbH
 8C:1F:64:29:80:00/36	Megger Germany GmbH
 8C:1F:64:29:90:00/36	Integer.pl S.A.
+8C:1F:64:29:A0:00/36	Power Electronics Espana, S.L.
 8C:1F:64:29:B0:00/36	TT electronics integrated manufacturing services (Suzhou) Limited
 8C:1F:64:29:D0:00/36	Automata GmbH & Co. KG
 8C:1F:64:29:E0:00/36	AD Parts, S.L.
@@ -39396,6 +39400,7 @@
 8C:1F:64:2A:80:00/36	SHALARM SECURITY Co.,LTD
 8C:1F:64:2A:90:00/36	Elbit Systems of America, LLC
 8C:1F:64:2A:C0:00/36	Dco Systems Ltd
+8C:1F:64:2A:F0:00/36	A-Best Co.,Lid.
 8C:1F:64:2B:10:00/36	U -Mei-Dah Int'L Enterprise Co.,Ltd.
 8C:1F:64:2B:40:00/36	Sonel S.A.
 8C:1F:64:2B:60:00/36	Stercom Power Solutions GmbH
@@ -39577,6 +39582,7 @@
 8C:1F:64:3D:70:00/36	Eiden Co.,Ltd.
 8C:1F:64:3D:90:00/36	Unlimited Bandwidth LLC
 8C:1F:64:3D:B0:00/36	BRS Sistemas Eletrônicos
+8C:1F:64:3D:D0:00/36	Dorlet Sau
 8C:1F:64:3E:00:00/36	YPP Corporation
 8C:1F:64:3E:20:00/36	Agrico
 8C:1F:64:3E:30:00/36	FMTec GmbH - Future Management Technologies
@@ -40654,6 +40660,7 @@
 8C:1F:64:B1:70:00/36	DAT Informatics Pvt Ltd
 8C:1F:64:B1:80:00/36	Grossenbacher Systeme AG
 8C:1F:64:B1:90:00/36	DITRON S.r.l.
+8C:1F:64:B1:A0:00/36	Panoramic Power
 8C:1F:64:B1:B0:00/36	Nov'in
 8C:1F:64:B1:D0:00/36	Tocho Marking Systems America, Inc
 8C:1F:64:B1:F0:00/36	wincker international enterprise co., ltd
@@ -40709,6 +40716,7 @@
 8C:1F:64:B7:B0:00/36	Gateview Technologies
 8C:1F:64:B7:C0:00/36	Evernet Co,.Ltd Taiwan
 8C:1F:64:B7:D0:00/36	Scheurich GmbH
+8C:1F:64:B8:00:00/36	Private
 8C:1F:64:B8:10:00/36	Prolife Equipamentos Médicos Ltda.
 8C:1F:64:B8:20:00/36	Seed Core Co., LTD.
 8C:1F:64:B8:30:00/36	ShenZhen Australis Electronic Technology Co.,Ltd.
@@ -43777,12 +43785,16 @@
 9C:E3:3F		Apple, Inc.
 9C:E3:74		Huawei Technologies Co.,Ltd
 9C:E4:50		IEEE Registration Authority
+9C:E4:50:00:00:00/28	Shenzhen Chengzhao Technology Co., Ltd.
 9C:E4:50:10:00:00/28	Aio Systems
+9C:E4:50:30:00:00/28	Marelli AL&S ALIT-TZ
 9C:E4:50:50:00:00/28	Neways Advanced Applications
 9C:E4:50:60:00:00/28	Shenzhen GW Technology Co., LTD
 9C:E4:50:70:00:00/28	Beijing Transtreams Technology Co.,Ltd
 9C:E4:50:80:00:00/28	ROHOTEK(shenzhen) Technology co., LTD
+9C:E4:50:90:00:00/28	Shenzhen HQVT TECHNOLOGY Co.,LTD
 9C:E4:50:A0:00:00/28	Auo Display Plus Corporation
+9C:E4:50:B0:00:00/28	Shenzhen Coslight Technology Co.,Ltd.
 9C:E4:50:C0:00:00/28	XTX Markets Technologies Limited
 9C:E4:50:D0:00:00/28	Bcd Srl
 9C:E5:49		IEEE Registration Authority
@@ -45405,6 +45417,7 @@ AC:37:28		Taicang T&W Electronics
 AC:37:43		HTC Corporation
 AC:37:C9		RAID Incorporated
 AC:38:70		Lenovo Mobile Communication Technology Ltd.
+AC:39:3D		eero inc.
 AC:39:71		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 AC:3A:67		Cisco Systems, Inc
 AC:3A:7A		Roku, Inc.
@@ -50982,6 +50995,7 @@ D8:8D:C8		Atil Technology Co., LTD
 D8:8E:D4		eero inc.
 D8:8F:76		Apple, Inc.
 D8:90:E8		Samsung Electronics Co.,Ltd
+D8:91:1D		Jiangsu Yuwell POCTech Biotechnology Co.,Ltd
 D8:91:2A		Zyxel Communications Corporation
 D8:91:36		Dover Fueling Solutions
 D8:93:41		General Electric Global Research
@@ -54978,6 +54992,7 @@ FA:61:0E		Laboratory for Computational Sensing and Robotics, Johns Hopkins Unive
 FA:63:E1		Samsung Electronics (UK) Ltd
 FA:66:73		Nells Electronic Systems (Nes)
 FA:7A:CB		Ultra Ethernet Consortium
+FA:7D:04		Salience Labs
 FA:94:F1		IEEE 802.1 Chair
 FA:BA:85		APAT Optoelectronics Components Co., Ltd.
 FA:D9:88		Momentum Data Systems
