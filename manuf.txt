@@ -38112,6 +38112,7 @@
 84:6E:B1		Park Assist LLC
 84:6E:BC		Nokia Solutions and Networks India Private Limited
 84:6F:CE		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
+84:70:03		Axon Networks Inc.
 84:70:51		Alpsalpine Co,.Ltd
 84:70:D7		eero inc.
 84:71:27		Silicon Laboratories
@@ -43788,6 +43789,7 @@
 9C:E4:50:00:00:00/28	Shenzhen Chengzhao Technology Co., Ltd.
 9C:E4:50:10:00:00/28	Aio Systems
 9C:E4:50:30:00:00/28	Marelli AL&S ALIT-TZ
+9C:E4:50:40:00:00/28	Strato Automation Inc.
 9C:E4:50:50:00:00/28	Neways Advanced Applications
 9C:E4:50:60:00:00/28	Shenzhen GW Technology Co., LTD
 9C:E4:50:70:00:00/28	Beijing Transtreams Technology Co.,Ltd
