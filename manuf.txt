@@ -26967,6 +26967,7 @@
 4A:59:09		Miwa Lock Co.,Ltd.
 4A:5A:6F		Applied Materials
 4A:5A:A9		GoCodeIT Inc
+4A:65:36		m3connect GmbH
 4A:67:04		Reliable Robotics Corporation
 4A:68:8D		Shenzhen TCL New Technology Co., Ltd
 4A:72:06		CAIRE, Inc.
@@ -44170,6 +44171,7 @@ A0:8C:FD		Hewlett Packard
 A0:8D:16		Huawei Technologies Co.,Ltd
 A0:8E:24		eero inc.
 A0:8E:78		Sagemcom Broadband SAS
+A0:90:B5		Tiinlab Corporation
 A0:90:DE		Veedims,Llc
 A0:91:69		LG Electronics (Mobile Communications)
 A0:91:A2		OnePlus Electronics (Shenzhen) Co., Ltd.
