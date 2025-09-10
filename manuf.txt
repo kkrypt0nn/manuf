@@ -18892,6 +18892,7 @@
 0C:C4:7A		Super Micro Computer, Inc.
 0C:C4:7E		EUCAST Co., Ltd.
 0C:C5:6C		Apple, Inc.
+0C:C5:74		FRITZ! Technology GmbH
 0C:C6:55		Wuxi YSTen Technology Co.,Ltd.
 0C:C6:6A		Nokia Corporation
 0C:C6:AC		Dags
@@ -21758,6 +21759,9 @@
 24:9E:AB		Huawei Technologies Co.,Ltd
 24:9F:89		Texas Instruments
 24:A0:74		Apple, Inc.
+24:A1:0D		IEEE Registration Authority
+24:A1:0D:50:00:00/28	Avantel Limited
+24:A1:0D:C0:00:00/28	Revuptech Private Limited
 24:A1:60		Espressif Inc.
 24:A1:86		Commscope
 24:A2:E1		Apple, Inc.
@@ -24277,6 +24281,7 @@
 38:8A:BE		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 38:8B:59		Google, Inc.
 38:8C:50		LG Electronics
+38:8C:EF		Samsung Electronics Co.,Ltd
 38:8D:3D		Wistron Neweb Corporation
 38:8E:7A		Autoit
 38:8E:E7		Fanhattan LLC
@@ -28639,6 +28644,7 @@
 58:59:C2		Extreme Networks Headquarters
 58:5B:69		Tvt Co., Ltd
 58:5F:F6		zte corporation
+58:60:10		shenzhen zovoton electronic co.,ltd
 58:60:5F		Huawei Technologies Co.,Ltd
 58:60:D8		Commscope
 58:61:63		Quantum Networks (SG) Pte. Ltd.
@@ -39230,6 +39236,7 @@
 8C:1F:64:17:60:00/36	Leidos Inc
 8C:1F:64:17:70:00/36	Emcom Systems
 8C:1F:64:17:90:00/36	Agrowtek Inc.
+8C:1F:64:17:A0:00/36	Sichuan ZhikongLingxin Technology Co., Ltd.
 8C:1F:64:17:B0:00/36	Bavaria Digital Technik GmbH
 8C:1F:64:17:C0:00/36	Zelp Ltd
 8C:1F:64:17:E0:00/36	MI Inc.
@@ -40039,7 +40046,6 @@
 8C:1F:64:6E:30:00/36	ViewSonic International Corporation
 8C:1F:64:6E:40:00/36	RAB Microfluidics R&D Company Ltd
 8C:1F:64:6E:70:00/36	WiTricity Corporation
-8C:1F:64:6E:80:00/36	Combined Public Communications, LLC
 8C:1F:64:6E:90:00/36	SHENZHEN sunforest Co.LTD
 8C:1F:64:6E:A0:00/36	KMtronic ltd
 8C:1F:64:6E:B0:00/36	Enless Wireless
@@ -40922,6 +40928,7 @@
 8C:1F:64:CC:20:00/36	Toyogiken Co.,Ltd.
 8C:1F:64:CC:50:00/36	Potter Electric Signal Co. LLC
 8C:1F:64:CC:60:00/36	Genius Vision Digital Private Limited
+8C:1F:64:CC:90:00/36	Benchmark Electronics BV
 8C:1F:64:CC:B0:00/36	suzhou yuecrown Electronic Technology Co.,LTD
 8C:1F:64:CC:E0:00/36	Tesollo
 8C:1F:64:CC:F0:00/36	Tiptop Platform P. Ltd
@@ -43789,6 +43796,7 @@
 9C:E4:50		IEEE Registration Authority
 9C:E4:50:00:00:00/28	Shenzhen Chengzhao Technology Co., Ltd.
 9C:E4:50:10:00:00/28	Aio Systems
+9C:E4:50:20:00:00/28	Shenzhen Lixun Technology Co., Ltd.
 9C:E4:50:30:00:00/28	Marelli AL&S ALIT-TZ
 9C:E4:50:40:00:00/28	Strato Automation Inc.
 9C:E4:50:50:00:00/28	Neways Advanced Applications
@@ -43800,6 +43808,7 @@
 9C:E4:50:B0:00:00/28	Shenzhen Coslight Technology Co.,Ltd.
 9C:E4:50:C0:00:00/28	XTX Markets Technologies Limited
 9C:E4:50:D0:00:00/28	Bcd Srl
+9C:E4:50:E0:00:00/28	Shenzhen Kuki Electric Co., Ltd.
 9C:E5:49		IEEE Registration Authority
 9C:E5:49:00:00:00/28	Speedtech Corp.
 9C:E5:49:10:00:00/28	Lightmatter, Inc.
