@@ -21760,6 +21760,7 @@
 24:9F:89		Texas Instruments
 24:A0:74		Apple, Inc.
 24:A1:0D		IEEE Registration Authority
+24:A1:0D:10:00:00/28	Shenzhen Star Instrument Co., Ltd.
 24:A1:0D:50:00:00/28	Avantel Limited
 24:A1:0D:C0:00:00/28	Revuptech Private Limited
 24:A1:60		Espressif Inc.
@@ -37639,6 +37640,7 @@
 80:56:3C		Zf
 80:56:F2		Hon Hai Precision Ind. Co.,Ltd.
 80:57:19		Samsung Electronics Co.,Ltd
+80:57:22		Wuxi Sunning Smart Devices Co., Ltd
 80:58:C5		NovaTec Kommunikationstechnik GmbH
 80:58:F8		Motorola Mobility LLC, a Lenovo Company
 80:59:FD		Noviga
@@ -40021,7 +40023,6 @@
 8C:1F:64:6B:B0:00/36	Season Electronics Ltd
 8C:1F:64:6B:D0:00/36	IoT Water Analytics S.L.
 8C:1F:64:6B:F0:00/36	Automata GmbH & Co. KG
-8C:1F:64:6C:10:00/36	Guangzhou Vannove Technology Co., Ltd
 8C:1F:64:6C:60:00/36	Fit
 8C:1F:64:6C:80:00/36	Taiko Audio B.V.
 8C:1F:64:6C:A0:00/36	Melissa Climate Jsc
@@ -47423,6 +47424,7 @@ BC:88:93		VILLBAU Ltd.
 BC:88:C3		Ningbo Dooya Mechanic & Electronic Technology Co., Ltd
 BC:89:A6		Nintendo Co.,Ltd
 BC:89:A7		Apple, Inc.
+BC:89:F8		GD Midea Air-Conditioning Equipment Co.,Ltd.
 BC:8A:A3		NHN Entertainment
 BC:8A:E8		Qing Dao Haier Telecom Co.,Ltd.
 BC:8B:55		NPP ELIKS America Inc. DBA T&M Atlantic
@@ -47701,6 +47703,7 @@ C0:2D:EE		Cuff
 C0:2E:1D		Nokia Solutions and Networks GmbH & Co. KG
 C0:2E:25		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 C0:2E:26		iRhythm Technologies, Inc.
+C0:2E:DF		AltoBeam Inc.
 C0:2F:F1		Volta Networks
 C0:33:5E		Microsoft
 C0:33:79		Huawei Technologies Co.,Ltd
