@@ -21760,9 +21760,13 @@
 24:9F:89		Texas Instruments
 24:A0:74		Apple, Inc.
 24:A1:0D		IEEE Registration Authority
+24:A1:0D:00:00:00/28	Lobaro GmbH
 24:A1:0D:10:00:00/28	Shenzhen Star Instrument Co., Ltd.
+24:A1:0D:20:00:00/28	Sony Honda Mobility Inc.
 24:A1:0D:50:00:00/28	Avantel Limited
+24:A1:0D:90:00:00/28	Tecnojest SrL
 24:A1:0D:C0:00:00/28	Revuptech Private Limited
+24:A1:0D:D0:00:00/28	Amina Distribution AS
 24:A1:60		Espressif Inc.
 24:A1:86		Commscope
 24:A2:E1		Apple, Inc.
@@ -22174,6 +22178,7 @@
 28:80:8A		Huawei Technologies Co.,Ltd
 28:80:A2		Inseego Wireless, Inc
 28:82:7C		Bosch Automative products(Suzhou)Co.,Ltd Changzhou Branch
+28:83:28		Emaldo Technology(Hk)Limited
 28:83:35		Samsung Electronics Co.,Ltd
 28:83:C9		Apple, Inc.
 28:84:0E		silicon valley immigration service
@@ -25177,6 +25182,7 @@
 40:42:29		Layer3TV, Inc
 40:42:44		Cisco Systems, Inc
 40:44:CE		Huawei Technologies Co.,Ltd
+40:44:F7		Nintendo Co.,Ltd
 40:44:FD		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 40:45:A0		vivo Mobile Communication Co., Ltd.
 40:45:C4		Huawei Technologies Co.,Ltd
@@ -38214,6 +38220,7 @@
 84:93:0C		InCoax Networks Europe AB
 84:93:A0		Huawei Device Co., Ltd.
 84:93:B2		zte corporation
+84:93:EC		Guangzhou Shiyuan Electronic Technology Company Limited
 84:94:37		Apple, Inc.
 84:94:59		Hangzhou Hikvision Digital Technology Co.,Ltd.
 84:94:8C		Hitron Technologies. Inc
@@ -41110,6 +41117,7 @@
 8C:1F:64:DF:B0:00/36	Bobeesc Co.
 8C:1F:64:DF:C0:00/36	Meiko Electronics Co.,Ltd.
 8C:1F:64:DF:E0:00/36	Nuvation Energy
+8C:1F:64:DF:F0:00/36	Vingloop Technology Ltd
 8C:1F:64:E0:00:00/36	Dvb-Tech S.R.L.
 8C:1F:64:E0:20:00/36	ITS Teknik A/S
 8C:1F:64:E0:40:00/36	新川センサテクノロジ株式会社
@@ -41132,6 +41140,7 @@
 8C:1F:64:E2:30:00/36	Chemito Infotech PVT LTD
 8C:1F:64:E2:40:00/36	Cometa Sas
 8C:1F:64:E2:60:00/36	HyperSilicon Co.,Ltd
+8C:1F:64:E2:A0:00/36	Whitebox Technology Hong Kong Ltd
 8C:1F:64:E2:B0:00/36	Glotech Exim Private Limited
 8C:1F:64:E2:D0:00/36	RADA Electronics Industries Ltd.
 8C:1F:64:E2:E0:00/36	RADA Electronics Industries Ltd.
@@ -46294,6 +46303,7 @@ B4:02:16		Cisco Systems, Inc
 B4:02:F2		Synaptics, Inc
 B4:04:18		Smartchip Integrated Inc.
 B4:04:21		zte corporation
+B4:04:29		Guangzhou Shiyuan Electronic Technology Company Limited
 B4:05:5D		IEIT SYSTEMS Co., Ltd.
 B4:05:66		SP Best Corporation Co., LTD.
 B4:05:A1		Xiaomi Communications Co Ltd
@@ -53694,6 +53704,7 @@ F0:6E:32		Microtel Innovation S.R.L.
 F0:6F:46		Ubiik
 F0:6F:CE		Ruckus Wireless
 F0:70:4F		Samsung Electronics Co.,Ltd
+F0:70:84		Actiontec Electronics Inc.
 F0:72:8C		Samsung Electronics Co.,Ltd
 F0:72:EA		Google, Inc.
 F0:73:AE		PEAK-System Technik
