@@ -17835,6 +17835,7 @@
 04:D4:C4		ASUSTek COMPUTER INC.
 04:D5:90		Fortinet, Inc.
 04:D6:0E		Funai Electric Co., Ltd.
+04:D6:88		Cig Shanghai Co Ltd
 04:D6:AA		Samsung Electro-Mechanics(Thailand)
 04:D6:F4		GD Midea Air-Conditioning Equipment Co.,Ltd.
 04:D7:83		Y&H E&C Co.,LTD.
@@ -21765,6 +21766,7 @@
 24:A1:0D:20:00:00/28	Sony Honda Mobility Inc.
 24:A1:0D:50:00:00/28	Avantel Limited
 24:A1:0D:90:00:00/28	Tecnojest SrL
+24:A1:0D:B0:00:00/28	Private
 24:A1:0D:C0:00:00/28	Revuptech Private Limited
 24:A1:0D:D0:00:00/28	Amina Distribution AS
 24:A1:60		Espressif Inc.
@@ -28558,6 +28560,7 @@
 58:25:75		Huawei Technologies Co.,Ltd
 58:25:7A		Mobiwire Mobiles(Ningbo) Co.,Ltd
 58:26:3A		Silicon Laboratories
+58:27:45		Angelbird Technologies GmbH
 58:27:8C		Buffalo.Inc
 58:2A:F7		Huawei Technologies Co.,Ltd
 58:2B:0A		Texas Instruments
@@ -29725,7 +29728,7 @@
 60:A4:34		IEEE Registration Authority
 60:A4:34:00:00:00/28	Uniqon
 60:A4:34:10:00:00/28	EEG Enterprises Inc
-60:A4:34:20:00:00/28	Hangzhou Zhongxinhui lntelligent Technology Co.,Ltd.
+60:A4:34:20:00:00/28	Hangzhou Zhongxinghui Intelligent Technology Co., Ltd.
 60:A4:34:30:00:00/28	Shenzhen lncar Technology Co.,Ltd
 60:A4:34:40:00:00/28	Human-life Information Platforms Institute
 60:A4:34:50:00:00/28	Hangzhou Lanly Technology Co., Ltd.
@@ -42997,6 +43000,7 @@
 98:2A:0A		Intelbras
 98:2C:BC		Intel Corporate
 98:2C:BE		2Wire Inc
+98:2C:C6		Sernet (Suzhou) Technologies Corporation
 98:2D:56		Resolution Audio
 98:2D:68		Samsung Electronics Co., Ltd
 98:2D:BA		Fibergate Inc.
@@ -47713,6 +47717,7 @@ C0:2D:EE		Cuff
 C0:2E:1D		Nokia Solutions and Networks GmbH & Co. KG
 C0:2E:25		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 C0:2E:26		iRhythm Technologies, Inc.
+C0:2E:5F		Zyxel Communications Corporation
 C0:2E:DF		AltoBeam Inc.
 C0:2F:F1		Volta Networks
 C0:33:5E		Microsoft
@@ -54978,7 +54983,7 @@ F8:ED:A5		Commscope
 F8:ED:AE		Mobiwire Mobiles(Ningbo) Co.,Ltd
 F8:ED:FC		HP Inc.
 F8:EF:5D		Motorola Mobility LLC, a Lenovo Company
-F8:EF:B1		Hangzhou Zhongxinhui lntelligent Technology Co.,Ltd.
+F8:EF:B1		Hangzhou Zhongxinghui Intelligent Technology Co., Ltd.
 F8:F0:05		Newport Media Inc.
 F8:F0:14		RackWare Inc.
 F8:F0:82		Nagtech Llc
