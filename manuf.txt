@@ -38107,6 +38107,7 @@
 84:5A:3E		Cisco Systems, Inc
 84:5A:81		ffly4u
 84:5B:12		Huawei Technologies Co.,Ltd
+84:5C:31		Dell Inc.
 84:5C:93		Chabrier Services
 84:5C:F3		Intel Corporate
 84:5D:D7		Shenzhen Netcom Electronics Co.,Ltd
@@ -39657,6 +39658,7 @@
 8C:1F:64:43:90:00/36	Bornico
 8C:1F:64:43:A0:00/36	Spacelite Inc
 8C:1F:64:43:D0:00/36	Solid State Supplies Ltd
+8C:1F:64:43:F0:00/36	beespace Technologies Limited
 8C:1F:64:44:00:00/36	MB connect line GmbH Fernwartungssysteme
 8C:1F:64:44:10:00/36	Novanta IMS
 8C:1F:64:44:20:00/36	Potter Electric Signal Co. LLC
@@ -40156,6 +40158,7 @@
 8C:1F:64:78:20:00/36	Atm Llc
 8C:1F:64:78:70:00/36	Tabology
 8C:1F:64:78:90:00/36	DEUTA Werke GmbH
+8C:1F:64:78:B0:00/36	Senso2Me Nv
 8C:1F:64:78:F0:00/36	Connection Systems
 8C:1F:64:79:10:00/36	Otis Technology and Development(Shanghai) Co., Ltd.
 8C:1F:64:79:30:00/36	Aditec GmbH
@@ -40694,6 +40697,7 @@
 8C:1F:64:B2:C0:00/36	Sanmina Israel Medical Systems Ltd
 8C:1F:64:B2:D0:00/36	wonder meditec
 8C:1F:64:B2:F0:00/36	Mtechnology - Gamma Commerciale Srl
+8C:1F:64:B3:00:00/36	Fujian ONETHING Technology Co.,Ltd.
 8C:1F:64:B3:20:00/36	Plug Power
 8C:1F:64:B3:50:00/36	RADA Electronics Industries Ltd.
 8C:1F:64:B3:60:00/36	Pneumax Spa
