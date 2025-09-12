@@ -20941,6 +20941,7 @@
 1C:C1:BC		Yichip Microelectronics (Hangzhou) Co.,Ltd
 1C:C1:DE		Hewlett Packard
 1C:C3:16		Xiamen Milesight IoT Co., Ltd.
+1C:C3:AB		Espressif Inc.
 1C:C3:EB		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 1C:C5:86		Absolute Acoustics
 1C:C6:3C		Arcadyan Technology Corporation
@@ -21765,6 +21766,7 @@
 24:A1:0D:10:00:00/28	Shenzhen Star Instrument Co., Ltd.
 24:A1:0D:20:00:00/28	Sony Honda Mobility Inc.
 24:A1:0D:50:00:00/28	Avantel Limited
+24:A1:0D:60:00:00/28	Goertek Inc.
 24:A1:0D:90:00:00/28	Tecnojest SrL
 24:A1:0D:B0:00:00/28	Private
 24:A1:0D:C0:00:00/28	Revuptech Private Limited
@@ -31047,6 +31049,7 @@
 6C:76:60		Kyocera Corporation
 6C:78:C1		Juniper Networks
 6C:79:B8		Texas Instruments
+6C:7A:63		Arista Networks
 6C:7D:B7		Cisco Meraki
 6C:7E:67		Apple, Inc.
 6C:7F:0C		Cisco Meraki
@@ -40965,6 +40968,7 @@
 8C:1F:64:CE:50:00/36	Private
 8C:1F:64:CE:B0:00/36	Eureka For Smart Properties Co. W.L.L
 8C:1F:64:CE:C0:00/36	Zhuhai Huaya machinery Technology Co., LTD
+8C:1F:64:CE:D0:00/36	Nha Trang Hitech Company,  Ltd
 8C:1F:64:CE:E0:00/36	Displax S.A.
 8C:1F:64:CE:F0:00/36	Goertek Robotics Co.,Ltd.
 8C:1F:64:CF:10:00/36	ROBOfiber, Inc.
@@ -45249,6 +45253,7 @@ A8:BD:27		Hewlett Packard Enterprise
 A8:BD:3A		Union Man Technology Co.,Ltd
 A8:BE:27		Apple, Inc.
 A8:BF:3C		HDV Phoelectron Technology Limited
+A8:C0:50		Quectel Wireless Solutions Co.,Ltd.
 A8:C0:92		Huawei Device Co., Ltd.
 A8:C0:EA		Pepwave Limited
 A8:C2:22		TM-Research Inc.
@@ -45775,6 +45780,7 @@ AC:E9:AA		Hay Systems Ltd
 AC:EA:6A		Genix Infocomm Co., Ltd.
 AC:EA:EA		Huawei Technologies Co.,Ltd
 AC:EB:51		Universal Electronics, Inc.
+AC:EB:E6		Espressif Inc.
 AC:EC:80		Commscope
 AC:EC:85		eero inc.
 AC:ED:32		Extreme Networks Headquarters
@@ -46081,6 +46087,7 @@ B0:A3:F2		Huaqin Technology Co. LTD
 B0:A4:54		Tripwire Inc.
 B0:A4:60		Intel Corporate
 B0:A4:F0		Huawei Technologies Co.,Ltd
+B0:A6:04		Espressif Inc.
 B0:A6:51		Cisco Systems, Inc
 B0:A6:F5		Xaptum, Inc.
 B0:A7:2A		Ensemble Designs, Inc.
@@ -53630,6 +53637,7 @@ F0:3A:4B		Bloombase, Inc.
 F0:3A:55		Omega Elektronik AS
 F0:3D:03		Tecno Mobile Limited
 F0:3D:29		Actility
+F0:3E:05		Murata Manufacturing Co., Ltd.
 F0:3E:90		Ruckus Wireless
 F0:3E:BF		Gogoro Taiwan Limited
 F0:3F:03		Private
