@@ -21766,6 +21766,7 @@
 24:A1:0D:00:00:00/28	Lobaro GmbH
 24:A1:0D:10:00:00/28	Shenzhen Star Instrument Co., Ltd.
 24:A1:0D:20:00:00/28	Sony Honda Mobility Inc.
+24:A1:0D:30:00:00/28	Rhymebus corporation
 24:A1:0D:50:00:00/28	Avantel Limited
 24:A1:0D:60:00:00/28	Goertek Inc.
 24:A1:0D:90:00:00/28	Tecnojest SrL
@@ -29819,6 +29820,7 @@
 60:D2:B9		Realand Bio Co., Ltd.
 60:D2:DD		Shenzhen Baitong Putian Technology Co.,Ltd.
 60:D3:0A		Quatius Limited
+60:D4:AF		Honor Device Co., Ltd.
 60:D4:E9		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 60:D5:1B		Fujitsu Limited
 60:D5:61		Shenzhen Glazero Technology Co., Ltd.
@@ -30116,6 +30118,7 @@
 64:68:0C		Comtrend Corporation
 64:68:1A		DASAN Network Solutions
 64:68:76		Edifier International
+64:69:11		Aptiv Services Us, Llc
 64:69:4E		Texas Instruments
 64:69:BC		Hytera Communications Co .,ltd
 64:6A:52		Avaya Inc
@@ -30341,6 +30344,7 @@
 64:F9:70		Kenade Electronics Technology Co.,LTD.
 64:F9:87		Avvasi Inc.
 64:F9:C0		Analog Devices
+64:FA:2B		Sagemcom Broadband SAS
 64:FB:01		Zhongshan Camry Electronic Company Limited
 64:FB:50		RoomReady/Zdi, Inc.
 64:FB:81		IEEE Registration Authority
@@ -31386,6 +31390,7 @@
 70:3C:39		SEAWING Kft
 70:3C:69		Apple, Inc.
 70:3D:15		Hangzhou H3C Technologies Co., Limited
+70:3E:76		Arcadyan Corporation
 70:3E:97		Iton Technology Corp.
 70:3E:AC		Apple, Inc.
 70:40:FF		Huawei Device Co., Ltd.
@@ -39327,6 +39332,7 @@
 8C:1F:64:1F:A0:00/36	YDIIT Co., Ltd.
 8C:1F:64:1F:C0:00/36	Yu Heng Electric CO. TD
 8C:1F:64:1F:E0:00/36	Burk Technology
+8C:1F:64:1F:F0:00/36	ReCar LLC DBA Slate Auto
 8C:1F:64:20:10:00/36	Hiwin Mikrosystem Corp.
 8C:1F:64:20:30:00/36	ENTOSS Co.,Ltd
 8C:1F:64:20:40:00/36	castcore
@@ -40877,6 +40883,7 @@
 8C:1F:64:C4:30:00/36	Shenzhen Smartlog Technologies Co.,Ltd
 8C:1F:64:C4:40:00/36	Sypris Electronics
 8C:1F:64:C4:50:00/36	Flextroincs International (Taiwain Ltd
+8C:1F:64:C4:60:00/36	Inex Technologies
 8C:1F:64:C4:A0:00/36	SGi Technology Group Ltd.
 8C:1F:64:C4:C0:00/36	Lumiplan Duhamel
 8C:1F:64:C4:E0:00/36	iCE-Intelligent Controlled Environments
@@ -45886,6 +45893,7 @@ B0:1F:81:D0:00:00/28	TAIWAN Anjie Electronics Co.,Ltd.
 B0:1F:81:E0:00:00/28	Advanced & Wise Technology Corp.
 B0:1F:81:F0:00:00/28	Private
 B0:1F:8C		Hewlett Packard Enterprise
+B0:1F:F4		Sagemcom Broadband SAS
 B0:21:6F		Huawei Technologies Co.,Ltd
 B0:22:7A		HP Inc.
 B0:23:47		Shenzhen Giant Microelectronics Company Limited
@@ -46642,6 +46650,7 @@ B4:B5:B6		Chongqing Fugui Electronics Co.,Ltd.
 B4:B6:76		Intel Corporate
 B4:B6:86		Hewlett Packard
 B4:B7:42		Amazon Technologies Inc.
+B4:B8:53		Honor Device Co., Ltd.
 B4:B8:59		Texa Spa
 B4:B8:8D		Thuh Company
 B4:B9:E6		eero inc.
@@ -52867,6 +52876,7 @@ E8:B1:FC		Intel Corporate
 E8:B2:65		Dell Inc.
 E8:B2:AC		Apple, Inc.
 E8:B2:FE		HUMAX Co., Ltd.
+E8:B3:EE		Pixelent Inc.
 E8:B3:EF		Fiberhome Telecommunication Technologies Co.,LTD
 E8:B4:70		IEEE Registration Authority
 E8:B4:70:00:00:00/28	DongGuan Ramaxel Memory Technology
@@ -55298,6 +55308,7 @@ FC:94:6C		Ubivelox
 FC:94:CE		zte corporation
 FC:94:E3		Vantiva USA LLC
 FC:95:6A		Octagon Systems Corp.
+FC:96:3E		EM Microelectronic
 FC:96:43		Juniper Networks
 FC:97:A8		Cricut Inc.
 FC:98:16		Alpsalpine Co,.Ltd
@@ -55431,6 +55442,7 @@ FC:CD:2F:D0:00:00/28	Shenzhen Smartbyte Technology Co., Ltd.
 FC:CD:2F:E0:00:00/28	Eltek brojila d.o.o.
 FC:CF:43		Huizhou City Huiyang District Meisiqi Industry Development Co,.Ltd
 FC:CF:62		IBM Corp
+FC:CF:9F		EM Microelectronic
 FC:D2:02		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 FC:D2:90		Sky Uk Limited
 FC:D2:B6		IEEE Registration Authority
