@@ -21775,6 +21775,7 @@
 24:A1:0D:40:00:00/28	Dongguan Taijie Electronics Technology Co.,Ltd
 24:A1:0D:50:00:00/28	Avantel Limited
 24:A1:0D:60:00:00/28	Goertek Inc.
+24:A1:0D:80:00:00/28	Luxvisions lnnovation TechnologyCorp.Limited
 24:A1:0D:90:00:00/28	Tecnojest SrL
 24:A1:0D:A0:00:00/28	Detroit Defense Inc.
 24:A1:0D:B0:00:00/28	Private
@@ -28497,6 +28498,7 @@
 58:00:E3		Liteon Technology Corporation
 58:02:05		AzureWave Technology Inc.
 58:03:FB		Hangzhou Hikvision Digital Technology Co.,Ltd.
+58:04:4F		TP-Link Systems Inc.
 58:04:54		Icomm Hk Limited
 58:04:CB		Tianjin Huisun Technology Co.,Ltd.
 58:05:28		Labris Networks
@@ -30982,6 +30984,7 @@
 6C:4B:7F		Vossloh-Schwabe Deutschland GmbH
 6C:4B:90		LiteON
 6C:4B:B4		HUMAX Co., Ltd.
+6C:4C:BC		TP-Link Systems Inc.
 6C:4C:E2		Intel Corporate
 6C:4D:51		Shenzhen Ceres Technology Co., Ltd.
 6C:4D:73		Apple, Inc.
@@ -39498,6 +39501,7 @@
 8C:1F:64:30:10:00/36	Agar Corporation Inc.
 8C:1F:64:30:30:00/36	IntelliPlanner Software System India Pvt Ltd
 8C:1F:64:30:40:00/36	Jemac Sweden AB
+8C:1F:64:30:50:00/36	VivoKey Technologies Inc.
 8C:1F:64:30:60:00/36	Corigine,Inc.
 8C:1F:64:30:90:00/36	Mect Srl
 8C:1F:64:30:A0:00/36	XCOM Labs
@@ -40444,6 +40448,7 @@
 8C:1F:64:93:A0:00/36	Rejås of Sweden AB
 8C:1F:64:94:10:00/36	Lorenz GmbH & Co. KG
 8C:1F:64:94:30:00/36	Autark GmbH
+8C:1F:64:94:40:00/36	BRS Sistemas Eletrônicos
 8C:1F:64:94:50:00/36	Deqin Showcase
 8C:1F:64:94:60:00/36	UniJet Co., Ltd.
 8C:1F:64:94:70:00/36	LLC "TC "Vympel"
@@ -40459,6 +40464,7 @@
 8C:1F:64:95:B0:00/36	Qualitel Corporation
 8C:1F:64:95:C0:00/36	Fasetto, Inc.
 8C:1F:64:95:E0:00/36	Landis+Gyr Equipamentos de Medição Ltda
+8C:1F:64:96:10:00/36	Jmv Bharat Private Limited
 8C:1F:64:96:20:00/36	Umano Medical Inc.
 8C:1F:64:96:30:00/36	Gogo Business Aviation
 8C:1F:64:96:40:00/36	Power Electronics Espana, S.L.
@@ -40775,6 +40781,7 @@
 8C:1F:64:B8:60:00/36	Elektronik & Modellprodukter Gävle AB
 8C:1F:64:B8:80:00/36	INTRONIK GmbH
 8C:1F:64:B8:B0:00/36	DogWatch Inc
+8C:1F:64:B8:C0:00/36	Chipset Communication Co.,Ltd.
 8C:1F:64:B8:D0:00/36	Tongye lnnovation Science and Technology (Shenzhen) Co.,Ltd
 8C:1F:64:B8:E0:00/36	Revert Technologies
 8C:1F:64:B9:10:00/36	Clealink Technology
@@ -44422,7 +44429,7 @@ A0:F4:59		Fn-Link Technology Limited
 A0:F4:79		Huawei Technologies Co.,Ltd
 A0:F5:09		IEI Integration Corp.
 A0:F6:FD		Texas Instruments
-A0:F7:C3		Ficosa Electronics Slu
+A0:F7:C3		Ficosa Automotive SLU
 A0:F8:49		Cisco Systems, Inc
 A0:F8:95		Shenzhen TINNO Mobile Technology Corp.
 A0:F9:B7		Ademco Smart Homes Technology(Tianjin)Co.,Ltd.
@@ -47187,6 +47194,7 @@ B8:F8:83		Tp-Link Technologies Co.,Ltd.
 B8:F8:BE		Bluecom
 B8:F9:34		Sony Corporation
 B8:FB:AF		Xiamen IPRT Technology CO.,LTD
+B8:FB:B3		TP-Link Systems Inc.
 B8:FC:28		Valeo Vision Systems
 B8:FC:9A		Le Shi Zhi Xin Electronic Technology (Tianjin) Limited
 B8:FD:32		Zhejiang ROICX Microelectronics
