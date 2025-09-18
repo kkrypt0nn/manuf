@@ -6825,7 +6825,7 @@
 00:1A:B6		Texas Instruments
 00:1A:B7		Ethos Networks LTD.
 00:1A:B8		Anseri Corporation
-00:1A:B9		Pmc
+00:1A:B9		Groupe Carrus
 00:1A:BA		Caton Overseas Limited
 00:1A:BB		Fontal Technology Incorporation
 00:1A:BC		U4EA Technologies Ltd
@@ -11340,7 +11340,7 @@
 00:50:C2:16:B0:00/36	Masterclock, Inc.
 00:50:C2:16:C0:00/36	Brijing Embedor Embedded Internet Tech. Co. Ltd.
 00:50:C2:16:D0:00/36	Postec Data Systems Ltd.
-00:50:C2:16:E0:00/36	Pmc
+00:50:C2:16:E0:00/36	Groupe Carrus
 00:50:C2:16:F0:00/36	Dickson Technologies
 00:50:C2:17:00:00/36	Taishodo Seiko Co., Ltd.
 00:50:C2:17:10:00/36	Quantronix, Inc.
@@ -20716,6 +20716,7 @@
 1C:7C:98		NEC Platforms, Ltd.
 1C:7C:C7		Coriant GmbH
 1C:7D:22		FUJIFILM Business Innovation Corp.
+1C:7D:51		Hanshow Technology Co.,Ltd.
 1C:7E:51		3bumen.com
 1C:7E:E5		D-Link International
 1C:7F:2C		Huawei Technologies Co.,Ltd
@@ -21089,6 +21090,7 @@
 20:0B:CF		Nintendo Co.,Ltd
 20:0C:86		GX India Pvt Ltd
 20:0C:C8		Netgear
+20:0D:3D		Quectel Wireless Solutions Co., Ltd.
 20:0D:B0		Shenzhen Four Seas Global Link Network Technology Co., Ltd.
 20:0E:0F		Panasonic Marketing Middle East & Africa FZE
 20:0E:2B		Apple, Inc.
@@ -24011,7 +24013,7 @@
 34:EE:16		Apple, Inc.
 34:EE:2A		ConMet
 34:EF:44		2Wire Inc
-34:EF:8B		NTT Communications Corporation
+34:EF:8B		NTT DOCOMO BUSINESS, Inc.
 34:EF:B6		Edgecore Networks Corporation
 34:F0:43		Samsung Electronics Co.,Ltd
 34:F0:CA		Shenzhen Linghangyuan Digital Technology Co.,Ltd.
@@ -24618,6 +24620,7 @@
 3C:0C:DB		Union Man Technology Co.,Ltd
 3C:0D:2C		Liquid-Markets GmbH
 3C:0E:23		Cisco Systems, Inc
+3C:0F:02		Espressif Inc.
 3C:0F:C1		KBC Networks
 3C:10:40		daesung network
 3C:10:60		Fiberhome Telecommunication Technologies Co.,LTD
@@ -28042,6 +28045,7 @@
 50:FA:CB:D0:00:00/28	Vortex Infotech Private Limited
 50:FA:CB:E0:00:00/28	Advant sp. z o.o.
 50:FB:19		Chipsea Technologies (Shenzhen) Corp.
+50:FB:FF		Franklin Technology Inc.
 50:FC:30		Treehouse Labs
 50:FC:9F		Samsung Electronics Co.,Ltd
 50:FD:D5		SJI Industry Company
@@ -37457,6 +37461,7 @@
 7C:CC:FC		Quectel Wireless Solutions Co.,Ltd.
 7C:CD:11		MS-Magnet
 7C:CD:3C		Guangzhou Juzing Technology Co., Ltd
+7C:CF:4E		Fine Triumph Technology Corp.,Ltd.
 7C:CF:CF		Shanghai SEARI Intelligent System Co., Ltd
 7C:D1:C3		Apple, Inc.
 7C:D2:DA		Apple, Inc.
@@ -37673,6 +37678,7 @@
 80:47:31		Packet Design, Inc.
 80:47:86		Samsung Electronics Co.,Ltd
 80:48:2C		Wyze Labs Inc
+80:48:63		Electralsys Networks
 80:48:9F		Hangzhou Hikvision Digital Technology Co.,Ltd.
 80:48:A5		Sichuan Tianyi Comheart Telecom Co.,LTD
 80:49:71		Apple, Inc.
@@ -46244,6 +46250,7 @@ B0:C9:52		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 B0:C9:5B		Beijing Symtech CO.,LTD
 B0:CA:68		Apple, Inc.
 B0:CA:E7		Huawei Device Co., Ltd.
+B0:CB:D8		Espressif Inc.
 B0:CC:CE		IEEE Registration Authority
 B0:CC:CE:00:00:00/28	Steelco SpA
 B0:CC:CE:10:00:00/28	Agrisys A/S
@@ -53120,7 +53127,7 @@ EA:9F:B1		Philips International B.V.
 EA:B8:9B		Thread Group, Inc.
 EA:BC:04		G3-PLC Alliance
 EA:BE:A7		Sonos, Inc.
-EA:DA:6E		FUJIFILM Recording Media GmbH
+EA:DA:6E		FUJIFILM Germany GmbH
 EA:DD:88		IEEE PES-PSRC Working Group H3, PC37.237
 EA:E0:D9		Berk-tek LLC
 EC:01:33		Trinus Systems Inc.
@@ -53719,6 +53726,7 @@ F0:3F:03		Private
 F0:3F:95		Huawei Technologies Co.,Ltd
 F0:3F:F8		R L Drake
 F0:40:7B		Fiberhome Telecommunication Technologies Co.,LTD
+F0:40:AF:40:00:00/28	Robox Sg Pte. Ltd.
 F0:40:EC		RainX PTE. LTD.
 F0:41:C6		Heat Tech Company, Ltd.
 F0:41:C8		IEEE Registration Authority
@@ -54162,6 +54170,7 @@ F4:2B:7D		Chipsguide technology CO.,LTD.
 F4:2B:8C		Samsung Electronics Co.,Ltd
 F4:2C:56		Senor Tech Co Ltd
 F4:2D:06		zte corporation
+F4:2D:C9		Espressif Inc.
 F4:2E:48		zte corporation
 F4:2E:7F		Hewlett Packard Enterprise
 F4:30:8B		Xiaomi Communications Co Ltd
