@@ -2907,7 +2907,7 @@
 00:0B:68		Addvalue Communications Pte Ltd
 00:0B:69		Franke Finland Oy
 00:0B:6A		Asiarock Technology Limited
-00:0B:6B		Wistron Neweb Corporation
+00:0B:6B		WNC Corporation
 00:0B:6C		Sychip Inc.
 00:0B:6D		Solectron Japan Nakaniida
 00:0B:6E		Neff Instrument Corp.
@@ -7073,7 +7073,7 @@
 00:1B:AE		Micro Control Systems, Inc
 00:1B:AF		Nokia Danmark A/S
 00:1B:B0		Bharat Electronics Limited
-00:1B:B1		Wistron Neweb Corporation
+00:1B:B1		WNC Corporation
 00:1B:B2		Intellect International NV
 00:1B:B3		Condalo GmbH
 00:1B:B4		Airvod Limited
@@ -19505,7 +19505,7 @@
 10:E8:3A		Fiberx Distribuidora De Produtos De Telecomunicacao Ltda
 10:E8:40		Zowee Technology(Heyuan) Co., Ltd.
 10:E8:78		Nokia
-10:E8:A7		Wistron Neweb Corporation
+10:E8:A7		WNC Corporation
 10:E8:EE		PhaseSpace
 10:E9:53		Huawei Device Co., Ltd.
 10:E9:92		Ingram Micro Services
@@ -20988,7 +20988,7 @@
 1C:D4:0C		Kriwan Industrie-Elektronik GmbH
 1C:D5:E2		Shenzhen YOUHUA Technology Co., Ltd
 1C:D6:BD		Leedarson Lighting Co., Ltd.
-1C:D6:BE		Wistron Neweb Corporation
+1C:D6:BE		WNC Corporation
 1C:DA:27		vivo Mobile Communication Co., Ltd.
 1C:DB:D4		Espressif Inc.
 1C:DD:EA		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
@@ -21595,7 +21595,7 @@
 24:3F:AA		Huawei Device Co., Ltd.
 24:40:AE		NIIC Technology Co., Ltd.
 24:41:8C		Intel Corporate
-24:41:FE		Wistron Neweb Corporation
+24:41:FE		WNC Corporation
 24:42:BC		Alinco,incorporated
 24:42:E3		Shenzhen Ai-Thinker  Technology Co.,Ltd
 24:43:E2		DASAN Network Solutions
@@ -22013,7 +22013,7 @@
 28:23:73		Digita
 28:23:F5		China Mobile (Hangzhou) Information Technology Co., Ltd.
 28:24:C9		Amazon Technologies Inc.
-28:24:FF		Wistron Neweb Corporation
+28:24:FF		WNC Corporation
 28:25:36		Shenzhen Holatek Co.,Ltd
 28:25:5F		Humax Networks
 28:26:A6		PBR electronics GmbH
@@ -22047,7 +22047,7 @@
 28:2D:06		AMPAK Technology,Inc.
 28:2D:7F		Apple, Inc.
 28:2E:30		Mechatronics Innovation Technologies, S.L.U.
-28:2E:89		Wistron Neweb Corporation
+28:2E:89		WNC Corporation
 28:2F:C2		Automotive Data Solutions
 28:30:AC		Frontiir Co. Ltd.
 28:31:52		Huawei Technologies Co.,Ltd
@@ -22842,7 +22842,7 @@
 2C:9E:E0		Cavli Inc.
 2C:9E:EC		Jabil Circuit Penang
 2C:9E:FC		Canon Inc.
-2C:9F:FB		Wistron Neweb Corporation
+2C:9F:FB		WNC Corporation
 2C:A0:2F		Veroguard Systems Pty Ltd
 2C:A0:42		Huawei Device Co., Ltd.
 2C:A1:57		acromate, Inc.
@@ -22968,7 +22968,7 @@
 2C:DA:46		Samsung Electronics Co.,Ltd
 2C:DB:07		Intel Corporate
 2C:DC:78		Descartes Systems (USA) LLC
-2C:DC:AD		Wistron Neweb Corporation
+2C:DC:AD		WNC Corporation
 2C:DC:C1		EM Microelectronic
 2C:DC:D7		AzureWave Technology Inc.
 2C:DD:0C		Discovergy GmbH
@@ -23081,7 +23081,7 @@
 30:13:89		Siemens AG, Automations & Drives,
 30:13:8B		HP Inc.
 30:14:2D		Piciorgros GmbH
-30:14:4A		Wistron Neweb Corporation
+30:14:4A		WNC Corporation
 30:15:18		Ubiquitous Communication Co. ltd.
 30:16:8D		ProLon
 30:16:9D		Mercusys Technologies Co., Ltd.
@@ -24315,7 +24315,7 @@
 38:8B:59		Google, Inc.
 38:8C:50		LG Electronics
 38:8C:EF		Samsung Electronics Co.,Ltd
-38:8D:3D		Wistron Neweb Corporation
+38:8D:3D		WNC Corporation
 38:8E:7A		Autoit
 38:8E:E7		Fanhattan LLC
 38:8F:30		Samsung Electronics Co.,Ltd
@@ -24416,7 +24416,7 @@
 38:B5:D3		SecuWorks
 38:B7:25		Wistron Infocomm (Zhongshan) Corporation
 38:B7:4D		Fijowave Limited
-38:B8:00		Wistron Neweb Corporation
+38:B8:00		WNC Corporation
 38:B8:EB		IEEE Registration Authority
 38:B8:EB:00:00:00/28	Bumjin C&L Co., Ltd.
 38:B8:EB:10:00:00/28	1.A Connect GmbH
@@ -25139,7 +25139,7 @@
 40:18:B1		Extreme Networks Headquarters
 40:18:D7		Smartronix, Inc.
 40:19:20		Movon Corporation
-40:1A:58		Wistron Neweb Corporation
+40:1A:58		WNC Corporation
 40:1B:5F		Weifang Goertek Electronics Co.,Ltd
 40:1C:83		Intel Corporate
 40:1C:D4		Huawei Device Co., Ltd.
@@ -26463,7 +26463,7 @@
 44:E4:9A		Omnitronics Pty Ltd
 44:E4:D9		Cisco Systems, Inc
 44:E4:E6		Extreme Networks Headquarters
-44:E4:EE		Wistron Neweb Corporation
+44:E4:EE		WNC Corporation
 44:E5:17		Intel Corporate
 44:E5:9B		Huawei Technologies Co.,Ltd
 44:E6:4A		Shenzhen iComm Semiconductor CO.,LTD
@@ -26825,7 +26825,7 @@
 48:A9:1C		Apple, Inc.
 48:A9:64		Apexsha Smarttech Private Limited
 48:A9:8A		Routerboard.com
-48:A9:D2		Wistron Neweb Corporation
+48:A9:D2		WNC Corporation
 48:AA:5D		Store Electronic Systems
 48:AD:08		Huawei Technologies Co.,Ltd
 48:AD:9A		Intel Corporate
@@ -28790,7 +28790,7 @@
 58:96:0A		LG Electronics
 58:96:1D		Intel Corporate
 58:96:30		Vantiva USA LLC
-58:96:71		Wistron Neweb Corporation
+58:96:71		WNC Corporation
 58:97:1E		Cisco Systems, Inc
 58:97:BD		Cisco Systems, Inc
 58:98:35		Technicolor Delivery Technologies Belgium NV
@@ -28906,7 +28906,7 @@
 58:E2:8F		Apple, Inc.
 58:E3:26		Compass Technologies Inc.
 58:E3:59		Interroll Software & Electronics GmbH
-58:E4:03		Wistron Neweb Corporation
+58:E4:03		WNC Corporation
 58:E4:34		Juniper Networks
 58:E4:76		Centron Communications Technologies Fujian Co.,Ltd
 58:E4:88		Amazon Technologies Inc.
@@ -29479,7 +29479,7 @@
 60:01:94		Espressif Inc.
 60:01:B1		Huawei Technologies Co.,Ltd
 60:02:92		Pegatron Corporation
-60:02:B4		Wistron Neweb Corporation
+60:02:B4		WNC Corporation
 60:03:08		Apple, Inc.
 60:03:0C		Shenzhen YOUHUA Technology Co., Ltd
 60:03:47		Billion Electric Co. Ltd.
@@ -29897,7 +29897,7 @@
 60:E3:AC		LG Electronics (Mobile Communications)
 60:E5:D8		zte corporation
 60:E6:BC		Sino-Telecom Technology Co.,Ltd.
-60:E6:F0		Wistron Neweb Corporation
+60:E6:F0		WNC Corporation
 60:E7:01		Huawei Technologies Co.,Ltd
 60:E7:8A		Unisem
 60:E8:5B		Texas Instruments
@@ -30400,7 +30400,7 @@
 64:FD:29		Zhejiang Dahua Technology Co., Ltd.
 64:FD:96		Sagemcom Broadband SAS
 64:FE:15		Flaircomm Microelectronics,Inc.
-64:FF:0A		Wistron Neweb Corporation
+64:FF:0A		WNC Corporation
 68:02:35		Konten Networks Inc.
 68:02:B8		Compal Broadband Networks, Inc.
 68:04:89		Cisco Systems, Inc
@@ -30667,6 +30667,7 @@
 68:A0:F6		Huawei Technologies Co.,Ltd
 68:A1:B7		Honghao Mingchuan Technology (Beijing) CO.,Ltd.
 68:A2:AA		Acres Manufacturing
+68:A3:4F		Nokia
 68:A3:78		Freebox Sas
 68:A3:C4		Liteon Technology Corporation
 68:A4:0E		BSH Hausgeräte GmbH
@@ -31520,7 +31521,7 @@
 70:60:DE		LaVision GmbH
 70:61:73		Calantec GmbH
 70:61:7B		Cisco Systems, Inc
-70:61:BE		Wistron Neweb Corporation
+70:61:BE		WNC Corporation
 70:61:EE		Sunwoda Electronic Co.,Ltd
 70:62:B8		D-Link International
 70:64:17		Orbis Tecnologia Electrica S.A.
@@ -36134,7 +36135,7 @@
 74:6F:19		Icarvisions (Shenzhen) Technology Co., Ltd.
 74:6F:3D		Contec GmbH
 74:6F:88		zte corporation
-74:6F:F7		Wistron Neweb Corporation
+74:6F:F7		WNC Corporation
 74:70:69		Huawei Device Co., Ltd.
 74:70:FD		Intel Corporate
 74:71:8B		Apple, Inc.
@@ -36653,7 +36654,7 @@
 78:66:AE		ZTEC Instruments, Inc.
 78:66:D7		Genstoraige Technology Co.Ltd.
 78:66:F3		shenzhen worldelite electronics co., LTD
-78:67:0E		Wistron Neweb Corporation
+78:67:0E		WNC Corporation
 78:67:D7		Apple, Inc.
 78:68:29		eero inc.
 78:68:F7		YSTen Technology Co.,Ltd
@@ -37345,6 +37346,7 @@
 7C:AC:B2		Bosch Software Innovations GmbH
 7C:AD:4F		Cisco Systems, Inc
 7C:AD:74		Cisco Systems, Inc
+7C:AF:77		Nokia
 7C:B0:3E		OSRAM GmbH
 7C:B0:73		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 7C:B0:C2		Intel Corporate
@@ -37973,7 +37975,7 @@
 80:E9:4A		LEAPS s.r.o.
 80:EA:07		Tp-Link Technologies Co.,Ltd.
 80:EA:0B		Zyxel Communications Corporation
-80:EA:23		Wistron Neweb Corporation
+80:EA:23		WNC Corporation
 80:EA:96		Apple, Inc.
 80:EA:CA		Dialog Semiconductor Hellas SA
 80:EB:77		Wistron Corporation
@@ -38637,7 +38639,7 @@
 88:58:BE		kuosheng.com
 88:5A:06		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 88:5A:23		Celestica Inc.
-88:5A:85		Wistron Neweb Corporation
+88:5A:85		WNC Corporation
 88:5A:92		Cisco Systems, Inc
 88:5B:DD		Extreme Networks Headquarters
 88:5C:47		Alcatel Lucent
@@ -41580,7 +41582,7 @@
 8C:52:19		SHARP Corporation
 8C:53:C3		Beijing Xiaomi Mobile Software Co., Ltd
 8C:53:D2		China Mobile Group Device Co.,Ltd.
-8C:53:E6		Wistron Neweb Corporation
+8C:53:E6		WNC Corporation
 8C:53:F7		A&D Engineering Co., Ltd.
 8C:54:1D		Lge
 8C:55:4A		Intel Corporate
@@ -41604,7 +41606,7 @@
 8C:56:46		LG Electronics
 8C:56:9D		Imaging Solutions Group
 8C:56:C5		Nintendo Co., Ltd.
-8C:57:9B		Wistron Neweb Corporation
+8C:57:9B		WNC Corporation
 8C:57:FD		LVX Western
 8C:58:23		Sz Dji Technology Co.,Ltd
 8C:58:77		Apple, Inc.
@@ -41738,7 +41740,7 @@
 8C:8A:BB		Beijing Orient View Technology Co., Ltd.
 8C:8A:CD		Huawei Technologies Co.,Ltd
 8C:8B:48		Silicon Laboratories
-8C:8B:5B		Wistron Neweb Corporation
+8C:8B:5B		WNC Corporation
 8C:8B:83		Texas Instruments
 8C:8C:AA		LCFC(Hefei) Electronics Technology co., ltd
 8C:8D:28		Intel Corporate
@@ -42267,7 +42269,7 @@
 90:A2:DA		Gheo Sa
 90:A3:65		HMD Global Oy
 90:A4:6A		Sisnet Co., Ltd
-90:A4:DE		Wistron Neweb Corporation
+90:A4:DE		WNC Corporation
 90:A5:7D		Huawei Device Co., Ltd.
 90:A5:AF		Huawei Technologies Co.,Ltd
 90:A6:2F		Naver
@@ -43116,7 +43118,7 @@
 98:47:44		Shenzhen Boomtech Industrial Corporation
 98:48:27		Tp-Link Technologies Co.,Ltd.
 98:48:74		Huawei Technologies Co.,Ltd
-98:49:14		Wistron Neweb Corporation
+98:49:14		WNC Corporation
 98:49:25		Juniper Networks
 98:49:9F		Domo Tactical Communications
 98:49:E1		Boeing Defence Australia
@@ -45140,7 +45142,7 @@ A8:51:AB		Apple, Inc.
 A8:52:D4		Hewlett Packard Enterprise
 A8:53:7D		Mist Systems, Inc.
 A8:54:A2		Heimgard Technologies AS
-A8:54:B2		Wistron Neweb Corporation
+A8:54:B2		WNC Corporation
 A8:55:6A		3S System Technology Inc.
 A8:57:4E		Tp-Link Technologies Co.,Ltd.
 A8:58:40		Cambridge Industries(Group) Co.,Ltd.
@@ -45708,7 +45710,7 @@ AC:8F:F8		Nokia
 AC:90:73		Huawei Technologies Co.,Ltd
 AC:90:85		Apple, Inc.
 AC:91:5D		Digital Control Technology Limited
-AC:91:9B		Wistron Neweb Corporation
+AC:91:9B		WNC Corporation
 AC:91:A1		Dell Inc.
 AC:92:32		Huawei Technologies Co.,Ltd
 AC:93:2F		Nokia Corporation
@@ -45898,7 +45900,7 @@ AC:FD:CE		Intel Corporate
 AC:FD:EC		Apple, Inc.
 AC:FE:05		Itel Mobile Limited
 AC:FF:6B		Huawei Technologies Co.,Ltd
-B0:00:73		Wistron Neweb Corporation
+B0:00:73		WNC Corporation
 B0:00:B4		Cisco Systems, Inc
 B0:02:47		AMPAK Technology, Inc.
 B0:02:7E		Muller Services
@@ -47010,7 +47012,7 @@ B8:80:35		Shenzhen Qihu Intelligent Technology Company Limited
 B8:80:4F		Texas Instruments
 B8:81:98		Intel Corporate
 B8:81:FA		Apple, Inc.
-B8:82:F2		Wistron Neweb Corporation
+B8:82:F2		WNC Corporation
 B8:83:03		Hewlett Packard Enterprise
 B8:85:7B		Huawei Technologies Co.,Ltd
 B8:85:84		Dell Inc.
@@ -47064,7 +47066,7 @@ B8:9B:C9		SMC Networks Inc
 B8:9B:E4		ABB Power Systems Power Generation
 B8:9C:13		Alps Alpine
 B8:9E:A6		Spbec-Mining Co.Ltd
-B8:9F:09		Wistron Neweb Corporation
+B8:9F:09		WNC Corporation
 B8:9F:CC		Huawei Technologies Co.,Ltd
 B8:A0:B8		Samsung Electronics Co.,Ltd
 B8:A1:4A		Raisecom Technology CO., LTD
@@ -47101,7 +47103,7 @@ B8:B4:C9		Cisco Meraki
 B8:B7:7D		Guangdong Transtek Medical Electronics CO.,Ltd
 B8:B7:D7		2GIG Technologies
 B8:B7:DB		GOIP Global Services Pvt. Ltd.
-B8:B7:F1		Wistron Neweb Corporation
+B8:B7:F1		WNC Corporation
 B8:B8:1E		Intel Corporate
 B8:B9:4E		Shenzhen iBaby Labs, Inc.
 B8:BA:68		Xi'an Jizhong Digital Communication Co.,Ltd
@@ -47329,8 +47331,8 @@ BC:2E:C3		Shenzhen Tianruixiang Communication Equipment Co.,Ltd
 BC:2E:F6		Huawei Device Co., Ltd.
 BC:2F:3D		vivo Mobile Communication Co., Ltd.
 BC:30:5B		Dell Inc.
-BC:30:7D		Wistron Neweb Corporation
-BC:30:7E		Wistron Neweb Corporation
+BC:30:7D		WNC Corporation
+BC:30:7E		WNC Corporation
 BC:30:D9		Arcadyan Corporation
 BC:31:98		IEEE Registration Authority
 BC:31:98:00:00:00/28	Thinkcar Tech Co.,Ltd.
@@ -51033,7 +51035,7 @@ D8:5E:D3		Giga-Byte Technology Co.,Ltd.
 D8:5F:77		Telink Semiconductor (Shanghai) Co., Ltd.
 D8:60:B0		bioMérieux Italia S.p.A.
 D8:60:B3		Guangdong Global Electronic Technology CO.，LTD
-D8:61:62		Wistron Neweb Corporation
+D8:61:62		WNC Corporation
 D8:61:94		Objetivos y Sevicios de Valor Añadido
 D8:62:DB		Eno Inc.
 D8:63:0D		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
@@ -51462,7 +51464,7 @@ DC:4A:9E:B0:00:00/28	Maxvision Technology Corp.
 DC:4A:9E:C0:00:00/28	Hefei Datang Storage Technology Co.,Ltd
 DC:4A:9E:D0:00:00/28	Happiest Baby Inc.
 DC:4A:9E:E0:00:00/28	SES-imagotag Deutschland GmbH
-DC:4B:A1		Wistron Neweb Corporation
+DC:4B:A1		WNC Corporation
 DC:4B:DD		Shenzhen SuperElectron Technology Co.,Ltd.
 DC:4B:FE		Shenzhen Belon Technology CO.,LTD
 DC:4D:23		MRV Comunications
@@ -51869,7 +51871,7 @@ E0:35:60		Challenger Supply Holdings, LLC
 E0:36:76		Huawei Technologies Co.,Ltd
 E0:36:E3		Stage One International Co., Ltd.
 E0:37:17		Vantiva USA LLC
-E0:37:BF		Wistron Neweb Corporation
+E0:37:BF		WNC Corporation
 E0:38:2D		IEEE Registration Authority
 E0:38:2D:00:00:00/28	Beijing Cgprintech Technology Co.,Ltd
 E0:38:2D:10:00:00/28	Annapurna labs
@@ -52995,7 +52997,7 @@ E8:C4:17		Fiberhome Telecommunication Technologies Co.,LTD
 E8:C5:7A		Ufispace Co., LTD.
 E8:C6:E6		Changhong (Hongkong) Trading Limited
 E8:C7:4F		Liteon Technology Corporation
-E8:C7:CF		Wistron Neweb Corporation
+E8:C7:CF		WNC Corporation
 E8:C8:29		Intel Corporate
 E8:C9:13		Samsung Electronics Co.,Ltd
 E8:CA:50		Bouffalo Lab (Nanjing) Co., Ltd.
@@ -53732,7 +53734,14 @@ F0:3F:95		Huawei Technologies Co.,Ltd
 F0:3F:F8		R L Drake
 F0:40:7B		Fiberhome Telecommunication Technologies Co.,LTD
 F0:40:AF		IEEE Registration Authority
+F0:40:AF:00:00:00/28	Colorlight Cloud Tech Ltd
+F0:40:AF:20:00:00/28	Actia Nordic AB
 F0:40:AF:40:00:00/28	Robox Sg Pte. Ltd.
+F0:40:AF:50:00:00/28	Smart Gadgets Global LLC
+F0:40:AF:60:00:00/28	Nepean Networks Pty Ltd
+F0:40:AF:A0:00:00/28	Siemens Ag
+F0:40:AF:B0:00:00/28	Shenzhen BitFantasy Technology Co., Ltd
+F0:40:AF:D0:00:00/28	Proemion GmbH
 F0:40:EC		RainX PTE. LTD.
 F0:41:C6		Heat Tech Company, Ltd.
 F0:41:C8		IEEE Registration Authority
@@ -54307,7 +54316,7 @@ F4:6A:D7		Microsoft Corporation
 F4:6A:DD		Liteon Technology Corporation
 F4:6B:8C		Hon Hai Precision Industry Co., Ltd.
 F4:6B:EF		Sagemcom Broadband SAS
-F4:6C:68		Wistron Neweb Corporation
+F4:6C:68		WNC Corporation
 F4:6D:04		ASUSTek COMPUTER INC.
 F4:6D:2F		Tp-Link Technologies Co.,Ltd.
 F4:6D:3F		Intel Corporate
@@ -54825,7 +54834,7 @@ F8:6B:FA		Infinix mobility limited
 F8:6C:03		Shenzhen Teleone Technology Co., Ltd
 F8:6C:E1		Taicang T&W Electronics
 F8:6D:73		Zengge Co., Limited
-F8:6D:CC		Wistron Neweb Corporation
+F8:6D:CC		WNC Corporation
 F8:6E:CF		Arcx Inc
 F8:6E:EE		Huawei Technologies Co.,Ltd
 F8:6F:B0		Tp-Link Technologies Co.,Ltd.
