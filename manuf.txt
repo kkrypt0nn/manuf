@@ -38546,6 +38546,7 @@
 88:29:49		Renesas Electronics (Penang) Sdn. Bhd.
 88:29:50		Netmoon Technology Co., Ltd
 88:29:9C		Samsung Electronics Co.,Ltd
+88:29:BF		Amazon Technologies Inc.
 88:2A:5E		New H3C Technologies Co., Ltd
 88:2A:E1		Mrc Inc.
 88:2B:94		MADOKA SYSTEM Co.,Ltd.
@@ -39052,6 +39053,7 @@
 8C:19:2D:C0:00:00/28	You Zhengcheng co.,ltd
 8C:19:2D:D0:00:00/28	Pyras Technology Inc.
 8C:19:2D:E0:00:00/28	Elcon AB
+8C:19:52		Amazon Technologies Inc.
 8C:19:B5		Arcadyan Corporation
 8C:1A:50		China Mobile Group Device Co.,Ltd.
 8C:1A:BF		Samsung Electronics Co.,Ltd
@@ -40337,6 +40339,7 @@
 8C:1F:64:85:60:00/36	Garten Automation
 8C:1F:64:85:70:00/36	roda computer GmbH
 8C:1F:64:85:80:00/36	SFERA srl
+8C:1F:64:85:90:00/36	Invader Technologies Pvt Ltd
 8C:1F:64:85:A0:00/36	ENBIK Technology Co., Ltd
 8C:1F:64:85:B0:00/36	Atlantic Pumps Ltd
 8C:1F:64:85:C0:00/36	Zing 5g Communications Canada Inc.
@@ -44721,6 +44724,7 @@ A4:5F:9B		Nexell
 A4:5F:B9		DreamBig Semiconductor, Inc.
 A4:60:11		Verifone, Inc.
 A4:60:32		MRV Communications (Networks) LTD
+A4:61:85		Tools for Humanity Corporation
 A4:61:91		NamJunSa
 A4:62:DF		DS Global. Co., LTD
 A4:63:A1		Inventus Power Eletronica do Brasil LTDA
@@ -51627,6 +51631,7 @@ DC:B4:AC		Flextronics Manufacturing(Zhuhai)Co.,Ltd.
 DC:B4:C4		Microsoft XCG
 DC:B4:CA		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 DC:B4:D9		Espressif Inc.
+DC:B4:E8		Byos
 DC:B5:4F		Apple, Inc.
 DC:B7:2E		Xiaomi Communications Co Ltd
 DC:B7:AC		Hewlett Packard Enterprise
@@ -53726,6 +53731,7 @@ F0:3F:03		Private
 F0:3F:95		Huawei Technologies Co.,Ltd
 F0:3F:F8		R L Drake
 F0:40:7B		Fiberhome Telecommunication Technologies Co.,LTD
+F0:40:AF		IEEE Registration Authority
 F0:40:AF:40:00:00/28	Robox Sg Pte. Ltd.
 F0:40:EC		RainX PTE. LTD.
 F0:41:C6		Heat Tech Company, Ltd.
