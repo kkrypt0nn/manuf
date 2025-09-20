@@ -53735,6 +53735,7 @@ F0:3F:F8		R L Drake
 F0:40:7B		Fiberhome Telecommunication Technologies Co.,LTD
 F0:40:AF		IEEE Registration Authority
 F0:40:AF:00:00:00/28	Colorlight Cloud Tech Ltd
+F0:40:AF:10:00:00/28	Nuro.ai
 F0:40:AF:20:00:00/28	Actia Nordic AB
 F0:40:AF:40:00:00/28	Robox Sg Pte. Ltd.
 F0:40:AF:50:00:00/28	Smart Gadgets Global LLC
