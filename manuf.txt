@@ -21218,6 +21218,7 @@
 20:57:21		Salix Technology CO., Ltd.
 20:57:9E		Hunan Fn-Link Technology Limited
 20:57:AF		Shenzhen FH-NET OPTOELECTRONICS CO.,LTD
+20:58:43		WNC Corporation
 20:58:69		Ruckus Wireless
 20:59:A0		Paragon Technologies Inc.
 20:5A:00		Coval
@@ -23180,6 +23181,7 @@
 30:3F:BB		Hewlett Packard Enterprise
 30:40:74		zte corporation
 30:41:74		Altec Lansing Llc
+30:41:DB		vivo Mobile Communication Co., Ltd.
 30:42:25		Burg-Wächter Kg
 30:42:40		zte corporation
 30:42:A1		ilumisys Inc. DBA Toggled
@@ -41216,6 +41218,7 @@
 8C:1F:64:E2:30:00/36	Chemito Infotech PVT LTD
 8C:1F:64:E2:40:00/36	Cometa Sas
 8C:1F:64:E2:60:00/36	HyperSilicon Co.,Ltd
+8C:1F:64:E2:70:00/36	Eurotronic Technology GmbH
 8C:1F:64:E2:A0:00/36	Whitebox Technology Hong Kong Ltd
 8C:1F:64:E2:B0:00/36	Glotech Exim Private Limited
 8C:1F:64:E2:D0:00/36	RADA Electronics Industries Ltd.
@@ -41304,6 +41307,7 @@
 8C:1F:64:EB:D0:00/36	Esprit Digital Ltd
 8C:1F:64:EB:E0:00/36	Trafag Italia S.r.l.
 8C:1F:64:EB:F0:00/36	STEAMIQ, Inc.
+8C:1F:64:EC:00:00/36	VOOST analytics
 8C:1F:64:EC:10:00/36	Actronika SAS
 8C:1F:64:EC:20:00/36	Harbin Digital Economy Development Co.,Ltd
 8C:1F:64:EC:C0:00/36	Baldwin Jimek AB
@@ -41435,6 +41439,7 @@
 8C:1F:64:FA:50:00/36	Frazer-Nash Consultancy
 8C:1F:64:FA:60:00/36	SurveyorLabs LLC
 8C:1F:64:FA:80:00/36	Unitron Systems b.v.
+8C:1F:64:FA:90:00/36	FaceLabs.AI DBA PropTech.AI
 8C:1F:64:FA:A0:00/36	Massar Networks
 8C:1F:64:FA:B0:00/36	LIAN Corporation
 8C:1F:64:FA:C0:00/36	Showa Electric Laboratory co.,ltd.
@@ -46643,6 +46648,7 @@ B4:9A:95		Shenzhen Boomtech Industrial Corporation
 B4:9C:DF		Apple, Inc.
 B4:9D:02		Samsung Electronics Co.,Ltd
 B4:9D:0B		Bq
+B4:9D:6B		vivo Mobile Communication Co., Ltd.
 B4:9D:B4		Axion Technologies Inc.
 B4:9D:FD		Shenzhen SDMC Technology CO.,Ltd.
 B4:9E:80		Sichuan Changhong Electric Ltd.
@@ -50504,6 +50510,7 @@ D4:4C:A7		Informtekhnika & Communication, LLC
 D4:4D:77		Nokia
 D4:4D:9F		Shenzhen Skyworth Digital  Technology  CO., Ltd
 D4:4D:A4		Murata Manufacturing Co., Ltd.
+D4:4F:14		Tesla,Inc.
 D4:4F:67		Huawei Technologies Co.,Ltd
 D4:4F:68		Eidetic Communications Inc
 D4:4F:80		Kemper Digital GmbH
@@ -50961,6 +50968,7 @@ D8:31:CF		Samsung Electronics Co.,Ltd
 D8:32:14		Tenda Technology Co.,Ltd.Dongguan branch
 D8:32:5A		Shenzhen YOUHUA Technology Co., Ltd
 D8:32:E3		Xiaomi Communications Co Ltd
+D8:33:2A		Ruijie Networks Co.,LTD
 D8:33:7F		Office FA.com Co.,Ltd.
 D8:33:B7		Sagemcom Broadband SAS
 D8:34:1C		GD Midea Air-Conditioning Equipment Co.,Ltd.
@@ -53740,6 +53748,7 @@ F0:40:AF:20:00:00/28	Actia Nordic AB
 F0:40:AF:40:00:00/28	Robox Sg Pte. Ltd.
 F0:40:AF:50:00:00/28	Smart Gadgets Global LLC
 F0:40:AF:60:00:00/28	Nepean Networks Pty Ltd
+F0:40:AF:80:00:00/28	TargaSystem S.r.L.
 F0:40:AF:A0:00:00/28	Siemens Ag
 F0:40:AF:B0:00:00/28	Shenzhen BitFantasy Technology Co., Ltd
 F0:40:AF:D0:00:00/28	Proemion GmbH
