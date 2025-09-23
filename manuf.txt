@@ -29338,7 +29338,7 @@
 5C:BD:9E		Hongkong Miracle Eagle Technology(Group) Limited
 5C:BE:05		Ispec
 5C:BE:69		Oraimo Technology Limited
-5C:BF:03		Emoco Labs Ab
+5C:BF:03		Emoco
 5C:C0:A0		Huawei Technologies Co.,Ltd
 5C:C1:D7		Samsung Electronics Co.,Ltd
 5C:C1:F2		Huawei Technologies Co.,Ltd
@@ -39404,6 +39404,7 @@
 8C:1F:64:22:E0:00/36	Jide Car Rastreamento e Monitoramento LTDA
 8C:1F:64:23:10:00/36	Shenzhen zhushida Technology lnformation Co.,Ltd
 8C:1F:64:23:20:00/36	Monnit Corporation
+8C:1F:64:23:30:00/36	Tcl Operations Polska Sp. Z O.O.
 8C:1F:64:23:50:00/36	Marson Technology Co., Ltd.
 8C:1F:64:23:70:00/36	MB connect line GmbH
 8C:1F:64:23:90:00/36	Shekel Scales 2008 Ltd
@@ -39569,6 +39570,7 @@
 8C:1F:64:34:20:00/36	TimeMachines Inc.
 8C:1F:64:34:50:00/36	Kreafeuer AG, Swiss finsh
 8C:1F:64:34:70:00/36	Plut d.o.o.
+8C:1F:64:34:80:00/36	Breas Medical AB
 8C:1F:64:34:90:00/36	Waves System
 8C:1F:64:34:A0:00/36	Raspberry Pi (Trading) Ltd
 8C:1F:64:34:B0:00/36	Infrared Inspection Systems
@@ -40624,6 +40626,7 @@
 8C:1F:64:A3:80:00/36	NuGrid Power
 8C:1F:64:A3:90:00/36	MG s.r.l.
 8C:1F:64:A3:B0:00/36	Fujian Satlink Electronics Co., Ltd
+8C:1F:64:A3:C0:00/36	Talleres de Escoriaza SAU
 8C:1F:64:A3:E0:00/36	Hiwin Mikrosystem Corp.
 8C:1F:64:A3:F0:00/36	ViewSonic Corp
 8C:1F:64:A4:20:00/36	Rodgers Instruments US LLC
@@ -48396,6 +48399,7 @@ C4:64:F2		Infinix mobility limited
 C4:65:16		Hewlett Packard
 C4:66:99		vivo Mobile Communication Co., Ltd.
 C4:67:8B		Alphabet Capital Sdn Bhd
+C4:67:A1		Accelight Technologies (Wuhan) Inc.
 C4:67:B5		Libratone A/S
 C4:67:D1		Huawei Technologies Co.,Ltd
 C4:68:D0		VTech Telecommunications Ltd.
@@ -53745,12 +53749,15 @@ F0:40:AF		IEEE Registration Authority
 F0:40:AF:00:00:00/28	Colorlight Cloud Tech Ltd
 F0:40:AF:10:00:00/28	Nuro.ai
 F0:40:AF:20:00:00/28	Actia Nordic AB
+F0:40:AF:30:00:00/28	Flextronics Technologies India Private Limited
 F0:40:AF:40:00:00/28	Robox Sg Pte. Ltd.
 F0:40:AF:50:00:00/28	Smart Gadgets Global LLC
 F0:40:AF:60:00:00/28	Nepean Networks Pty Ltd
 F0:40:AF:80:00:00/28	TargaSystem S.r.L.
+F0:40:AF:90:00:00/28	Raspberry Pi (Trading) Ltd
 F0:40:AF:A0:00:00/28	Siemens Ag
 F0:40:AF:B0:00:00/28	Shenzhen BitFantasy Technology Co., Ltd
+F0:40:AF:C0:00:00/28	Rayve Innovation Corp
 F0:40:AF:D0:00:00/28	Proemion GmbH
 F0:40:EC		RainX PTE. LTD.
 F0:41:C6		Heat Tech Company, Ltd.
