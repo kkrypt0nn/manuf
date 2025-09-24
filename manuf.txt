@@ -8074,7 +8074,7 @@
 00:1E:CE		BISA Technologies (Hong Kong) Limited
 00:1E:CF		Philips Electronics Uk Ltd
 00:1E:D0		Ingespace
-00:1E:D1		Keyprocessor B.V.
+00:1E:D1		TKH Security B.V.
 00:1E:D2		Ray Shine Video Technology Inc
 00:1E:D3		Dot Technology Int'l Co., Ltd.
 00:1E:D4		Doble Engineering
@@ -17572,6 +17572,7 @@
 04:5D:4B		Sony Corporation
 04:5D:56		camtron industrial inc.
 04:5E:A4		Netis Technology Co., Ltd.
+04:5F:A6		Shenzhen SDMC Technology CP,.LTD
 04:5F:A7		Shenzhen Yichen Technology Development Co.,LTD
 04:5F:B9		Cisco Systems, Inc
 04:61:69		Media Global Links Co., Ltd.
@@ -20233,6 +20234,7 @@
 18:8B:9D		Cisco Systems, Inc
 18:8E:D5		TP Vision Belgium N.V. - innovation site Brugge
 18:8E:F9		G2C Co. Ltd.
+18:90:24		Astera LED Technology GmbH
 18:90:67		Shenzhen Jingxun Technology Co., Ltd.
 18:90:88		eero inc.
 18:90:D8		Sagemcom Broadband SAS
@@ -21882,6 +21884,7 @@
 24:D3:37		Xiaomi Communications Co Ltd
 24:D3:F2		zte corporation
 24:D5:1C		Zhongtian broadband technology co., LTD
+24:D5:3B		Motorola Mobility LLC, a Lenovo Company
 24:D5:E4		Cisco Systems, Inc
 24:D7:6B		Syntronic AB
 24:D7:9C		Cisco Systems, Inc
@@ -21994,6 +21997,7 @@
 28:11:A8		Intel Corporate
 28:11:EC		Huawei Technologies Co.,Ltd
 28:12:93		Honor Device Co., Ltd.
+28:12:D0		Motorola Mobility LLC, a Lenovo Company
 28:14:71		Lantis co., LTD.
 28:15:A4		Shenzhen Pinsu Zhilian Information Technology Co.,Ltd.
 28:16:2E		2Wire Inc
@@ -22717,6 +22721,7 @@
 2C:63:73		Sichuan Tianyi Comheart Telecom Co.,LTD
 2C:64:1F		Vizio, Inc
 2C:64:F6		Wu Qi Technologies,Inc.
+2C:65:8D		Cisco Systems, Inc
 2C:66:AD		NimbleTech Digital Inc.
 2C:66:F5		Shenzhen Electrical Appliances Co.
 2C:67:98		InTalTech Ltd.
@@ -37720,6 +37725,7 @@
 80:60:07		Rim
 80:60:36		Huawei Technologies Co.,Ltd
 80:60:B7		Cloud Network Technology Singapore Pte. Ltd.
+80:61:32		Cisco Systems, Inc
 80:61:5F		Beijing Sinead Technology Co., Ltd.
 80:61:6C		New H3C Technologies Co., Ltd
 80:61:8F		Shenzhen sangfei consumer communications co.,ltd
@@ -39433,6 +39439,7 @@
 8C:1F:64:26:10:00/36	TargaSystem S.r.L.
 8C:1F:64:26:30:00/36	EPC Power Corporation
 8C:1F:64:26:40:00/36	BR. Voss Ingenjörsfirma AB
+8C:1F:64:26:60:00/36	Guardian Controls International Ltd
 8C:1F:64:26:70:00/36	Karl DUNGS GmbH & Co. KG
 8C:1F:64:26:80:00/36	Astro Machine Corporation
 8C:1F:64:26:90:00/36	Sicon srl
@@ -48870,6 +48877,7 @@ C8:32:32		Hunting Innova
 C8:33:4B		Apple, Inc.
 C8:33:E5		Huawei Technologies Co.,Ltd
 C8:34:8E		Intel Corporate
+C8:34:E5		Cisco Systems, Inc
 C8:35:B8		Ericsson, EAB/RWI/K
 C8:36:A3		Gertec Brasil Ltda
 C8:38:70		Samsung Electronics Co.,Ltd
@@ -49013,6 +49021,7 @@ C8:77:8B		Mercury Systems – Trusted Mission Solutions, Inc.
 C8:77:F3		VusionGroup
 C8:78:67		Mist Systems, Inc.
 C8:78:7D		D-Link Corporation
+C8:78:F7		Cisco Systems, Inc
 C8:7B:23		Bose Corporation
 C8:7B:5B		zte corporation
 C8:7C:BC		Valink Co., Ltd.
@@ -53753,12 +53762,14 @@ F0:40:AF:30:00:00/28	Flextronics Technologies India Private Limited
 F0:40:AF:40:00:00/28	Robox Sg Pte. Ltd.
 F0:40:AF:50:00:00/28	Smart Gadgets Global LLC
 F0:40:AF:60:00:00/28	Nepean Networks Pty Ltd
+F0:40:AF:70:00:00/28	Unionbell Technologies Limited
 F0:40:AF:80:00:00/28	TargaSystem S.r.L.
 F0:40:AF:90:00:00/28	Raspberry Pi (Trading) Ltd
 F0:40:AF:A0:00:00/28	Siemens Ag
 F0:40:AF:B0:00:00/28	Shenzhen BitFantasy Technology Co., Ltd
 F0:40:AF:C0:00:00/28	Rayve Innovation Corp
 F0:40:AF:D0:00:00/28	Proemion GmbH
+F0:40:AF:E0:00:00/28	Shanghai Kanghai Information System CO.,LTD.
 F0:40:EC		RainX PTE. LTD.
 F0:41:C6		Heat Tech Company, Ltd.
 F0:41:C8		IEEE Registration Authority
