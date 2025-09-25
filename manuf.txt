@@ -30799,6 +30799,7 @@
 68:EE:88		Shenzhen TINNO Mobile Technology Corp.
 68:EE:96		Cisco SPVTG
 68:EF:43		Apple, Inc.
+68:EF:A8		AutomationDirect.com
 68:EF:AB		Vention
 68:EF:BD		Cisco Systems, Inc
 68:EF:DC		Apple, Inc.
