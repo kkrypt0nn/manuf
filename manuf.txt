@@ -18515,6 +18515,7 @@
 08:F8:0D:D0:00:00/28	Zhe Jiang EV-Tech Co.,Ltd
 08:F8:0D:E0:00:00/28	Suzhou Sidi Information Technology Co., Ltd.
 08:F8:BC		Apple, Inc.
+08:F9:7E		Cloud Network Technology Singapore Pte. Ltd.
 08:F9:E0		Espressif Inc.
 08:FA:28		Huawei Technologies Co.,Ltd
 08:FA:79		vivo Mobile Communication Co., Ltd.
@@ -22276,6 +22277,7 @@
 28:B2:BD		Intel Corporate
 28:B3:71		Ruckus Wireless
 28:B3:AB		Genmark Automation
+28:B4:46		Shenzhen Chuangwei-Rgb Electronics Co.,Ltd
 28:B4:48		Huawei Technologies Co.,Ltd
 28:B4:FB		Sprocomm Technologies CO.,LTD.
 28:B5:91		Cisco Systems, Inc
@@ -27835,6 +27837,7 @@
 50:8E:49		Xiaomi Communications Co Ltd
 50:8F:4C		Xiaomi Communications Co Ltd
 50:91:E3		TP-Link Systems Inc
+50:92:6A		Beijing Xiaomi Mobile Software Co., Ltd
 50:92:B9		Samsung Electronics Co.,Ltd
 50:93:4F		Gradual Tecnologia Ltda.
 50:93:CE		Huawei Technologies Co.,Ltd
@@ -28057,6 +28060,7 @@
 50:FC:9F		Samsung Electronics Co.,Ltd
 50:FD:D5		SJI Industry Company
 50:FE:0C		AzureWave Technology Inc.
+50:FE:39		Beijing Xiaomi Mobile Software Co., Ltd
 50:FE:F2		Sify Technologies Ltd
 50:FF:20		Keenetic Limited
 50:FF:99		IEEE Registration Authority
@@ -29095,6 +29099,7 @@
 5C:43:D2		Hazemeyer
 5C:44:3E		Skullcandy
 5C:45:27		Juniper Networks
+5C:45:46		Shenzhen Water World Information Co.,Ltd.
 5C:46:B0		SIMCom Wireless Solutions Limited
 5C:47:5E		Ring LLC
 5C:48:42		Hangzhou Anysoft Information Technology Co. , Ltd
@@ -43169,6 +43174,7 @@
 98:59:7A		Intel Corporate
 98:5A:98		Huawei Technologies Co.,Ltd
 98:5A:EB		Apple, Inc.
+98:5B:76		Vantiva Connected Home - Orange Belgium
 98:5B:B0		Kmdata Inc.
 98:5C:93		SBG Systems SAS
 98:5D:46		PeopleNet Communication
@@ -52462,6 +52468,7 @@ E4:77:D4		Minrray Industry Co.,Ltd
 E4:78:76		Arista Networks
 E4:7A:2C		Sz Dji Technology Co.,Ltd
 E4:7B:3F		Beijing Co-Cloud Technology Ltd.
+E4:7C:1A		mercury corperation
 E4:7C:65		Sunstar Communication Technology  Co., Ltd
 E4:7C:F9		Samsung Electronics Co.,Ltd
 E4:7D:5A		Beijing Hanbang Technology Corp.
@@ -53246,6 +53253,7 @@ EC:36:3F		Markov Corporation
 EC:38:73		Juniper Networks
 EC:38:8F		Huawei Technologies Co.,Ltd
 EC:3A:52		Huawei Device Co., Ltd.
+EC:3A:56		AzureWave Technology Inc.
 EC:3B:AF		EM Microelectronic
 EC:3B:F0		NovelSat
 EC:3C:5A		Shen Zhen Heng Sheng Hui Digital Technology Co.,Ltd
