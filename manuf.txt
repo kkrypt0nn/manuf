@@ -19513,6 +19513,7 @@
 10:E9:92		Ingram Micro Services
 10:EA:59		Cisco SPVTG
 10:EC:81		Samsung Electronics Co.,Ltd
+10:ED:C8		NXP Semiconductors Taiwan Ltd.
 10:EE:D9		Canoga Perkins Corporation
 10:F0:05		Intel Corporate
 10:F0:68		Ruckus Wireless
@@ -23596,6 +23597,7 @@
 34:25:B4		Silicon Laboratories
 34:25:BE		Amazon Technologies Inc.
 34:26:06		CarePredict, Inc.
+34:26:E6		Cig Shanghai Co Ltd
 34:27:92		Freebox Sas
 34:28:40		Apple, Inc.
 34:28:65		Juniper Networks
@@ -40576,6 +40578,7 @@
 8C:1F:64:9C:00:00/36	Header Rhyme
 8C:1F:64:9C:10:00/36	RealWear
 8C:1F:64:9C:30:00/36	Camozzi Automation SpA
+8C:1F:64:9C:40:00/36	Indra Heera Network Private Limited
 8C:1F:64:9C:60:00/36	Golding Audio Ltd
 8C:1F:64:9C:A0:00/36	EDC Acoustics
 8C:1F:64:9C:B0:00/36	Shanghai Sizhong Information Technology Co., Ltd
@@ -46461,6 +46464,7 @@ B4:1B:B0		Apple, Inc.
 B4:1C:30		zte corporation
 B4:1C:AB		ICR, inc.
 B4:1D:2B		Shenzhen YOUHUA Technology Co., Ltd
+B4:1D:62		Nokia Shanghai Bell Co., Ltd.
 B4:1D:C4		Huawei Technologies Co.,Ltd
 B4:1D:EF		Internet Laboratories, Inc.
 B4:1E:52		Flock Safety
