@@ -18735,6 +18735,7 @@
 0C:73:EB:C0:00:00/28	Shenzhen Samchung Video Technology Co., Ltd.
 0C:73:EB:D0:00:00/28	D-Link （Shanghai）Limited Corp.
 0C:73:EB:E0:00:00/28	Taiwan Pulse Motion Co., Ltd.
+0C:74:74		Fiberhome Telecommunication Technologies Co.,LTD
 0C:74:C2		Apple, Inc.
 0C:75:12		Shenzhen Kunlun TongTai Technology  Co.,Ltd.
 0C:75:23		Beijing Gehua Catv Network Co.,Ltd
@@ -20374,7 +20375,7 @@
 18:CA:A7		zte corporation
 18:CC:18		Intel Corporate
 18:CC:23		Philio Technology Corporation
-18:CC:88		Hitachi Air Conditioning Shimizu, Inc.
+18:CC:88		Hitachi Global Life Solutions, Inc.
 18:CE:94		Samsung Electronics Co.,Ltd
 18:CE:DF		Quectel Wireless Solutions Co.,Ltd.
 18:CF:24		Huawei Technologies Co.,Ltd
@@ -30876,6 +30877,7 @@
 6C:0F:6A		JDC Tech Co., Ltd.
 6C:10:8B		WeLink Communications
 6C:11:B3		Wu Qi Technologies,Inc.
+6C:11:BA		zte corporation
 6C:12:70		Apple, Inc.
 6C:13:D5		Cisco Systems, Inc
 6C:14:14		BUJEON ELECTRONICS Co,.Ltd
@@ -43136,6 +43138,7 @@
 98:3F:60		Huawei Technologies Co.,Ltd
 98:3F:66		Funshion Online Technologies Co.,Ltd
 98:3F:9F		China SSJ (Suzhou) Network Technology Inc.
+98:3F:A4		zte corporation
 98:3F:E8		Samsung Electronics Co.,Ltd
 98:40:BB		Dell Inc.
 98:41:5C		Nintendo Co.,Ltd
@@ -45377,6 +45380,7 @@ A8:CB:95		East Best Co., Ltd.
 A8:CC:6F		HMD Global Oy
 A8:CC:C5		Saab AB (publ)
 A8:CE:90		Cvc
+A8:CE:E7		Fiberhome Telecommunication Technologies Co.,LTD
 A8:CF:E0		GDN Enterprises Private Limited
 A8:D0:81		Huawei Device Co., Ltd.
 A8:D0:E3		Systech Electronics Ltd
@@ -47966,6 +47970,7 @@ C0:6C:0F		Dobbs Stanford
 C0:6C:6D		MagneMotion, Inc.
 C0:6D:1A		Tianjin Henxinhuifeng Technology Co.,Ltd.
 C0:6D:ED		Hangzhou Hikvision Digital Technology Co.,Ltd.
+C0:6E:3D		Shenzhen Tecno Technology
 C0:6F:98		eero inc.
 C0:70:09		Huawei Technologies Co.,Ltd
 C0:71:AA		ShenZhen OnMicro Electronics Co.,Ltd.
@@ -50736,6 +50741,7 @@ D4:9D:C0		Samsung Electronics Co.,Ltd
 D4:9E:05		zte corporation
 D4:9E:3B		Guangzhou Shiyuan Electronic Technology Company Limited
 D4:9E:6D		Wuhan Zhongyuan Huadian Science & Technology Co.,
+D4:9F:29		Fiberhome Telecommunication Technologies Co.,LTD
 D4:9F:DD		Huawei Device Co., Ltd.
 D4:A0:2A		Cisco Systems, Inc
 D4:A0:FB		IEEE Registration Authority
@@ -52445,6 +52451,7 @@ E4:62:C4		Cisco Systems, Inc
 E4:64:47		EM Microelectronic
 E4:64:49		Commscope
 E4:65:64		Shenzhen Ktc Technology Co.,Ltd
+E4:65:66		Maple IoT Solutions LLC
 E4:65:B8		Espressif Inc.
 E4:66:AB		zte corporation
 E4:66:E5		Nanjing Qinheng Microelectronics Co., Ltd.
@@ -53131,6 +53138,10 @@ E8:F4:94		AltoBeam Inc.
 E8:F6:0A		Espressif Inc.
 E8:F6:54		Huawei Technologies Co.,Ltd
 E8:F6:73		Microsoft Corporation
+E8:F6:D7:20:00:00/28	Jinan Ruolin Video Technology Co., Ltd
+E8:F6:D7:90:00:00/28	Hefei BOE Vision-electronic Technology Co.,Ltd.
+E8:F6:D7:B0:00:00/28	Guangzhou Panyu Juda Car Audio Equipment Co.,Ltd
+E8:F6:D7:D0:00:00/28	ZhuoPuCheng (Shenzhen) Technology.Co.,Ltd.
 E8:F7:24		Hewlett Packard Enterprise
 E8:F7:2F		Huawei Technologies Co.,Ltd
 E8:F7:91		Xiaomi Communications Co Ltd
@@ -53382,6 +53393,7 @@ EC:75:0C		TP-Link Systems Inc.
 EC:75:3E		Huawei Technologies Co.,Ltd
 EC:75:ED		Citrix Systems, Inc.
 EC:79:49		Fujitsu Limited
+EC:79:C0		zte corporation
 EC:79:F2		Startel
 EC:7C:2C		Huawei Technologies Co.,Ltd
 EC:7C:5C		Juniper Networks
@@ -55668,6 +55680,7 @@ FC:F6:47		Fiberhome Telecommunication Technologies Co.,LTD
 FC:F7:38		Huawei Technologies Co.,Ltd
 FC:F7:63		KunGao Micro (JiangSu) Co., LTd
 FC:F7:7B		Huawei Device Co., Ltd.
+FC:F8:61		Harman/Becker Automotive Systems GmbH
 FC:F8:AE		Intel Corporate
 FC:F8:B7		TRONTEQ Electronic
 FC:FA:21		zte corporation
