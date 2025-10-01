@@ -17451,6 +17451,7 @@
 04:1B:6D		LG Electronics (Mobile Communications)
 04:1B:94		Host Mobility AB
 04:1B:BA		Samsung Electronics Co.,Ltd
+04:1C:DB		Siba Service
 04:1D:10		Dream Ware Inc.
 04:1D:C7		zte corporation
 04:1E:64		Apple, Inc.
@@ -40108,6 +40109,7 @@
 8C:1F:64:6A:30:00/36	Becton Dickinson
 8C:1F:64:6A:40:00/36	Automata Spa
 8C:1F:64:6A:60:00/36	Q (Cue), Inc.
+8C:1F:64:6A:70:00/36	MobileMustHave
 8C:1F:64:6A:80:00/36	Bulwark
 8C:1F:64:6A:B0:00/36	Toho System Co., Ltd.
 8C:1F:64:6A:D0:00/36	Potter Electric Signal Co. LLC
@@ -40505,6 +40507,7 @@
 8C:1F:64:93:70:00/36	H2Ok Innovations
 8C:1F:64:93:90:00/36	SPIT Technology, Inc
 8C:1F:64:93:A0:00/36	Rejås of Sweden AB
+8C:1F:64:93:F0:00/36	Temcoline
 8C:1F:64:94:10:00/36	Lorenz GmbH & Co. KG
 8C:1F:64:94:30:00/36	Autark GmbH
 8C:1F:64:94:40:00/36	BRS Sistemas Eletrônicos
@@ -40994,6 +40997,7 @@
 8C:1F:64:C6:D0:00/36	EA Elektro-Automatik GmbH
 8C:1F:64:C6:E0:00/36	Safe Instruments
 8C:1F:64:C6:F0:00/36	Luneau Technology Operations
+8C:1F:64:C7:00:00/36	Invixium Access Inc
 8C:1F:64:C7:10:00/36	Yaviar LLC
 8C:1F:64:C7:40:00/36	Nippon Techno Lab Inc
 8C:1F:64:C7:50:00/36	Abbott Diagnostics Technologies AS
@@ -45322,6 +45326,7 @@ A8:9D:D2		Shanghai DareGlobal Technologies Co.,Ltd
 A8:9F:BA		Samsung Electronics Co.,Ltd
 A8:9F:EC		Commscope
 A8:A0:89		Tactical Communications
+A8:A0:92		China Dragon Technology Limited
 A8:A0:97		ScioTeq bvba
 A8:A1:59		ASRock Incorporation
 A8:A1:98		TCT mobile ltd
@@ -49917,6 +49922,7 @@ D0:16:F0:D0:00:00/28	Top Guard Technologies
 D0:16:F0:E0:00:00/28	BBPOS Limited
 D0:17:69		Murata Manufacturing Co., Ltd.
 D0:17:6A		Samsung Electronics Co.,Ltd
+D0:17:B7		Atios AG
 D0:17:C2		ASUSTek COMPUTER INC.
 D0:19:6A		Ciena Corporation
 D0:19:D3		Itel Mobile Limited
@@ -53138,6 +53144,7 @@ E8:F4:94		AltoBeam Inc.
 E8:F6:0A		Espressif Inc.
 E8:F6:54		Huawei Technologies Co.,Ltd
 E8:F6:73		Microsoft Corporation
+E8:F6:D7		IEEE Registration Authority
 E8:F6:D7:20:00:00/28	Jinan Ruolin Video Technology Co., Ltd
 E8:F6:D7:90:00:00/28	Hefei BOE Vision-electronic Technology Co.,Ltd.
 E8:F6:D7:B0:00:00/28	Guangzhou Panyu Juda Car Audio Equipment Co.,Ltd
