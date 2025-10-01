@@ -17465,6 +17465,7 @@
 04:21:4C		Insight Energy Ventures LLC
 04:22:34		Wireless Standard Extensions
 04:23:22		Texas Instruments
+04:24:05		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 04:25:C5		Huawei Technologies Co.,Ltd
 04:25:E0		Taicang T&W Electronics
 04:25:E8		Texas Instruments
@@ -19121,6 +19122,7 @@
 10:13:31		Technicolor Delivery Technologies Belgium NV
 10:13:EE		Justec International Technology INC.
 10:15:C1		Zhanzuo (Beijing) Technology Co., Ltd.
+10:16:B1		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 10:18:49		Weifang Goertek Electronics Co.,Ltd
 10:18:9E		Elmo Motion Control
 10:19:65		New H3C Technologies Co., Ltd
@@ -19327,6 +19329,7 @@
 10:82:3D		Ruijie Networks Co.,LTD
 10:82:86		Luxshare Precision Industry Co.,Ltd
 10:82:D7		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
+10:83:21		Yichip Microelectronics (Hangzhou) Co.,Ltd
 10:83:B4		Sidora Srl
 10:83:D2		Microseven Systems, LLC
 10:86:8C		Commscope
@@ -23003,6 +23006,7 @@
 2C:EA:7F		Dell Inc.
 2C:EA:DA		ICC Intelligent Platforms GmbH
 2C:EA:DC		Askey Computer Corp
+2C:EA:FC		Intel Corporate
 2C:EC:A6		Huawei Technologies Co.,Ltd
 2C:EC:F7		Shenzhen SDMC Technology CO.,Ltd.
 2C:ED:89		Huawei Technologies Co.,Ltd
@@ -23314,6 +23318,7 @@
 30:7F:10		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 30:80:9B		New H3C Technologies Co., Ltd
 30:82:16		Apple, Inc.
+30:83:6B		SteeRetail Co.,Ltd.
 30:83:98		Espressif Inc.
 30:83:D2		Motorola Mobility LLC, a Lenovo Company
 30:84:54		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
@@ -28195,6 +28200,7 @@
 54:35:30		Hon Hai Precision Ind. Co.,Ltd.
 54:35:DF		Symeo GmbH
 54:35:E9		Feitian Technologies Co., Ltd
+54:36:31		Intel Corporate
 54:36:9B		1Verge Internet Technology (Beijing) Co., Ltd.
 54:37:BB		Taicang T&W Electronics
 54:39:68		Edgewater Networks Inc
@@ -28339,6 +28345,7 @@
 54:92:BE		Samsung Electronics Co.,Ltd
 54:93:59		Shenzhen Twowing Technologies Co.,Ltd.
 54:94:78		Silvershore Technology Partners
+54:96:CB		AMPAK Technology Inc.
 54:99:63		Apple, Inc.
 54:9A:11		IEEE Registration Authority
 54:9A:11:00:00:00/28	Shenzhen Excera Technology Co.,Ltd.
@@ -37049,6 +37056,7 @@
 7A:FD:44		Rosenberger Hochfrequenztechnik GmbH & Co. KG
 7C:00:4D		Huawei Technologies Co.,Ltd
 7C:01:0A		Texas Instruments
+7C:01:3E		Gsd Viet Nam Technology Company Limited
 7C:01:87		Curtis Instruments, Inc.
 7C:01:91		Apple, Inc.
 7C:02:BC		Hansung Electronics Co. LTD
@@ -37621,6 +37629,7 @@
 80:0E:A9		TCL Yuxin Zhixing Technology (Huizhou) Co.,Ltd
 80:12:42		Apple, Inc.
 80:12:DF		Shenzhen SuperElectron Technology Co.,Ltd.
+80:13:16		Intel Corporate
 80:13:82		Huawei Technologies Co.,Ltd
 80:14:40		Sunlit System Technology Corp
 80:14:A8		Guangzhou V-SOLUTION Electronic Technology Co., Ltd.
@@ -38037,6 +38046,7 @@
 84:05:11		Apple, Inc.
 84:06:FA		Fiberhome Telecommunication Technologies Co.,LTD
 84:07:C4		Walter Kidde Portable Equipment, Inc.
+84:08:3A		Intel Corporate
 84:0A:9E		Nexapp Technologies Pvt Ltd
 84:0B:2D		Samsung Electro Mechanics Co., Ltd.
 84:0B:7C		Hitron Technologies. Inc
@@ -38297,6 +38307,7 @@
 84:8F:69		Dell Inc.
 84:90:00		Arnold&Richter Cine Technik GmbH & Co. Betriebs KG
 84:90:0A		Arcadyan Corporation
+84:92:65		Intel Corporate
 84:92:E5		Huawei Technologies Co.,Ltd
 84:93:0C		InCoax Networks Europe AB
 84:93:A0		Huawei Device Co., Ltd.
@@ -38411,6 +38422,7 @@
 84:CF:BF		Fairphone
 84:D0:DB		Guangdong Juan Intelligent Technology Joint Stock Co., Ltd.
 84:D1:5A		TCT mobile ltd
+84:D1:C1		Intel Corporate
 84:D3:28		Apple, Inc.
 84:D3:2A		Ieee 1905.1
 84:D3:43		Calix Inc.
@@ -40013,6 +40025,7 @@
 8C:1F:64:5F:A0:00/36	PolCam Systems Sp. z o.o.
 8C:1F:64:5F:B0:00/36	Recom Llc.
 8C:1F:64:5F:C0:00/36	Lance Design LLC
+8C:1F:64:5F:F0:00/36	Dave Srl
 8C:1F:64:60:00:00/36	Anhui Chaokun Testing Equipment Co., Ltd
 8C:1F:64:60:10:00/36	Camius
 8C:1F:64:60:30:00/36	Fuku Energy Technology Co., Ltd.
@@ -40145,6 +40158,7 @@
 8C:1F:64:6D:D0:00/36	ViewSonic Corp
 8C:1F:64:6D:E0:00/36	SUN･TECTRO,Ltd.
 8C:1F:64:6D:F0:00/36	ALPHI Technology Corporation
+8C:1F:64:6E:00:00/36	KMtronic LTD
 8C:1F:64:6E:20:00/36	SCU Co., Ltd.
 8C:1F:64:6E:30:00/36	ViewSonic International Corporation
 8C:1F:64:6E:40:00/36	RAB Microfluidics R&D Company Ltd
@@ -42341,6 +42355,7 @@
 90:AD:FC		Telechips, Inc.
 90:AE:1B		Tp-Link Technologies Co.,Ltd.
 90:AF:D1		netKTI Co., Ltd
+90:B0:21		Intel Corporate
 90:B0:ED		Apple, Inc.
 90:B1:1C		Dell Inc.
 90:B1:34		Commscope
@@ -42583,6 +42598,7 @@
 94:24:E1		Alcatel-Lucent Enterprise
 94:25:33		Huawei Technologies Co.,Ltd
 94:26:1D		Huawei Technologies Co.,Ltd
+94:27:0E		Intel Corporate
 94:27:70		BSH Hausgeräte GmbH
 94:27:90		TCT mobile ltd
 94:28:2E		New H3C Technologies Co., Ltd
@@ -42668,6 +42684,7 @@
 94:51:DC		Espressif Inc.
 94:52:44		Samsung Electronics Co.,Ltd
 94:53:30		Hon Hai Precision Ind. Co.,Ltd.
+94:53:FF		Intel Corporate
 94:54:93		Rigado, LLC
 94:54:C5		Espressif Inc.
 94:54:CE		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
@@ -50019,6 +50036,7 @@ D0:54:75		SAVI Controls
 D0:55:09		Nintendo Co.,Ltd
 D0:55:B2		Integrated Device Technology (Malaysia) Sdn. Bhd.
 D0:56:BF		Amosense
+D0:56:F2		Buffalo.Inc
 D0:56:FB		Samsung Electronics Co.,Ltd
 D0:57:4C		Cisco Systems, Inc
 D0:57:7B		Intel Corporate
@@ -50723,6 +50741,7 @@ D4:93:A0		Fidelix Oy
 D4:94:00		Huawei Technologies Co.,Ltd
 D4:94:5A		Cosmo Co., Ltd
 D4:94:A1		Texas Instruments
+D4:94:A9		Intel Corporate
 D4:94:E8		Huawei Technologies Co.,Ltd
 D4:94:FB		Continental Automotive Systems Inc.
 D4:95:24		Clover Network, Inc.
@@ -52054,6 +52073,7 @@ E0:6D:17		Apple, Inc.
 E0:6D:18		Pioneercorporation
 E0:70:EA		HP Inc.
 E0:72:0A		Shenzhen SuperElectron Technology Co.,Ltd.
+E0:72:56		Intel Corporate
 E0:73:5F		Nucom
 E0:73:E7		HP Inc.
 E0:75:0A		Alpsalpine Co,.Ltd
@@ -52192,6 +52212,7 @@ E0:C7:67		Apple, Inc.
 E0:C7:9D		Texas Instruments
 E0:C8:6A		SHENZHEN TW-SCIE Co., Ltd
 E0:C9:22		Jireh Energy Tech., Ltd.
+E0:C9:32		Intel Corporate
 E0:C9:7A		Apple, Inc.
 E0:CA:3C		Hangzhou Hikvision Digital Technology Co.,Ltd.
 E0:CA:4D		Shenzhen Unistar Communication Co.,LTD
@@ -53145,9 +53166,11 @@ E8:F6:0A		Espressif Inc.
 E8:F6:54		Huawei Technologies Co.,Ltd
 E8:F6:73		Microsoft Corporation
 E8:F6:D7		IEEE Registration Authority
+E8:F6:D7:10:00:00/28	Precision Fukuhara Works,Ltd.
 E8:F6:D7:20:00:00/28	Jinan Ruolin Video Technology Co., Ltd
 E8:F6:D7:90:00:00/28	Hefei BOE Vision-electronic Technology Co.,Ltd.
 E8:F6:D7:B0:00:00/28	Guangzhou Panyu Juda Car Audio Equipment Co.,Ltd
+E8:F6:D7:C0:00:00/28	clover Co,.Ltd
 E8:F6:D7:D0:00:00/28	ZhuoPuCheng (Shenzhen) Technology.Co.,Ltd.
 E8:F7:24		Hewlett Packard Enterprise
 E8:F7:2F		Huawei Technologies Co.,Ltd
@@ -54210,6 +54233,7 @@ F4:1A:79:E0:00:00/28	Shenzhen Yizhao Innovation Technology Co., Ltd.
 F4:1A:9C		Xiaomi Communications Co Ltd
 F4:1A:B0		Shenzhen Xingguodu Technology Co., Ltd.
 F4:1B:A1		Apple, Inc.
+F4:1C:26		AltoBeam Inc.
 F4:1C:71		Shenzhen Sanmu Communication Technology Co., Ltd
 F4:1C:95		Beijing Yunyi Times Technology Co,.Ltd
 F4:1D:6B		Huawei Technologies Co.,Ltd
@@ -55480,6 +55504,7 @@ FC:9C:98		Arlo Technology
 FC:9C:A7		Apple, Inc.
 FC:9D:05		Micro-Star INTL CO., LTD.
 FC:9D:D8		Beijing TongTongYiLian Science and Technology Ltd.
+FC:9E:53		Intel Corporate
 FC:9F:2A		Zyxel Communications Corporation
 FC:9F:AE		Fidus Systems Inc
 FC:9F:E1		CONWIN.Tech. Ltd
