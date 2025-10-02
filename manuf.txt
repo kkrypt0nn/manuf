@@ -29097,6 +29097,7 @@
 5C:35:FC		Actiontec Electronics Inc.
 5C:36:B8		TCL King Electrical Appliances (Huizhou) Co., Ltd
 5C:38:E0		Shanghai Super Electronics Technology Co.,LTD
+5C:39:77		Juniper Networks
 5C:3A:3D		zte corporation
 5C:3A:45		Chongqing Fugui Electronics Co.,Ltd.
 5C:3B:35		Gehirn Inc.
@@ -54070,6 +54071,7 @@ F0:D1:A9		Apple, Inc.
 F0:D1:B8		Ledvance
 F0:D2:F1		Amazon Technologies Inc.
 F0:D3:1F		Apple, Inc.
+F0:D3:2B		Juniper Networks
 F0:D3:A7		CobaltRay Co., Ltd
 F0:D3:E7		Sensometrix SA
 F0:D4:15		Intel Corporate
