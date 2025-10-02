@@ -36435,7 +36435,9 @@
 74:F8:DB:F0:00:00/28	Private
 74:F9:0F		Huawei Technologies Co.,Ltd
 74:F9:1A		Onface
+74:F9:2C		Ubiquiti Inc
 74:F9:CA		Nintendo Co.,Ltd
+74:FA:29		Ubiquiti Inc
 74:FB:17		Qingdao Goertek  Horizons Tecnology  Co.,LTD
 74:FC:45		Siemens Ag
 74:FC:77		Huawei Technologies Co.,Ltd
@@ -42129,6 +42131,7 @@
 90:3F:86		New H3C Technologies Co., Ltd
 90:3F:C3		Huawei Device Co., Ltd.
 90:3F:EA		Huawei Technologies Co.,Ltd
+90:41:B2		Ubiquiti Inc
 90:43:E2		Cornami, Inc
 90:45:06		Tokyo Boeki Medisys Inc.
 90:45:28		Nintendo Co.,Ltd
@@ -53169,6 +53172,7 @@ E8:F6:73		Microsoft Corporation
 E8:F6:D7		IEEE Registration Authority
 E8:F6:D7:10:00:00/28	Precision Fukuhara Works,Ltd.
 E8:F6:D7:20:00:00/28	Jinan Ruolin Video Technology Co., Ltd
+E8:F6:D7:60:00:00/28	Massive Beams GmbH
 E8:F6:D7:90:00:00/28	Hefei BOE Vision-electronic Technology Co.,Ltd.
 E8:F6:D7:B0:00:00/28	Guangzhou Panyu Juda Car Audio Equipment Co.,Ltd
 E8:F6:D7:C0:00:00/28	clover Co,.Ltd
