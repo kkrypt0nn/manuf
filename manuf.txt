@@ -44675,6 +44675,7 @@ A4:3E:51		Anov France
 A4:3E:A0		iComm HK LIMITED
 A4:3F:51		Shenzhen Benew Technology  Co.,Ltd.
 A4:3F:68		Arista Network, Inc.
+A4:3F:A7		Hewlett Packard Enterprise
 A4:40:27		zte corporation
 A4:40:3D		Shenzhen Baseus Technology Co., Ltd.
 A4:42:3B		Intel Corporate
@@ -53172,6 +53173,7 @@ E8:F6:73		Microsoft Corporation
 E8:F6:D7		IEEE Registration Authority
 E8:F6:D7:10:00:00/28	Precision Fukuhara Works,Ltd.
 E8:F6:D7:20:00:00/28	Jinan Ruolin Video Technology Co., Ltd
+E8:F6:D7:40:00:00/28	Xiphos Systems Corp.
 E8:F6:D7:60:00:00/28	Massive Beams GmbH
 E8:F6:D7:90:00:00/28	Hefei BOE Vision-electronic Technology Co.,Ltd.
 E8:F6:D7:B0:00:00/28	Guangzhou Panyu Juda Car Audio Equipment Co.,Ltd
