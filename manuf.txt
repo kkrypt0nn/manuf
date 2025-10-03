@@ -20837,6 +20837,7 @@
 1C:97:3D		PRICOM Design
 1C:97:C5		Ynomia Pty Ltd
 1C:97:FB		CoolBitX Ltd.
+1C:98:4B		Extreme Networks Headquarters
 1C:98:C1		Cloud Network Technology Singapore Pte. Ltd.
 1C:98:EC		Hewlett Packard Enterprise
 1C:99:4C		Murata Manufacturing Co., Ltd.
@@ -21397,6 +21398,7 @@
 20:C7:92		Wuhan Maiwe communication Co.,Ltd
 20:C8:B3		Shenzhen Bul-Tech Co.,Ltd.
 20:C9:D0		Apple, Inc.
+20:CB:CC		GridVisibility, inc.
 20:CC:27		Cisco Systems, Inc
 20:CD:39		Texas Instruments
 20:CD:6E		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
@@ -39508,6 +39510,7 @@
 8C:1F:64:29:90:00/36	Integer.pl S.A.
 8C:1F:64:29:A0:00/36	Power Electronics Espana, S.L.
 8C:1F:64:29:B0:00/36	TT electronics integrated manufacturing services (Suzhou) Limited
+8C:1F:64:29:C0:00/36	Thales Nederland BV
 8C:1F:64:29:D0:00/36	Automata GmbH & Co. KG
 8C:1F:64:29:E0:00/36	AD Parts, S.L.
 8C:1F:64:29:F0:00/36	Nagtech Llc
@@ -52326,6 +52329,7 @@ E4:12:1D		Samsung Electronics Co.,Ltd
 E4:12:26		Continental Automotive Romania SLR
 E4:12:89		topsystem GmbH
 E4:15:F6		Texas Instruments
+E4:16:13		Extreme Networks Headquarters
 E4:17:D8		8Bitdo Technology Hk Limited
 E4:18:6B		Zyxel Communications Corporation
 E4:19:7F		eero inc.
@@ -53171,11 +53175,13 @@ E8:F6:0A		Espressif Inc.
 E8:F6:54		Huawei Technologies Co.,Ltd
 E8:F6:73		Microsoft Corporation
 E8:F6:D7		IEEE Registration Authority
+E8:F6:D7:00:00:00/28	Mono Technologies Inc.
 E8:F6:D7:10:00:00/28	Precision Fukuhara Works,Ltd.
 E8:F6:D7:20:00:00/28	Jinan Ruolin Video Technology Co., Ltd
 E8:F6:D7:40:00:00/28	Xiphos Systems Corp.
 E8:F6:D7:60:00:00/28	Massive Beams GmbH
 E8:F6:D7:90:00:00/28	Hefei BOE Vision-electronic Technology Co.,Ltd.
+E8:F6:D7:A0:00:00/28	Ivostud GmbH
 E8:F6:D7:B0:00:00/28	Guangzhou Panyu Juda Car Audio Equipment Co.,Ltd
 E8:F6:D7:C0:00:00/28	clover Co,.Ltd
 E8:F6:D7:D0:00:00/28	ZhuoPuCheng (Shenzhen) Technology.Co.,Ltd.
@@ -54525,6 +54531,7 @@ F4:97:9D:D0:00:00/28	Huitec printer solution co.,
 F4:97:9D:E0:00:00/28	Teenage Engineering AB
 F4:97:C2		Nebulon Inc
 F4:99:AC		WEBER Schraubautomaten GmbH
+F4:9A:B1		Hewlett Packard Enterprise
 F4:9C:12		Structab AB
 F4:9D:8A		Fantasia Trading LLC
 F4:9D:A7		Private
