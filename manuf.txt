@@ -28773,6 +28773,7 @@
 58:87:85		Adtran Inc
 58:87:9F		Huawei Device Co., Ltd.
 58:87:E2		Shenzhen Coship Electronics Co., Ltd.
+58:89:90		Starkey Labs Inc.
 58:8A:5A		Dell Inc.
 58:8B:1C		Cisco Systems, Inc
 58:8B:F3		Zyxel Communications Corporation
@@ -40075,6 +40076,7 @@
 8C:1F:64:64:E0:00/36	Nilfisk Food
 8C:1F:64:65:00:00/36	L tec Co.,Ltd
 8C:1F:64:65:10:00/36	Teledyne Cetac
+8C:1F:64:65:20:00/36	Tokyo Interphone Co.,Ltd.
 8C:1F:64:65:30:00/36	P5
 8C:1F:64:65:50:00/36	S.E.I. Co.,Ltd.
 8C:1F:64:65:60:00/36	Optotune Switzerland AG
@@ -41086,6 +41088,7 @@
 8C:1F:64:CE:30:00/36	Pixel Design & Manufacturing Sdn. Bhd.
 8C:1F:64:CE:40:00/36	Sl Usa, Llc
 8C:1F:64:CE:50:00/36	Private
+8C:1F:64:CE:90:00/36	Landis+Gyr Equipamentos de Medição Ltda
 8C:1F:64:CE:B0:00/36	Eureka For Smart Properties Co. W.L.L
 8C:1F:64:CE:C0:00/36	Zhuhai Huaya machinery Technology Co., LTD
 8C:1F:64:CE:D0:00/36	Nha Trang Hitech Company,  Ltd
@@ -53178,8 +53181,11 @@ E8:F6:D7		IEEE Registration Authority
 E8:F6:D7:00:00:00/28	Mono Technologies Inc.
 E8:F6:D7:10:00:00/28	Precision Fukuhara Works,Ltd.
 E8:F6:D7:20:00:00/28	Jinan Ruolin Video Technology Co., Ltd
+E8:F6:D7:30:00:00/28	Ziehl-Abegg Se
 E8:F6:D7:40:00:00/28	Xiphos Systems Corp.
+E8:F6:D7:50:00:00/28	emicrotec
 E8:F6:D7:60:00:00/28	Massive Beams GmbH
+E8:F6:D7:70:00:00/28	CowManager
 E8:F6:D7:90:00:00/28	Hefei BOE Vision-electronic Technology Co.,Ltd.
 E8:F6:D7:A0:00:00/28	Ivostud GmbH
 E8:F6:D7:B0:00:00/28	Guangzhou Panyu Juda Car Audio Equipment Co.,Ltd
