@@ -43075,6 +43075,7 @@
 98:07:2D		Texas Instruments
 98:08:02		Orbis Bv
 98:09:CF		OnePlus Technology (Shenzhen) Co., Ltd
+98:0A:4B		Nokia Solutions and Networks GmbH & Co. KG
 98:0C:33		Silicon Laboratories
 98:0C:82		Samsung Electro Mechanics Co., Ltd.
 98:0C:A5		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
