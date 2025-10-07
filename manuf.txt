@@ -29830,6 +29830,7 @@
 60:B6:17		Fiberhome Telecommunication Technologies Co.,LTD
 60:B6:47		Silicon Laboratories
 60:B6:E1		Texas Instruments
+60:B7:63		Silicon Laboratories
 60:B7:6E		Google, Inc.
 60:B9:33		Deutron Electronics Corp.
 60:B9:82		RO.VE.R. Laboratories S.p.A.
@@ -31184,6 +31185,7 @@
 6C:9C:E9		Nimble Storage
 6C:9C:ED		Cisco Systems, Inc
 6C:9E:7C		Fiberhome Telecommunication Technologies Co.,LTD
+6C:A0:42		Silicon Laboratories
 6C:A0:B4		Sky Uk Limited
 6C:A1:00		Intel Corporate
 6C:A3:1E		Itel Mobile Limited
@@ -40457,6 +40459,7 @@
 8C:1F:64:8C:20:00/36	Cirrus Systems, Inc.
 8C:1F:64:8C:40:00/36	Hermes Network Inc
 8C:1F:64:8C:50:00/36	NextT Microwave Inc
+8C:1F:64:8C:80:00/36	Potter Electric Signal Co. LLC
 8C:1F:64:8C:A0:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:8C:B0:00/36	Chromaviso A/S
 8C:1F:64:8C:D0:00/36	Guan Show Technologe Co., Ltd.
