@@ -36148,6 +36148,7 @@
 74:60:4C		Rode
 74:60:FA		Huawei Technologies Co.,Ltd
 74:61:4B		Chongqing Huijiatong Information Technology Co., Ltd.
+74:61:D1		GOIP Global Services Pvt. Ltd.
 74:63:C2		Huawei Device Co., Ltd.
 74:63:DF		VTS GmbH
 74:65:0C		Apple, Inc.
@@ -36676,6 +36677,7 @@
 78:5F:36		Shenzhen Skyworth Digital  Technology  CO., Ltd
 78:5F:4C		Argox Information Co., Ltd.
 78:5F:6C		Arista Networks
+78:5F:A4		Ciena Corporation
 78:60:5B		Tp-Link Technologies Co.,Ltd.
 78:61:7C		Mitsumi Electric Co.,Ltd.
 78:62:56		Huawei Technologies Co.,Ltd
@@ -43090,6 +43092,7 @@
 98:10:82		Nsolution Co., Ltd.
 98:10:94		Shenzhen Vsun communication technology Co.,ltd
 98:10:E8		Apple, Inc.
+98:11:CC		Ciena Corporation
 98:12:23		Tarmoc Network LTD
 98:12:E0		Xiaomi Communications Co Ltd
 98:13:33		zte corporation
