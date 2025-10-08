@@ -23406,6 +23406,7 @@
 30:B9:B0		Intracom Asia Co., Ltd
 30:BB:43		Sixi Networks Co., Ltd
 30:BB:7D		OnePlus Technology (Shenzhen) Co., Ltd
+30:BC:4F		Beijing Jianguo Bite Technology Co., Ltd.
 30:BD:13		Zyxel Communications Corporation
 30:BD:FE		Sichuan Tianyi Comheart Telecom Co.,LTD
 30:BE:29		AltoBeam Inc.
@@ -26547,7 +26548,7 @@
 48:08:EB:30:00:00/28	Technological Application And Production One Member Liability Company (Tecapro Company)
 48:08:EB:40:00:00/28	Quanta Storage Inc.
 48:08:EB:50:00:00/28	Hangzhou Jianan Technology Co.,Ltd
-48:08:EB:60:00:00/28	Aureka, Inc.
+48:08:EB:60:00:00/28	Aria Networks, Inc.
 48:08:EB:70:00:00/28	Shenzhen Electron Technology Co., LTD.
 48:08:EB:80:00:00/28	Dspread Technology (Beijing) Inc.
 48:08:EB:90:00:00/28	Guangzhou Chuangsou Network Technology Co., Ltd.
@@ -53190,11 +53191,13 @@ E8:F6:D7:40:00:00/28	Xiphos Systems Corp.
 E8:F6:D7:50:00:00/28	emicrotec
 E8:F6:D7:60:00:00/28	Massive Beams GmbH
 E8:F6:D7:70:00:00/28	CowManager
+E8:F6:D7:80:00:00/28	INTEGRA Metering AG
 E8:F6:D7:90:00:00/28	Hefei BOE Vision-electronic Technology Co.,Ltd.
 E8:F6:D7:A0:00:00/28	Ivostud GmbH
 E8:F6:D7:B0:00:00/28	Guangzhou Panyu Juda Car Audio Equipment Co.,Ltd
 E8:F6:D7:C0:00:00/28	clover Co,.Ltd
 E8:F6:D7:D0:00:00/28	ZhuoPuCheng (Shenzhen) Technology.Co.,Ltd.
+E8:F6:D7:E0:00:00/28	Emergent Solutions Inc.
 E8:F7:24		Hewlett Packard Enterprise
 E8:F7:2F		Huawei Technologies Co.,Ltd
 E8:F7:91		Xiaomi Communications Co Ltd
