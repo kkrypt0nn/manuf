@@ -18125,6 +18125,7 @@
 08:1F:71		Tp-Link Technologies Co.,Ltd.
 08:1F:EB		BinCube
 08:1F:F3		Cisco Systems, Inc
+08:20:E7		Mellanox Technologies, Inc.
 08:21:EF		Samsung Electronics Co.,Ltd
 08:23:B2		vivo Mobile Communication Co., Ltd.
 08:23:C6		Huawei Technologies Co.,Ltd
@@ -36056,6 +36057,7 @@
 74:31:7E		Ruckus Wireless
 74:32:56		NT-ware Systemprg GmbH
 74:32:C2		Kyolis
+74:33:36:10:00:00/28	Shengzhen Gongjin Electronics
 74:33:57		vivo Mobile Communication Co., Ltd.
 74:33:A6		Shenzhen SuperElectron Technology Co.,Ltd.
 74:33:E9		zte corporation
@@ -38179,6 +38181,7 @@
 84:41:67		Apple, Inc.
 84:44:64		ServerU Inc
 84:44:AF		Zhejiang Tmall Technology Co., Ltd.
+84:45:A0		Tube investments of India Limited
 84:46:93		Beijing Xiaomi Mobile Software Co., Ltd
 84:46:FE		Huawei Technologies Co.,Ltd
 84:47:09		Shenzhen IP3 Century Intelligent Technology CO.,Ltd
@@ -54183,6 +54186,7 @@ F0:F8:4A		Buffalo.Inc
 F0:F8:F2		Texas Instruments
 F0:F9:F7		IES GmbH & Co. KG
 F0:FA:C7		Huawei Device Co., Ltd.
+F0:FB:7F		Mellanox Technologies, Inc.
 F0:FC:65		SynaXG Technologies Pte. Ltd.
 F0:FC:C8		Commscope
 F0:FD:45		Silicon Laboratories
