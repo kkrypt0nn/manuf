@@ -23248,6 +23248,7 @@
 30:4A:C4		Barrot Technology Co.,LTD
 30:4B:07		Motorola Mobility LLC, a Lenovo Company
 30:4C:7E		Panasonic Electric Works Automation Controls Techno Co.,Ltd.
+30:4D:1F		Amazon Technologies Inc.
 30:4E:1B		Huawei Device Co., Ltd.
 30:4E:C3		Tianjin Techua Technology Co., Ltd.
 30:4F:00		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
@@ -30696,6 +30697,7 @@
 68:9E:19		Texas Instruments
 68:9E:29		zte corporation
 68:9E:6A		Huawei Device Co., Ltd.
+68:9F:D4		Amazon Technologies Inc.
 68:9F:F0		zte corporation
 68:A0:3E		Huawei Technologies Co.,Ltd
 68:A0:F6		Huawei Technologies Co.,Ltd
@@ -36064,6 +36066,8 @@
 74:33:36:10:00:00/28	Shengzhen Gongjin Electronics
 74:33:36:30:00:00/28	Shenzhen DBG Innovation Tech Limited
 74:33:36:60:00:00/28	Baumer Inspection GmbH
+74:33:36:90:00:00/28	Lyno Dynamics LLC
+74:33:36:A0:00:00/28	Shenzhen Jooan Technology  Co., Ltd
 74:33:36:C0:00:00/28	Shenzhen Handheld-Wireless Technology Co., Ltd.
 74:33:57		vivo Mobile Communication Co., Ltd.
 74:33:A6		Shenzhen SuperElectron Technology Co.,Ltd.
@@ -37057,6 +37061,7 @@
 78:FB:D8		Apple, Inc.
 78:FC:14		Family Zone Cyber Safety Ltd
 78:FD:94		Apple, Inc.
+78:FD:F1		Shenzhen Huadian Communication Co., Ltd
 78:FE:3D		Juniper Networks
 78:FE:41		Socus networks
 78:FE:E2		Shanghai Diveo Technology Co., Ltd
@@ -52331,6 +52336,7 @@ E0:F6:B5		Nintendo Co.,Ltd
 E0:F7:28		Amazon Technologies Inc.
 E0:F8:47		Apple, Inc.
 E0:F9:BE		Cloudena Corp.
+E0:FA:5B		Arista Networks
 E0:FA:EC		Platan sp. z o.o. sp. k.
 E0:FF:F1		Texas Instruments
 E0:FF:F7		Softiron Inc.
