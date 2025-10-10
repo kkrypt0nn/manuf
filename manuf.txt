@@ -20255,6 +20255,7 @@
 18:94:C6		ShenZhen Chenyee Technology Co., Ltd.
 18:95:52		1More
 18:95:78		Denso Corporation
+18:96:77		Annapurna labs
 18:97:F1		KOSTAL (Shanghai) Management Co., Ltd.
 18:97:FF		TechFaith Wireless Technology Limited
 18:99:F5		Sichuan Changhong Electric Ltd.
@@ -27457,6 +27458,7 @@
 4C:D1:A1		Huawei Technologies Co.,Ltd
 4C:D2:FB		Unionman Technology Co.,Ltd
 4C:D3:AF		HMD Global Oy
+4C:D4:B1		NXP Semiconductor (Tianjin) LTD.
 4C:D5:46		Hewlett Packard Enterprise
 4C:D5:77		Chongqing Fugui Electronics Co.,Ltd.
 4C:D5:87		Hewlett Packard Enterprise
@@ -28208,6 +28210,7 @@
 54:36:9B		1Verge Internet Technology (Beijing) Co., Ltd.
 54:37:BB		Taicang T&W Electronics
 54:39:68		Edgewater Networks Inc
+54:39:76		Groq
 54:39:DF		Huawei Technologies Co.,Ltd
 54:3A:D6		Samsung Electronics Co.,Ltd
 54:3A:DF		Qualfiber Technology Co.,Ltd
@@ -36057,7 +36060,11 @@
 74:31:7E		Ruckus Wireless
 74:32:56		NT-ware Systemprg GmbH
 74:32:C2		Kyolis
+74:33:36		IEEE Registration Authority
 74:33:36:10:00:00/28	Shengzhen Gongjin Electronics
+74:33:36:30:00:00/28	Shenzhen DBG Innovation Tech Limited
+74:33:36:60:00:00/28	Baumer Inspection GmbH
+74:33:36:C0:00:00/28	Shenzhen Handheld-Wireless Technology Co., Ltd.
 74:33:57		vivo Mobile Communication Co., Ltd.
 74:33:A6		Shenzhen SuperElectron Technology Co.,Ltd.
 74:33:E9		zte corporation
@@ -45971,6 +45978,7 @@ AC:F7:0D		China Mobile Group Device Co.,Ltd.
 AC:F7:F3		Xiaomi Communications Co Ltd
 AC:F8:5C		Chengdu Higon Integrated Circuit Design Co,. Ltd.
 AC:F8:CC		Commscope
+AC:F9:32		NXP Semiconductor (Tianjin) LTD.
 AC:F9:70		Huawei Technologies Co.,Ltd
 AC:F9:7E		Elesys Inc.
 AC:FA:A5		digitron
@@ -47066,6 +47074,7 @@ B8:63:BC		ROBOTIS, Co, Ltd
 B8:64:91		CK Telecom Ltd
 B8:65:3B		Bolymin, Inc.
 B8:66:85		Sagemcom Broadband SAS
+B8:68:70		Nintendo Co.,Ltd
 B8:69:C2		Sunitec Enterprise Co., Ltd.
 B8:69:F4		Routerboard.com
 B8:6A:97		Edgecore Networks Corporation
@@ -53903,6 +53912,7 @@ F0:4B:F2		JTECH Communications, Inc.
 F0:4C:D5		Maxlinear, Inc
 F0:4D:A2		Dell Inc.
 F0:4D:D4		Sagemcom Broadband SAS
+F0:4E:A4		HP Inc.
 F0:4F:7C		Amazon Technologies Inc.
 F0:51:36		TCT mobile ltd
 F0:51:EA		Fitbit, Inc.
@@ -54026,6 +54036,7 @@ F0:AA:0B		Arra Networks/ Spectramesh
 F0:AB:1F		zte corporation
 F0:AB:54		Mitsumi Electric Co.,Ltd.
 F0:AB:F3		Fiberhome Telecommunication Technologies Co.,LTD
+F0:AB:FA		Shenzhen Rayin Technology Co.,Ltd
 F0:AC:A4		HBC-radiomatic
 F0:AC:D7		IEEE Registration Authority
 F0:AC:D7:00:00:00/28	Guilin glsun Science and Tech Co.,LTD
