@@ -4785,7 +4785,7 @@
 00:12:BE		Astek Corporation
 00:12:BF		Arcadyan Technology Corporation
 00:12:C0		HotLava Systems, Inc.
-00:12:C1		Check Point Software Technologies
+00:12:C1		Check Point Software Technologies Ltd.
 00:12:C2		Apex Electronics Factory
 00:12:C3		Wit S.A.
 00:12:C4		Viseon, Inc.
@@ -18367,6 +18367,7 @@
 08:B0:A7		Truebeyond Co., Ltd
 08:B2:58		Juniper Networks
 08:B2:A3		Cynny Italia S.r.L.
+08:B3:39		Xiaomi Communications Co Ltd
 08:B3:AF		vivo Mobile Communication Co., Ltd.
 08:B3:D6		Huawei Device Co., Ltd.
 08:B4:9D		Tecno Mobile Limited
@@ -25126,6 +25127,7 @@
 40:06:A0		Texas Instruments
 40:06:D5		Cisco Systems, Inc
 40:07:C0		Railtec Systems GmbH
+40:08:77		Xiaomi Communications Co Ltd
 40:0D:10		Commscope
 40:0E:67		Tremol Ltd.
 40:0E:85		Samsung Electro-Mechanics(Thailand)
@@ -36065,10 +36067,13 @@
 74:33:36		IEEE Registration Authority
 74:33:36:10:00:00/28	Shengzhen Gongjin Electronics
 74:33:36:30:00:00/28	Shenzhen DBG Innovation Tech Limited
+74:33:36:50:00:00/28	Seclab Fr
 74:33:36:60:00:00/28	Baumer Inspection GmbH
+74:33:36:80:00:00/28	Moultrie Mobile
 74:33:36:90:00:00/28	Lyno Dynamics LLC
 74:33:36:A0:00:00/28	Shenzhen Jooan Technology  Co., Ltd
 74:33:36:C0:00:00/28	Shenzhen Handheld-Wireless Technology Co., Ltd.
+74:33:36:D0:00:00/28	ACTECK TECHNOLOGY Co., Ltd
 74:33:57		vivo Mobile Communication Co., Ltd.
 74:33:A6		Shenzhen SuperElectron Technology Co.,Ltd.
 74:33:E9		zte corporation
@@ -40634,6 +40639,7 @@
 8C:1F:64:9C:E0:00/36	Exi Flow Measurement Ltd
 8C:1F:64:9C:F0:00/36	ASAP Electronics GmbH
 8C:1F:64:9D:00:00/36	Saline Lectronics, Inc.
+8C:1F:64:9D:10:00/36	Televic Rail GmbH
 8C:1F:64:9D:30:00/36	EA Elektro-Automatik GmbH
 8C:1F:64:9D:40:00/36	Wolfspyre Labs
 8C:1F:64:9D:80:00/36	Integer.pl S.A.
@@ -43195,6 +43201,7 @@
 98:3F:A4		zte corporation
 98:3F:E8		Samsung Electronics Co.,Ltd
 98:40:BB		Dell Inc.
+98:40:D4		Vantiva Connected Home - Technologies Telco
 98:41:5C		Nintendo Co.,Ltd
 98:42:46		Sol Industry Pte., Ltd
 98:42:65		Sagemcom Broadband SAS
@@ -47046,6 +47053,7 @@ B8:50:D8		Beijing Xiaomi Mobile Software Co., Ltd
 B8:51:A9		Nokia
 B8:52:13		zte corporation
 B8:52:E0		Beijing Xiaomi Electronics Co.,Ltd
+B8:53:84		Xiaomi Communications Co Ltd
 B8:53:AC		Apple, Inc.
 B8:55:10		Zioncom Electronics (Shenzhen) Ltd.
 B8:56:00		Huawei Technologies Co.,Ltd
