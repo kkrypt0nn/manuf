@@ -9572,7 +9572,7 @@
 00:24:AB		A7 Engineering, Inc.
 00:24:AC		Hangzhou DPtech Technologies Co., Ltd.
 00:24:AD		Adolf Thies Gmbh & Co. KG
-00:24:AE		Idemia
+00:24:AE		IDEMIA Secure Transactions
 00:24:AF		Dish Technologies Corp
 00:24:B0		Esab Ab
 00:24:B1		Coulomb Technologies
@@ -17497,6 +17497,7 @@
 04:38:55		Scopus International Pvt. Ltd.
 04:38:DC		China Unicom Online Information Technology Co.,Ltd
 04:39:26		China Dragon Technology Limited
+04:39:CB		Qingdao HaierTechnology Co.,Ltd
 04:3A:0D		SM Optics S.r.l.
 04:3C:E8		Shenzhen SuperElectron Technology Co.,Ltd.
 04:3D:6E		Nokia
@@ -36069,6 +36070,7 @@
 74:33:36		IEEE Registration Authority
 74:33:36:00:00:00/28	Huzhou Luxshare Precision Industry Co.LTD
 74:33:36:10:00:00/28	Shengzhen Gongjin Electronics
+74:33:36:20:00:00/28	Zoller + Fröhlich GmbH
 74:33:36:30:00:00/28	Shenzhen DBG Innovation Tech Limited
 74:33:36:50:00:00/28	Seclab Fr
 74:33:36:60:00:00/28	Baumer Inspection GmbH
@@ -51563,6 +51565,7 @@ DC:44:27:D0:00:00/28	Rohde&Schwarz Topex SA
 DC:44:27:E0:00:00/28	VerifEye Technologies
 DC:44:27:F0:00:00/28	Private
 DC:44:6D		Allwinner Technology Co., Ltd
+DC:44:B1		Hilti Corporation
 DC:44:B6		Samsung Electronics Co.,Ltd
 DC:45:17		Commscope
 DC:45:46		Intel Corporate
