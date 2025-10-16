@@ -20473,6 +20473,7 @@
 18:FB:8E		VusionGroup
 18:FC:26		Qorvo International Pte. Ltd.
 18:FC:9F		Changhe Electronics Co., Ltd.
+18:FD:00		Marelli
 18:FD:74		Routerboard.com
 18:FD:CB		IEEE Registration Authority
 18:FD:CB:00:00:00/28	Shenzhen Rui jiali Electronic Technology Co. Ltd.
@@ -24366,6 +24367,7 @@
 38:98:D8		Meritech Co.,Ltd
 38:98:E9		Huawei Device Co., Ltd.
 38:9A:F6		Samsung Electronics Co.,Ltd
+38:9B:73		Gsd Viet Nam Technology Company Limited
 38:9C:B2		Apple, Inc.
 38:9D:92		Seiko Epson Corporation
 38:9E:4C		Hewlett Packard Enterprise
@@ -29382,6 +29384,7 @@
 5C:C2:13		Fr. Sauter AG
 5C:C3:07		Huawei Technologies Co.,Ltd
 5C:C3:36		ittim
+5C:C4:1D		Stone Devices Sdn. Bhd.
 5C:C5:63		Hunan Fn-Link Technology Limited
 5C:C5:D4		Intel Corporate
 5C:C6:D0		Skyworth Digital Technology(Shenzhen) Co.,Ltd
@@ -29912,6 +29915,7 @@
 60:D7:E3:D0:00:00/28	Quantronix, Inc.
 60:D7:E3:E0:00:00/28	HuBDIC CO.,LTD
 60:D8:19		Hon Hai Precision Ind. Co.,Ltd.
+60:D8:77		Phyplus Technology (Shanghai) Co., Ltd
 60:D8:9C		HMD Global Oy
 60:D8:A4		Vantiva Connected Home - Technologies Telco
 60:D9:A0		Lenovo Mobile Communication Technology Ltd.
@@ -36082,6 +36086,7 @@
 74:33:36:B0:00:00/28	Annapurna labs
 74:33:36:C0:00:00/28	Shenzhen Handheld-Wireless Technology Co., Ltd.
 74:33:36:D0:00:00/28	ACTECK TECHNOLOGY Co., Ltd
+74:33:36:E0:00:00/28	Ramon Space
 74:33:57		vivo Mobile Communication Co., Ltd.
 74:33:A6		Shenzhen SuperElectron Technology Co.,Ltd.
 74:33:E9		zte corporation
@@ -38548,6 +38553,7 @@
 84:F7:58		Huizhou BYD Electronic Co., Ltd.
 84:F8:83		Luminar Technologies
 84:FB:43		Central Denshi Seigyo
+84:FC:14		Shenzhen Bilian Electronic Co.，Ltd
 84:FC:AC		Apple, Inc.
 84:FC:E6		Espressif Inc.
 84:FC:FE		Apple, Inc.
@@ -43217,6 +43223,7 @@
 98:41:5C		Nintendo Co.,Ltd
 98:42:46		Sol Industry Pte., Ltd
 98:42:65		Sagemcom Broadband SAS
+98:42:AB		GN Hearing A/S
 98:43:DA		Intertech
 98:43:FA		Intel Corporate
 98:44:B6		Infranor Sas
@@ -44985,6 +44992,7 @@ A4:BF:01		Intel Corporate
 A4:C0:C7		ShenZhen Hitom Communication Technology Co..LTD
 A4:C0:E1		Nintendo Co., Ltd.
 A4:C1:38		Telink Semiconductor (Taipei) Co. Ltd.
+A4:C1:39		Dongguan Huayin Electronic Technology Co., Ltd.
 A4:C1:E8		Nintendo Co.,Ltd
 A4:C2:3E		Huizhou Speed Wireless Technology Co.,Ltd
 A4:C2:AB		Hangzhou LEAD-IT Information & Technology Co.,Ltd
@@ -46407,6 +46415,7 @@ B0:D5:FB		Google, Inc.
 B0:D7:7E		Huawei Technologies Co.,Ltd
 B0:D7:C5		Logipix Ltd
 B0:D7:CC		Tridonic GmbH & Co KG
+B0:D7:DE		Hangzhou Linovision Co., Ltd.
 B0:D8:88		Panasonic Automotive Systems Co.,Ltd
 B0:DA:00		Cera Electronique
 B0:DA:F9		Commscope
@@ -49526,6 +49535,7 @@ CC:2D:21		Tenda Technology Co.,Ltd.Dongguan branch
 CC:2D:83		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 CC:2D:8C		Lg Electronics Inc
 CC:2D:B7		Apple, Inc.
+CC:2D:D2		Ruckus Wireless
 CC:2D:E0		Routerboard.com
 CC:2F:71		Intel Corporate
 CC:30:80		VAIO Corporation
@@ -53872,6 +53882,7 @@ F0:2F:74		ASUSTek COMPUTER INC.
 F0:2F:9E		Amazon Technologies Inc.
 F0:2F:A7		Huawei Technologies Co.,Ltd
 F0:2F:D8		Bi2-Vision
+F0:30:12		Continental Autonomous Mobility Germany
 F0:32:1A		Mita-Teknik A/S
 F0:33:E5		Huawei Technologies Co.,Ltd
 F0:34:04		TCT mobile ltd
