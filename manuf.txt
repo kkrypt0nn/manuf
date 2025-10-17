@@ -5594,7 +5594,7 @@
 00:15:E7		Quantec Tontechnik
 00:15:E8		Nortel Networks
 00:15:E9		D-Link Corporation
-00:15:EA		Tellumat (Pty) Ltd
+00:15:EA		Hensoldt South Africa (Pty) Ltd
 00:15:EB		zte corporation
 00:15:EC		Boca Devices LLC
 00:15:ED		Fulcrum Microsystems, Inc.
@@ -18898,6 +18898,8 @@
 0C:BF:15		Genetec Inc.
 0C:BF:3F		Shenzhen Lencotion Technology Co.,Ltd
 0C:BF:74		Morse Micro
+0C:BF:B4		IEEE Registration Authority
+0C:BF:B4:40:00:00/28	Shenzhen EN Plus Tech Co.,Ltd.
 0C:C0:C0		Magneti Marelli Sistemas Electronicos Mexico
 0C:C1:19		Shenzhen Phaten Tech. LTD
 0C:C3:A7		Meritec
@@ -19833,6 +19835,7 @@
 14:A3:64		Samsung Electronics Co.,Ltd
 14:A3:B4		Huawei Device Co., Ltd.
 14:A4:17		Shenzhen Belon Technology CO.,LTD
+14:A4:54		Mist Systems, Inc.
 14:A5:1A		Huawei Technologies Co.,Ltd
 14:A6:2C		S.M. Dezac S.A.
 14:A7:2B		currentoptronics Pvt.Ltd
@@ -31135,6 +31138,7 @@
 6C:75:0D		WiFiSONG
 6C:76:37		Huawei Device Co., Ltd.
 6C:76:60		Kyocera Corporation
+6C:76:F7		MainStreaming SpA
 6C:78:C1		Juniper Networks
 6C:79:B8		Texas Instruments
 6C:7A:63		Arista Networks
