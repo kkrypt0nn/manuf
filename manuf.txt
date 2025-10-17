@@ -18899,7 +18899,9 @@
 0C:BF:3F		Shenzhen Lencotion Technology Co.,Ltd
 0C:BF:74		Morse Micro
 0C:BF:B4		IEEE Registration Authority
+0C:BF:B4:10:00:00/28	Innomotics GmbH
 0C:BF:B4:40:00:00/28	Shenzhen EN Plus Tech Co.,Ltd.
+0C:BF:B4:90:00:00/28	VirtualV Trading Limited
 0C:C0:C0		Magneti Marelli Sistemas Electronicos Mexico
 0C:C1:19		Shenzhen Phaten Tech. LTD
 0C:C3:A7		Meritec
