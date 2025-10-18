@@ -20328,6 +20328,7 @@
 18:AB:1D		Samsung Electronics Co.,Ltd
 18:AB:F5		Ultra Electronics Electrics
 18:AC:9E		Itel Mobile Limited
+18:AC:C2		TCL King Electrical Appliances(Huizhou)Co.,Ltd
 18:AD:4D		Polostar Technology Corporation
 18:AE:BB		Siemens Convergence Creators GmbH&Co.KG
 18:AF:61		Apple, Inc.
