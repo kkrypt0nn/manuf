@@ -18901,7 +18901,9 @@
 0C:BF:B4		IEEE Registration Authority
 0C:BF:B4:10:00:00/28	Innomotics GmbH
 0C:BF:B4:40:00:00/28	Shenzhen EN Plus Tech Co.,Ltd.
+0C:BF:B4:70:00:00/28	Odyssey Robot LLC
 0C:BF:B4:90:00:00/28	VirtualV Trading Limited
+0C:BF:B4:D0:00:00/28	Nanchang si colordisplay Technology Co.,Ltd
 0C:C0:C0		Magneti Marelli Sistemas Electronicos Mexico
 0C:C1:19		Shenzhen Phaten Tech. LTD
 0C:C3:A7		Meritec
@@ -27983,6 +27985,7 @@
 50:CF:14		Quectel Wireless Solutions Co.,Ltd.
 50:CF:56		China Mobile Group Device Co.,Ltd.
 50:D0:65		ESYLUX GmbH
+50:D0:6D		Bird Buddy
 50:D2:13		CviLux Corporation
 50:D2:74		Steffes Corporation
 50:D2:F5		Beijing Xiaomi Mobile Software Co., Ltd
@@ -30735,6 +30738,7 @@
 68:AB:09		Nokia
 68:AB:1E		Apple, Inc.
 68:AB:8A		RF IDeas
+68:AB:A9		Sagemcom Broadband SAS
 68:AB:BC		Beijing Xiaomi Mobile Software Co., Ltd
 68:AE:04		Shenzhen SuperElectron Technology Co.,Ltd.
 68:AE:20		Apple, Inc.
@@ -37547,6 +37551,7 @@
 7C:D3:0A		Inventec Corporation
 7C:D3:E5		Huawei Technologies Co.,Ltd
 7C:D4:4D		Shanghai Moorewatt Energy Technology Co.,Ltd
+7C:D4:A8		Sagemcom Broadband SAS
 7C:D5:66		Amazon Technologies Inc.
 7C:D6:61		Xiaomi Communications Co Ltd
 7C:D7:62		Freestyle Technology Pty Ltd
@@ -39280,6 +39285,7 @@
 8C:1F:64:0A:D0:00/36	E2 Nova Corporation
 8C:1F:64:0A:F0:00/36	Forsee Power
 8C:1F:64:0B:00:00/36	Bunka Shutter Co., Ltd.
+8C:1F:64:0B:50:00/36	SMC Gateway
 8C:1F:64:0B:60:00/36	Luke Granger-Brown
 8C:1F:64:0B:70:00/36	Tiama
 8C:1F:64:0B:80:00/36	Signatrol Ltd
@@ -42159,6 +42165,7 @@
 90:2E:1C		Intel Corporate
 90:2E:87		LabJack
 90:31:4B		AltoBeam Inc.
+90:31:96		Shenzhen Ip-Com Networks Co.,Ltd.
 90:31:CD		Onyx Healthcare Inc.
 90:32:4B		Hon Hai Precision Ind. Co.,Ltd.
 90:34:2B		Gatekeeper Systems, Inc.
@@ -45489,6 +45496,7 @@ A8:DA:01		Shenzhen NUOLIJIA Digital Technology Co.,Ltd
 A8:DA:0C		Servercom (India) Private Limited
 A8:DB:03		Samsung Electro-Mechanics(Thailand)
 A8:DC:5A		Digital Watchdog
+A8:DD:9F		Quectel Wireless Solutions Co.,Ltd.
 A8:DE:68		Beijing Wide Technology Co.,Ltd
 A8:E0:18		Nokia Corporation
 A8:E2:07		GOIP Global Services Pvt. Ltd.
@@ -48995,6 +49003,7 @@ C8:2E:94		Halfa Enterprise Co., Ltd.
 C8:31:68		eZEX corporation
 C8:32:32		Hunting Innova
 C8:33:4B		Apple, Inc.
+C8:33:74		Zyxel Communications Corporation
 C8:33:E5		Huawei Technologies Co.,Ltd
 C8:34:8E		Intel Corporate
 C8:34:E5		Cisco Systems, Inc
