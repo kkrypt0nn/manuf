@@ -9572,7 +9572,7 @@
 00:24:AB		A7 Engineering, Inc.
 00:24:AC		Hangzhou DPtech Technologies Co., Ltd.
 00:24:AD		Adolf Thies Gmbh & Co. KG
-00:24:AE		IDEMIA Secure Transactions
+00:24:AE		Idemia France Sas
 00:24:AF		Dish Technologies Corp
 00:24:B0		Esab Ab
 00:24:B1		Coulomb Technologies
@@ -16465,6 +16465,7 @@
 00:BB:F0		Ungermann-Bass Inc.
 00:BC:2F		Actiontec Electronics Inc.
 00:BC:60		Cisco Systems, Inc
+00:BC:99		Hangzhou Hikvision Digital Technology Co.,Ltd.
 00:BD:27		Exar Corp.
 00:BD:3A		Nokia Corporation
 00:BD:3E		Vizio, Inc
@@ -18902,6 +18903,7 @@
 0C:BF:B4:10:00:00/28	Innomotics GmbH
 0C:BF:B4:40:00:00/28	Shenzhen EN Plus Tech Co.,Ltd.
 0C:BF:B4:70:00:00/28	Odyssey Robot LLC
+0C:BF:B4:80:00:00/28	Changzhou Asia Networks Information Technology Co., Ltd
 0C:BF:B4:90:00:00/28	VirtualV Trading Limited
 0C:BF:B4:D0:00:00/28	Nanchang si colordisplay Technology Co.,Ltd
 0C:C0:C0		Magneti Marelli Sistemas Electronicos Mexico
@@ -23316,6 +23318,7 @@
 30:74:96		Huawei Technologies Co.,Ltd
 30:75:12		Sony Corporation
 30:76:6F		LG Electronics (Mobile Communications)
+30:76:F5		Espressif Inc.
 30:77:CB		Maike Industry(Shenzhen)CO.,LTD
 30:78:5C		Partow Tamas Novin (Parman)
 30:78:6B		TIANJIN Golden Pentagon Electronics Co., Ltd.
@@ -25426,6 +25429,7 @@
 40:A3:6B:C0:00:00/28	Onion Corporation
 40:A3:6B:D0:00:00/28	FAOD Co.,Ltd.
 40:A3:CC		Intel Corporate
+40:A4:4A		Google, Inc.
 40:A5:3B		Nokia
 40:A5:EF		Shenzhen Four Seas Global Link Network Technology Co., Ltd.
 40:A6:3D		SignalFire Telemetry
@@ -40026,6 +40030,7 @@
 8C:1F:64:59:80:00/36	Tirasoft Technology
 8C:1F:64:59:A0:00/36	Primalucelab isrl
 8C:1F:64:59:C0:00/36	Private
+8C:1F:64:59:D0:00/36	CommBox Pty Ltd
 8C:1F:64:59:F0:00/36	Delta Computers LLC.
 8C:1F:64:5A:00:00/36	Seongwon Eng Co.,Ltd
 8C:1F:64:5A:10:00/36	Breas Medical AB
@@ -45877,6 +45882,7 @@ AC:A4:30		Peerless AV
 AC:A4:6E		Shenzhen Gongjin Electronics Co.,Lt
 AC:A6:13		Aivres SYSTEMS INC
 AC:A6:67		Electronic Systems Protection, Inc.
+AC:A7:04		Espressif Inc.
 AC:A8:8E		SHARP Corporation
 AC:A9:19		TrekStor GmbH
 AC:A9:A0		Audioengine, Ltd.
@@ -45979,6 +45985,7 @@ AC:E4:2E		SK hynix
 AC:E4:B5		Apple, Inc.
 AC:E5:F0		Doppler Labs
 AC:E6:4B		Shenzhen Baojia Battery Technology Co., Ltd.
+AC:E6:BB		Google, Inc.
 AC:E7:7B		Sichuan Tianyi Comheart Telecom Co.,LTD
 AC:E8:7B		Huawei Technologies Co.,Ltd
 AC:E8:7E		Bytemark Computer Consulting Ltd
@@ -52159,6 +52166,7 @@ E0:6D:18		Pioneercorporation
 E0:70:EA		HP Inc.
 E0:72:0A		Shenzhen SuperElectron Technology Co.,Ltd.
 E0:72:56		Intel Corporate
+E0:72:A1		Espressif Inc.
 E0:73:5F		Nucom
 E0:73:E7		HP Inc.
 E0:75:0A		Alpsalpine Co,.Ltd
