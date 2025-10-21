@@ -18902,7 +18902,9 @@
 0C:BF:B4		IEEE Registration Authority
 0C:BF:B4:10:00:00/28	Innomotics GmbH
 0C:BF:B4:20:00:00/28	Macnica Technology
+0C:BF:B4:30:00:00/28	ShenZhen XunDun Technology CO.LTD
 0C:BF:B4:40:00:00/28	Shenzhen EN Plus Tech Co.,Ltd.
+0C:BF:B4:60:00:00/28	Prolight Concepts (UK) Ltd
 0C:BF:B4:70:00:00/28	Odyssey Robot LLC
 0C:BF:B4:80:00:00/28	Changzhou Asia Networks Information Technology Co., Ltd
 0C:BF:B4:90:00:00/28	VirtualV Trading Limited
@@ -22905,6 +22907,7 @@
 2C:AC:44		Conextop
 2C:AD:13		Shenzhen Zhilu Technology Co.,Ltd
 2C:AE:2B		Samsung Electronics Co.,Ltd
+2C:AF:C4		Private
 2C:B0:5D		Netgear
 2C:B0:DF		Soliton Technologies Pvt Ltd
 2C:B0:FD		Shenzhen MiaoMing  Intelligent Technology Co.,Ltd
@@ -40122,6 +40125,7 @@
 8C:1F:64:62:C0:00/36	Hangzhou EasyXR Advanced Technology Co., Ltd.
 8C:1F:64:62:D0:00/36	Embeddded Plus Plus
 8C:1F:64:62:E0:00/36	ViewSonic Corp
+8C:1F:64:62:F0:00/36	Pro Design Electronic GmbH
 8C:1F:64:63:10:00/36	Haiyang Olix Co.,Ltd.
 8C:1F:64:63:40:00/36	Aml
 8C:1F:64:63:60:00/36	Europe Trade
@@ -40143,6 +40147,7 @@
 8C:1F:64:65:50:00/36	S.E.I. Co.,Ltd.
 8C:1F:64:65:60:00/36	Optotune Switzerland AG
 8C:1F:64:65:70:00/36	Bright Solutions PTE LTD
+8C:1F:64:65:A0:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:65:B0:00/36	SUS Corporation
 8C:1F:64:65:D0:00/36	Action Streamer LLC
 8C:1F:64:65:F0:00/36	Astrometric Instruments, Inc.
@@ -40331,6 +40336,7 @@
 8C:1F:64:78:00:00/36	HME Co.,ltd
 8C:1F:64:78:10:00/36	Druck Ltd.
 8C:1F:64:78:20:00/36	Atm Llc
+8C:1F:64:78:40:00/36	Maysun Corporation
 8C:1F:64:78:70:00/36	Tabology
 8C:1F:64:78:90:00/36	DEUTA Werke GmbH
 8C:1F:64:78:B0:00/36	Senso2Me Nv
@@ -41422,6 +41428,7 @@
 8C:1F:64:EB:20:00/36	Aqua Broadcast Ltd
 8C:1F:64:EB:50:00/36	Meiryo Denshi Corp.
 8C:1F:64:EB:70:00/36	Delta Solutions LLC
+8C:1F:64:EB:80:00/36	Power Electronics Espana, S.L.
 8C:1F:64:EB:90:00/36	KxS Technologies Oy
 8C:1F:64:EB:A0:00/36	Hyve Solutions
 8C:1F:64:EB:B0:00/36	Potter Electric Signal Co. LLC
@@ -51139,6 +51146,7 @@ D8:37:3B		Shenzhen Jingxun Software Telecommunication Technology Co.,Ltd
 D8:37:BE		Shenzhen Gongjin Electronics Co.,Lt
 D8:38:0D		SHENZHEN IP-COM Network Co.,Ltd
 D8:38:FC		Ruckus Wireless
+D8:3A:36		AltoBeam Inc.
 D8:3A:DD		Raspberry Pi Trading Ltd
 D8:3A:F5		Wideband Labs LLC
 D8:3B:BF		Intel Corporate
@@ -53987,6 +53995,7 @@ F0:51:36		TCT mobile ltd
 F0:51:EA		Fitbit, Inc.
 F0:54:94		Honeywell Connected Building
 F0:55:01		Huawei Device Co., Ltd.
+F0:55:82		Arashi Vision Inc.
 F0:57:8D		JetHome LLC
 F0:57:A6		Intel Corporate
 F0:58:49		CareView Communications
@@ -54853,7 +54862,7 @@ F8:0F:41		Wistron Infocomm (Zhongshan) Corporation
 F8:0F:6F		Cisco Systems, Inc
 F8:0F:84		Natural Security SAS
 F8:0F:F9		Google, Inc.
-F8:10:37		Atopia Systems, LP
+F8:10:37		ENTOUCH Controls
 F8:10:93		Apple, Inc.
 F8:10:A0		Xtreme Testek Inc.
 F8:13:08		Nokia
