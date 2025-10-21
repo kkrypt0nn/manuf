@@ -18901,10 +18901,12 @@
 0C:BF:74		Morse Micro
 0C:BF:B4		IEEE Registration Authority
 0C:BF:B4:10:00:00/28	Innomotics GmbH
+0C:BF:B4:20:00:00/28	Macnica Technology
 0C:BF:B4:40:00:00/28	Shenzhen EN Plus Tech Co.,Ltd.
 0C:BF:B4:70:00:00/28	Odyssey Robot LLC
 0C:BF:B4:80:00:00/28	Changzhou Asia Networks Information Technology Co., Ltd
 0C:BF:B4:90:00:00/28	VirtualV Trading Limited
+0C:BF:B4:A0:00:00/28	Irteya Llc
 0C:BF:B4:D0:00:00/28	Nanchang si colordisplay Technology Co.,Ltd
 0C:C0:C0		Magneti Marelli Sistemas Electronicos Mexico
 0C:C1:19		Shenzhen Phaten Tech. LTD
@@ -22327,6 +22329,7 @@
 28:BA:18		NextNav, LLC
 28:BA:B5		Samsung Electronics Co.,Ltd
 28:BB:59		RNET Technologies, Inc.
+28:BB:B2		Infinix mobility limited
 28:BB:ED		Bouffalo Lab (Nanjing) Co., Ltd.
 28:BC:05		BLU Products Inc
 28:BC:18		SourcingOverseas Co. Ltd
@@ -40366,6 +40369,7 @@
 8C:1F:64:7C:60:00/36	Flextronics International Kft
 8C:1F:64:7C:70:00/36	Ascon Tecnologic S.r.l.
 8C:1F:64:7C:80:00/36	Jacquet Dechaume
+8C:1F:64:7C:C0:00/36	Kuntu Technology Limited Liability Compant
 8C:1F:64:7C:D0:00/36	Fugro Technology B.V.
 8C:1F:64:7C:E0:00/36	Shanghai smartlogic technology Co.,Ltd.
 8C:1F:64:7C:F0:00/36	Transdigital Pty Ltd
@@ -43980,6 +43984,7 @@
 9C:CA:D9		Nokia Corporation
 9C:CB:F7		Cloud Star Technology Co., Ltd.
 9C:CC:83		Juniper Networks
+9C:CD:42		Dongguan Liesheng Electronic Co., Ltd.
 9C:CD:82		Cheng Uei Precision Industry Co.,Ltd
 9C:CE:88		Ruijie Networks Co.,LTD
 9C:D1:D0		Guangzhou Ronsuo Electronic Technology Co.,Ltd
