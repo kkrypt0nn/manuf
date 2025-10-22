@@ -32223,7 +32223,7 @@
 70:B3:D5:1D:40:00/36	Brinkmann Audio GmbH
 70:B3:D5:1D:50:00/36	MIVO Technology AB
 70:B3:D5:1D:60:00/36	MacGray Services
-70:B3:D5:1D:70:00/36	BAE Systems Apllied Intelligence
+70:B3:D5:1D:70:00/36	BAE Systems
 70:B3:D5:1D:80:00/36	Blue Skies Global LLC
 70:B3:D5:1D:90:00/36	MondeF
 70:B3:D5:1D:A0:00/36	Promess Inc.
@@ -35378,7 +35378,7 @@
 70:B3:D5:E2:A0:00/36	CONTES, spol. s r.o.
 70:B3:D5:E2:B0:00/36	Guan Show Technologe Co., Ltd.
 70:B3:D5:E2:C0:00/36	Fourth Frontier Technologies Private Limited
-70:B3:D5:E2:D0:00/36	BAE Systems Apllied Intelligence
+70:B3:D5:E2:D0:00/36	BAE Systems
 70:B3:D5:E2:E0:00/36	Merz s.r.o.
 70:B3:D5:E2:F0:00/36	Flextronics International Kft
 70:B3:D5:E3:00:00/36	Quiss Ag
@@ -47818,7 +47818,7 @@ BC:D2:95		Cisco Systems, Inc
 BC:D5:B6		d2d technologies
 BC:D5:ED		Sagemcom Broadband SAS
 BC:D7:13		Owl Labs
-BC:D7:67		BAE Systems Apllied Intelligence
+BC:D7:67		BAE Systems
 BC:D7:A5		Hewlett Packard Enterprise
 BC:D7:CE		China Mobile (Hangzhou) Information Technology Co., Ltd.
 BC:D7:D4		Roku, Inc
