@@ -37929,6 +37929,7 @@
 80:9D:65		FN-LINK TECHNOLOGY Ltd.
 80:9F:9B		Sichuan AI-Link Technology Co., Ltd.
 80:9F:AB		Fiberhome Telecommunication Technologies Co.,LTD
+80:9F:E4		Shen Zhen Tenda Technology Co.,Ltd
 80:9F:F5		Samsung Electronics Co.,Ltd
 80:A0:36		Shanghai MXCHIP Information Technology Co., Ltd.
 80:A1:97		u-blox AG
