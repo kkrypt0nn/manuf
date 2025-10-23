@@ -18720,6 +18720,7 @@
 0C:70:43		Sony Interactive Entertainment Inc.
 0C:70:4A		Huawei Technologies Co.,Ltd
 0C:71:5D		Samsung Electronics Co.,Ltd
+0C:71:65		Motorola Mobility LLC, a Lenovo Company
 0C:71:8C		TCT mobile ltd
 0C:72:2C		Tp-Link Technologies Co.,Ltd.
 0C:72:74		AVM Audiovisuelles Marketing und Computersysteme GmbH
@@ -18905,11 +18906,13 @@
 0C:BF:B4:20:00:00/28	Macnica Technology
 0C:BF:B4:30:00:00/28	ShenZhen XunDun Technology CO.LTD
 0C:BF:B4:40:00:00/28	Shenzhen EN Plus Tech Co.,Ltd.
+0C:BF:B4:50:00:00/28	ICWiser
 0C:BF:B4:60:00:00/28	Prolight Concepts (UK) Ltd
 0C:BF:B4:70:00:00/28	Odyssey Robot LLC
 0C:BF:B4:80:00:00/28	Changzhou Asia Networks Information Technology Co., Ltd
 0C:BF:B4:90:00:00/28	VirtualV Trading Limited
 0C:BF:B4:A0:00:00/28	Irteya Llc
+0C:BF:B4:B0:00:00/28	대한전력전자
 0C:BF:B4:D0:00:00/28	Nanchang si colordisplay Technology Co.,Ltd
 0C:C0:C0		Magneti Marelli Sistemas Electronicos Mexico
 0C:C1:19		Shenzhen Phaten Tech. LTD
@@ -52247,6 +52250,7 @@ E0:A1:D7		Sfr
 E0:A2:58		Wanbang Digital Energy Co.,Ltd
 E0:A2:5A		Shanghai Mo xiang Network Technology CO.,ltd
 E0:A3:0F		Pevco
+E0:A3:66		Motorola Mobility LLC, a Lenovo Company
 E0:A3:AC		Huawei Technologies Co.,Ltd
 E0:A4:98		Shenzhen Orfa Tech Co.,Ltd
 E0:A5:09		Bitmain Technologies Inc
