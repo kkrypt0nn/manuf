@@ -24730,7 +24730,7 @@
 3C:26:E4		Cisco Systems, Inc
 3C:27:63		SLE quality engineering GmbH & Co. KG
 3C:28:6D		Google, Inc.
-3C:28:A6		Alcatel-Lucent Enterprise (China)
+3C:28:A6		ALE International
 3C:2A:F4		Brother Industries, LTD.
 3C:2C:30		Dell Inc.
 3C:2C:94		杭州德澜科技有限公司（HangZhou Delan Technology Co.,Ltd）
@@ -27787,6 +27787,7 @@
 50:5E:5C		Sunitec Technology Co.,Limited
 50:5F:B5		Askey Computer Corp
 50:60:28		Xirrus Inc.
+50:61:3F		eero inc.
 50:61:84		Avaya Inc
 50:61:BF		Cisco Systems, Inc
 50:61:D6		Indu-Sol GmbH
@@ -39311,6 +39312,7 @@
 8C:1F:64:0B:E0:00/36	Bnb
 8C:1F:64:0B:F0:00/36	Aurora Communication Technologies Corp.
 8C:1F:64:0C:00:00/36	Active Research Limited
+8C:1F:64:0C:10:00/36	Opal Camera Inc.
 8C:1F:64:0C:30:00/36	Eurek srl
 8C:1F:64:0C:50:00/36	TechnipFMC
 8C:1F:64:0C:80:00/36	EA Elektro-Automatik GmbH
@@ -51735,6 +51737,7 @@ DC:80:84		Apple, Inc.
 DC:81:3D		Shanghai Xiangcheng Communication Technology Co., Ltd
 DC:82:5B		JANUS, spol. s r.o.
 DC:82:F6		iPort
+DC:83:BF		Seiko Epson Corporation
 DC:84:03		shenzhen trolink  Technology Co.,Ltd
 DC:84:E9		Shenzhen Qihoo Intelligent Technology Co.,Ltd
 DC:85:DE		AzureWave Technology Inc.
@@ -54486,6 +54489,7 @@ F4:4F:D3		shenzhen hemuwei technology co.,ltd
 F4:50:EB		Telechips Inc
 F4:52:14		Mellanox Technologies, Inc.
 F4:52:46		Askey Computer Corp
+F4:52:5B		Antare Technology Ltd
 F4:52:93		Apple, Inc.
 F4:54:20		Tellescom Industria E Comercio Em Telecomunicacao
 F4:54:24		Extreme Networks Headquarters
