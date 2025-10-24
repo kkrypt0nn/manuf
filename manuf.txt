@@ -27162,6 +27162,7 @@
 4C:3B:74		VOGTEC(H.K.) Co., Ltd
 4C:3B:DF		Microsoft Corporation
 4C:3C:16		Samsung Electronics Co.,Ltd
+4C:3C:8F		Shenzhen Jingxun Technology Co., Ltd.
 4C:3F:A7		uGrid Network Inc.
 4C:3F:D3		Texas Instruments
 4C:40:88		Sanshin Electronics Co.,Ltd.
