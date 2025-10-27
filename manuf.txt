@@ -24252,6 +24252,7 @@
 38:43:69		Patrol Products Consortium LLC
 38:43:7D		Compal Broadband Networks, Inc.
 38:43:E5		Grotech Inc
+38:44:BE		Espressif Inc.
 38:45:3B		Ruckus Wireless
 38:45:4C		Light Labs, Inc.
 38:45:54		Harman/Becker Automotive Systems GmbH
@@ -31524,6 +31525,7 @@
 70:4A:0E		AMPAK Technology,Inc.
 70:4A:AE		Xstream Flow (Pty) Ltd
 70:4A:E4		Rinstrum Pty Ltd
+70:4B:CA		Espressif Inc.
 70:4C:A2		Apple, Inc.
 70:4C:A5		Fortinet, Inc.
 70:4C:B6		Shenzhen SuperElectron Technology Co.,Ltd.
@@ -42094,6 +42096,7 @@
 8C:FC:A0		Shenzhen Smart Device Technology Co., LTD.
 8C:FD:15		Imagine Marketing Private Limited
 8C:FD:18		Huawei Technologies Co.,Ltd
+8C:FD:49		Espressif Inc.
 8C:FD:DE		Sagemcom Broadband SAS
 8C:FD:F0		Qualcomm Inc.
 8C:FE:57		Apple, Inc.
