@@ -11365,7 +11365,7 @@
 00:50:C2:18:40:00/36	H M Computing Limited
 00:50:C2:18:50:00/36	Optical Wireless Link Inc.
 00:50:C2:18:60:00/36	Pantec Engineering AG
-00:50:C2:18:70:00/36	Cyan Technology Ltd
+00:50:C2:18:70:00/36	CyanConnode
 00:50:C2:18:80:00/36	dresden-elektronik
 00:50:C2:18:90:00/36	CC Systems AB
 00:50:C2:18:A0:00/36	Basler Electric Company
@@ -18916,6 +18916,7 @@
 0C:BF:B4:B0:00:00/28	대한전력전자
 0C:BF:B4:C0:00:00/28	ShenZhen Zeal-All Technology Co.,Ltd
 0C:BF:B4:D0:00:00/28	Nanchang si colordisplay Technology Co.,Ltd
+0C:BF:B4:E0:00:00/28	Shenzhen PengBrain Technology Co.,Ltd
 0C:C0:C0		Magneti Marelli Sistemas Electronicos Mexico
 0C:C1:19		Shenzhen Phaten Tech. LTD
 0C:C3:A7		Meritec
@@ -19034,6 +19035,7 @@
 0C:F0:19		Malgn Technology Co., Ltd.
 0C:F0:7B		Shenzhen Skyworth Digital  Technology  CO., Ltd
 0C:F0:B4		Globalsat International Technology Ltd
+0C:F2:F5		Sichuan AI-Link Technology Co., Ltd.
 0C:F3:46		Xiaomi Communications Co Ltd
 0C:F3:61		Java Information
 0C:F3:EE		EM Microelectronic
@@ -20034,6 +20036,7 @@
 18:20:D5		Commscope
 18:21:95		Samsung Electronics Co.,Ltd
 18:22:7E		Samsung Electronics Co.,Ltd
+18:24:39		Yippee Electronics Cp.,Limited
 18:26:49		Intel Corporate
 18:26:54		Samsung Electronics Co.,Ltd
 18:26:66		Samsung Electronics Co.,Ltd
@@ -24912,6 +24915,7 @@
 3C:7F:6F		Telechips, Inc.
 3C:80:6B		Hunan Voc Acoustics Technology Co., Ltd.
 3C:80:AA		Ransnet Singapore Pte Ltd
+3C:81:29		Inheco Industrial Heating and Cooling GmbH
 3C:81:D8		Sagemcom Broadband SAS
 3C:82:C0		Vantiva USA LLC
 3C:83:1E		CKD Corporation
@@ -27958,6 +27962,7 @@
 50:A7:33		Ruckus Wireless
 50:A8:3A		S Mobile Devices Limited
 50:A9:DE		Smartcom - Bulgaria AD
+50:AB:29		Trackunit ApS
 50:AB:3E		Qibixx AG
 50:AB:BF		Hoseo Telecom
 50:AC:B9		Huawei Technologies Co.,Ltd
@@ -39917,6 +39922,7 @@
 8C:1F:64:4A:F0:00/36	miniDSP
 8C:1F:64:4B:00:00/36	U -Mei-Dah Int'L Enterprise Co.,Ltd.
 8C:1F:64:4B:20:00/36	GV Technology Co.,Ltd.
+8C:1F:64:4B:30:00/36	XYZ Digital Private Limited
 8C:1F:64:4B:40:00/36	Point One Navigation
 8C:1F:64:4B:80:00/36	astTECS Communications Private Limited
 8C:1F:64:4B:B0:00/36	IWS Global Pty Ltd
@@ -40895,6 +40901,7 @@
 8C:1F:64:B1:A0:00/36	Panoramic Power
 8C:1F:64:B1:B0:00/36	Nov'in
 8C:1F:64:B1:D0:00/36	Tocho Marking Systems America, Inc
+8C:1F:64:B1:E0:00/36	Aidhom
 8C:1F:64:B1:F0:00/36	wincker international enterprise co., ltd
 8C:1F:64:B2:00:00/36	Lechpol Electronics Spółka z o.o. Sp.k.
 8C:1F:64:B2:20:00/36	Blighter Surveillance Systems Ltd
@@ -50132,6 +50139,7 @@ D0:40:EF		Murata Manufacturing Co., Ltd.
 D0:41:C9		Fiberhome Telecommunication Technologies Co.,LTD
 D0:43:1E		Dell Inc.
 D0:44:33		Clourney Semiconductor
+D0:45:8D		Shenzhen Skyworth Digital  Technology  CO., Ltd
 D0:46:0C		Dell Inc.
 D0:46:DC		Southwest Research Institute
 D0:47:C1		Elma Electronic AG
