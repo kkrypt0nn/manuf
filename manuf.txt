@@ -27566,6 +27566,7 @@
 4C:EE:B0		SHC Netzwerktechnik GmbH
 4C:EF:56		Shenzhen Sundray Technologies company Limited
 4C:EF:C0		Amazon Technologies Inc.
+4C:EF:E1		Dynacon Sp. z o.o.
 4C:F0:2E		Vifa Denmark A/S
 4C:F1:9E		Groupe Atlantic
 4C:F2:02		Xiaomi Communications Co Ltd
@@ -40352,6 +40353,7 @@
 8C:1F:64:78:00:00/36	HME Co.,ltd
 8C:1F:64:78:10:00/36	Druck Ltd.
 8C:1F:64:78:20:00/36	Atm Llc
+8C:1F:64:78:30:00/36	VMA GmbH
 8C:1F:64:78:40:00/36	Maysun Corporation
 8C:1F:64:78:70:00/36	Tabology
 8C:1F:64:78:90:00/36	DEUTA Werke GmbH
@@ -40812,6 +40814,7 @@
 8C:1F:64:A9:10:00/36	Infinitive Group Limited
 8C:1F:64:A9:20:00/36	Agrology, PBC
 8C:1F:64:A9:40:00/36	Future wave ultra tech Company
+8C:1F:64:A9:50:00/36	Sentek Pty Ltd
 8C:1F:64:A9:70:00/36	Integer.pl S.A.
 8C:1F:64:A9:80:00/36	Jacobs Technology, Inc.
 8C:1F:64:A9:A0:00/36	Signasystems Elektronik San. ve Tic. Ltd. Sti.
@@ -41523,6 +41526,7 @@
 8C:1F:64:F4:30:00/36	wtec GmbH
 8C:1F:64:F4:50:00/36	Jbf
 8C:1F:64:F4:60:00/36	Broadcast Tools, Inc.
+8C:1F:64:F4:80:00/36	Fibernet Ltd
 8C:1F:64:F4:90:00/36	CenterClick LLC
 8C:1F:64:F4:A0:00/36	In-lite Design BV
 8C:1F:64:F4:B0:00/36	Jorex Lorex India Private Limited
@@ -53105,6 +53109,7 @@ E8:94:F6		Tp-Link Technologies Co.,Ltd.
 E8:95:05		Shenzhen MiaoMing Intelligent Technology Co.,Ltd
 E8:95:26		Luxshare Precision Industry CO., LTD.
 E8:96:06		testo Instruments (Shenzhen) Co., Ltd.
+E8:97:44		LCFC(Hefei) Electronics Technology co., ltd
 E8:97:9A		Quectel Wireless Solutions Co.,Ltd.
 E8:97:B8		Chiun Mai Communication System, Inc
 E8:98:47		Xiaomi Communications Co Ltd
