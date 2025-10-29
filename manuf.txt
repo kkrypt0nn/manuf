@@ -21182,6 +21182,7 @@
 20:2A:C5		Petite-En
 20:2B:20		Cloud Network Technology Singapore Pte. Ltd.
 20:2B:C1		Huawei Technologies Co.,Ltd
+20:2B:DA:70:00:00/28	Chongqing Ruishixing Technology Co., Ltd
 20:2C:B7		Kong Yue Electronics & Information Industry (Xinhui) Ltd.
 20:2D:07		Samsung Electronics Co.,Ltd
 20:2D:23		Collinear Networks Inc.
@@ -21771,6 +21772,7 @@
 24:81:AA		KSH International Co., Ltd.
 24:81:C7		Huawei Device Co., Ltd.
 24:82:8A		Prowave Technologies Ltd.
+24:82:CA		vivo Mobile Communication Co., Ltd.
 24:84:98		Beijing Jiaoda Microunion Tech.Co.,Ltd.
 24:86:02		Bouffalo Lab (Nanjing) Co., Ltd.
 24:86:25		IEEE Registration Authority
@@ -26559,6 +26561,7 @@
 44:FA:66		Cloud Network Technology Singapore Pte. Ltd.
 44:FB:42		Apple, Inc.
 44:FB:5A		zte corporation
+44:FB:76		vivo Mobile Communication Co., Ltd.
 44:FD:A3		Everysight LTD.
 44:FE:3B		Arcadyan Corporation
 44:FE:EF		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
@@ -38669,6 +38672,7 @@
 88:28:FB		Juniper Networks
 88:29:49		Renesas Electronics (Penang) Sdn. Bhd.
 88:29:50		Netmoon Technology Co., Ltd
+88:29:85		Sz Dji Technology Co.,Ltd
 88:29:9C		Samsung Electronics Co.,Ltd
 88:29:BF		Amazon Technologies Inc.
 88:2A:5E		New H3C Technologies Co., Ltd
@@ -41385,6 +41389,7 @@
 8C:1F:64:E3:30:00/36	Amiad Water Systems
 8C:1F:64:E3:50:00/36	Horcery LLC
 8C:1F:64:E3:60:00/36	Metabuild
+8C:1F:64:E3:70:00/36	RADA Electronics Industries Ltd.
 8C:1F:64:E3:A0:00/36	AITEC Corporation
 8C:1F:64:E3:B0:00/36	Neways Technologies B.V.
 8C:1F:64:E3:C0:00/36	Finotex Electronic Solutions PVT LTD
@@ -43718,6 +43723,7 @@
 9C:21:6A		Tp-Link Technologies Co.,Ltd.
 9C:21:83		Broadcom Limited
 9C:22:0E		TASCAN Systems GmbH
+9C:24:10		Bouffalo Lab (Nanjing) Co., Ltd.
 9C:24:72		Sagemcom Broadband SAS
 9C:25:95		Samsung Electronics Co.,Ltd
 9C:25:BE		Wildlife Acoustics, Inc.
@@ -49505,6 +49511,7 @@ CA:F2:5B		Lexar Electronics(Shenzhen) Co.,Ltd.
 CA:FA:E6		Tianjin Ronghui microelectronics Technology Co., Ltd.
 CC:00:80		Bettini Srl
 CC:00:F1		Sagemcom Broadband SAS
+CC:03:3D		Beijing Xiaomi Mobile Software Co., Ltd
 CC:03:7B		Texas Instruments
 CC:03:88		MangoBoost Inc
 CC:03:D9		Cisco Meraki
@@ -52468,6 +52475,7 @@ E4:19:7F		eero inc.
 E4:19:C1		Huawei Technologies Co.,Ltd
 E4:1A:1D		Novea Energies
 E4:1A:2C		ZPE Systems, Inc.
+E4:1B:43		Beijing Xiaomi Mobile Software Co., Ltd
 E4:1C:4B		V2 Technology, Inc.
 E4:1D:2D		Mellanox Technologies, Inc.
 E4:1E:0A		IEEE Registration Authority
