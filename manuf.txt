@@ -26167,6 +26167,7 @@
 44:18:FD		Apple, Inc.
 44:19:B6		Hangzhou Hikvision Digital Technology Co.,Ltd.
 44:1A:4C		xFusion Digital Technologies Co.,Ltd.
+44:1A:5C		Cisco Systems, Inc
 44:1A:84		Quectel Wireless Solutions Co.,Ltd.
 44:1A:AC		Elektrik Uretim AS EOS
 44:1A:FA		New H3C Technologies Co., Ltd
@@ -29860,6 +29861,7 @@
 60:A7:30		Shenzhen Yipinfang Internet Technology Co.,Ltd
 60:A7:51		Huawei Device Co., Ltd.
 60:A8:FE		Nokia Solutions and Networks GmbH & Co. KG
+60:A9:54		Cisco Systems, Inc
 60:A9:B0		Merchandising Technologies, Inc
 60:AA:EF		Huawei Device Co., Ltd.
 60:AB:14		LG Innotek
@@ -53676,6 +53678,7 @@ EC:A2:9B		Kemppi Oy
 EC:A2:A0		Taicang T&W Electronics
 EC:A5:DE		ONYX WIFI Inc
 EC:A6:2F		Huawei Technologies Co.,Ltd
+EC:A7:8D		Cisco Systems, Inc
 EC:A7:AD		Barrot Technology Co.,Ltd.
 EC:A7:B1		IEEE Registration Authority
 EC:A7:B1:00:00:00/28	Nanjing Xinyun Technology Co., Ltd
@@ -55601,6 +55604,7 @@ FC:6D:D1		APRESIA Systems, Ltd.
 FC:6F:B7		Commscope
 FC:70:2E		Sichuan AI-Link Technology Co., Ltd.
 FC:71:FA		Trane Technologies
+FC:72:88		Cisco Systems, Inc
 FC:73:FB		Huawei Technologies Co.,Ltd
 FC:75:16		D-Link International
 FC:75:E6		Handreamnet
