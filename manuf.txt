@@ -21182,6 +21182,8 @@
 20:2A:C5		Petite-En
 20:2B:20		Cloud Network Technology Singapore Pte. Ltd.
 20:2B:C1		Huawei Technologies Co.,Ltd
+20:2B:DA		IEEE Registration Authority
+20:2B:DA:20:00:00/28	Thales Nederland BV
 20:2B:DA:70:00:00/28	Chongqing Ruishixing Technology Co., Ltd
 20:2C:B7		Kong Yue Electronics & Information Industry (Xinhui) Ltd.
 20:2D:07		Samsung Electronics Co.,Ltd
@@ -24221,6 +24223,7 @@
 38:30:F9		LG Electronics (Mobile Communications)
 38:31:5A		Rinnai
 38:31:AC		Weg
+38:33:C5		Microsoft Corporation
 38:35:FB		Sagemcom Broadband SAS
 38:37:8B		Huawei Technologies Co.,Ltd
 38:38:4B		vivo Mobile Communication Co., Ltd.
@@ -40658,6 +40661,7 @@
 8C:1F:64:96:80:00/36	Iav Engineering Sarl
 8C:1F:64:96:A0:00/36	EA Elektro-Automatik GmbH
 8C:1F:64:96:B0:00/36	Vantageo Private Limited
+8C:1F:64:96:F0:00/36	Vortix Networks
 8C:1F:64:97:00:00/36	Potter Electric Signal Co. LLC
 8C:1F:64:97:10:00/36	Infrasafe/ Advantor Systems
 8C:1F:64:97:30:00/36	Dorsett Technologies Inc
@@ -40706,6 +40710,7 @@
 8C:1F:64:9C:10:00/36	RealWear
 8C:1F:64:9C:30:00/36	Camozzi Automation SpA
 8C:1F:64:9C:40:00/36	Indra Heera Network Private Limited
+8C:1F:64:9C:50:00/36	Pacton Technologies Pty Ltd
 8C:1F:64:9C:60:00/36	Golding Audio Ltd
 8C:1F:64:9C:A0:00/36	EDC Acoustics
 8C:1F:64:9C:B0:00/36	Shanghai Sizhong Information Technology Co., Ltd
@@ -40990,6 +40995,7 @@
 8C:1F:64:BA:00:00/36	Jmv Lps Ltd
 8C:1F:64:BA:20:00/36	BESO sp. z o.o.
 8C:1F:64:BA:30:00/36	DEUTA-WERKE GmbH
+8C:1F:64:BA:40:00/36	Buckeye Mountain
 8C:1F:64:BA:60:00/36	FMC Technologies Measurement Solutions Inc
 8C:1F:64:BA:70:00/36	iLensys Technologies PVT LTD
 8C:1F:64:BA:80:00/36	AvMap srlu
@@ -42187,6 +42193,7 @@
 90:1A:4F		EM Microelectronic
 90:1A:CA		Commscope
 90:1B:0E		Fujitsu Technology Solutions GmbH
+90:1C:9E		Alcatel-Lucent Enterprise
 90:1D:27		zte corporation
 90:1E:DD		Great Computer Corporation
 90:20:3A		BYD Precision Manufacture Co.,Ltd
