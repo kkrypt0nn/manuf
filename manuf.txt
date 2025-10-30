@@ -22323,6 +22323,7 @@
 28:B4:FB		Sprocomm Technologies CO.,LTD.
 28:B5:91		Cisco Systems, Inc
 28:B5:E8		Texas Instruments
+28:B6:7C		KEBODA Intelligent TECHNOLOGY CO., LTD.
 28:B7:7C		IEEE Registration Authority
 28:B7:7C:00:00:00/28	Shenzhen Eview Gps Technology
 28:B7:7C:10:00:00/28	SolarEdge Technologies
