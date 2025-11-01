@@ -21184,6 +21184,7 @@
 20:2B:20		Cloud Network Technology Singapore Pte. Ltd.
 20:2B:C1		Huawei Technologies Co.,Ltd
 20:2B:DA		IEEE Registration Authority
+20:2B:DA:00:00:00/28	Ik Multimedia Production Srl
 20:2B:DA:20:00:00/28	Thales Nederland BV
 20:2B:DA:70:00:00/28	Chongqing Ruishixing Technology Co., Ltd
 20:2B:DA:80:00:00/28	Brush Electrical Machines Ltd
@@ -26300,6 +26301,7 @@
 44:65:0D		Amazon Technologies Inc.
 44:65:6A		Mega Video Electronic(HK) Industry Co., Ltd
 44:65:7F		Calix Inc.
+44:65:8A		Dukelana LLC
 44:65:E0		Merlion Consulting Services (Shenzhen) Co., Ltd
 44:66:6E		Ip-Line
 44:66:FC		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
@@ -28070,6 +28072,7 @@
 50:E0:99		HangZhou Atuo Future Technology Co., Ltd
 50:E0:C7		TurControlSystme AG
 50:E0:EF		Nokia
+50:E0:F9		GE Vernova
 50:E1:4A		Private
 50:E2:4E		zte corporation
 50:E4:52		Chipsea Technologies (Shenzhen) Corp.
