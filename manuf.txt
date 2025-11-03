@@ -29687,6 +29687,7 @@
 60:3E:7B		Gafachi, Inc.
 60:3E:CA		Cambridge Medical Robotics Ltd
 60:3F:C5		Cox Co., Ltd
+60:3F:FB		Telink Micro LLC
 60:42:7F		Shenzhen Chuangwei-Rgb Electronics Co.,Ltd
 60:44:7A		Water-i.d. GmbH
 60:44:F5		Easy Digital Ltd.
@@ -45063,6 +45064,7 @@ A4:B1:C1		Intel Corporate
 A4:B1:E9		Technicolor Delivery Technologies Belgium NV
 A4:B1:EE		H. ZANDER GmbH & Co. KG
 A4:B2:39		Cisco Systems, Inc
+A4:B2:56		Shenzhen Incar Technology Co., Ltd.
 A4:B2:A7		Adaxys Solutions AG
 A4:B3:6A		JSC SDO Chromatec
 A4:B4:39		Cisco Systems, Inc
