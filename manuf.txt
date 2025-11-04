@@ -21185,6 +21185,7 @@
 20:2B:C1		Huawei Technologies Co.,Ltd
 20:2B:DA		IEEE Registration Authority
 20:2B:DA:00:00:00/28	Ik Multimedia Production Srl
+20:2B:DA:10:00:00/28	Enovates NV
 20:2B:DA:20:00:00/28	Thales Nederland BV
 20:2B:DA:70:00:00/28	Chongqing Ruishixing Technology Co., Ltd
 20:2B:DA:80:00:00/28	Brush Electrical Machines Ltd
@@ -24624,6 +24625,7 @@
 38:F9:F5		Garmin International
 38:FA:CA		Skyworth Digital Technology(Shenzhen) Co.,Ltd
 38:FB:14		Huawei Technologies Co.,Ltd
+38:FB:A0		Shenzhen Baseus Technology CoLtd
 38:FC:34		Huawei Device Co., Ltd.
 38:FC:98		Intel Corporate
 38:FD:F5		Renesas Electronics (Penang) Sdn. Bhd.
@@ -30458,6 +30460,7 @@
 64:E9:50		Cisco Systems, Inc
 64:EA:C5		SiboTech Automation Co., Ltd.
 64:EB:8C		Seiko Epson Corporation
+64:EB:94		zte corporation
 64:EC:65		vivo Mobile Communication Co., Ltd.
 64:ED:57		Commscope
 64:ED:62		WOORI SYSTEMS Co., Ltd
@@ -30556,6 +30559,7 @@
 68:28:CF		Hewlett Packard Enterprise
 68:28:F6		Vubiq Networks, Inc.
 68:29:DC		Ficosa Electronics S.L.U.
+68:2A:DD		zte corporation
 68:2C:4F		leerang corporation
 68:2C:7B		Cisco Systems, Inc
 68:2D:83		Shenzhen Dinghe Communication Company
@@ -39999,6 +40003,7 @@
 8C:1F:64:50:30:00/36	Tualcom Elektronik A.S.
 8C:1F:64:50:40:00/36	EA Elektroautomatik GmbH & Co. KG
 8C:1F:64:50:60:00/36	UrbanChain Group Co., Ltd
+8C:1F:64:50:70:00/36	Idneo Technologies,S.A.U.
 8C:1F:64:50:80:00/36	Kite Rise Technologies GmbH
 8C:1F:64:50:90:00/36	Season Electronics Ltd
 8C:1F:64:50:A0:00/36	Bellco Trading Company (Pvt) Ltd
@@ -40485,6 +40490,7 @@
 8C:1F:64:81:A0:00/36	Gemini Electronics B.V.
 8C:1F:64:81:B0:00/36	Potter Electric Signal Co. LLC
 8C:1F:64:81:D0:00/36	Gogo BA
+8C:1F:64:81:E0:00/36	37130
 8C:1F:64:81:F0:00/36	ViewSonic Corp
 8C:1F:64:82:00:00/36	Tiama
 8C:1F:64:82:20:00/36	IP Devices
@@ -40835,6 +40841,7 @@
 8C:1F:64:A6:F0:00/36	Cardinal Scales Manufacturing Co
 8C:1F:64:A7:00:00/36	V-teknik Elektronik AB
 8C:1F:64:A7:10:00/36	Martec S.p.A.
+8C:1F:64:A7:40:00/36	Hiwin Mikrosystem Corp.
 8C:1F:64:A7:50:00/36	Procon Electronics Pty Ltd
 8C:1F:64:A7:60:00/36	DEUTA-WERKE GmbH
 8C:1F:64:A7:70:00/36	Rax-Tech International
@@ -44395,6 +44402,7 @@ A0:52:72		Apple, Inc.
 A0:52:AB		Avm Electronics Pte Ltd
 A0:53:94		Shenzhen zediel co., Ltd.
 A0:55:1F		Sagemcom Broadband SAS
+A0:55:2E		zte corporation
 A0:55:4F		Cisco Systems, Inc
 A0:55:DE		Commscope
 A0:56:2C		Samsung Electronics Co.,Ltd
