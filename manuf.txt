@@ -22444,6 +22444,7 @@
 28:E9:8E		Mitsubishi Electric Corporation
 28:EA:0B		Microsoft Corporation
 28:EA:2D		Apple, Inc.
+28:EA:5B		Samsara Networks Inc
 28:EB:0A		Rolling Wireless S.a.r.l. Luxembourg
 28:EB:A6		Nex-T LLC
 28:EB:B7		ambie corporation
@@ -22660,6 +22661,7 @@
 2C:29:97		Microsoft Corporation
 2C:2B:F9		LG Innotek
 2C:2D:48		Commend International GmbH
+2C:2F:F4		eero inc.
 2C:30:1A		Technicolor CH USA Inc for Telus
 2C:30:33		Netgear
 2C:30:68		Pantech Co.,Ltd
@@ -25177,6 +25179,7 @@
 40:06:D5		Cisco Systems, Inc
 40:07:C0		Railtec Systems GmbH
 40:08:77		Xiaomi Communications Co Ltd
+40:0A:E7		BSH Hausgeräte GmbH
 40:0D:10		Commscope
 40:0E:67		Tremol Ltd.
 40:0E:85		Samsung Electro-Mechanics(Thailand)
@@ -26395,6 +26398,7 @@
 44:97:5A		Shenzhen Fast Technologies Co.,Ltd
 44:9B:78		The Now Factory
 44:9B:C1		Huawei Technologies Co.,Ltd
+44:9B:C6		EOSS s.r.l.
 44:9C:B5		Alcomp, Inc
 44:9E:8B		Apple, Inc.
 44:9E:F9		vivo Mobile Communication Co., Ltd.
@@ -44508,6 +44512,7 @@ A0:98:57		Shenzhen ELINK Technology Co., Ltd.
 A0:98:ED		Shandong Intelligent Optical Communication Development Co., Ltd.
 A0:99:21		GD Midea Air-Conditioning Equipment Co.,Ltd.
 A0:99:9B		Apple, Inc.
+A0:9A:0C		Honor Device Co., Ltd.
 A0:9A:52		Shenzhen MoreSense Technology Co., Ltd.
 A0:9A:5A		Time Domain
 A0:9A:8E		Apple, Inc.
@@ -48125,6 +48130,7 @@ C0:54:4D		Nokia Shanghai Bell Co., Ltd.
 C0:55:5C		Impulse Labs
 C0:56:27		Belkin International Inc.
 C0:56:E3		Hangzhou Hikvision Digital Technology Co.,Ltd.
+C0:57:24		Honor Device Co., Ltd.
 C0:57:BC		Avaya Inc
 C0:58:A7		Pico Systems Co., Ltd.
 C0:5B:44		Beijing Xiaomi Mobile Software Co., Ltd
