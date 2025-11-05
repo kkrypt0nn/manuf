@@ -39886,6 +39886,7 @@
 8C:1F:64:43:90:00/36	Bornico
 8C:1F:64:43:A0:00/36	Spacelite Inc
 8C:1F:64:43:D0:00/36	Solid State Supplies Ltd
+8C:1F:64:43:E0:00/36	Syrma SGS Technology
 8C:1F:64:43:F0:00/36	beespace Technologies Limited
 8C:1F:64:44:00:00/36	MB connect line GmbH Fernwartungssysteme
 8C:1F:64:44:10:00/36	Novanta IMS
@@ -47904,6 +47905,7 @@ BC:D7:A5		Hewlett Packard Enterprise
 BC:D7:CE		China Mobile (Hangzhou) Information Technology Co., Ltd.
 BC:D7:D4		Roku, Inc
 BC:D9:40		ASR Co,.Ltd.
+BC:D9:FB		China Mobile Group Device Co.,Ltd.
 BC:DB:09		Cisco Meraki
 BC:DD:C2		Espressif Inc.
 BC:DF:58		Google, Inc.
@@ -48903,6 +48905,7 @@ C4:CC:37:D0:00:00/28	Netavo Global Data Services Ltd
 C4:CC:37:E0:00:00/28	Joby Aviation, Inc.
 C4:CC:F9		zte corporation
 C4:CD:45		Beijing Boomsense Technology CO.,LTD.
+C4:CD:50		Shenzhen C-Data Technology Co., Ltd.
 C4:CD:82		Hangzhou Lowan Information Technology Co., Ltd.
 C4:D0:E3		Intel Corporate
 C4:D1:97		Ventia Utility Services
