@@ -21193,6 +21193,7 @@
 20:2B:DA:90:00:00/28	REDMOUSE Inc.
 20:2B:DA:B0:00:00/28	Arvind Limited
 20:2B:DA:C0:00:00/28	EV4 Limited
+20:2B:DA:D0:00:00/28	Transit Solutions, LLC.
 20:2C:B7		Kong Yue Electronics & Information Industry (Xinhui) Ltd.
 20:2D:07		Samsung Electronics Co.,Ltd
 20:2D:23		Collinear Networks Inc.
@@ -40296,6 +40297,7 @@
 8C:1F:64:6D:60:00/36	Argosdyne Co., Ltd
 8C:1F:64:6D:70:00/36	Leopard Imaging Inc
 8C:1F:64:6D:90:00/36	Khimo
+8C:1F:64:6D:A0:00/36	浙江红谱科技有限公司
 8C:1F:64:6D:C0:00/36	Intrinsic Innovation, LLC
 8C:1F:64:6D:D0:00/36	ViewSonic Corp
 8C:1F:64:6D:E0:00/36	SUN･TECTRO,Ltd.
