@@ -20525,6 +20525,7 @@
 1C:00:42		NARI Technology Co., Ltd.
 1C:01:2D		Ficer Technology
 1C:02:19		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
+1C:04:60		NXP Semiconductors Taiwan Ltd.
 1C:05:B7		Chongqing Trantor Technology Co., Ltd.
 1C:06:56		IDY Corporation
 1C:08:C1		LG Innotek
@@ -21483,6 +21484,7 @@
 20:DF:73		Huawei Technologies Co.,Ltd
 20:DF:B9		Google, Inc.
 20:E0:9C		Nokia
+20:E1:5D		TP-Link Systems Inc.
 20:E2:A8		Apple, Inc.
 20:E4:07		Spark srl
 20:E4:6F		vivo Mobile Communication Co., Ltd.
@@ -39951,6 +39953,7 @@
 8C:1F:64:4A:00:00/36	Tantec A/S
 8C:1F:64:4A:10:00/36	Breas Medical AB
 8C:1F:64:4A:20:00/36	Bludigit SpA
+8C:1F:64:4A:30:00/36	ID Quantique SA
 8C:1F:64:4A:40:00/36	Potter Electric Signal Co. LLC
 8C:1F:64:4A:60:00/36	Alaire Technologies Inc
 8C:1F:64:4A:70:00/36	Potter Electric Signal Co. LLC
@@ -45979,6 +45982,7 @@ AC:A4:6E		Shenzhen Gongjin Electronics Co.,Lt
 AC:A6:13		Aivres SYSTEMS INC
 AC:A6:67		Electronic Systems Protection, Inc.
 AC:A7:04		Espressif Inc.
+AC:A7:F1		TP-Link Systems Inc.
 AC:A8:8E		SHARP Corporation
 AC:A9:19		TrekStor GmbH
 AC:A9:A0		Audioengine, Ltd.
@@ -46088,6 +46092,7 @@ AC:E8:7E		Bytemark Computer Consulting Ltd
 AC:E9:7F		IoT Tech Limited
 AC:E9:AA		Hay Systems Ltd
 AC:EA:6A		Genix Infocomm Co., Ltd.
+AC:EA:70		ZUNDA Inc.
 AC:EA:EA		Huawei Technologies Co.,Ltd
 AC:EB:51		Universal Electronics, Inc.
 AC:EB:E6		Espressif Inc.
@@ -54608,6 +54613,7 @@ F4:63:E7		Nanjing Maxon O.E. Tech. Co., LTD
 F4:63:FC		vivo Mobile Communication Co., Ltd.
 F4:64:12		Sony Interactive Entertainment Inc.
 F4:64:5D		Toshiba
+F4:64:B6		Sercomm Corporation.
 F4:65:0B		Espressif Inc.
 F4:65:A6		Apple, Inc.
 F4:67:2D		ShenZhen Topstar Technology Company
