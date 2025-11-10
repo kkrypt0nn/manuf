@@ -9854,7 +9854,7 @@
 00:25:C7		altek Corporation
 00:25:C8		S-Access GmbH
 00:25:C9		Shenzhen Huapu Digital Co., Ltd
-00:25:CA		Laird Connectivity
+00:25:CA		Ezurio, LLC
 00:25:CB		Reiner SCT
 00:25:CC		Mobile Communications Korea Incorporated
 00:25:CD		Skylane Optics
@@ -20385,7 +20385,7 @@
 18:C1:E2		Qolsys Inc.
 18:C2:3C		Lumi United Technology Co., Ltd
 18:C2:41		SonicWall
-18:C2:93		Laird Connectivity
+18:C2:93		Ezurio, LLC
 18:C2:BF		Buffalo.Inc
 18:C3:00		Nokia
 18:C3:F4		IEEE Registration Authority
@@ -46610,7 +46610,7 @@ B0:F9:63		Hangzhou H3C Technologies Co., Limited
 B0:FA:8B		Huawei Device Co., Ltd.
 B0:FA:91		EM Microelectronic
 B0:FA:EB		Cisco Systems, Inc
-B0:FB:15		Laird Connectivity
+B0:FB:15		Ezurio, LLC
 B0:FB:DD		Shenzhen SuperElectron Technology Co.,Ltd.
 B0:FC:0D		Amazon Technologies Inc.
 B0:FC:36		CyberTAN Technology Inc.
@@ -48451,7 +48451,7 @@ C0:EA:C3:D0:00:00/28	Kontron Asia Technology Inc.
 C0:EA:C3:E0:00:00/28	Beijing Zhongyuanyishang Technology Co Ltd
 C0:EA:E4		Sonicwall
 C0:ED:E5		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
-C0:EE:40		Laird Connectivity
+C0:EE:40		Ezurio, LLC
 C0:EE:B5		Enice Network.
 C0:EE:FB		OnePlus Tech (Shenzhen) Ltd
 C0:F1:C4		Pacidal Corporation Ltd.
@@ -51166,7 +51166,7 @@ D8:01:D0		Huawei Technologies Co.,Ltd
 D8:01:EB		Infinity Electronics Ltd
 D8:02:8A		Shenzhen YOUHUA Technology Co., Ltd
 D8:02:C0		Extreme Networks Headquarters
-D8:03:1A		Laird Connectivity
+D8:03:1A		Ezurio, LLC
 D8:03:2A		Commtact Ltd
 D8:05:2E		Skyviia Corporation
 D8:06:D1		Honeywell Fire System (Shanghai) Co,. Ltd.
@@ -53310,7 +53310,7 @@ E8:CA:50		Bouffalo Lab (Nanjing) Co., Ltd.
 E8:CA:C8		Hui Zhou Gaoshengda Technology Co.,LTD
 E8:CB:A1		Nokia Corporation
 E8:CB:ED		Chipsea Technologies(Shenzhen) Corp.
-E8:CB:F5		Laird Connectivity
+E8:CB:F5		Ezurio, LLC
 E8:CC:18		D-Link International
 E8:CC:32		Micronet  LTD
 E8:CC:8C		Chengdu Jiarui Hualian Communication Technology Co
@@ -53590,6 +53590,7 @@ EC:59:E7		Microsoft Corporation
 EC:5A:31		Buffalo.Inc
 EC:5A:86		Yulong Computer Telecommunication Scientific (Shenzhen) Co.,Ltd
 EC:5A:A3		Huawei Device Co., Ltd.
+EC:5B:71		Inventec(Chongqing) Corporation
 EC:5B:73		Advanced & Wise Technology Corp.
 EC:5B:CD		IEEE Registration Authority
 EC:5B:CD:00:00:00/28	Dong Guan Yung Fu Electronics Ltd.
@@ -53822,7 +53823,7 @@ EC:BF:D0		Texas Instruments
 EC:C0:18		Cisco Systems, Inc
 EC:C0:1B		Huawei Technologies Co.,Ltd
 EC:C0:6A		PowerChord Group Limited
-EC:C0:7A		Laird Connectivity
+EC:C0:7A		Ezurio, LLC
 EC:C1:AB		Guangzhou Shiyuan Electronic Technology Company Limited
 EC:C3:02		HUMAX Co., Ltd.
 EC:C3:42		zte corporation
