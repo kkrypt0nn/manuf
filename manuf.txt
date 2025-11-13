@@ -18540,6 +18540,7 @@
 0A:2A:33		Digistor
 0A:35:F2		Integrated Technical Vision Ltd
 0A:36:1C		Smardii
+0A:58:FB		Purple WiFi Limited
 0A:87:36		IEEE 1901 Working Group
 0A:8E:62		Delta Solutions LLC
 0A:93:26		Qorvo, Inc.
@@ -19713,6 +19714,7 @@
 14:49:D4		Xiaomi Communications Co Ltd
 14:49:E0		Samsung Electro-Mechanics(Thailand)
 14:4C:1A		Max Communication GmbH
+14:4C:FF		Grandstream Networks, Inc.
 14:4D:67		Zioncom Electronics (Shenzhen) Ltd.
 14:4E:2A		Ciena Corporation
 14:4E:34		Remote Solution
@@ -28835,6 +28837,7 @@
 58:73:D1		Huawei Technologies Co.,Ltd
 58:73:D8		Apple, Inc.
 58:75:21		CJSC RTSoft
+58:76:07:60:00:00/28	Shade Innovations
 58:76:75		Beijing ECHO Technologies Co.,Ltd
 58:76:9C		Palo Alto Networks
 58:76:AC		Sernet (Suzhou) Technologies Corporation
@@ -39856,6 +39859,7 @@
 8C:1F:64:3D:20:00/36	UVIRCO Technologies
 8C:1F:64:3D:40:00/36	e.p.g. Elettronica s.r.l.
 8C:1F:64:3D:50:00/36	FRAKO Kondensatoren- und Anlagenbau GmbH
+8C:1F:64:3D:60:00/36	Kyowakiden Industry Co.,Ltd.
 8C:1F:64:3D:70:00/36	Eiden Co.,Ltd.
 8C:1F:64:3D:90:00/36	Unlimited Bandwidth LLC
 8C:1F:64:3D:B0:00/36	BRS Sistemas Eletrônicos
