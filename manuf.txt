@@ -28837,6 +28837,7 @@
 58:73:D1		Huawei Technologies Co.,Ltd
 58:73:D8		Apple, Inc.
 58:75:21		CJSC RTSoft
+58:76:07		IEEE Registration Authority
 58:76:07:60:00:00/28	Shade Innovations
 58:76:75		Beijing ECHO Technologies Co.,Ltd
 58:76:9C		Palo Alto Networks
