@@ -47395,6 +47395,7 @@ B8:A4:4F		Axis Communications AB
 B8:A5:35		Vantiva USA LLC
 B8:A5:8D		Axe Group Holdings Limited
 B8:A7:5E		Wuxi Xinjie Electric Co.,Ltd
+B8:A7:92		Sichuan Tianyi Comheart Telecom Co.,LTD
 B8:A8:25		Samsung Electronics Co.,Ltd
 B8:A8:AF		Logic S.p.A.
 B8:AB:61		Cisco Meraki
@@ -53186,6 +53187,7 @@ E8:6D:6E		voestalpine Signaling UK Ltd.
 E8:6D:CB		Samsung Electronics Co.,Ltd
 E8:6D:E9		Huawei Technologies Co.,Ltd
 E8:6E:3A		Sony Interactive Entertainment Inc.
+E8:6E:3E		Sichuan Tianyi Comheart Telecom Co.,LTD
 E8:6E:44		zte corporation
 E8:6E:AD		Guangzhou Gizwits loT Technology Co.,Ltd
 E8:6F:38		Chongqing Fugui Electronics Co.,Ltd.
