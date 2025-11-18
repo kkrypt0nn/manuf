@@ -54372,6 +54372,7 @@ F0:C7:45		Tecno Mobile Limited
 F0:C7:7F		Texas Instruments
 F0:C8:14		Shenzhen Bilian Electronic Co.，Ltd
 F0:C8:50		Huawei Technologies Co.,Ltd
+F0:C8:8B		Wyze Labs Inc
 F0:C8:8C		LeddarTech Inc.
 F0:C8:B5		Huawei Technologies Co.,Ltd
 F0:C9:D1		GD Midea Air-Conditioning Equipment Co.,Ltd.
