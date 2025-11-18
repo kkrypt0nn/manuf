@@ -19618,6 +19618,7 @@
 14:16:9D		Cisco Systems, Inc
 14:16:9E		Wingtech Group (HongKong）Limited
 14:17:2A		Fiberhome Telecommunication Technologies Co.,LTD
+14:18:26		Nokia
 14:18:44		Xenon Smart Teknoloji Ltd.
 14:18:77		Dell Inc.
 14:18:C3		Intel Corporate
@@ -21513,6 +21514,7 @@
 20:E4:6F		vivo Mobile Communication Co., Ltd.
 20:E5:2A		Netgear
 20:E5:64		Commscope
+20:E5:9B		Panasonic Automotive Systems
 20:E6:DF		eero inc.
 20:E7:91		Siemens Healthcare Diagnostics, Inc
 20:E7:B6		Universal Electronics, Inc.
@@ -28856,10 +28858,12 @@
 58:76:07		IEEE Registration Authority
 58:76:07:00:00:00/28	HARDWARIO a.s.
 58:76:07:20:00:00/28	Controlway(Suzhou) Electric Co., Ltd.
+58:76:07:40:00:00/28	Beijing FHZX Science and Technology Co., Ltd.
 58:76:07:60:00:00/28	Shade Innovations
 58:76:07:70:00:00/28	Oceansbio
 58:76:07:80:00:00/28	Olte Climate sp. z o.o.
 58:76:07:90:00:00/28	Suprock Technologies
+58:76:07:B0:00:00/28	Rwaytech
 58:76:07:D0:00:00/28	Hubcom Techno System LLP
 58:76:75		Beijing ECHO Technologies Co.,Ltd
 58:76:9C		Palo Alto Networks
@@ -39552,6 +39556,7 @@
 8C:1F:64:1A:70:00/36	aelettronica group srl
 8C:1F:64:1A:80:00/36	Private
 8C:1F:64:1A:D0:00/36	Nexxto Servicos Em Tecnologia da Informacao SA
+8C:1F:64:1A:E0:00/36	Bounce Imaging
 8C:1F:64:1A:F0:00/36	EnviroNode IoT Solutions
 8C:1F:64:1B:10:00/36	person-AIz AS
 8C:1F:64:1B:20:00/36	Rapid-e-Engineering Steffen Kramer
@@ -40234,6 +40239,7 @@
 8C:1F:64:60:A0:00/36	Rfengine Co., Ltd.
 8C:1F:64:60:B0:00/36	eumig industrie-TV GmbH.
 8C:1F:64:60:E0:00/36	ICT International
+8C:1F:64:60:F0:00/36	Sael Srl
 8C:1F:64:61:00:00/36	Beijing Zhongzhi Huida Technology Co., Ltd
 8C:1F:64:61:10:00/36	Siemens Industry Software Inc.
 8C:1F:64:61:60:00/36	DEUTA Werke GmbH
@@ -41558,6 +41564,7 @@
 8C:1F:64:E8:D0:00/36	Plura
 8C:1F:64:E8:F0:00/36	JieChuang HeYi(Beijing) Technology Co., Ltd.
 8C:1F:64:E9:00:00/36	MHE Electronics
+8C:1F:64:E9:10:00/36	RADIC Technologies, Inc.
 8C:1F:64:E9:20:00/36	EA Elektro-Automatik GmbH
 8C:1F:64:E9:40:00/36	Zin Technologies
 8C:1F:64:E9:80:00/36	Luxshare Electronic Technology (Kunshan) LTD
@@ -41632,6 +41639,7 @@
 8C:1F:64:F1:C0:00/36	Rigel Engineering, LLC
 8C:1F:64:F1:D0:00/36	MB connect line GmbH Fernwartungssysteme
 8C:1F:64:F2:00:00/36	Thermaco Incorporated
+8C:1F:64:F2:10:00/36	nanoTRONIX Computing Inc.
 8C:1F:64:F2:20:00/36	Voyage Audio LLC
 8C:1F:64:F2:30:00/36	IDEX India Pvt Ltd
 8C:1F:64:F2:40:00/36	Albotronic
@@ -42473,6 +42481,7 @@
 90:7A:0A		Gebr. Bode GmbH & Co KG
 90:7A:28		Beijing Morncloud Information And Technology Co. Ltd.
 90:7A:58		Zegna-Daidong Limited
+90:7A:BE		Gsd Viet Nam Technology Company Limited
 90:7A:F1		Wally
 90:7B:C6		Texas Instruments
 90:7E:30		Lars
@@ -43319,6 +43328,7 @@
 98:10:E8		Apple, Inc.
 98:11:CC		Ciena Corporation
 98:12:23		Tarmoc Network LTD
+98:12:B7		Karst.Ai
 98:12:E0		Xiaomi Communications Co Ltd
 98:13:33		zte corporation
 98:14:D2		Avonic
@@ -45350,6 +45360,7 @@ A8:11:FC		Commscope
 A8:13:06		vivo Mobile Communication Co., Ltd.
 A8:13:0B		eero inc.
 A8:13:74		Panasonic Corporation AVC Networks Company
+A8:13:78		Nokia
 A8:15:4D		Tp-Link Technologies Co.,Ltd.
 A8:15:59		Breathometer, Inc.
 A8:15:D6		Shenzhen Meione Technology CO., LTD
