@@ -20866,6 +20866,7 @@
 1C:8E:2A		Apple, Inc.
 1C:8E:5C		Huawei Technologies Co.,Ltd
 1C:8E:8E		DB Communication & Systems Co., ltd.
+1C:8E:E6		Vtech Telecommunications Limited
 1C:8F:8A		Phase Motion Control SpA
 1C:90:BE		Ericsson AB
 1C:90:FF		Tuya Smart Inc.
@@ -22092,6 +22093,7 @@
 28:18:FD		Aditya Infotech Ltd.
 28:1B:04		Zalliant LLC
 28:1D:21		In One Smart Technology(H,K,)Limited
+28:1D:AA		ASTI India Private Limited
 28:1D:FB		Huawei Technologies Co.,Ltd
 28:22:1E		Huawei Technologies Co.,Ltd
 28:22:46		Beijing Sinoix Communication Co., LTD
@@ -26242,6 +26244,7 @@
 44:22:F1		S.Fac, Inc
 44:23:7C		Beijing Xiaomi Mobile Software Co., Ltd
 44:23:AA		Farmage Co., Ltd.
+44:25:38		WNC Corporation
 44:25:BB		Bamboo Entertainment Corporation
 44:27:2E		Huawei Device Co., Ltd.
 44:27:45		LG Innotek
@@ -28857,13 +28860,17 @@
 58:75:21		CJSC RTSoft
 58:76:07		IEEE Registration Authority
 58:76:07:00:00:00/28	HARDWARIO a.s.
+58:76:07:10:00:00/28	Shing Chong International Co., Ltd.
 58:76:07:20:00:00/28	Controlway(Suzhou) Electric Co., Ltd.
+58:76:07:30:00:00/28	Shenzhen HANSWELL Technology Co., Ltd.
 58:76:07:40:00:00/28	Beijing FHZX Science and Technology Co., Ltd.
+58:76:07:50:00:00/28	RealSense Inc.
 58:76:07:60:00:00/28	Shade Innovations
 58:76:07:70:00:00/28	Oceansbio
 58:76:07:80:00:00/28	Olte Climate sp. z o.o.
 58:76:07:90:00:00/28	Suprock Technologies
 58:76:07:B0:00:00/28	Rwaytech
+58:76:07:C0:00:00/28	BOE Technology Group Co., Ltd.
 58:76:07:D0:00:00/28	Hubcom Techno System LLP
 58:76:75		Beijing ECHO Technologies Co.,Ltd
 58:76:9C		Palo Alto Networks
@@ -31148,6 +31155,7 @@
 6C:3C:53		SoundHawk Corp
 6C:3C:7C		Canon Inc.
 6C:3C:8C		Dell Inc.
+6C:3E:51		Mindray North America
 6C:3E:6D		Apple, Inc.
 6C:3E:9C		KE Knestel Elektronik GmbH
 6C:40:08		Apple, Inc.
@@ -38374,6 +38382,7 @@
 84:57:F7		Meta Platforms, Inc.
 84:5A:3E		Cisco Systems, Inc
 84:5A:81		ffly4u
+84:5B:0C		eFAB P.S.A.
 84:5B:12		Huawei Technologies Co.,Ltd
 84:5C:31		Dell Inc.
 84:5C:93		Chabrier Services
@@ -41438,6 +41447,7 @@
 8C:1F:64:DB:D0:00/36	Giordano Controls Spa
 8C:1F:64:DB:F0:00/36	Rugged Controls
 8C:1F:64:DC:00:00/36	Pigs Can Fly Labs LLC
+8C:1F:64:DC:10:00/36	SEGRON Automation, s.r.o.
 8C:1F:64:DC:20:00/36	Procon Electronics Pty Ltd
 8C:1F:64:DC:30:00/36	Packet Digital, LLC
 8C:1F:64:DC:40:00/36	Amazon Robotics MTAC Matrix NPI
@@ -48099,6 +48109,7 @@ C0:17:54		Apple, Inc.
 C0:18:03		HP Inc.
 C0:18:50		Quanta Computer Inc.
 C0:18:85		Hon Hai Precision Ind. Co.,Ltd.
+C0:18:8C		Altus Sistemas de Automação S.A.
 C0:19:44		Juniper Networks
 C0:1A:DA		Apple, Inc.
 C0:1B:23		Sichuan Tianyi Comheart Telecom Co.,LTD
@@ -56031,6 +56042,7 @@ FC:E4:98:D0:00:00/28	Infinity Electronics Ltd
 FC:E4:98:E0:00:00/28	TIH Microelectronics Technology Co. Ltd.
 FC:E5:57		Nokia Corporation
 FC:E6:6A		Industrial Software Co
+FC:E6:C6		China Mobile Group Device Co.,Ltd.
 FC:E8:06		Edifier International
 FC:E8:92		Hangzhou Lancable Technology Co.,Ltd
 FC:E8:C0		Espressif Inc.
