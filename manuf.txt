@@ -21036,6 +21036,7 @@
 1C:CC:D6		Xiaomi Communications Co Ltd
 1C:CD:E5		Shanghai Wind Technologies Co.,Ltd
 1C:CE:51		AzureWave Technology Inc.
+1C:CF:82		Palo Alto Networks
 1C:D1:07		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 1C:D1:1A		Fortinet, Inc.
 1C:D1:BA		Fiberhome Telecommunication Technologies Co.,LTD
@@ -25312,6 +25313,7 @@
 40:36:68		E&B Telecom
 40:36:B7		Juniper Networks
 40:37:AD		Macro Image Technology, Inc.
+40:38:02		Silicon Laboratories
 40:3B:7B		Huawei Device Co., Ltd.
 40:3C:FC		Apple, Inc.
 40:3D:EC		HUMAX Co., Ltd.
@@ -42611,6 +42613,7 @@
 90:AD:F7		vivo Mobile Communication Co., Ltd.
 90:AD:FC		Telechips, Inc.
 90:AE:1B		Tp-Link Technologies Co.,Ltd.
+90:AF:59		Choice IT Global LLC
 90:AF:D1		netKTI Co., Ltd
 90:B0:21		Intel Corporate
 90:B0:ED		Apple, Inc.
@@ -49781,6 +49784,7 @@ CC:34:29		Tp-Link Technologies Co.,Ltd.
 CC:34:D7		Gewiss S.P.A.
 CC:35:40		Vantiva USA LLC
 CC:35:5A		SecuGen Corporation
+CC:36:BB		Silicon Laboratories
 CC:36:CF		Cisco Systems, Inc
 CC:37:AB		Edgecore Networks Corporation
 CC:38:D0		Palo Alto Networks
