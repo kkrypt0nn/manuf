@@ -23795,6 +23795,7 @@
 34:54:3C		Takaoka Toko Co.,Ltd.
 34:55:06		Guangdong Genius Technology Co., Ltd.
 34:55:94		Fujian Star-Net Communication Co.,Ltd
+34:55:E5		SJIT Co., Ltd.
 34:56:FE		Cisco Meraki
 34:57:60		MitraStar Technology Corp.
 34:58:40		Huawei Technologies Co.,Ltd
@@ -28427,6 +28428,7 @@
 54:81:2D		PAX Computer Technology(Shenzhen) Ltd.
 54:81:AD		Eagle Research Corporation
 54:83:3A		Zyxel Communications Corporation
+54:83:BB		Honda Motor Co., Ltd
 54:84:50		Tiinlab Corporation
 54:84:7B		Digital Devices GmbH
 54:84:DC		zte corporation
@@ -28875,6 +28877,7 @@
 58:76:07:B0:00:00/28	Rwaytech
 58:76:07:C0:00:00/28	BOE Technology Group Co., Ltd.
 58:76:07:D0:00:00/28	Hubcom Techno System LLP
+58:76:07:E0:00:00/28	Shenzhen Gago Electronics Co.,Ltd
 58:76:75		Beijing ECHO Technologies Co.,Ltd
 58:76:9C		Palo Alto Networks
 58:76:AC		Sernet (Suzhou) Technologies Corporation
@@ -40217,6 +40220,7 @@
 8C:1F:64:5C:C0:00/36	Alpes recherche et développement
 8C:1F:64:5C:D0:00/36	Mahindr & Mahindra
 8C:1F:64:5C:E0:00/36	Packetalk LLC
+8C:1F:64:5C:F0:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:5D:00:00/36	Image Engineering
 8C:1F:64:5D:10:00/36	Twin Development
 8C:1F:64:5D:30:00/36	Eloy Water
@@ -43839,6 +43843,7 @@
 9C:03:51		Huawei Technologies Co.,Ltd
 9C:03:9E		Beijing Winchannel Software Technology Co., Ltd
 9C:04:73		Tecmobile (International) Ltd.
+9C:04:B6		Quectel Wireless Solutions Co.,Ltd.
 9C:04:EB		Apple, Inc.
 9C:05:67		Honor Device Co., Ltd.
 9C:05:91		Mellanox Technologies, Inc.
@@ -47961,6 +47966,7 @@ BC:A8:A6		Intel Corporate
 BC:A9:20		Apple, Inc.
 BC:A9:93		Cambium Networks Limited
 BC:A9:D6		Cyber-Rain, Inc.
+BC:AA:82		Fiberhome Telecommunication Technologies Co.,LTD
 BC:AB:7C		TRnP KOREA Co Ltd
 BC:AD:28		Hangzhou Hikvision Digital Technology Co.,Ltd.
 BC:AD:90		Kymeta Purchasing
@@ -49369,6 +49375,7 @@ C8:71:25		Johnson Outdoors Marine Electronics d/b/a Minnkota
 C8:72:48		Aplicom Oy
 C8:72:7E		Nokia
 C8:73:24		Sow Cheng Technology Co. Ltd.
+C8:74:1B		Fiberhome Telecommunication Technologies Co.,LTD
 C8:75:5B		Quantify Technology Pty. Ltd.
 C8:75:DD		LG Electronics NV
 C8:75:F4		China Mobile Group Device Co.,Ltd.
@@ -52441,6 +52448,7 @@ E0:92:A7		Feitian Technologies Co., Ltd
 E0:94:67		Intel Corporate
 E0:95:79		ORTHOsoft inc, d/b/a Zimmer CAS
 E0:95:FF		Infinix mobility limited
+E0:96:E8		Fiberhome Telecommunication Technologies Co.,LTD
 E0:97:96		Huawei Technologies Co.,Ltd
 E0:97:F2		Atomax Inc.
 E0:98:06		Espressif Inc.
