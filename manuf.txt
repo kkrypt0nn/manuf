@@ -20168,6 +20168,7 @@
 18:5A:E8		Zenotech.Co.,Ltd
 18:5B:00		Nokia
 18:5B:B3		Samsung Electronics Co.,Ltd
+18:5C:A1		Jiangxi Risound Electronics Co.,LTD
 18:5D:6F		N3com
 18:5D:9A		BobjGear LLC
 18:5E:0B		zte corporation
@@ -39905,6 +39906,7 @@
 8C:1F:64:3C:40:00/36	NavSys Technology Inc.
 8C:1F:64:3C:50:00/36	Stratis IOT
 8C:1F:64:3C:60:00/36	Wavestream Corp
+8C:1F:64:3C:70:00/36	Resmed Pty Ltd
 8C:1F:64:3C:80:00/36	BTG Instruments AB
 8C:1F:64:3C:90:00/36	TECHPLUS-LINK Technology Co.,Ltd
 8C:1F:64:3C:D0:00/36	Sejong security system Cor.
@@ -40610,6 +40612,7 @@
 8C:1F:64:83:C0:00/36	Xtend Technologies Pvt Ltd
 8C:1F:64:83:D0:00/36	L-signature
 8C:1F:64:83:E0:00/36	Sicon srl
+8C:1F:64:84:00:00/36	InfoMac Sp. z o.o. Sp.k.
 8C:1F:64:84:20:00/36	Potter Electric Signal Co. LLC
 8C:1F:64:84:30:00/36	Image Soft Oy
 8C:1F:64:84:60:00/36	Fo Xie Optoelectronics Technology Co., Ltd
@@ -44823,6 +44826,7 @@ A0:FB:68		Miba Battery Systems GmbH
 A0:FB:83		Honor Device Co., Ltd.
 A0:FB:C5		Apple, Inc.
 A0:FC:6E		Telegrafia a.s.
+A0:FD:D9		Unionman Technology Co.,Ltd
 A0:FE:61		Vivint Wireless Inc.
 A0:FE:91		AVAT Automation GmbH
 A0:FF:0C		Hangzhou Hikvision Digital Technology Co.,Ltd.
@@ -45896,6 +45900,7 @@ AC:3D:05		Instorescreen Aisa
 AC:3D:75		Hangzhou Zhiway Technologies Co.,Ltd.
 AC:3D:94		Arista Networks
 AC:3D:CB		Intel Corporate
+AC:3D:FA		Hangzhou Huacheng Network Technology Co.,Ltd
 AC:3E:B1		Google, Inc.
 AC:3F:A4		Taiyo Yuden Co.,Ltd
 AC:40:EA		C&T Solution Inc.
@@ -47695,6 +47700,7 @@ BC:28:D6		Rowley Associates Limited
 BC:29:78		Prama Hikvision India Private Limited
 BC:2A:33		Quectel Wireless Solutions Co.,Ltd.
 BC:2B:02		China Dragon Technology Limited
+BC:2B:1E		Cresyn Co., Ltd.
 BC:2B:6B		Beijing Haier IC Design Co.,Ltd
 BC:2B:D7		Revogi Innovation Co., Ltd.
 BC:2C:55		Bear Flag Design, Inc.
@@ -49508,6 +49514,7 @@ C8:AA:55		Hunan Comtom Electronic Incorporated Co.,Ltd
 C8:AA:B2		Shenzhen Chuangwei-Rgb Electronics Co.,Ltd
 C8:AA:CC		Private
 C8:AC:35		PiLink Co., Ltd.
+C8:AD:E7		Shenzhen Shengxi Industrial Co.,Ltd
 C8:AE:9C		Shanghai TYD Elecronic Technology Co. Ltd
 C8:AF:40		marco Systemanalyse und Entwicklung GmbH
 C8:AF:E3		Hefei Radio Communication Technology Co., Ltd
