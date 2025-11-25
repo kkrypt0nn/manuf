@@ -30408,6 +30408,7 @@
 64:A2:32		OOO Samlight
 64:A2:8A		Huawei Device Co., Ltd.
 64:A2:F9		OnePlus Technology (Shenzhen) Co., Ltd
+64:A3:37		Garmin International
 64:A3:41		Wonderlan (Beijing) Technology Co., Ltd.
 64:A3:CB		Apple, Inc.
 64:A3:CC		LeoLabs
@@ -31901,7 +31902,7 @@
 70:B3:D5:01:A0:00/36	Cubro Acronet GesmbH
 70:B3:D5:01:B0:00/36	Audi Ag
 70:B3:D5:01:C0:00/36	Kumu Networks
-70:B3:D5:01:D0:00/36	Weigl Elektronik & Mediaprojekte
+70:B3:D5:01:D0:00/36	Weigl GmbH & Co KG
 70:B3:D5:01:E0:00/36	ePOINT Embedded Computing Limited
 70:B3:D5:01:F0:00/36	SPX Flow Technology BV
 70:B3:D5:02:00:00/36	Micro Debug, Y.K.
@@ -41063,6 +41064,7 @@
 8C:1F:64:B2:D0:00/36	wonder meditec
 8C:1F:64:B2:F0:00/36	Mtechnology - Gamma Commerciale Srl
 8C:1F:64:B3:00:00/36	Fujian ONETHING Technology Co.,Ltd.
+8C:1F:64:B3:10:00/36	Rsc
 8C:1F:64:B3:20:00/36	Plug Power
 8C:1F:64:B3:50:00/36	RADA Electronics Industries Ltd.
 8C:1F:64:B3:60:00/36	Pneumax Spa
@@ -42099,6 +42101,7 @@
 8C:A2:FD		Starry, Inc.
 8C:A3:99		Servercom (India) Private Limited
 8C:A4:01		Shenzhen New Chip Intelligence Co.,LTD
+8C:A4:54		Private
 8C:A5:A1		Oregano Systems - Design & Consulting GmbH
 8C:A5:CF		Huawei Technologies Co.,Ltd
 8C:A6:82		IEEE Registration Authority
