@@ -26437,6 +26437,7 @@
 44:91:60		Murata Manufacturing Co., Ltd.
 44:91:7C		HMD Global Oy
 44:91:DB		Shanghai Huaqin Telecom Technology Co.,Ltd
+44:93:8D		Innolux Corporation
 44:94:FC		Netgear
 44:95:3B		RLTech India Private Limited
 44:95:FA		Qingdao Santong Digital Technology Co.Ltd
@@ -29311,6 +29312,7 @@
 5C:5A:EA		Ford
 5C:5B:35		Mist Systems, Inc.
 5C:5B:C2		YIK Corporation
+5C:5C:75		IEEE Registration Authority
 5C:5C:75:20:00:00/28	youyeetoo
 5C:5C:75:30:00:00/28	O-cubes Shanghai Microelectronics Technology Co., Ltd
 5C:5C:75:80:00:00/28	hassoun Gulf Industrial Company
