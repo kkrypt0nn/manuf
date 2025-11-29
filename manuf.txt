@@ -24616,6 +24616,7 @@
 38:E9:8C		Reco S.p.A.
 38:EA:A7		Hewlett Packard
 38:EB:47		Huawei Technologies Co.,Ltd
+38:EC:07		Motorola Mobility LLC, a Lenovo Company
 38:EC:0D		Apple, Inc.
 38:EC:11		Novatek Microelectronics Corp.
 38:EC:E4		Samsung Electronics Co.,Ltd
@@ -37573,6 +37574,7 @@
 7C:A2:9B		D.SignT GmbH & Co. KG
 7C:A4:49		Xiaomi Communications Co Ltd
 7C:A4:F7		Extreme Networks Headquarters
+7C:A5:3E		Motorola Mobility LLC, a Lenovo Company
 7C:A5:8F		shenzhen Qikai Electronic Co., Ltd.
 7C:A6:1D		Mhl, Llc
 7C:A6:2A		Hewlett Packard Enterprise
@@ -41206,6 +41208,7 @@
 8C:1F:64:BE:10:00/36	Geolux
 8C:1F:64:BE:30:00/36	Reo Ag
 8C:1F:64:BE:80:00/36	Technologies Bacmove Inc.
+8C:1F:64:BE:A0:00/36	Microchip Technologies Inc
 8C:1F:64:BE:D0:00/36	Genius Sports SS LLC
 8C:1F:64:BE:E0:00/36	Sirius LLC
 8C:1F:64:BE:F0:00/36	Triumph SEC
@@ -55440,6 +55443,7 @@ F8:90:66		Nain Inc.
 F8:91:2A		GLP German Light Products GmbH
 F8:91:6F		Texas Instruments
 F8:91:73		Aedle Sas
+F8:91:F5		Dingtian Technologies Co., Ltd
 F8:93:F3		Volans
 F8:94:97		Buffalo.Inc
 F8:94:C2		Intel Corporate
