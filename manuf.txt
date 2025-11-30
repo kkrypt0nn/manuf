@@ -50583,6 +50583,7 @@ D0:96:86:E0:00:00/28	withnetworks
 D0:96:FB		Zhone Technologies, Inc.
 D0:97:FE		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 D0:98:9C		ConMet
+D0:98:B1		GScoolink Microelectronics (Beijing) Co.,LTD
 D0:99:D5		Alcatel-Lucent
 D0:9B:05		Emtronix
 D0:9C:30		Foster Electric Company, Limited
