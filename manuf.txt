@@ -19651,6 +19651,7 @@
 14:1F:BA:D0:00:00/28	AJIS(DALIAN)co.,LTD
 14:1F:BA:E0:00:00/28	POS Systema LLC
 14:1F:BA:F0:00:00/28	Private
+14:20:04		zte corporation
 14:20:5E		Apple, Inc.
 14:21:03		Calix Inc.
 14:22:33		Fiberhome Telecommunication Technologies Co.,LTD
@@ -20217,6 +20218,7 @@
 18:69:DA		China Mobile Group Device Co.,Ltd.
 18:6A:81		Sagemcom Broadband SAS
 18:6B:E2		Lylink Limited
+18:6C:60		Jifeline Networks B.V.
 18:6D:99		Adanis Inc.
 18:6F:2D		Shenzhen Sundray Technologies company Limited
 18:70:3B		Huawei Device Co., Ltd.
@@ -27253,6 +27255,7 @@
 4C:40:88		Sanshin Electronics Co.,Ltd.
 4C:42:1E		Cisco Systems, Inc
 4C:43:41		Calix Inc.
+4C:43:F6		Sz Dji Technology Co.,Ltd
 4C:44:5B		Intel Corporate
 4C:45:76		China Mobile(Hangzhou) Information Technology Co.,Ltd.
 4C:46:D1		Guangzhou V-Solution Telecommunication Technology Co.,Ltd.
@@ -28828,6 +28831,7 @@
 58:4C:EE		Digital One Technologies, Limited
 58:4D:42		Dragos, Inc.
 58:50:76		Linear Equipamentos Eletronicos SA
+58:50:9F		Cloud Network Technology Singapore Pte. Ltd.
 58:50:AB		TLS Corporation
 58:50:E6		Best Buy Corporation
 58:50:ED		Hangzhou Hikvision Digital Technology Co.,Ltd.
@@ -29323,6 +29327,7 @@
 5C:5C:75:40:00:00/28	Bkeen International Corporated
 5C:5C:75:80:00:00/28	hassoun Gulf Industrial Company
 5C:5C:75:90:00:00/28	Spectrum FiftyNine BV
+5C:5C:75:A0:00:00/28	InoxSmart by Unison Hardware
 5C:5C:75:C0:00:00/28	Siemens Sensors & Communication Ltd.
 5C:5C:75:D0:00:00/28	Shenzhen Jooan Technology  Co., Ltd
 5C:5D:EC		JiangSu Newcom Optical&Electrical Communication CO Ltd
@@ -31629,6 +31634,7 @@
 70:3A:2D		Shenzhen V-Link Technology CO., LTD.
 70:3A:51		Xiaomi Communications Co Ltd
 70:3A:73		Shenzhen Sundray Technologies company Limited
+70:3A:8C		Shenzhen Skyworth Digital  Technology  CO., Ltd
 70:3A:A6		New H3C Technologies Co., Ltd
 70:3A:CB		Google, Inc.
 70:3A:D8		Shenzhen Afoundry Electronic Co., Ltd
@@ -36889,6 +36895,7 @@
 78:65:3B		Shaoxing Ourten Electronics Co., Ltd.
 78:65:59		Sagemcom Broadband SAS
 78:66:9D		Hui Zhou Gaoshengda Technology Co.,LTD
+78:66:A5		Chipsea Technologies (Shenzhen) Crop.
 78:66:AE		ZTEC Instruments, Inc.
 78:66:D7		Genstoraige Technology Co.Ltd.
 78:66:F3		shenzhen worldelite electronics co., LTD
@@ -39443,6 +39450,7 @@
 8C:1F:64:09:70:00/36	FoMa Systems GmbH
 8C:1F:64:09:80:00/36	Agvolution GmbH
 8C:1F:64:09:90:00/36	Pantherun Technologies Pvt Ltd
+8C:1F:64:09:A0:00/36	Shinetech Electronics Co., Ltd.
 8C:1F:64:09:B0:00/36	Taiv
 8C:1F:64:09:D0:00/36	Flextronics International Kft
 8C:1F:64:09:E0:00/36	IWS Global Pty Ltd
@@ -47003,6 +47011,7 @@ B4:6E:08		Huawei Technologies Co.,Ltd
 B4:6E:10		vivo Mobile Communication Co., Ltd.
 B4:6F:2D		Wahoo Fitness
 B4:70:64		Samsung Electronics Co.,Ltd
+B4:72:D4		zte corporation
 B4:73:56		Hangzhou Treebear Networking Co., Ltd.
 B4:74:43		Samsung Electronics Co.,Ltd
 B4:74:47		CoreOS
@@ -51403,6 +51412,7 @@ D8:2F:E6		Zhejiang Tmall Technology Co., Ltd.
 D8:30:62		Apple, Inc.
 D8:31:2C		zte corporation
 D8:31:34		Roku, Inc
+D8:31:39		zte corporation
 D8:31:CF		Samsung Electronics Co.,Ltd
 D8:32:14		Tenda Technology Co.,Ltd.Dongguan branch
 D8:32:5A		Shenzhen YOUHUA Technology Co., Ltd
