@@ -17897,6 +17897,7 @@
 04:ED:62		Daikin Europe NV
 04:EE:03		Texas Instruments
 04:EE:91		x-fabric GmbH
+04:EE:CD		Hangzhou Hikvision Digital Technology Co.,Ltd.
 04:EE:E8		IEEE Registration Authority
 04:EE:E8:00:00:00/28	Zoomlion Huanuo(Beijing)Technology Co.,Ltd
 04:EE:E8:10:00:00/28	Shanghai ZLAN Information Technology Co.,Ltd
@@ -18945,6 +18946,7 @@
 0C:C6:CC		Huawei Technologies Co.,Ltd
 0C:C6:FD		Xiaomi Communications Co Ltd
 0C:C7:31		Currant, Inc.
+0C:C7:63		eero inc.
 0C:C8:1F		Summer Infant, Inc.
 0C:C8:44		Cambridge Mobile Telematics, Inc.
 0C:C9:C6		Samwin Hong Kong Limited
@@ -23394,6 +23396,7 @@
 30:76:6F		LG Electronics (Mobile Communications)
 30:76:F5		Espressif Inc.
 30:77:CB		Maike Industry(Shenzhen)CO.,LTD
+30:77:DF		Terex Corporation
 30:78:5C		Partow Tamas Novin (Parman)
 30:78:6B		TIANJIN Golden Pentagon Electronics Co., Ltd.
 30:78:C2		Innowireless / QUCELL Networks
@@ -29328,9 +29331,11 @@
 5C:5C:75:20:00:00/28	youyeetoo
 5C:5C:75:30:00:00/28	O-cubes Shanghai Microelectronics Technology Co., Ltd
 5C:5C:75:40:00:00/28	Bkeen International Corporated
+5C:5C:75:50:00:00/28	YingKeSong Pen Industry Technology R&D Center Shenzhen Co Ltd
 5C:5C:75:80:00:00/28	hassoun Gulf Industrial Company
 5C:5C:75:90:00:00/28	Spectrum FiftyNine BV
 5C:5C:75:A0:00:00/28	InoxSmart by Unison Hardware
+5C:5C:75:B0:00:00/28	Anhui Haima Cloud Technology Co.,Ltd
 5C:5C:75:C0:00:00/28	Siemens Sensors & Communication Ltd.
 5C:5C:75:D0:00:00/28	Shenzhen Jooan Technology  Co., Ltd
 5C:5D:EC		JiangSu Newcom Optical&Electrical Communication CO Ltd
@@ -31222,6 +31227,7 @@
 6C:4D:51		Shenzhen Ceres Technology Co., Ltd.
 6C:4D:73		Apple, Inc.
 6C:4E:86		Third Millennium Systems Ltd.
+6C:4E:B0		Castelion Corporation
 6C:4E:F6		Cisco Systems, Inc
 6C:4F:89		Zyxel Communications Corporation
 6C:4F:A1		Cisco Systems, Inc
@@ -38875,6 +38881,7 @@
 88:41:57		Shenzhen Atsmart Technology Co.,Ltd.
 88:41:C1		Orbisat Da Amazonia Ind E Aerol Sa
 88:41:FC		AirTies Wireless Networks
+88:42:D0		Earda Technologies co Ltd
 88:43:E1		Cisco Systems, Inc
 88:44:77		Huawei Technologies Co.,Ltd
 88:44:F6		Nokia Corporation
@@ -39567,6 +39574,7 @@
 8C:1F:64:15:10:00/36	Gogo Business Aviation
 8C:1F:64:15:40:00/36	Flextronics International Kft
 8C:1F:64:15:50:00/36	Slat
+8C:1F:64:15:60:00/36	Grinn Sp. z o.o.
 8C:1F:64:15:90:00/36	Mediana Co., Ltd.
 8C:1F:64:15:A0:00/36	ASHIDA Electronics Pvt. Ltd
 8C:1F:64:15:C0:00/36	Tron Future Tech Inc.
@@ -46481,6 +46489,7 @@ B0:5C:DA		HP Inc.
 B0:5C:E5		Nokia Corporation
 B0:5D:D4		Commscope
 B0:60:88		Intel Corporate
+B0:61:A9		Yealink(Xiamen) Network Technology Co.,Ltd.
 B0:61:C7		Ericsson-LG Enterprise
 B0:65:3A		Murata Manufacturing Co., Ltd.
 B0:65:63		Shanghai Railway Communication Factory
@@ -48542,6 +48551,7 @@ C0:CC:42		Sichuan Tianyi Comheart Telecom Co.,LTD
 C0:CC:F8		Apple, Inc.
 C0:CD:D6		Espressif Inc.
 C0:CE:CD		Apple, Inc.
+C0:CF:64		Hangzhou Zenith Electron Co.,Ltd
 C0:CF:A3		Creative Electronics & Software, Inc.
 C0:D0:12		Apple, Inc.
 C0:D0:26		Huawei Device Co., Ltd.
@@ -49576,6 +49586,7 @@ C8:AD:E7		Shenzhen Shengxi Industrial Co.,Ltd
 C8:AE:9C		Shanghai TYD Elecronic Technology Co. Ltd
 C8:AF:40		marco Systemanalyse und Entwicklung GmbH
 C8:AF:E3		Hefei Radio Communication Technology Co., Ltd
+C8:AF:F0		CDVI Wireless SpA
 C8:B1:CD		Apple, Inc.
 C8:B1:EE		Qorvo
 C8:B2:1E		Chipsea Technologies (Shenzhen) Corp.
@@ -51829,6 +51840,7 @@ DC:21:48		Intel Corporate
 DC:21:5C		Intel Corporate
 DC:21:B9		Sentec Co.Ltd
 DC:21:E2		Huawei Technologies Co.,Ltd
+DC:22:6F		HangZhou Nano IC Technologies Co., Ltd
 DC:23:3B		Extreme Networks Headquarters
 DC:27:27		Huawei Device Co., Ltd.
 DC:28:34		HAKKO Corporation
