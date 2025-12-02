@@ -18275,6 +18275,7 @@
 08:68:D0		Japan System Design
 08:68:EA		Eito Electronics Co., Ltd.
 08:6A:0A		Askey Computer Corp
+08:6A:0B		Cisco Meraki
 08:6A:C5		Intel Corporate
 08:6A:E5		Amazon Technologies Inc.
 08:6B:D1		Shenzhen SuperElectron Technology Co.,Ltd.
@@ -18285,6 +18286,7 @@
 08:6F:48		Shenzhen iComm Semiconductor CO.,LTD
 08:70:45		Apple, Inc.
 08:70:73		Huawei Technologies Co.,Ltd
+08:71:1C		Cisco Meraki
 08:71:58		Hanshow Technology Co.,Ltd.
 08:71:90		Intel Corporate
 08:73:6F		EM Microelectronic
@@ -29321,6 +29323,7 @@
 5C:5B:35		Mist Systems, Inc.
 5C:5B:C2		YIK Corporation
 5C:5C:75		IEEE Registration Authority
+5C:5C:75:00:00:00/28	Elite Link
 5C:5C:75:10:00:00/28	Tectoy S.A
 5C:5C:75:20:00:00/28	youyeetoo
 5C:5C:75:30:00:00/28	O-cubes Shanghai Microelectronics Technology Co., Ltd
@@ -39608,6 +39611,7 @@
 8C:1F:64:1A:50:00/36	Dialtronics Systems Pvt Ltd
 8C:1F:64:1A:70:00/36	aelettronica group srl
 8C:1F:64:1A:80:00/36	Private
+8C:1F:64:1A:C0:00/36	Unitron Systems b.v.
 8C:1F:64:1A:D0:00/36	Nexxto Servicos Em Tecnologia da Informacao SA
 8C:1F:64:1A:E0:00/36	Bounce Imaging
 8C:1F:64:1A:F0:00/36	EnviroNode IoT Solutions
@@ -40641,6 +40645,7 @@
 8C:1F:64:82:C0:00/36	Power Electronics Espana, S.L.
 8C:1F:64:82:F0:00/36	AnySignal
 8C:1F:64:83:00:00/36	Vtron Pty Ltd
+8C:1F:64:83:50:00/36	Adetec Sas
 8C:1F:64:83:70:00/36	runZero, Inc
 8C:1F:64:83:80:00/36	Drimaes Inc.
 8C:1F:64:83:90:00/36	CEDAR Audio Ltd
@@ -40933,6 +40938,7 @@
 8C:1F:64:A1:70:00/36	Pneumax Spa
 8C:1F:64:A1:B0:00/36	Zilica Limited
 8C:1F:64:A1:C0:00/36	manageon
+8C:1F:64:A1:D0:00/36	MYIR Electronics Limited
 8C:1F:64:A1:F0:00/36	Hitachi Energy  India Limited
 8C:1F:64:A2:00:00/36	Intenseye Inc.
 8C:1F:64:A2:60:00/36	Automatic Pty Ltd
@@ -42529,6 +42535,7 @@
 90:6D:C8		DLG Automação Industrial Ltda
 90:6E:BB		Hon Hai Precision Ind. Co.,Ltd.
 90:6F:18		Private
+90:6F:A7		Funshion Online Technologies Co.,Ltd
 90:6F:A9		Nanjing Putian Telecommunications Technology Co.,Ltd.
 90:70:25		Garea Microsys Co.,Ltd.
 90:70:65		Texas Instruments
@@ -44581,6 +44588,7 @@ A0:56:2C		Samsung Electronics Co.,Ltd
 A0:56:B2		Harman/Becker Automotive Systems GmbH
 A0:56:F3		Apple, Inc.
 A0:57:E3		Huawei Technologies Co.,Ltd
+A0:59:11		Cisco Meraki
 A0:59:3A		V.D.S. Video Display Systems srl
 A0:59:50		Intel Corporate
 A0:5A:A4		Grand Products Nevada, Inc.
@@ -47400,6 +47408,7 @@ B8:62:1F		Cisco Systems, Inc
 B8:63:4D		Apple, Inc.
 B8:63:92		Guangdong Genius Technology Co., Ltd.
 B8:63:BC		ROBOTIS, Co, Ltd
+B8:64:68		BBSakura Networks, Inc.
 B8:64:91		CK Telecom Ltd
 B8:65:3B		Bolymin, Inc.
 B8:66:85		Sagemcom Broadband SAS
@@ -49392,6 +49401,7 @@ C8:63:14:B0:00:00/28	Shenzhen Lihewei Electronics Co.,Ltd.Hunan Branch
 C8:63:14:C0:00:00/28	Freeus LLC
 C8:63:14:D0:00:00/28	Telematix AG
 C8:63:14:E0:00:00/28	Taylor Dynamometer
+C8:63:40		Cisco Meraki
 C8:63:F1		Sony Interactive Entertainment Inc.
 C8:63:FC		Commscope
 C8:64:C7		zte corporation
