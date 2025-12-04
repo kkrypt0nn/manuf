@@ -17728,6 +17728,7 @@
 04:B0:E7		Huawei Technologies Co.,Ltd
 04:B1:67		Xiaomi Communications Co Ltd
 04:B1:A1		Samsung Electronics Co.,Ltd
+04:B2:47		Espressif Inc.
 04:B3:B6		Seamap (UK) Ltd
 04:B4:29		Samsung Electronics Co.,Ltd
 04:B4:66		BSP Co., Ltd.
@@ -24141,6 +24142,7 @@
 34:EF:44		2Wire Inc
 34:EF:8B		NTT DOCOMO BUSINESS, Inc.
 34:EF:B6		Edgecore Networks Corporation
+34:F0:15		Beijing Xiaomi Mobile Software Co., Ltd
 34:F0:43		Samsung Electronics Co.,Ltd
 34:F0:CA		Shenzhen Linghangyuan Digital Technology Co.,Ltd.
 34:F1:50		Hui Zhou Gaoshengda Technology Co.,LTD
@@ -31876,6 +31878,7 @@
 70:93:C1		eero inc.
 70:93:F8		Space Monkey, Inc.
 70:97:41		Arcadyan Corporation
+70:97:51		Beijing Xiaomi Mobile Software Co., Ltd
 70:97:56		Happyelectronics Co.,Ltd
 70:98:83		Shenzhen Kayan Electronics., Ltd.
 70:99:1C		Shenzhen Honesty Electronics Co.,Ltd
@@ -37493,6 +37496,7 @@
 7C:6C:8F		Ams Neve Ltd
 7C:6C:E1		Shenzhen Honesty Electronics Co.,Ltd.
 7C:6C:F0		Shenzhen TINNO Mobile Technology Corp.
+7C:6D:12		Microsoft Corporation
 7C:6D:62		Apple, Inc.
 7C:6D:A6		Superwave Group LLC
 7C:6D:F8		Apple, Inc.
@@ -39674,6 +39678,7 @@
 8C:1F:64:1E:60:00/36	Radian Research, Inc.
 8C:1F:64:1E:70:00/36	Canon Electron Tubes & Devices Co., Ltd.
 8C:1F:64:1E:80:00/36	Haptech Defense Systems
+8C:1F:64:1E:90:00/36	RC Systems
 8C:1F:64:1E:A0:00/36	Asteelflash Design Solutions Hamburg GmbH
 8C:1F:64:1E:D0:00/36	Lichtwart GmbH
 8C:1F:64:1E:F0:00/36	Tantronic AG
@@ -44619,6 +44624,7 @@ A0:56:2C		Samsung Electronics Co.,Ltd
 A0:56:B2		Harman/Becker Automotive Systems GmbH
 A0:56:F3		Apple, Inc.
 A0:57:E3		Huawei Technologies Co.,Ltd
+A0:58:66		Qorvo Utrecht B.V.
 A0:59:11		Cisco Meraki
 A0:59:3A		V.D.S. Video Display Systems srl
 A0:59:50		Intel Corporate
@@ -44888,6 +44894,7 @@ A0:EE:1A		Apple, Inc.
 A0:EE:EE		Cig Shanghai Co Ltd
 A0:EF:84		Seine Image Int'l Co., Ltd
 A0:F2:17		GE Medical System(China) Co., Ltd.
+A0:F2:62		Espressif Inc.
 A0:F3:C1		Tp-Link Technologies Co.,Ltd.
 A0:F3:E4		Alcatel-Lucent IPD
 A0:F4:19		Nokia Corporation
@@ -47182,6 +47189,7 @@ B4:BA:12		China Mobile (Hangzhou) Information Technology Co.,Ltd.
 B4:BA:6A		Tecno Mobile Limited
 B4:BA:9D		Sky Uk Limited
 B4:BC:7C		Texas Instruments
+B4:BF:E9		Espressif Inc.
 B4:BF:F6		Samsung Electronics Co.,Ltd
 B4:C0:F5		Shenzhen TINNO Mobile Technology Corp.
 B4:C1:70		Yi chip Microelectronics (Hangzhou) Co., Ltd
