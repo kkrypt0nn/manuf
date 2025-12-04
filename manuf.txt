@@ -19985,6 +19985,7 @@
 14:E9:B2		Fiberhome Telecommunication Technologies Co.,LTD
 14:EA:63		Hui Zhou Gaoshengda Technology Co.,LTD
 14:EA:A1		Micronet union Technology (chengdu) co., Ltd
+14:EB:03		Shenzhen Ip-Com Networks Co.,Ltd.
 14:EB:08		Huawei Technologies Co.,Ltd
 14:EB:33		BSMediasoft Co., Ltd.
 14:EB:B6		TP-Link Systems Inc
@@ -29001,6 +29002,7 @@
 58:A8:7B		Fitbit, Inc.
 58:A8:E8		Amazon Technologies Inc.
 58:AC:78		Cisco Systems, Inc
+58:AD:08:A0:00:00/28	Gateview Technologies
 58:AD:12		Apple, Inc.
 58:AE:2B		Huawei Device Co., Ltd.
 58:AE:A8		Huawei Technologies Co.,Ltd
@@ -31905,6 +31907,7 @@
 70:AA:B2		BlackBerry RTS
 70:AC:08		Silicon Laboratories
 70:AC:D7		Shenzhen YOUHUA Technology Co., Ltd
+70:AD:43		Blink by Amazon
 70:AD:54		Malvern Instruments Ltd
 70:AE:D5		Apple, Inc.
 70:AF:24		TP Vision Belgium NV
@@ -37866,6 +37869,7 @@
 80:0B:51		Chengdu XGimi Technology Co.,Ltd
 80:0C:67		Apple, Inc.
 80:0C:F9		Amazon Technologies Inc.
+80:0D:3F		Samsung Electronics Co.,Ltd
 80:0D:D7		Latticework, Inc
 80:0E:24		ForgetBox
 80:0E:A9		TCL Yuxin Zhixing Technology (Huizhou) Co.,Ltd
@@ -38949,6 +38953,7 @@
 88:5D:90:E0:00:00/28	Unitac Technology Limited
 88:5D:90:F0:00:00/28	Private
 88:5D:FB		zte corporation
+88:5E:54		Samsung Electronics Co.,Ltd
 88:5E:BD		NCKOREA Co.,Ltd.
 88:5F:E8		IEEE Registration Authority
 88:5F:E8:00:00:00/28	Jungheinrich Norderstedt AG & Co. KG
@@ -40865,6 +40870,7 @@
 8C:1F:64:98:30:00/36	Baker Hughes EMEA
 8C:1F:64:98:40:00/36	Abacus Peripherals Pvt Ltd
 8C:1F:64:98:70:00/36	Peter Huber Kaeltemaschinenbau SE
+8C:1F:64:98:80:00/36	Nortek(QingDao) Measuring Equipment Co., Ltd
 8C:1F:64:98:90:00/36	Phe-nX B.V.
 8C:1F:64:98:A0:00/36	Ligpt
 8C:1F:64:98:B0:00/36	Syscom Instruments SA
@@ -41141,6 +41147,7 @@
 8C:1F:64:B4:70:00/36	Lineage Power Pvt Ltd.,
 8C:1F:64:B4:C0:00/36	Picocom Technology Ltd
 8C:1F:64:B4:F0:00/36	Vaunix Technology Corporation
+8C:1F:64:B5:00:00/36	Kinemetrics, Inc.
 8C:1F:64:B5:40:00/36	Framatome Inc.
 8C:1F:64:B5:50:00/36	Sanchar Telesystems limited
 8C:1F:64:B5:60:00/36	Arcvideo
@@ -41352,6 +41359,7 @@
 8C:1F:64:C9:90:00/36	Vinfast Trading and Production JSC
 8C:1F:64:C9:A0:00/36	Infosoft Digital Design and Services P L
 8C:1F:64:C9:B0:00/36	J.M. Voith SE & Co. KG
+8C:1F:64:C9:D0:00/36	Creating Cloud Technology Co.,Ltd.,CT-CLOUD
 8C:1F:64:C9:E0:00/36	CytoTronics
 8C:1F:64:C9:F0:00/36	PeachCreek
 8C:1F:64:CA:00:00/36	Sarv Webs Private Limited
@@ -41429,6 +41437,7 @@
 8C:1F:64:D1:10:00/36	Benetel
 8C:1F:64:D1:20:00/36	Quanzhou Radioboss Technology Co., Ltd
 8C:1F:64:D1:30:00/36	EYatsko Individual
+8C:1F:64:D1:40:00/36	Anadolu Trafi̇k Kontrol Si̇s.Taş.San.Ve Ti̇c. Ltd.Şti̇
 8C:1F:64:D1:50:00/36	MB connect line GmbH
 8C:1F:64:D1:70:00/36	I.S.A. - Altanova group srl
 8C:1F:64:D1:80:00/36	Wuxi Tongxin Hengtong Technology Co., Ltd.
@@ -43724,7 +43733,7 @@
 98:A8:29		AltoBeam Inc.
 98:A8:78		Agnigate Technologies Private Limited
 98:A9:2D		New H3C Technologies Co., Ltd
-98:A9:42		Guangzhou Tozed Kangwei Intelligent Technology Co., LTD
+98:A9:42		Tozed Kangwei Tech Co., Ltd
 98:A9:65		AVM Audiovisuelles Marketing und Computersysteme GmbH
 98:AA:3C		Will i-tech Co., Ltd.
 98:AA:D7		Blue Wave Networking Co Ltd
