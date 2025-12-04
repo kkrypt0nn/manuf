@@ -29002,6 +29002,7 @@
 58:A8:7B		Fitbit, Inc.
 58:A8:E8		Amazon Technologies Inc.
 58:AC:78		Cisco Systems, Inc
+58:AD:08		IEEE Registration Authority
 58:AD:08:A0:00:00/28	Gateview Technologies
 58:AD:12		Apple, Inc.
 58:AE:2B		Huawei Device Co., Ltd.
