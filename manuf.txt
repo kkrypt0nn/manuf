@@ -19603,6 +19603,7 @@
 14:09:DC		Huawei Technologies Co.,Ltd
 14:0A:29		Tiinlab Corporation
 14:0A:C5		Amazon Technologies Inc.
+14:0B:9E		Samsung Electronics Co.,Ltd
 14:0C:5B		PLNetworks
 14:0C:76		Freebox Sas
 14:0D:4F		Flextronics International
@@ -26233,6 +26234,7 @@
 44:0B:AB		Positivo Tecnologia S.A.
 44:0C:EE		Robert Bosch Elektronikai Kft.
 44:0C:FD		NetMan Co., Ltd.
+44:0F:B4		Gsd Viet Nam Technology Company Limited
 44:10:FE		Huizhou Foryou General Electronics Co., Ltd.
 44:11:02		EDMI  Europe Ltd
 44:11:46		The Chamberlain Group, Inc
@@ -27657,6 +27659,7 @@
 4C:EA:AE		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 4C:EB:42		Intel Corporate
 4C:EB:76		Murrelektronik GmbH
+4C:EB:B0		Samsung Electronics Co.,Ltd
 4C:EB:BD		Chongqing Fugui Electronics Co.,Ltd.
 4C:EB:D6		Espressif Inc.
 4C:EC:0F		Cisco Systems, Inc
@@ -29005,6 +29008,7 @@
 58:A8:E8		Amazon Technologies Inc.
 58:AC:78		Cisco Systems, Inc
 58:AD:08		IEEE Registration Authority
+58:AD:08:90:00:00/28	Wuxi Qinghexiaobei Technology Co., Ltd.
 58:AD:08:A0:00:00/28	Gateview Technologies
 58:AD:08:C0:00:00/28	Also, Inc.
 58:AD:12		Apple, Inc.
@@ -29298,6 +29302,7 @@
 5C:4E:EE		AltoBeam Inc.
 5C:50:15		Cisco Systems, Inc
 5C:50:D9		Apple, Inc.
+5C:51:36		Samsung Electronics Co.,Ltd
 5C:51:4F		Intel Corporate
 5C:51:81		Samsung Electronics Co.,Ltd
 5C:51:88		Motorola Mobility LLC, a Lenovo Company
@@ -29584,6 +29589,7 @@
 5C:D1:35		Xtreme Power Systems
 5C:D2:0B		Yytek Co., Ltd.
 5C:D2:E4		Intel Corporate
+5C:D3:3D		Samsung Electronics Co.,Ltd
 5C:D4:1B		UCZOON Technology Co., LTD
 5C:D4:AB		Zektor
 5C:D5:B5		Shenzhen WiSiYiLink Technology Co.,Ltd
@@ -30014,6 +30020,7 @@
 60:B1:85		ATH system
 60:B3:87		Synergics Technologies GmbH
 60:B3:C4		Elber Srl
+60:B4:A2		Samsung Electronics Co.,Ltd
 60:B4:F7		Plume Design Inc
 60:B5:8D		AVM Audiovisuelles Marketing und Computersysteme GmbH
 60:B6:06		Phorus
@@ -31697,6 +31704,7 @@
 70:4E:01		Kwangwon Tech Co., Ltd.
 70:4E:66		Shenzhen Fast Technologies Co.,Ltd
 70:4E:6B		Huawei Technologies Co.,Ltd
+70:4E:E0		Samsung Electronics Co.,Ltd
 70:4F:08		Shenzhen Huisheng Information Technology Co., Ltd.
 70:4F:57		Tp-Link Technologies Co.,Ltd.
 70:4F:B8		Commscope
@@ -36915,6 +36923,7 @@
 78:5F:6C		Arista Networks
 78:5F:A4		Ciena Corporation
 78:60:5B		Tp-Link Technologies Co.,Ltd.
+78:60:89		Samsung Electronics Co.,Ltd
 78:61:7C		Mitsumi Electric Co.,Ltd.
 78:62:56		Huawei Technologies Co.,Ltd
 78:62:99		BITSTREAM sp. z o.o.
@@ -39660,6 +39669,7 @@
 8C:1F:64:1B:F0:00/36	Ossia Inc
 8C:1F:64:1C:00:00/36	INVENTIA Sp. z o.o.
 8C:1F:64:1C:20:00/36	Solid Invent Ltda.
+8C:1F:64:1C:40:00/36	EDGX bv
 8C:1F:64:1C:90:00/36	Pneumax Spa
 8C:1F:64:1C:A0:00/36	Power Electronics Espana, S.L.
 8C:1F:64:1C:B0:00/36	SASYS e.K.
@@ -42185,6 +42195,7 @@
 8C:A0:48		Beijing NeTopChip Technology Co.,LTD
 8C:A2:FD		Starry, Inc.
 8C:A3:99		Servercom (India) Private Limited
+8C:A3:EC		Samsung Electronics Co.,Ltd
 8C:A4:01		Shenzhen New Chip Intelligence Co.,LTD
 8C:A4:54		Private
 8C:A5:A1		Oregano Systems - Design & Consulting GmbH
@@ -45804,6 +45815,7 @@ A8:CF:E0		GDN Enterprises Private Limited
 A8:D0:81		Huawei Device Co., Ltd.
 A8:D0:E3		Systech Electronics Ltd
 A8:D0:E5		Juniper Networks
+A8:D1:62		Samsung Electronics Co.,Ltd
 A8:D2:36		Lightware Visual Engineering
 A8:D3:C8		Wachendorff Automation GmbH & CO.KG
 A8:D3:F7		Arcadyan Technology Corporation
@@ -47798,6 +47810,7 @@ BC:26:1D		Hong Kong Tecon Technology
 BC:26:43		Elprotronic Inc.
 BC:26:A1		FACTORY FIVE Corporation
 BC:26:C7		Cisco Systems, Inc
+BC:27:7A		Samsung Electronics Co.,Ltd
 BC:28:2C		e-Smart Systems Pvt. Ltd
 BC:28:46		NextBIT Computing Pvt. Ltd.
 BC:28:D6		Rowley Associates Limited
@@ -53172,6 +53185,7 @@ E4:F9:39		Minxon Hotel Technology INC.
 E4:FA:1D		PAD Peripheral Advanced Design Inc.
 E4:FA:5B		Texas Instruments
 E4:FA:C4		TP-Link Systems Inc
+E4:FA:E4		Shenzhen SDMC Technology CP,.LTD
 E4:FA:ED		Samsung Electronics Co.,Ltd
 E4:FA:FD		Intel Corporate
 E4:FB:5D		Huawei Technologies Co.,Ltd
