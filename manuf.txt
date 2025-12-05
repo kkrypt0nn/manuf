@@ -29006,6 +29006,7 @@
 58:AC:78		Cisco Systems, Inc
 58:AD:08		IEEE Registration Authority
 58:AD:08:A0:00:00/28	Gateview Technologies
+58:AD:08:C0:00:00/28	Also, Inc.
 58:AD:12		Apple, Inc.
 58:AE:2B		Huawei Device Co., Ltd.
 58:AE:A8		Huawei Technologies Co.,Ltd
@@ -29270,6 +29271,7 @@
 5C:39:77		Juniper Networks
 5C:3A:3D		zte corporation
 5C:3A:45		Chongqing Fugui Electronics Co.,Ltd.
+5C:3A:A2		Silicon Laboratories
 5C:3B:35		Gehirn Inc.
 5C:3C:27		Samsung Electronics Co.,Ltd
 5C:3E:06		Cisco Systems, Inc
@@ -30520,6 +30522,7 @@
 64:CC:2E		Xiaomi Communications Co Ltd
 64:CD:C2		Amazon Technologies Inc.
 64:CD:F1		KO & AL Co., Ltd
+64:CE:0C		Funshion Online Technologies Co.,Ltd
 64:CE:6E		Sierra Wireless, ULC
 64:CF:13		Weigao Nikkiso(Weihai)Dialysis Equipment Co.,Ltd
 64:CF:D9		Texas Instruments
@@ -38430,6 +38433,7 @@
 84:47:09		Shenzhen IP3 Century Intelligent Technology CO.,Ltd
 84:47:65		Huawei Technologies Co.,Ltd
 84:48:23		WOXTER TECHNOLOGY Co. Ltd
+84:48:80		Amazon Technologies Inc.
 84:49:15		vArmour Networks, Inc.
 84:49:EE		Demant Enterprise A/S
 84:4B:B7		Beijing Sankuai Online Technology Co.,Ltd
@@ -42428,6 +42432,7 @@
 90:1C:9E		Alcatel-Lucent Enterprise
 90:1D:27		zte corporation
 90:1E:DD		Great Computer Corporation
+90:1F:09		Silicon Laboratories
 90:20:3A		BYD Precision Manufacture Co.,Ltd
 90:20:83		General Engine Management Systems Ltd.
 90:20:C2		Hewlett Packard Enterprise
@@ -46283,6 +46288,7 @@ AC:DB:48		Commscope
 AC:DB:DA		Shenzhen Geniatech Inc, Ltd
 AC:DC:CA		Huawei Technologies Co.,Ltd
 AC:DC:E5		Procter & Gamble Company
+AC:DE:01		Ruckus Wireless
 AC:DE:48		Private
 AC:DF:9F		Arcadyan Corporation
 AC:DF:A1		Apple, Inc.
@@ -50119,6 +50125,7 @@ CC:A7:C1		Google, Inc.
 CC:AB:2C		HUMAX Co., Ltd.
 CC:AC:FE		Telink Semiconductor (Shanghai) Co., Ltd.
 CC:AF:78		Hon Hai Precision Ind. Co.,Ltd.
+CC:AF:E3		Amazon Technologies Inc.
 CC:B0:71		Fiberhome Telecommunication Technologies Co.,LTD
 CC:B0:A8		Huawei Device Co., Ltd.
 CC:B0:B3		Microsoft Corporation
