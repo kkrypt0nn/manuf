@@ -29008,6 +29008,7 @@
 58:A8:E8		Amazon Technologies Inc.
 58:AC:78		Cisco Systems, Inc
 58:AD:08		IEEE Registration Authority
+58:AD:08:60:00:00/28	Acksys
 58:AD:08:90:00:00/28	Wuxi Qinghexiaobei Technology Co., Ltd.
 58:AD:08:A0:00:00/28	Gateview Technologies
 58:AD:08:C0:00:00/28	Also, Inc.
@@ -29231,6 +29232,7 @@
 5C:18:DD		Cig Shanghai Co Ltd
 5C:19:23		Hangzhou Lanly Technology Co., Ltd.
 5C:1A:6F		Cambridge Industries(Group) Co.,Ltd.
+5C:1B:17		Bosch Automotive Electronics India Pvt. Ltd.
 5C:1B:F4		Apple, Inc.
 5C:1C:B9		vivo Mobile Communication Co., Ltd.
 5C:1D:D9		Apple, Inc.
