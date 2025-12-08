@@ -18354,6 +18354,7 @@
 08:9B:4B		iKuai Networks
 08:9B:B9		Nokia Solutions and Networks GmbH & Co. KG
 08:9B:F1		eero inc.
+08:9C:74		Unionman Technology Co.,Ltd
 08:9C:86		Nokia Shanghai Bell Co., Ltd.
 08:9D:F4		Intel Corporate
 08:9E:01		Quanta Computer Inc.
@@ -19398,6 +19399,7 @@
 10:94:EF		Huawei Technologies Co.,Ltd
 10:95:4B		Megabyte Ltd.
 10:96:1A		Chipsea Technologies (Shenzhen) Corp.
+10:96:1D		NXP USA, Inc
 10:96:93		Amazon Technologies Inc.
 10:96:C6		Cisco Systems, Inc
 10:97:BD		Espressif Inc.
@@ -48102,6 +48104,7 @@ BC:AD:90		Kymeta Purchasing
 BC:AD:AB		Avaya Inc
 BC:AD:AE		AltoBeam Inc.
 BC:AE:C5		ASUSTek COMPUTER INC.
+BC:AF:6E		Arcadyan Corporation
 BC:AF:87		smartAC.com, Inc.
 BC:AF:91		TE Connectivity Sensor Solutions
 BC:B0:E7		Huawei Technologies Co.,Ltd
@@ -50193,6 +50196,7 @@ CC:C2:61:D0:00:00/28	Dspread Technology (Beijing) Inc.
 CC:C2:61:E0:00:00/28	Toong In Electronic Corp.
 CC:C2:E0		Raisecom Technology CO., LTD
 CC:C3:EA		Motorola Mobility LLC, a Lenovo Company
+CC:C4:B2		Shenzhen Trolink Technology Co.,LTD
 CC:C5:0A		Shenzhen Dajiahao Technology Co.,Ltd
 CC:C5:E5		Dell Inc.
 CC:C5:EF		Co-Comm Servicios Telecomunicaciones S.L.
