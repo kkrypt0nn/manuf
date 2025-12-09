@@ -40175,6 +40175,7 @@
 8C:1F:64:4F:10:00/36	Abbott Diagnostics Technologies AS
 8C:1F:64:4F:20:00/36	Automation Displays Inc.
 8C:1F:64:4F:40:00/36	Staco Energy Products
+8C:1F:64:4F:50:00/36	BSTsecurity
 8C:1F:64:4F:60:00/36	Private
 8C:1F:64:4F:70:00/36	SmartD Technologies Inc
 8C:1F:64:4F:90:00/36	Photonic Science and Engineering Ltd
