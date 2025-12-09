@@ -19937,6 +19937,7 @@
 14:C0:A1		UCloud Technology Co., Ltd.
 14:C1:26		Nokia Corporation
 14:C1:4E		Google, Inc.
+14:C1:9F		Espressif Inc.
 14:C1:FF		ShenZhen QianHai Comlan communication Co.,LTD
 14:C2:13		Apple, Inc.
 14:C2:1D		Sabtech Industries
@@ -19982,6 +19983,7 @@
 14:DD:E5		Mpmkvvcl
 14:DE:39		Huawei Device Co., Ltd.
 14:E0:1D		Samsung Electronics Co.,Ltd
+14:E2:2A		Cisco Systems, Inc
 14:E2:89		Abietec Inc.
 14:E4:EC		mLogic LLC
 14:E6:E4		Tp-Link Technologies Co.,Ltd.
@@ -21798,6 +21800,7 @@
 24:6E:96		Dell Inc.
 24:6F:28		Espressif Inc.
 24:6F:8C		Huawei Device Co., Ltd.
+24:71:21		Cisco Systems, Inc
 24:71:52		Dell Inc.
 24:71:89		Texas Instruments
 24:72:4A		Nile Global Inc
@@ -24293,6 +24296,7 @@
 38:2C:E5		Tuya Smart Inc.
 38:2D:D1		Samsung Electronics Co.,Ltd
 38:2D:E8		Samsung Electronics Co.,Ltd
+38:2F:B0		GD Midea Air-Conditioning Equipment Co.,Ltd.
 38:30:F9		LG Electronics (Mobile Communications)
 38:31:5A		Rinnai
 38:31:AC		Weg
@@ -26953,6 +26957,7 @@
 48:9B:E2		SCI Innovations Ltd
 48:9D:18		Flashbay Limited
 48:9D:24		BlackBerry RTS
+48:9D:31		Espressif Inc.
 48:9D:D1		Samsung Electronics Co.,Ltd
 48:9E:9D		Hui Zhou Gaoshengda Technology Co.,LTD
 48:9E:BD		HP Inc.
@@ -28447,6 +28452,7 @@
 54:78:F0		zte corporation
 54:79:75		Nokia Corporation
 54:7A:52		CTE International srl
+54:7A:F4		Bouffalo Lab (Nanjing) Co., Ltd.
 54:7C:69		Cisco Systems, Inc
 54:7D:40		Powervision Tech Inc.
 54:7D:CD		Texas Instruments
@@ -29010,9 +29016,11 @@
 58:A8:E8		Amazon Technologies Inc.
 58:AC:78		Cisco Systems, Inc
 58:AD:08		IEEE Registration Authority
+58:AD:08:20:00:00/28	Beijing ShiYan Technology Co., Ltd
 58:AD:08:60:00:00/28	Acksys
 58:AD:08:90:00:00/28	Wuxi Qinghexiaobei Technology Co., Ltd.
 58:AD:08:A0:00:00/28	Gateview Technologies
+58:AD:08:B0:00:00/28	Triton Sensors
 58:AD:08:C0:00:00/28	Also, Inc.
 58:AD:12		Apple, Inc.
 58:AE:2B		Huawei Device Co., Ltd.
@@ -39884,6 +39892,7 @@
 8C:1F:64:31:A0:00/36	Asiga Pty Ltd
 8C:1F:64:31:B0:00/36	joint analytical systems GmbH
 8C:1F:64:31:C0:00/36	Accumetrics
+8C:1F:64:31:D0:00/36	Tech Mobility Aps
 8C:1F:64:31:F0:00/36	STV Electronic GmbH
 8C:1F:64:32:40:00/36	Kinetic Technologies
 8C:1F:64:32:70:00/36	Deutescher Wetterdienst
@@ -40722,6 +40731,7 @@
 8C:1F:64:85:C0:00/36	Zing 5g Communications Canada Inc.
 8C:1F:64:85:E0:00/36	Apen Group S.p.A.  (VAT IT08767740155)
 8C:1F:64:85:F0:00/36	NEC Asia Pacific Pte Ltd
+8C:1F:64:86:10:00/36	AvioNova (Chengdu) Technology Company Limited
 8C:1F:64:86:30:00/36	EngiNe srl
 8C:1F:64:86:40:00/36	IMI Thomson Valves
 8C:1F:64:86:60:00/36	Unitron Systems b.v.
@@ -42895,6 +42905,7 @@
 90:F7:2F		Phillips Machine & Welding Co., Inc.
 90:F7:B2		New H3C Technologies Co., Ltd
 90:F8:2E		Amazon Technologies Inc.
+90:F8:61		u-blox AG
 90:F8:91		Kaon Group Co., Ltd.
 90:F9:64		Rawasi Co
 90:F9:70		Huawei Technologies Co.,Ltd
@@ -44210,6 +44221,7 @@
 9C:90:19		Beyless
 9C:92:4F		Apple, Inc.
 9C:93:4E		Xerox Corporation
+9C:93:5C		Unisyue Technologies Co;LTD
 9C:93:B0		Megatronix (Beijing) Technology Co., Ltd.
 9C:93:E4		Private
 9C:95:61		Hui Zhou Gaoshengda Technology Co.,LTD
@@ -47633,6 +47645,7 @@ B8:C7:4A		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 B8:C7:5D		Apple, Inc.
 B8:C8:55		Shanghai GBCOM Communication Technology Co.,Ltd.
 B8:C8:EB		Itel Mobile Limited
+B8:C9:24		Cisco Systems, Inc
 B8:C9:B5		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 B8:CA:04		Holtek Semiconductor Inc.
 B8:CA:3A		Dell Inc.
@@ -48100,6 +48113,7 @@ BC:A9:93		Cambium Networks Limited
 BC:A9:D6		Cyber-Rain, Inc.
 BC:AA:82		Fiberhome Telecommunication Technologies Co.,LTD
 BC:AB:7C		TRnP KOREA Co Ltd
+BC:AB:F5		Cisco Systems, Inc
 BC:AD:28		Hangzhou Hikvision Digital Technology Co.,Ltd.
 BC:AD:90		Kymeta Purchasing
 BC:AD:AB		Avaya Inc
@@ -53304,6 +53318,7 @@ E8:39:DF		Askey Computer Corp
 E8:3A:12		Samsung Electronics Co.,Ltd
 E8:3A:4B		China Mobile Group Device Co.,Ltd.
 E8:3A:97		Toshiba Corporation
+E8:3D:C1		Espressif Inc.
 E8:3E:B6		Rim
 E8:3E:FB		Geodesic Ltd.
 E8:3E:FC		Commscope
