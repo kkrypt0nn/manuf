@@ -29018,6 +29018,7 @@
 58:AD:08		IEEE Registration Authority
 58:AD:08:20:00:00/28	Beijing ShiYan Technology Co., Ltd
 58:AD:08:60:00:00/28	Acksys
+58:AD:08:80:00:00/28	Mobileye Vision Technologies LTD
 58:AD:08:90:00:00/28	Wuxi Qinghexiaobei Technology Co., Ltd.
 58:AD:08:A0:00:00/28	Gateview Technologies
 58:AD:08:B0:00:00/28	Triton Sensors
@@ -38830,6 +38831,7 @@
 88:12:7D		Shenzhen Melon Electronics Co.,Ltd
 88:12:AC		Hunan Fn-Link Technology Limited
 88:13:BF		Espressif Inc.
+88:13:C2		Tendyron Corporation
 88:14:2B		Protonic Holland
 88:15:44		Cisco Meraki
 88:15:66		Huawei Device Co., Ltd.
@@ -39315,6 +39317,7 @@
 8C:02:FA		COMMANDO Networks Limited
 8C:04:BA		Dell Inc.
 8C:04:FF		Vantiva USA LLC
+8C:05:28		Shen Zhen Tenda Technology Co.,Ltd
 8C:05:51		Koubachi AG
 8C:05:72		Huawei Device Co., Ltd.
 8C:06:CB		Toradex AG
@@ -40016,6 +40019,7 @@
 8C:1F:64:3D:90:00/36	Unlimited Bandwidth LLC
 8C:1F:64:3D:B0:00/36	BRS Sistemas Eletrônicos
 8C:1F:64:3D:D0:00/36	Dorlet Sau
+8C:1F:64:3D:F0:00/36	LimeSoft Co., Ltd.
 8C:1F:64:3E:00:00/36	YPP Corporation
 8C:1F:64:3E:20:00/36	Agrico
 8C:1F:64:3E:30:00/36	FMTec GmbH - Future Management Technologies
@@ -40468,6 +40472,7 @@
 8C:1F:64:6B:B0:00/36	Season Electronics Ltd
 8C:1F:64:6B:D0:00/36	IoT Water Analytics S.L.
 8C:1F:64:6B:F0:00/36	Automata GmbH & Co. KG
+8C:1F:64:6C:10:00/36	Gogo BA
 8C:1F:64:6C:60:00/36	Fit
 8C:1F:64:6C:80:00/36	Taiko Audio B.V.
 8C:1F:64:6C:A0:00/36	Melissa Climate Jsc
@@ -41484,6 +41489,7 @@
 8C:1F:64:D1:F0:00/36	Free Talk Engineering Co., Ltd
 8C:1F:64:D2:00:00/36	NAS Engineering PRO
 8C:1F:64:D2:10:00/36	Ametek Cts Gmbh
+8C:1F:64:D2:20:00/36	Nine Fives LLC
 8C:1F:64:D2:30:00/36	PLX Inc.
 8C:1F:64:D2:40:00/36	R3 IoT Ltd.
 8C:1F:64:D2:70:00/36	Taiv Inc
@@ -47463,6 +47469,7 @@ B8:56:BD		Itt Llc
 B8:57:76		lignex1
 B8:57:D8		Samsung Electronics Co.,Ltd
 B8:58:10		Numera, Inc.
+B8:58:FF		Arista Networks
 B8:59:9F		Mellanox Technologies, Inc.
 B8:59:C8		70mai Co.,Ltd.
 B8:59:CE		Earda Technologies co Ltd
@@ -48586,6 +48593,7 @@ C0:B3:39		Comigo Ltd.
 C0:B3:57		Yoshiki Electronics Industry Ltd.
 C0:B3:C8		LLC "NTC Rotek"
 C0:B4:7D		Huawei Device Co., Ltd.
+C0:B5:50		Broadcom Limited
 C0:B5:CD		Huawei Device Co., Ltd.
 C0:B5:D7		Chongqing Fugui Electronics Co.,Ltd.
 C0:B6:58		Apple, Inc.
@@ -55927,6 +55935,7 @@ FC:53:9E		Shanghai Wind Technologies Co.,Ltd
 FC:55:57		Apple, Inc.
 FC:55:DC		Baltic Latvian Universal Electronics LLC
 FC:57:03		Hisense broadband multimedia technology Co.,Ltd
+FC:57:08		Broadcom Limited
 FC:58:4A		xiamenshi c-chip technology co., ltd
 FC:58:9A		Cisco Systems, Inc
 FC:58:DF		Interphone Service
