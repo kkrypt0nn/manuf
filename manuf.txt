@@ -4671,7 +4671,7 @@
 00:12:4C		BBWM Corporation
 00:12:4D		Inducon BV
 00:12:4E		Xac Automation Corp.
-00:12:4F		nVent
+00:12:4F		Chemelex LLC
 00:12:50		Tokyo Aircaft Instrument Co., Ltd.
 00:12:51		Silink
 00:12:52		Citronix, LLC
@@ -25442,6 +25442,7 @@
 40:6A:8E		Hangzhou Puwell OE Tech Ltd.
 40:6A:AB		Rim
 40:6C:8F		Apple, Inc.
+40:6E:0F		Skyastar Technologles(Zhuhai) Ltd
 40:6F:27		Huawei Technologies Co.,Ltd
 40:6F:2A		BlackBerry RTS
 40:70:09		Commscope
@@ -42622,6 +42623,7 @@
 90:73:5A		Motorola Mobility LLC, a Lenovo Company
 90:74:2E		New H3C Technologies Co., Ltd
 90:74:9D		IRay Technology Co., Ltd.
+90:74:AE		AzureWave Technology Inc.
 90:75:BC		Nokia Shanghai Bell Co., Ltd.
 90:75:DE		Zebra Technologies Inc.
 90:76:9F		Shenzhen Mercury Communication Technologies Co.,Ltd.
@@ -47375,6 +47377,7 @@ B8:19:04		Nokia Shanghai Bell Co., Ltd.
 B8:19:99		Nesys
 B8:1D:1F		Huawei Technologies Co.,Ltd
 B8:1D:AA		LG Electronics (Mobile Communications)
+B8:1E:61		Tellescom Industria E Comercio Em Telecomunicacao
 B8:1E:9E		Huawei Technologies Co.,Ltd
 B8:1E:A4		Liteon Technology Corporation
 B8:1F:5E		Apption Labs Limited
