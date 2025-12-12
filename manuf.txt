@@ -744,7 +744,7 @@
 00:02:D9		Reliable Controls
 00:02:DA		ExiO Communications, Inc.
 00:02:DB		Netsec
-00:02:DC		Fujitsu General Limited
+00:02:DC		GENERAL Inc.
 00:02:DD		Bromax Communications, Ltd.
 00:02:DE		Astrodesign, Inc.
 00:02:DF		Net Com Systems, Inc.
@@ -1511,7 +1511,7 @@
 00:05:D8		Arescom, Inc.
 00:05:D9		Techno Valley, Inc.
 00:05:DA		Apex Automationstechnik
-00:05:DB		PSI Nentec GmbH
+00:05:DB		PSI Software SE,
 00:05:DC		Cisco Systems, Inc
 00:05:DD		Cisco Systems, Inc
 00:05:DE		Gi Fone Korea, Inc.
@@ -20519,6 +20519,7 @@
 18:F6:50		Multimedia Pacific Limited
 18:F6:97		Axiom Memory Solutions, Inc.
 18:F7:6B		Zhejiang Winsight Technology CO.,LTD
+18:F7:F6		Ericsson AB
 18:F8:7A		i3 International Inc.
 18:F8:7F		Wha Yu Industrial Co., Ltd.
 18:F9:35		Cisco Systems, Inc
@@ -23911,6 +23912,7 @@
 34:86:5D		Espressif Inc.
 34:86:DA		Honor Device Co., Ltd.
 34:87:3D		Quectel Wireless Solutions Co.,Ltd.
+34:87:FB		Gtai
 34:88:18		Cisco Systems, Inc
 34:88:5D		Logitech Far East
 34:8A:12		Hewlett Packard Enterprise
@@ -29026,11 +29028,13 @@
 58:AD:08:20:00:00/28	Beijing ShiYan Technology Co., Ltd
 58:AD:08:30:00:00/28	Fujian Ruihe Technology Co., Ltd.
 58:AD:08:60:00:00/28	Acksys
+58:AD:08:70:00:00/28	Jiangsu Delianda Intelligent Technology Co., Ltd.
 58:AD:08:80:00:00/28	Mobileye Vision Technologies LTD
 58:AD:08:90:00:00/28	Wuxi Qinghexiaobei Technology Co., Ltd.
 58:AD:08:A0:00:00/28	Gateview Technologies
 58:AD:08:B0:00:00/28	Triton Sensors
 58:AD:08:C0:00:00/28	Also, Inc.
+58:AD:08:D0:00:00/28	Suzhou Huichuan United Power System Co.,Ltd
 58:AD:12		Apple, Inc.
 58:AE:2B		Huawei Device Co., Ltd.
 58:AE:A8		Huawei Technologies Co.,Ltd
@@ -38147,6 +38151,7 @@
 80:96:CA		Hon Hai Precision Ind. Co.,Ltd.
 80:97:1B		Altenergy Power System,Inc.
 80:97:33		Shenzhen Elebao Technology Co., Ltd
+80:99:9B		Murata Manufacturing Co., Ltd.
 80:99:E7		Sony Corporation
 80:9B:20		Intel Corporate
 80:9D:65		FN-LINK TECHNOLOGY Ltd.
@@ -39720,6 +39725,7 @@
 8C:1F:64:1E:90:00/36	RC Systems
 8C:1F:64:1E:A0:00/36	Asteelflash Design Solutions Hamburg GmbH
 8C:1F:64:1E:D0:00/36	Lichtwart GmbH
+8C:1F:64:1E:E0:00/36	Kneron (Taiwan) Co., Ltd.
 8C:1F:64:1E:F0:00/36	Tantronic AG
 8C:1F:64:1F:00:00/36	AVCOMM Technologies Inc
 8C:1F:64:1F:40:00/36	Eiffage Energie Electronique
@@ -40630,6 +40636,7 @@
 8C:1F:64:7A:50:00/36	Potter Electric Signal Co. LLC
 8C:1F:64:7A:60:00/36	OTMetric
 8C:1F:64:7A:70:00/36	Timegate Instruments Ltd.
+8C:1F:64:7A:90:00/36	FemtoTools AG
 8C:1F:64:7A:A0:00/36	XSENSOR Technology Corp.
 8C:1F:64:7A:B0:00/36	DEUTA Werke GmbH
 8C:1F:64:7A:E0:00/36	D-E-K GmbH & Co.KG
@@ -41343,6 +41350,7 @@
 8C:1F:64:C1:F0:00/36	Esys Srl
 8C:1F:64:C2:20:00/36	Pulcro.io LLC
 8C:1F:64:C2:40:00/36	Alifax S.r.l.
+8C:1F:64:C2:60:00/36	Ironwood Electronics
 8C:1F:64:C2:70:00/36	Lift Ventures, Inc
 8C:1F:64:C2:80:00/36	Tornado Spectral Systems Inc.
 8C:1F:64:C2:90:00/36	BRS Sistemas Eletrônicos
