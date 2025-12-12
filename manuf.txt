@@ -29021,6 +29021,7 @@
 58:A8:E8		Amazon Technologies Inc.
 58:AC:78		Cisco Systems, Inc
 58:AD:08		IEEE Registration Authority
+58:AD:08:00:00:00/28	NEOiD
 58:AD:08:10:00:00/28	Ainos Inc. Taiwan Branch
 58:AD:08:20:00:00/28	Beijing ShiYan Technology Co., Ltd
 58:AD:08:30:00:00/28	Fujian Ruihe Technology Co., Ltd.
