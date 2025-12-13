@@ -8039,7 +8039,7 @@
 00:1E:AB		TeleWell Oy
 00:1E:AC		Armadeus Systems
 00:1E:AD		Wingtech Group Limited
-00:1E:AE		Continental Automotive Systems Inc.
+00:1E:AE		AUMOVIO Systems, Inc.
 00:1E:AF		Ophir Optronics Ltd
 00:1E:B0		ImesD Electronica S.L.
 00:1E:B1		Cryptsoft Pty Ltd
@@ -15126,7 +15126,7 @@
 00:52:C2		peiker acustic GmbH
 00:52:C8		Made Studio Design Ltd.
 00:54:9F		Avaya Inc
-00:54:AF		Continental Automotive Systems Inc.
+00:54:AF		AUMOVIO Systems, Inc.
 00:54:BD		Swelaser AB
 00:55:B1		Shanghai Baud Data Communication Co.,Ltd.
 00:55:DA		IEEE Registration Authority
@@ -15472,7 +15472,7 @@
 00:6A:5E:80:00:00/28	Hilti Corporation
 00:6A:5E:90:00:00/28	Annapurna labs
 00:6A:5E:A0:00:00/28	Annapurna labs
-00:6A:5E:B0:00:00/28	Continental Brasil Indústria Automotiva Ltda.
+00:6A:5E:B0:00:00/28	AUMOVIO Brazil Industry Ltda.
 00:6A:5E:C0:00:00/28	Cybertel Bridge
 00:6A:5E:D0:00:00/28	Beijing Lingji Innovations technology Co,LTD.
 00:6A:5E:E0:00:00/28	Oppermann Regelgeräte GmbH
@@ -20152,7 +20152,7 @@
 18:4B:0D		Ruckus Wireless
 18:4B:DF		Caavo Inc
 18:4C:08		Rockwell Automation
-18:4C:AE		Continental
+18:4C:AE		AUMOVIO France S.A.S.
 18:4E:03		HMD Global Oy
 18:4E:16		Samsung Electronics Co.,Ltd
 18:4E:94		Messoa Technologies Inc.
@@ -21447,7 +21447,7 @@
 20:AB:37		Apple, Inc.
 20:AB:48		Huawei Technologies Co.,Ltd
 20:AC:9C		China Telecom Corporation Limited
-20:AD:56		Continental Automotive Systems Inc.
+20:AD:56		AUMOVIO Systems, Inc.
 20:AF:1B		SteelSeries ApS
 20:B0:01		Vantiva Technologies Belgium
 20:B0:F7		Enclustra GmbH
@@ -21586,7 +21586,7 @@
 24:05:F5		Integrated Device Technology (Malaysia) Sdn. Bhd.
 24:06:AA		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 24:06:F2		Sichuan Tianyi Comheart Telecom Co.,LTD
-24:08:5D		Continental Aftermarket & Services GmbH
+24:08:5D		AUMOVIO Aftermarket GmbH
 24:09:17		Devlin Electronics Limited
 24:09:35		Samsung Electronics Co.,Ltd
 24:09:95		Huawei Technologies Co.,Ltd
@@ -25475,13 +25475,13 @@
 40:7F:5F		Juniper Networks
 40:7F:E0		Glory Star Technics (ShenZhen) Limited
 40:80:E1		FN-LINK TECHNOLOGY Ltd.
-40:82:56		Continental Automotive GmbH
+40:82:56		AUMOVIO Germany GmbH
 40:82:7B		STMicroelectronics Rousset SAS
 40:83:1D		Apple, Inc.
 40:83:DE		Zebra Technologies Inc
 40:84:32		Microchip Technology Inc.
 40:84:93		Clavister AB
-40:85:56		Continental Automotive Romania SLR
+40:85:56		AUMOVIO Technologies Romania S.R.L.
 40:86:2E		Jdm Mobile Internet Solution Co., Ltd.
 40:86:CB		D-Link Corporation
 40:87:E5		Wu Qi Technologies,Inc.
@@ -26280,7 +26280,7 @@
 44:1E:91		ARVIDA Intelligent Electronics Technology  Co.,Ltd.
 44:1E:98		Ruckus Wireless
 44:1E:A1		Hewlett Packard
-44:20:63		Continental Automotive Technologies GmbH
+44:20:63		AUMOVIO Germany GmbH
 44:22:7C		Huawei Technologies Co.,Ltd
 44:22:95		China Mobile Iot Limited company
 44:22:F1		S.Fac, Inc
@@ -37711,7 +37711,7 @@
 7C:BC:84:10:00:00/28	Xiamen Mage Information Technology Co.,Ltd.
 7C:BC:84:20:00:00/28	3S Technology Co., Ltd.
 7C:BC:84:30:00:00/28	Shanghai Yitu Technology Co. Ltd
-7C:BC:84:40:00:00/28	Continental
+7C:BC:84:40:00:00/28	AUMOVIO France S.A.S.
 7C:BC:84:50:00:00/28	Nanning auto digital technology co.,LTD
 7C:BC:84:60:00:00/28	Société de Transport de Montréal
 7C:BC:84:70:00:00/28	Xuji Changnan Communication Equipment Co., Ltd.
@@ -42116,7 +42116,7 @@
 8C:5D:B2:E0:00:00/28	Surbhi Satcom Pvt Ltd
 8C:5E:4D		DragonWave Technologies DMCC
 8C:5E:BD		Huawei Device Co., Ltd.
-8C:5F:48		Continental Intelligent Transportation Systems LLC
+8C:5F:48		AUMOVIO Systems, Inc.
 8C:5F:AD		Fiberhome Telecommunication Technologies Co.,LTD
 8C:5F:DF		Beijing Railway Signal Factory
 8C:60:4F		Cisco Systems, Inc
@@ -44039,7 +44039,7 @@
 9C:25:BE		Wildlife Acoustics, Inc.
 9C:28:40		Discovery Technology,LTD..
 9C:28:B3		Apple, Inc.
-9C:28:BF		Continental Automotive Czech Republic s.r.o.
+9C:28:BF		AUMOVIO Czech Republic s.r.o.
 9C:28:EF		Huawei Technologies Co.,Ltd
 9C:28:F7		Xiaomi Communications Co Ltd
 9C:29:3F		Apple, Inc.
@@ -46300,7 +46300,7 @@ AC:C1:EE		Xiaomi Communications Co Ltd
 AC:C2:5D		Fiberhome Telecommunication Technologies Co.,LTD
 AC:C2:EC		Clt Int'L Ind. Corp.
 AC:C3:3A		Samsung Electronics Co.,Ltd
-AC:C3:58		Continental Automotive Czech Republic s.r.o.
+AC:C3:58		AUMOVIO Czech Republic s.r.o.
 AC:C3:E5		Cisco Meraki
 AC:C4:A9		Fiberhome Telecommunication Technologies Co.,LTD
 AC:C4:BD		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
@@ -47296,7 +47296,7 @@ B4:D8:DE		iota Computing, Inc.
 B4:DB:91		Celestica Inc.
 B4:DC:09		Guangzhou Dawei Communication Co.,Ltd
 B4:DD:15		ControlThings Oy Ab
-B4:DD:D0		Continental Automotive Hungary Kft
+B4:DD:D0		AUMOVIO Hungary Kft.
 B4:DD:E0		Shanghai Amphenol Airwave Communication Electronics Co.,Ltd.
 B4:DE:31		Cisco Systems, Inc
 B4:DE:DF		zte corporation
@@ -48579,7 +48579,7 @@ C0:9B:F4:A0:00:00/28	Inveo
 C0:9B:F4:B0:00:00/28	Nuctech Company Limited
 C0:9B:F4:C0:00:00/28	Pinpark Inc.
 C0:9B:F4:D0:00:00/28	The Professional Monitor Company Ltd
-C0:9B:F4:E0:00:00/28	Continental Automotive Component Malaysia Sdn.Bhd.
+C0:9B:F4:E0:00:00/28	AUMOVIO Components Malaysia Sdn.Bhd.
 C0:9C:04		Shaanxi GuoLian Digital TV Technology Co.,Ltd.
 C0:9C:92		Coby
 C0:9D:26		Topicon HK Lmd.
@@ -50939,7 +50939,7 @@ D0:FF:98		Huawei Technologies Co.,Ltd
 D4:00:0D		Phoenix Broadband Technologies, LLC.
 D4:00:57		MC Technologies GmbH
 D4:00:68		Fiberhome Telecommunication Technologies Co.,LTD
-D4:00:CA		Continental Automotive Systems S.R.L
+D4:00:CA		AUMOVIO Systems Romania S.R.L.
 D4:01:29		Broadcom
 D4:01:45		Atw Technology, Inc.
 D4:01:6D		Tp-Link Technologies Co.,Ltd.
@@ -51257,7 +51257,7 @@ D4:94:5A		Cosmo Co., Ltd
 D4:94:A1		Texas Instruments
 D4:94:A9		Intel Corporate
 D4:94:E8		Huawei Technologies Co.,Ltd
-D4:94:FB		Continental Automotive Systems Inc.
+D4:94:FB		AUMOVIO Systems, Inc.
 D4:95:24		Clover Network, Inc.
 D4:95:5D		zte corporation
 D4:95:8E		Universal Electronics, Inc.
@@ -52850,7 +52850,7 @@ E4:10:88		Samsung Electronics Co.,Ltd
 E4:11:5B		Hewlett Packard
 E4:12:18		ShenZhen Rapoo Technology Co., Ltd.
 E4:12:1D		Samsung Electronics Co.,Ltd
-E4:12:26		Continental Automotive Romania SLR
+E4:12:26		AUMOVIO Technologies Romania S.R.L.
 E4:12:89		topsystem GmbH
 E4:15:F6		Texas Instruments
 E4:16:13		Extreme Networks Headquarters
@@ -52879,7 +52879,7 @@ E4:1E:0A:B0:00:00/28	Safety Vision, LLC
 E4:1E:0A:C0:00:00/28	Teletask Belgium
 E4:1E:0A:D0:00:00/28	ROMO Wind A/S
 E4:1E:0A:E0:00:00/28	Shanghai LeXiang Technology Co., Ltd
-E4:1E:33		Continental Automotive Technologies GmbH
+E4:1E:33		AUMOVIO Germany GmbH
 E4:1F:13		IBM Corp
 E4:1F:7B		Cisco Systems, Inc
 E4:1F:D5		Intel Corporate
@@ -54363,7 +54363,7 @@ F0:2F:9E		Amazon Technologies Inc.
 F0:2F:A7		Huawei Technologies Co.,Ltd
 F0:2F:BA		Apple, Inc.
 F0:2F:D8		Bi2-Vision
-F0:30:12		Continental Autonomous Mobility Germany
+F0:30:12		AUMOVIO Autonomous Mobility Germany GmbH
 F0:32:1A		Mita-Teknik A/S
 F0:33:E5		Huawei Technologies Co.,Ltd
 F0:34:04		TCT mobile ltd
