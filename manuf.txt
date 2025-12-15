@@ -18719,6 +18719,7 @@
 0C:61:11		Anda Technologies SAC
 0C:61:27		Actiontec Electronics, Inc
 0C:61:CF		Texas Instruments
+0C:61:F9		Tozed Kangwei Tech Co., Ltd
 0C:62:A6		Hui Zhou Gaoshengda Technology Co.,LTD
 0C:63:FC		Nanjing Signway Technology Co., Ltd
 0C:64:22		Beijing Wiseasy Technology Co.,Ltd.
@@ -21831,6 +21832,7 @@
 24:7F:3C		Huawei Technologies Co.,Ltd
 24:80:00		Westcontrol AS
 24:81:3B		Cisco Systems, Inc
+24:81:85		Extreme Networks Headquarters
 24:81:AA		KSH International Co., Ltd.
 24:81:C7		Huawei Device Co., Ltd.
 24:82:8A		Prowave Technologies Ltd.
@@ -23446,6 +23448,7 @@
 30:89:A6		Huawei Technologies Co.,Ltd
 30:89:D3		Hongkong Ucloudlink Network Technology Limited
 30:8A:F7		Huawei Device Co., Ltd.
+30:8B:23		Annapurna labs
 30:8B:B2		Cisco Systems, Inc
 30:8C:FB		Dropcam
 30:8D:99		Hewlett Packard
@@ -26437,6 +26440,7 @@
 44:7B:BB		Shenzhen YOUHUA Technology Co., Ltd
 44:7B:C4		DualShine Technology(SZ)Co.,Ltd
 44:7C:7F		Innolight Technology Corporation
+44:7C:AC		Invictus-AV
 44:7D:A5		Vtion Information Technology (Fujian) Co.,Ltd
 44:7E:76		Trek Technology (S) Pte Ltd
 44:7E:95		Alpha and Omega, Inc
@@ -29027,6 +29031,7 @@
 58:AD:08:10:00:00/28	Ainos Inc. Taiwan Branch
 58:AD:08:20:00:00/28	Beijing ShiYan Technology Co., Ltd
 58:AD:08:30:00:00/28	Fujian Ruihe Technology Co., Ltd.
+58:AD:08:40:00:00/28	Shenzhen Yumutek co.,ltd
 58:AD:08:60:00:00/28	Acksys
 58:AD:08:70:00:00/28	Jiangsu Delianda Intelligent Technology Co., Ltd.
 58:AD:08:80:00:00/28	Mobileye Vision Technologies LTD
@@ -31368,6 +31373,7 @@
 6C:7F:0C		Cisco Meraki
 6C:7F:49		Huawei Device Co., Ltd.
 6C:80:AB		ifanr Inc
+6C:81:66		Private
 6C:81:FE		Mitsuba Corporation
 6C:82:43		Huawei Device Co., Ltd.
 6C:83:36		Samsung Electronics Co.,Ltd
@@ -31509,6 +31515,7 @@
 6C:D1:E5		Huawei Technologies Co.,Ltd
 6C:D2:BA		zte corporation
 6C:D3:EE		Zimi Corporation
+6C:D5:52		Shenzhen Bilian Electronic Co.，Ltd
 6C:D6:30		Rootous System Co.,Ltd
 6C:D6:3F		Huawei Technologies Co.,Ltd
 6C:D6:8A		LG Electronics (Mobile Communications)
@@ -40107,6 +40114,7 @@
 8C:1F:64:45:40:00/36	KJ Klimateknik A/S
 8C:1F:64:45:50:00/36	Weigl GmbH & Co KG
 8C:1F:64:45:70:00/36	Shanghai Angwei Information Technology Co.,Ltd.
+8C:1F:64:45:80:00/36	AooGee Controls Co., LTD.
 8C:1F:64:45:90:00/36	GreenTally LLC
 8C:1F:64:45:A0:00/36	Inspur Digital Enterprise Technology Co., Ltd.
 8C:1F:64:45:B0:00/36	Beijing Aoxing Technology Co.,Ltd
@@ -40142,6 +40150,7 @@
 8C:1F:64:48:C0:00/36	Electronic Equipment Company Pvt. Ltd.
 8C:1F:64:48:D0:00/36	Private
 8C:1F:64:48:F0:00/36	Mecos AG
+8C:1F:64:49:00:00/36	Samson Co.,Ltd.
 8C:1F:64:49:10:00/36	Phospec Industries Inc.
 8C:1F:64:49:30:00/36	Security Products International, LLC
 8C:1F:64:49:50:00/36	Dave Srl
@@ -41691,6 +41700,7 @@
 8C:1F:64:E4:D0:00/36	San Telequip (P) Ltd.,
 8C:1F:64:E4:E0:00/36	Trivedi Advanced Technologies LLC
 8C:1F:64:E4:F0:00/36	Sabl Systems Pty Ltd
+8C:1F:64:E5:00:00/36	INVENTIA Sp. z o.o.
 8C:1F:64:E5:20:00/36	LcmVeloci ApS
 8C:1F:64:E5:30:00/36	T Proje Muhendislik Dis Tic. Ltd. Sti.
 8C:1F:64:E5:80:00/36	Heitec Ag
@@ -44062,6 +44072,7 @@
 9C:31:C3		Sky Uk Limited
 9C:32:A9		Sichuan Tianyi Comheart Telecom Co.,LTD
 9C:32:CE		Canon Inc.
+9C:33:12		Treon Oy
 9C:34:26		Commscope
 9C:35:83		Nipro Diagnostics, Inc
 9C:35:EB		Apple, Inc.
@@ -50910,6 +50921,7 @@ D0:E5:4D		Commscope
 D0:E5:81		Apple, Inc.
 D0:E7:82		AzureWave Technology Inc.
 D0:E8:28		Radiant Industries Incorporated
+D0:EA:11		Routerboard.com
 D0:EB:03		Zhehua technology limited
 D0:EB:9E		Seowoo Inc.
 D0:EC:35		Cisco Systems, Inc
@@ -52121,6 +52133,7 @@ DC:72:9B		Huawei Technologies Co.,Ltd
 DC:73:06		Vantiva Connected Home - Home Networks
 DC:73:85		Huawei Device Co., Ltd.
 DC:74:A8		Samsung Electronics Co.,Ltd
+DC:74:CE		ITOCHU Techno-Solutions Corporation
 DC:76:C3		IEEE Registration Authority
 DC:76:C3:00:00:00/28	Genius Vision Digital Private Limited
 DC:76:C3:10:00:00/28	Bangyan Technology Co., Ltd
