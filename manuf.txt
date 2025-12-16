@@ -28592,6 +28592,7 @@
 54:AF:97		TP-Link Systems Inc
 54:B1:21		Huawei Technologies Co.,Ltd
 54:B2:03		Pegatron Corporation
+54:B2:7E		Sagemcom Broadband SAS
 54:B2:9D		Shenzhen YOUHUA Technology Co., Ltd
 54:B5:6C		Xi'an NovaStar Tech Co., Ltd
 54:B6:20		SUHDOL E&C Co.Ltd.
@@ -29043,6 +29044,7 @@
 58:AD:08:B0:00:00/28	Triton Sensors
 58:AD:08:C0:00:00/28	Also, Inc.
 58:AD:08:D0:00:00/28	Suzhou Huichuan United Power System Co.,Ltd
+58:AD:08:E0:00:00/28	MileOne Technologies Inc
 58:AD:12		Apple, Inc.
 58:AE:2B		Huawei Device Co., Ltd.
 58:AE:A8		Huawei Technologies Co.,Ltd
@@ -30249,6 +30251,7 @@
 64:16:F0		Huawei Technologies Co.,Ltd
 64:17:59		Intellivision Holdings, LLC
 64:17:CD		Samsung Electronics Co.,Ltd
+64:18:DF		Sagemcom Broadband SAS
 64:1A:22		Heliospectra AB
 64:1A:BA		Dryad Networks GmbH
 64:1B:2F		Samsung Electronics Co.,Ltd
@@ -43049,6 +43052,7 @@
 94:2A:6F		Ubiquiti Inc
 94:2B:68		Apple, Inc.
 94:2C:B3		HUMAX Co., Ltd.
+94:2D:3A		Prizor Viztech Limited
 94:2D:DC		Samsung Electronics Co.,Ltd
 94:2E:17		Schneider Electric Canada Inc
 94:2E:63		Finsécur
@@ -43715,6 +43719,7 @@
 98:77:CB		Vorteks ED
 98:77:D5		WiZ
 98:77:E7		Kaon Group Co., Ltd.
+98:78:00		TCT mobile ltd
 98:7A:10		Ericsson AB
 98:7A:14		Microsoft Corporation
 98:7A:9B		TCL MOKA International Limited
@@ -47239,6 +47244,9 @@ B4:A9:FC		Quanta Computer Inc.
 B4:A9:FE		GHIA Technology (Shenzhen) LTD
 B4:AA:4D		Ensequence, Inc.
 B4:AB:2C		MtM Technology Corporation
+B4:AB:F3:00:00:00/28	Voomax Technology Limited
+B4:AB:F3:10:00:00/28	Ntr-Rrl Llc
+B4:AB:F3:A0:00:00/28	Shenzhen zhuomi SmartHome Technology Co., Ltd.
 B4:AC:8C		Bern University of Applied Sciences
 B4:AC:9D		Texas Instruments
 B4:AD:A3		Guangzhou Shiyuan Electronic Technology Company Limited
@@ -47324,6 +47332,7 @@ B4:E0:CD		Fusion-io, Inc
 B4:E1:0F		Dell Inc.
 B4:E1:C4		Microsoft Mobile Oy
 B4:E1:EB		Private
+B4:E2:5B		HP Inc.
 B4:E2:65		Shenzhen SDMC Technology CO.,Ltd.
 B4:E3:D0		LG Electronics
 B4:E3:F9		Silicon Laboratories
@@ -49171,6 +49180,7 @@ C4:AD:21		MEDIAEDGE Corporation
 C4:AD:34		Routerboard.com
 C4:AD:F1		GOPEACE Inc.
 C4:AE:12		Samsung Electronics Co.,Ltd
+C4:B1:6B		Advantech Czech
 C4:B1:D9		Huawei Technologies Co.,Ltd
 C4:B2:39		Cisco Systems, Inc
 C4:B2:5B		Ruijie Networks Co.,LTD
@@ -51743,6 +51753,7 @@ D8:97:60		C2 Development, Inc.
 D8:97:7C		Grey Innovation
 D8:97:90		Commonwealth Scientific and Industrial Research Organisation
 D8:97:BA		Pegatron Corporation
+D8:99:99		Tecno Mobile Limited
 D8:9A:0D		zte corporation
 D8:9A:34		Beijing SHENQI Technology Co., Ltd.
 D8:9A:C1		Nokia
