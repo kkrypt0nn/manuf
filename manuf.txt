@@ -19094,6 +19094,7 @@
 10:01:77		Huawei Technologies Co.,Ltd
 10:01:CA		Ashley Butterworth
 10:02:B5		Intel Corporate
+10:03:CD		Calix Inc.
 10:04:C1		JD Cloud Computing Co., Ltd.
 10:05:01		Pegatron Corporation
 10:05:B1		Commscope
@@ -26144,6 +26145,7 @@
 40:E3:D6		Hewlett Packard Enterprise
 40:E6:4B		Apple, Inc.
 40:E7:30		DEY Storage Systems, Inc.
+40:E7:62		Calix Inc.
 40:E7:93		Shenzhen Siviton Technology Co.,Ltd
 40:E9:9B		Samsung Electro-Mechanics(Thailand)
 40:EA:CE		Founder Broadband Network Service Co.,Ltd
@@ -29032,6 +29034,7 @@
 58:AD:08:20:00:00/28	Beijing ShiYan Technology Co., Ltd
 58:AD:08:30:00:00/28	Fujian Ruihe Technology Co., Ltd.
 58:AD:08:40:00:00/28	Shenzhen Yumutek co.,ltd
+58:AD:08:50:00:00/28	Vanguard Protex Global
 58:AD:08:60:00:00/28	Acksys
 58:AD:08:70:00:00/28	Jiangsu Delianda Intelligent Technology Co., Ltd.
 58:AD:08:80:00:00/28	Mobileye Vision Technologies LTD
@@ -40158,6 +40161,7 @@
 8C:1F:64:49:70:00/36	Primalucelab S.p.A.
 8C:1F:64:49:80:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:49:90:00/36	Tiama
+8C:1F:64:49:A0:00/36	Sigmann Elektronik GmbH
 8C:1F:64:49:B0:00/36	Wartsila Voyage Oy
 8C:1F:64:49:C0:00/36	Red Lion Europe GmbH
 8C:1F:64:49:F0:00/36	Shenzhen Dongman Technology Co.,Ltd
