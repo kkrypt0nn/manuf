@@ -19981,6 +19981,7 @@
 14:DC:51		Xiamen Cheerzing IOT Technology Co.,Ltd.
 14:DC:E2		THALES AVS France
 14:DD:02		Liangang Optoelectronic Technology CO., Ltd.
+14:DD:48		Shield AI
 14:DD:9C		vivo Mobile Communication Co., Ltd.
 14:DD:A9		ASUSTek COMPUTER INC.
 14:DD:E5		Mpmkvvcl
@@ -26346,6 +26347,7 @@
 44:42:2F		Testop Co.,Ltd.
 44:44:50		OttoQ
 44:45:6F		Shenzhen Onega Technology Co.,Ltd
+44:45:BA		Edgecore Americas Networking Corporation
 44:46:48		Hon Hai Precision Industry Co.,LTD
 44:46:87		Realme Chongqing MobileTelecommunications Corp Ltd
 44:47:CC		Hangzhou Hikvision Digital Technology Co.,Ltd.
@@ -26556,6 +26558,7 @@
 44:B9:94		Douglas Lighting Controls
 44:BA:46		Sichuan Tianyi Comheart Telecom Co.,LTD
 44:BB:3B		Google, Inc.
+44:BD:C8		Xiaomi Communications Co Ltd
 44:BD:DE		BHTC GmbH
 44:BE:0B		Huawei Technologies Co.,Ltd
 44:BF:E3		Shenzhen Longtech Electronics Co.,Ltd
@@ -27335,6 +27338,7 @@
 4C:54:27		Linepro Sp. z o.o.
 4C:54:99		Huawei Technologies Co.,Ltd
 4C:55:85		Hamilton Systems
+4C:55:B2		Xiaomi Communications Co Ltd
 4C:55:B8		Turkcell Teknoloji
 4C:55:CC		Zentri Pty Ltd
 4C:56:9D		Apple, Inc.
@@ -31586,6 +31590,7 @@
 6C:F2:D8		Canon Inc.
 6C:F3:73		Samsung Electronics Co.,Ltd
 6C:F3:7F		Hewlett Packard Enterprise
+6C:F4:3D		VusionGroup
 6C:F5:E8		Mooredoll Inc.
 6C:F6:DA		Intel Corporate
 6C:F7:12		Nokia Solutions and Networks GmbH & Co. KG
@@ -38310,6 +38315,7 @@
 80:E4:DA:E0:00:00/28	Akenori PTE LTD
 80:E4:DA:F0:00:00/28	Private
 80:E5:40		Commscope
+80:E6:3C		Xiaomi Communications Co Ltd
 80:E6:50		Apple, Inc.
 80:E7:69		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 80:E8:2C		Hewlett Packard
@@ -38723,6 +38729,7 @@
 84:C7:27		Gnodal Ltd
 84:C7:8F		APS Networks GmbH
 84:C7:A9		C3Po S.A.
+84:C7:E2		VusionGroup
 84:C7:EA		Sony Corporation
 84:C8:07		ADVA Optical Networking Ltd.
 84:C8:A0		Hui Zhou Gaoshengda Technology Co.,LTD
@@ -42611,6 +42618,7 @@
 90:50:7B		Advanced PANMOBIL Systems GmbH & Co. KG
 90:50:CA		Hitron Technologies. Inc
 90:51:3F		Elettronica Santerno SpA
+90:51:F8		Hewlett Packard Enterprise
 90:52:BF		Sichuan Tianyi Comheart Telecom Co.,LTD
 90:54:46		Tes Electronic Solutions
 90:54:B7		Eltex Enterprise LTD
@@ -42681,6 +42689,7 @@
 90:7A:28		Beijing Morncloud Information And Technology Co. Ltd.
 90:7A:58		Zegna-Daidong Limited
 90:7A:BE		Gsd Viet Nam Technology Company Limited
+90:7A:DA		China Dragon Technology Limited
 90:7A:F1		Wally
 90:7B:C6		Texas Instruments
 90:7E:30		Lars
@@ -47258,11 +47267,15 @@ B4:AB:2C		MtM Technology Corporation
 B4:AB:F3		IEEE Registration Authority
 B4:AB:F3:00:00:00/28	Voomax Technology Limited
 B4:AB:F3:10:00:00/28	Ntr-Rrl Llc
+B4:AB:F3:20:00:00/28	Shenzhen Unicair Communication Technology Co., Ltd.
 B4:AB:F3:30:00:00/28	NubiCubi
 B4:AB:F3:40:00:00/28	Shenyang Tianwei Technology Co., Ltd
+B4:AB:F3:60:00:00/28	Snsys
 B4:AB:F3:70:00:00/28	FrontGrade Technologies
 B4:AB:F3:80:00:00/28	Stravik Technologies LLC
+B4:AB:F3:90:00:00/28	Rugged Video LLC
 B4:AB:F3:A0:00:00/28	Shenzhen zhuomi SmartHome Technology Co., Ltd.
+B4:AB:F3:B0:00:00/28	Vissonic Electronics Limited
 B4:AB:F3:D0:00:00/28	Atlas Tech Inc
 B4:AC:8C		Bern University of Applied Sciences
 B4:AC:9D		Texas Instruments
@@ -55058,6 +55071,7 @@ F4:70:0C:B0:00:00/28	Shanghai Risingpo Electronics CO.,LTD
 F4:70:0C:C0:00:00/28	G.S.D Group Inc.
 F4:70:0C:D0:00:00/28	Freeus LLC
 F4:70:0C:E0:00:00/28	Shenzhen WeProTalk Technology Co., Ltd.
+F4:70:18		Hangzhou Ezviz Software Co.,Ltd.
 F4:70:AB		vivo Mobile Communication Co., Ltd.
 F4:71:90		Samsung Electronics Co.,Ltd
 F4:72:57		Jiangxi Remote lntelligence Technology Co.,Ltd
