@@ -10042,7 +10042,7 @@
 00:26:86		Quantenna Communcations, Inc.
 00:26:87		corega K.K
 00:26:88		Juniper Networks
-00:26:89		General Dynamics Robotic Systems
+00:26:89		General Dynamics Land Systems Inc.
 00:26:8A		Terrier SC Ltd
 00:26:8B		Guangzhou Escene Computer Technology Limited
 00:26:8C		StarLeaf Ltd.
@@ -19636,6 +19636,7 @@
 14:18:44		Xenon Smart Teknoloji Ltd.
 14:18:77		Dell Inc.
 14:18:C3		Intel Corporate
+14:19:23		Cisco Systems, Inc
 14:19:73		Beijing Yunyi Times Technology Co.,Ltd
 14:1A:51		Treetech Sistemas Digitais
 14:1A:97		Apple, Inc.
@@ -37629,6 +37630,7 @@
 7C:83:34:E0:00:00/28	Balter GmbH
 7C:84:37		China Post Communications Equipment Co., Ltd.
 7C:85:30		Nokia
+7C:87:67		Cisco Systems, Inc
 7C:87:CE		Espressif Inc.
 7C:88:99		FN-LINK TECHNOLOGY Ltd.
 7C:89:31		Huawei Device Co., Ltd.
@@ -39716,6 +39718,7 @@
 8C:1F:64:1B:60:00/36	Red Sensors Limited
 8C:1F:64:1B:70:00/36	Rax-Tech International
 8C:1F:64:1B:90:00/36	D.T.S Illuminazione Srl
+8C:1F:64:1B:A0:00/36	Innovative Signal Analysis
 8C:1F:64:1B:B0:00/36	Renwei Electronics Technology (Shenzhen) Co.,LTD.
 8C:1F:64:1B:C0:00/36	Transit Solutions, LLC.
 8C:1F:64:1B:D0:00/36	Dorlet Sau
@@ -42731,6 +42734,7 @@
 90:88:A9:E0:00:00/28	TeeJet Technologies
 90:89:38		Hefei Linkin Technology Co., Ltd.
 90:89:5F		Weifang Goertek Electronics Co.,Ltd
+90:8A:80		Cisco Systems, Inc
 90:8C:09		Total Phase
 90:8C:43		Apple, Inc.
 90:8C:44		H.K Zongmu Technology Co., Ltd.
@@ -47276,6 +47280,7 @@ B4:AB:F3:80:00:00/28	Stravik Technologies LLC
 B4:AB:F3:90:00:00/28	Rugged Video LLC
 B4:AB:F3:A0:00:00/28	Shenzhen zhuomi SmartHome Technology Co., Ltd.
 B4:AB:F3:B0:00:00/28	Vissonic Electronics Limited
+B4:AB:F3:C0:00:00/28	Annapurna labs
 B4:AB:F3:D0:00:00/28	Atlas Tech Inc
 B4:AC:8C		Bern University of Applied Sciences
 B4:AC:9D		Texas Instruments
@@ -50547,6 +50552,7 @@ D0:27:88		Hon Hai Precision Ind. Co.,Ltd.
 D0:28:BA		Realme Chongqing MobileTelecommunications Corp Ltd
 D0:2A:AA		Infinix mobility limited
 D0:2B:20		Apple, Inc.
+D0:2C:39		Cisco Systems, Inc
 D0:2C:45		littleBits Electronics, Inc.
 D0:2D:B3		Huawei Technologies Co.,Ltd
 D0:2E:AB		Texas Instruments
