@@ -16441,6 +16441,7 @@
 00:B3:38		Kontron Asia Pacific Design Sdn. Bhd
 00:B3:42		MacroSAN Technologies Co., Ltd.
 00:B3:62		Apple, Inc.
+00:B4:63		Ring LLC
 00:B4:F5		DongGuan Siyoto Electronics Co., Ltd
 00:B5:6D		David Electronics Co., LTD.
 00:B5:D0		Samsung Electronics Co.,Ltd
@@ -23709,6 +23710,7 @@
 34:15:93		Ruckus Wireless
 34:15:9E		Apple, Inc.
 34:17:36		Shenzhen iComm Semiconductor CO.,LTD
+34:17:DD		Sercomm France Sarl
 34:17:EB		Dell Inc.
 34:19:4D		Arcadyan Corporation
 34:1A:35		Fiberhome Telecommunication Technologies Co.,LTD
@@ -25428,6 +25430,7 @@
 40:58:46		vivo Mobile Communication Co., Ltd.
 40:58:99		Logitech Far East
 40:5A:9B		Anovo
+40:5A:DD		Actions Microelectronics
 40:5B:7F		Broadcom Limited
 40:5B:D8		Chongqing Fugui Electronics Co.,Ltd.
 40:5C:FD		Dell Inc.
@@ -29788,6 +29791,9 @@
 60:15:92:C0:00:00/28	PSS Co., Ltd
 60:15:92:D0:00:00/28	Remowireless Communication International Co.,Limited
 60:15:92:E0:00:00/28	Annapurna labs
+60:15:9F:10:00:00/28	Klaric GmbH & Co. KG
+60:15:9F:B0:00:00/28	Lens Technology (Xiantan) Co.,Ltd
+60:15:9F:C0:00:00/28	Terrestar Solutions Inc
 60:15:C7		IdaTech
 60:18:03		Daikin Air-conditioning (Shanghai) Co., Ltd.
 60:18:2E		ShenZhen Protruly Electronic Ltd co.
@@ -47274,6 +47280,7 @@ B4:AB:F3:10:00:00/28	Ntr-Rrl Llc
 B4:AB:F3:20:00:00/28	Shenzhen Unicair Communication Technology Co., Ltd.
 B4:AB:F3:30:00:00/28	NubiCubi
 B4:AB:F3:40:00:00/28	Shenyang Tianwei Technology Co., Ltd
+B4:AB:F3:50:00:00/28	Shenzhen Quanzhixin Information Technology Co.,Ltd
 B4:AB:F3:60:00:00/28	Snsys
 B4:AB:F3:70:00:00/28	FrontGrade Technologies
 B4:AB:F3:80:00:00/28	Stravik Technologies LLC
@@ -47282,6 +47289,7 @@ B4:AB:F3:A0:00:00/28	Shenzhen zhuomi SmartHome Technology Co., Ltd.
 B4:AB:F3:B0:00:00/28	Vissonic Electronics Limited
 B4:AB:F3:C0:00:00/28	Annapurna labs
 B4:AB:F3:D0:00:00/28	Atlas Tech Inc
+B4:AB:F3:E0:00:00/28	Rang Dong Light Source & Vacuum Flask J.S.C
 B4:AC:8C		Bern University of Applied Sciences
 B4:AC:9D		Texas Instruments
 B4:AD:A3		Guangzhou Shiyuan Electronic Technology Company Limited
@@ -48659,6 +48667,7 @@ C0:A3:6E		Sky Uk Limited
 C0:A3:9E		EarthCam, Inc.
 C0:A3:C7		Telink Micro LLC
 C0:A4:76		Ruijie Networks Co.,LTD
+C0:A4:B9		Sichuan AI-Link Technology Co., Ltd.
 C0:A5:3E		Apple, Inc.
 C0:A5:DD		Shenzhen Mercury Communication Technologies Co.,Ltd.
 C0:A5:E8		Intel Corporate
