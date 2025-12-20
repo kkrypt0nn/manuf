@@ -29791,6 +29791,7 @@
 60:15:92:C0:00:00/28	PSS Co., Ltd
 60:15:92:D0:00:00/28	Remowireless Communication International Co.,Limited
 60:15:92:E0:00:00/28	Annapurna labs
+60:15:9F		IEEE Registration Authority
 60:15:9F:10:00:00/28	Klaric GmbH & Co. KG
 60:15:9F:B0:00:00/28	Lens Technology (Xiantan) Co.,Ltd
 60:15:9F:C0:00:00/28	Terrestar Solutions Inc
@@ -40526,6 +40527,7 @@
 8C:1F:64:6B:D0:00/36	IoT Water Analytics S.L.
 8C:1F:64:6B:F0:00/36	Automata GmbH & Co. KG
 8C:1F:64:6C:10:00/36	Gogo BA
+8C:1F:64:6C:40:00/36	inmediQ GmbH
 8C:1F:64:6C:60:00/36	Fit
 8C:1F:64:6C:80:00/36	Taiko Audio B.V.
 8C:1F:64:6C:A0:00/36	Melissa Climate Jsc
@@ -43427,6 +43429,7 @@
 94:E9:8C		Nokia
 94:E9:EE		Huawei Device Co., Ltd.
 94:EA:32		Apple, Inc.
+94:EA:E7		Lynq Technologies
 94:EA:EA		Tellescom Industria E Comercio Em Telecomunicacao
 94:EB:2C		Google, Inc.
 94:EB:CD		BlackBerry RTS
