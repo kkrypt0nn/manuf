@@ -18577,6 +18577,7 @@
 0C:0A:DF		Texas Instruments
 0C:0E:76		D-Link International
 0C:0E:CB		Huawei Device Co., Ltd.
+0C:0F:D8		Gsd Viet Nam Technology Company Limited
 0C:11:05		Akuvox (Xiamen) Networks Co., Ltd
 0C:11:67		Cisco Systems, Inc
 0C:12:62		zte corporation
@@ -19499,6 +19500,7 @@
 10:C9:CA		Ace Technology Corp.
 10:CA:81		Precia
 10:CA:BF		Texas Instruments
+10:CB:33		NXP Semiconductors Taiwan Ltd.
 10:CC:1B		Liverock technologies,INC
 10:CC:DB		Aximum Produits Electroniques
 10:CD:6E		Fisys
@@ -19759,6 +19761,7 @@
 14:4F:D7:C0:00:00/28	D&S Cable Industries (HK) Limited
 14:4F:D7:D0:00:00/28	Shanghai B&A Technology Co., Ltd
 14:4F:D7:E0:00:00/28	Edan Instruments, Inc.
+14:4F:F0		NXP Semiconductors Taiwan Ltd.
 14:50:51		SHARP Corporation
 14:51:20		Huawei Device Co., Ltd.
 14:51:7E		New H3C Technologies Co., Ltd
@@ -21133,6 +21136,7 @@
 1C:FD:08:E0:00:00/28	Meshbox Foundation Pte. Ltd.
 1C:FE:2B		Amazon Technologies Inc.
 1C:FE:A7		IDentytech Solutins Ltd.
+1C:FF:3F		Cust2mate
 1C:FF:59		Sichuan Tianyi Comheart Telecom Co.,LTD
 1C:FF:AD		Huawei Technologies Co.,Ltd
 20:01:4F		Linea Research Ltd
@@ -29792,9 +29796,13 @@
 60:15:92:D0:00:00/28	Remowireless Communication International Co.,Limited
 60:15:92:E0:00:00/28	Annapurna labs
 60:15:9F		IEEE Registration Authority
+60:15:9F:00:00:00/28	yst
 60:15:9F:10:00:00/28	Klaric GmbH & Co. KG
-60:15:9F:B0:00:00/28	Lens Technology (Xiantan) Co.,Ltd
+60:15:9F:80:00:00/28	Huizhou Bohui Connection Technology Co., Ltd
+60:15:9F:A0:00:00/28	QingDao Hiincom Electronics Co., Ltd
+60:15:9F:B0:00:00/28	Lens Technology(Xiangtan) Co.,Ltd
 60:15:9F:C0:00:00/28	Terrestar Solutions Inc
+60:15:9F:D0:00:00/28	FF Videosistemas SL
 60:15:C7		IdaTech
 60:18:03		Daikin Air-conditioning (Shanghai) Co., Ltd.
 60:18:2E		ShenZhen Protruly Electronic Ltd co.
@@ -38978,6 +38986,7 @@
 88:43:E1		Cisco Systems, Inc
 88:44:77		Huawei Technologies Co.,Ltd
 88:44:F6		Nokia Corporation
+88:45:58		Amicro Technology Co., Ltd.
 88:45:F0		Guangdong Genius Technology Co., Ltd.
 88:46:04		Xiaomi Communications Co Ltd
 88:46:2A		Telechips Inc.
@@ -40277,6 +40286,7 @@
 8C:1F:64:52:50:00/36	United States Technologies Inc.
 8C:1F:64:52:60:00/36	CAITRON GmbH
 8C:1F:64:52:70:00/36	Pdw
+8C:1F:64:52:80:00/36	Luxshare Electronic Technology (KunShan) Ltd
 8C:1F:64:52:A0:00/36	Hiwin Mikrosystem Corp.
 8C:1F:64:52:D0:00/36	Cubic ITS, Inc. dba GRIDSMART Technologies
 8C:1F:64:52:E0:00/36	CLOUD TELECOM Inc.
@@ -40453,6 +40463,7 @@
 8C:1F:64:64:80:00/36	Gridpulse c.o.o.
 8C:1F:64:64:D0:00/36	Newone Co.,Ltd.
 8C:1F:64:64:E0:00/36	Nilfisk Food
+8C:1F:64:64:F0:00/36	Invixium Access Inc
 8C:1F:64:65:00:00/36	L tec Co.,Ltd
 8C:1F:64:65:10:00/36	Teledyne Cetac
 8C:1F:64:65:20:00/36	Tokyo Interphone Co.,Ltd.
@@ -40732,6 +40743,7 @@
 8C:1F:64:7F:80:00/36	FleetSafe India Private Limited
 8C:1F:64:7F:90:00/36	Copelion International Inc
 8C:1F:64:7F:C0:00/36	Mitsubishi Electric Klimat Transportation Systems S.p.A.
+8C:1F:64:7F:E0:00/36	Shenzhen Konvison Technology Co.,Ltd.
 8C:1F:64:80:00:00/36	Shenzhen SDG Telecom Equipment Co.,Ltd.
 8C:1F:64:80:10:00/36	Zhejiang Laolan Information Technology Co., Ltd
 8C:1F:64:80:20:00/36	Daiichi Electric Industry Co., Ltd
@@ -41778,6 +41790,7 @@
 8C:1F:64:E9:90:00/36	Pantherun Technologies Pvt Ltd
 8C:1F:64:E9:A0:00/36	SiFive Inc
 8C:1F:64:E9:B0:00/36	Discover Energy Systems Corp.
+8C:1F:64:E9:D0:00/36	Zhuhai Lonl electric Co., Ltd.
 8C:1F:64:E9:F0:00/36	Lumiplan Duhamel
 8C:1F:64:EA:60:00/36	Dial Plan Limited
 8C:1F:64:EA:80:00/36	Zumbach Electronic AG
@@ -51044,6 +51057,7 @@ D4:11:D6		ShotSpotter, Inc.
 D4:12:43		AMPAK Technology, Inc.
 D4:12:96		Anobit Technologies Ltd.
 D4:12:BB		Quadrant Components Inc. Ltd
+D4:13:68		Shenzhen Intellirocks Tech. Co. Ltd.
 D4:13:6F		Asia Pacific Brands
 D4:13:B3		Wu Qi Technologies,Inc.
 D4:13:F8		Peplink International Ltd.
