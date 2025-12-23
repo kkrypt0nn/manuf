@@ -21931,6 +21931,7 @@
 24:A4:95		Thales Canada Inc.
 24:A5:2C		Huawei Technologies Co.,Ltd
 24:A5:34		SynTrust Tech International Ltd.
+24:A5:FF		Fairbanks Scales
 24:A6:5E		zte corporation
 24:A6:FA		Weifang Goertek Electronics Co.,Ltd
 24:A7:99		Huawei Device Co., Ltd.
