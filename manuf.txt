@@ -29808,7 +29808,9 @@
 60:15:9F:10:00:00/28	Klaric GmbH & Co. KG
 60:15:9F:20:00:00/28	Voxai Technology Co.,Ltd.
 60:15:9F:40:00:00/28	Micro-Tex Pte.Ltd.
+60:15:9F:70:00:00/28	Critical Loop
 60:15:9F:80:00:00/28	Huizhou Bohui Connection Technology Co., Ltd
+60:15:9F:90:00:00/28	Shenzhen NTS Technology Co.,Ltd
 60:15:9F:A0:00:00/28	QingDao Hiincom Electronics Co., Ltd
 60:15:9F:B0:00:00/28	Lens Technology(Xiangtan) Co.,Ltd
 60:15:9F:C0:00:00/28	Terrestar Solutions Inc
