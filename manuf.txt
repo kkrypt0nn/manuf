@@ -18093,6 +18093,7 @@
 08:02:05		Huawei Technologies Co.,Ltd
 08:02:3C		Samsung Electronics Co.,Ltd
 08:02:8E		Netgear
+08:02:99		HC Corporation
 08:03:42		Palo Alto Networks
 08:03:71		Krg Corporate
 08:04:B4		Texas Instruments
@@ -19923,6 +19924,7 @@
 14:AE:85:D0:00:00/28	iSolution Technologies Co.,Ltd.
 14:AE:85:E0:00:00/28	Sercomm Corporation.
 14:AE:DB		VTech Telecommunications Ltd.
+14:AE:E0		Ethernexion Networks Pte. Ltd.
 14:B1:26		Industrial Software Co
 14:B1:C8		InfiniWing, Inc.
 14:B2:E5		Shenzhen iComm Semiconductor CO.,LTD
@@ -26933,6 +26935,7 @@
 48:74:6E		Apple, Inc.
 48:75:83		Intellion AG
 48:76:04		Private
+48:76:96		Huaan Zhongyun Co., Ltd.
 48:77:06		NXP Semiconductor (Tianjin) LTD.
 48:77:46		Calix Inc.
 48:77:BD		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
@@ -30621,6 +30624,7 @@
 64:D3:15		HMD Global Oy
 64:D4:BD		Alpsalpine Co,.Ltd
 64:D4:DA		Intel Corporate
+64:D4:F0		Netvue，Inc.
 64:D6:9A		Intel Corporate
 64:D7:C0		Huawei Device Co., Ltd.
 64:D8:14		Cisco Systems, Inc
@@ -38142,6 +38146,7 @@
 80:76:77		hangzhou puwell cloud tech co., ltd.
 80:76:93		Newag SA
 80:76:C2		GD Midea Air-Conditioning Equipment Co.,Ltd.
+80:77:86:20:00:00/28	Wintec Co., Ltd
 80:77:A4		Tecno Mobile Limited
 80:78:71		Askey Computer Corp
 80:79:33		Aigentec Technology(Zhejiang) Co., Ltd.
@@ -41378,6 +41383,7 @@
 8C:1F:64:BC:C0:00/36	Sound Health Systems
 8C:1F:64:BC:D0:00/36	A.L.S.E.
 8C:1F:64:BC:E0:00/36	BESO sp. z o.o.
+8C:1F:64:BD:00:00/36	Mesa Labs, Inc.
 8C:1F:64:BD:20:00/36	attocube systems AG
 8C:1F:64:BD:30:00/36	IO Master Technology
 8C:1F:64:BD:50:00/36	Pro-Custom Group
@@ -41490,6 +41496,7 @@
 8C:1F:64:C8:00:00/36	VECOS Europe B.V.
 8C:1F:64:C8:10:00/36	Taolink Technologies Corporation
 8C:1F:64:C8:30:00/36	Power Electronics Espana, S.L.
+8C:1F:64:C8:40:00/36	Luceor
 8C:1F:64:C8:50:00/36	Potter Electric Signal Co. LLC
 8C:1F:64:C8:D0:00/36	Aeronautics Ltd.
 8C:1F:64:C8:F0:00/36	JW Froehlich Maschinenfabrik GmbH
