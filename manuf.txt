@@ -38146,6 +38146,7 @@
 80:76:77		hangzhou puwell cloud tech co., ltd.
 80:76:93		Newag SA
 80:76:C2		GD Midea Air-Conditioning Equipment Co.,Ltd.
+80:77:86		IEEE Registration Authority
 80:77:86:20:00:00/28	Wintec Co., Ltd
 80:77:A4		Tecno Mobile Limited
 80:78:71		Askey Computer Corp
