@@ -28475,6 +28475,7 @@
 54:69:90		Huawei Technologies Co.,Ltd
 54:6A:D8		Elster Water Metering
 54:6C:0E		Texas Instruments
+54:6C:50		Nanjing Qinheng Microelectronics Co., Ltd.
 54:6C:AC		Intelbras
 54:6C:EB		Intel Corporate
 54:6D:52		Topview Optronics Corp.
@@ -42598,6 +42599,7 @@
 90:20:3A		BYD Precision Manufacture Co.,Ltd
 90:20:83		General Engine Management Systems Ltd.
 90:20:C2		Hewlett Packard Enterprise
+90:20:D7		Microsoft Corporation
 90:21:06		Sky Uk Limited
 90:21:2E		Apption Labs Ltd
 90:21:55		HTC Corporation
@@ -47794,6 +47796,7 @@ B8:B7:DB		GOIP Global Services Pvt. Ltd.
 B8:B7:F1		WNC Corporation
 B8:B8:1E		Intel Corporate
 B8:B9:4E		Shenzhen iBaby Labs, Inc.
+B8:BA:66		Microsoft Corporation
 B8:BA:68		Xi'an Jizhong Digital Communication Co.,Ltd
 B8:BA:72		Cynove
 B8:BB:23		Guangdong Nufront CSC Co., Ltd
