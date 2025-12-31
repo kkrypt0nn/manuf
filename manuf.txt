@@ -38163,6 +38163,7 @@
 80:77:86		IEEE Registration Authority
 80:77:86:10:00:00/28	Raycon
 80:77:86:20:00:00/28	Wintec Co., Ltd
+80:77:86:30:00:00/28	Demeas
 80:77:86:40:00:00/28	Realtime Biometrics India (P) limited
 80:77:A4		Tecno Mobile Limited
 80:78:71		Askey Computer Corp
@@ -41240,6 +41241,7 @@
 8C:1F:64:AD:20:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:AD:30:00/36	Working Set Software Solutions
 8C:1F:64:AD:40:00/36	Flextronics International Kft
+8C:1F:64:AD:60:00/36	International Security Systems W.L.L.
 8C:1F:64:AD:70:00/36	Monnit Corporation
 8C:1F:64:AD:80:00/36	Novanta IMS
 8C:1F:64:AD:B0:00/36	Hebei Weiji Electric Co.,Ltd
