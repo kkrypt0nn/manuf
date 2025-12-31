@@ -22399,6 +22399,7 @@
 28:AF:FD		Cisco Systems, Inc
 28:B0:CC		Xenya d.o.o.
 28:B1:33		SHINEMAN(SHENZHEN) Tech. Cor., Ltd.
+28:B2:0B		NXP USA, Inc
 28:B2:21		Sienda Multimedia Ltd
 28:B2:7C		Sailing Northern Technology
 28:B2:BD		Intel Corporate
@@ -23737,6 +23738,7 @@
 34:1B:2D		Cisco Systems, Inc
 34:1C:F0		Xiaomi Communications Co Ltd
 34:1E:6B		Huawei Technologies Co.,Ltd
+34:1F:C4		Shenzhen V-Link Technology CO., LTD.
 34:1F:E4		Commscope
 34:20:03		Shenzhen Feitengyun Technology Co.,LTD
 34:20:E3		Ruckus Wireless
