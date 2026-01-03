@@ -24379,6 +24379,7 @@
 38:45:54		Harman/Becker Automotive Systems GmbH
 38:45:8C		MyCloud Technology corporation
 38:46:08		zte corporation
+38:47:12		Luxottica Tristar (Dongguan) Optical Co.,Ltd
 38:47:BC		Huawei Technologies Co.,Ltd
 38:47:F2		Recogni Inc
 38:48:4C		Apple, Inc.
@@ -36547,6 +36548,7 @@
 74:80:3F		Renesas Electronics (Penang) Sdn. Bhd.
 74:81:14		Apple, Inc.
 74:81:9A		PT. Hartono Istana Teknologi
+74:83:A0		Shenzhen MiaoMing Intelligent Technology Co.,Ltd
 74:83:C2		Ubiquiti Inc
 74:83:EF		Arista Networks
 74:84:69		Nintendo Co.,Ltd
@@ -38284,6 +38286,7 @@
 80:AE:3C		Taicang T&W Electronics
 80:AE:54		Tp-Link Technologies Co.,Ltd.
 80:AF:19		Apple, Inc.
+80:AF:9F		eero inc.
 80:AF:CA		Shenzhen Cudy Technology Co., Ltd.
 80:B0:3D		Apple, Inc.
 80:B0:7B		zte corporation
@@ -40463,6 +40466,7 @@
 8C:1F:64:5E:C0:00/36	Nv Bekaert Sa
 8C:1F:64:5E:D0:00/36	DEUTA Werke GmbH
 8C:1F:64:5F:10:00/36	HD Link Co., Ltd.
+8C:1F:64:5F:20:00/36	CMC Applied Technology institute
 8C:1F:64:5F:50:00/36	HongSeok Ltd.
 8C:1F:64:5F:60:00/36	Forward Edge.AI
 8C:1F:64:5F:70:00/36	Eagle Harbor Technologies, Inc.
@@ -40552,6 +40556,7 @@
 8C:1F:64:68:00:00/36	Mitrol S.R.L.
 8C:1F:64:68:10:00/36	wayfiwireless.com
 8C:1F:64:68:30:00/36	Slat
+8C:1F:64:68:40:00/36	Potter Electric Signal Co. LLC
 8C:1F:64:68:50:00/36	Sanchar Wireless Communications Ltd
 8C:1F:64:68:60:00/36	Pazzk
 8C:1F:64:68:70:00/36	Lamontec
@@ -45845,6 +45850,7 @@ A8:6A:6F		Rim
 A8:6A:86		Xiaomi Communications Co Ltd
 A8:6A:BB		Sagemcom Broadband SAS
 A8:6A:C1		HanbitEDS Co., Ltd.
+A8:6A:CB		Evar
 A8:6B:7C		Shenzhen Fenglian Technology Co., Ltd.
 A8:6B:AD		Hon Hai Precision Ind. Co.,Ltd.
 A8:6D:04		Siemens AG
