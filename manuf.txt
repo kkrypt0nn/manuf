@@ -21308,6 +21308,7 @@
 20:47:ED		Sky Uk Limited
 20:4A:AA		Hanscan Spain S.A.
 20:4B:22		Sunnovo International Limited
+20:4B:2E		Pizzato Elettrica S.r.l.
 20:4C:03		Hewlett Packard Enterprise
 20:4C:6D		Hugo Brennenstuhl Gmbh & Co. KG.
 20:4C:9E		Cisco Systems, Inc
@@ -29917,6 +29918,7 @@
 60:45:CD		Sagemcom Broadband SAS
 60:45:E8		Arcadyan Corporation
 60:46:16		Xiamen Vann Intelligent Co., Ltd
+60:47:0A		Shenzhen Zenith Intelligent Technology Co., Ltd.
 60:47:62		Beijing Sensoro Technology Co.,Ltd.
 60:47:D4		FORICS Electronic Technology Co., Ltd.
 60:48:26		Newbridge Technologies Int. Ltd.
@@ -38169,6 +38171,8 @@
 80:77:86:20:00:00/28	Wintec Co., Ltd
 80:77:86:30:00:00/28	Demeas
 80:77:86:40:00:00/28	Realtime Biometrics India (P) limited
+80:77:86:70:00:00/28	Partronics eBoards Pvt Ltd
+80:77:86:D0:00:00/28	Applied Energy Technologies Pvt Ltd
 80:77:A4		Tecno Mobile Limited
 80:78:71		Askey Computer Corp
 80:79:33		Aigentec Technology(Zhejiang) Co., Ltd.
@@ -39943,6 +39947,7 @@
 8C:1F:64:2A:70:00/36	aelettronica group srl
 8C:1F:64:2A:80:00/36	SHALARM SECURITY Co.,LTD
 8C:1F:64:2A:90:00/36	Elbit Systems of America, LLC
+8C:1F:64:2A:A0:00/36	Xi'an Singularity Energy Co., Ltd.
 8C:1F:64:2A:C0:00/36	Dco Systems Ltd
 8C:1F:64:2A:F0:00/36	A-Best Co.,Lid.
 8C:1F:64:2B:10:00/36	U -Mei-Dah Int'L Enterprise Co.,Ltd.
@@ -40484,6 +40489,7 @@
 8C:1F:64:60:80:00/36	Cong Ty Co Phan Ky Thuat Moi Truong Viet An
 8C:1F:64:60:A0:00/36	Rfengine Co., Ltd.
 8C:1F:64:60:B0:00/36	eumig industrie-TV GmbH.
+8C:1F:64:60:C0:00/36	PAL Inc.
 8C:1F:64:60:E0:00/36	ICT International
 8C:1F:64:60:F0:00/36	Sael Srl
 8C:1F:64:61:00:00/36	Beijing Zhongzhi Huida Technology Co., Ltd
@@ -47586,6 +47592,7 @@ B8:2F:CB		CMS Electracom
 B8:30:A8		Road-Track Telematics Development
 B8:31:B5		Microsoft Corporation
 B8:32:41		Wuhan Tianyu Information Industry Co., Ltd.
+B8:32:8F		eero inc.
 B8:36:D8		Videoswitch
 B8:37:4A		Apple, Inc.
 B8:37:4B		Hewlett Packard Enterprise
