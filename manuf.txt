@@ -38172,6 +38172,7 @@
 80:77:86:30:00:00/28	Demeas
 80:77:86:40:00:00/28	Realtime Biometrics India (P) limited
 80:77:86:70:00:00/28	Partronics eBoards Pvt Ltd
+80:77:86:A0:00:00/28	Huizhou Jiemeisi Technology Co.,Ltd.
 80:77:86:D0:00:00/28	Applied Energy Technologies Pvt Ltd
 80:77:A4		Tecno Mobile Limited
 80:78:71		Askey Computer Corp
