@@ -17591,6 +17591,7 @@
 04:62:D7		Alstom Hydro France
 04:63:D0		Huawei Device Co., Ltd.
 04:63:E0		Nome Oy
+04:64:FA		Dell Inc.
 04:65:65		Testop
 04:67:61		Beijing Xiaomi Mobile Software Co., Ltd
 04:67:85		scemtec Hard- und Software fuer Mess- und Steuerungstechnik GmbH
@@ -22924,6 +22925,7 @@
 2C:78:0E		Huawei Device Co., Ltd.
 2C:78:4C		Iton Technology Corp.
 2C:79:3D		Boditech Med
+2C:79:BE		Tp-Link Technologies Co.,Ltd.
 2C:79:D7		Sagemcom Broadband SAS
 2C:7A:F4		IEEE Registration Authority
 2C:7A:F4:00:00:00/28	Annapurna labs
@@ -26428,6 +26430,7 @@
 44:65:8A		Dukelana LLC
 44:65:E0		Merlion Consulting Services (Shenzhen) Co., Ltd
 44:66:6E		Ip-Line
+44:66:90		Tp-Link Technologies Co.,Ltd.
 44:66:FC		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 44:67:47		Huawei Technologies Co.,Ltd
 44:67:52		Wistron INFOCOMM (Zhongshan) CORPORATION
@@ -27241,6 +27244,7 @@
 4C:06:8A		Basler Electric Company
 4C:06:B7		ProDVX Europe B.V.
 4C:07:C9		COMPUTER OFFICE Co.,Ltd.
+4C:09:97		Arista Networks
 4C:09:B4		zte corporation
 4C:09:D4		Arcadyan Technology Corporation
 4C:09:FA		Frontier Smart Technologies Ltd
@@ -30344,6 +30348,7 @@
 64:2F:1C		Huawei Technologies Co.,Ltd
 64:2F:C7		New H3C Technologies Co., Ltd
 64:31:35		Apple, Inc.
+64:31:36		Mellanox Technologies, Inc.
 64:31:39		IEEE Registration Authority
 64:31:39:00:00:00/28	Shenzhen Emeet Intelligent Technology Co., Ltd.
 64:31:39:10:00:00/28	Livongo Health
@@ -31935,6 +31940,7 @@
 70:76:FF		Kerlink
 70:77:81		Hon Hai Precision Ind. Co.,Ltd.
 70:78:8B		vivo Mobile Communication Co., Ltd.
+70:79:2D		Mellanox Technologies, Inc.
 70:79:38		Wuxi Zhanrui Electronic Technology Co.,LTD
 70:79:90		Huawei Technologies Co.,Ltd
 70:79:B3		Cisco Systems, Inc
@@ -38173,6 +38179,7 @@
 80:77:86:40:00:00/28	Realtime Biometrics India (P) limited
 80:77:86:70:00:00/28	Partronics eBoards Pvt Ltd
 80:77:86:A0:00:00/28	Huizhou Jiemeisi Technology Co.,Ltd.
+80:77:86:C0:00:00/28	Cornerstone Technology (Shenzhen) Limited
 80:77:86:D0:00:00/28	Applied Energy Technologies Pvt Ltd
 80:77:A4		Tecno Mobile Limited
 80:78:71		Askey Computer Corp
@@ -38790,6 +38797,7 @@
 84:B6:30		Sichuan Tianyi Comheart Telecom Co.,LTD
 84:B8:02		Cisco Systems, Inc
 84:B8:66		Beijing XiaoLu technology co. LTD
+84:B8:90		Tp-Link Technologies Co.,Ltd.
 84:B8:B8		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
 84:BA:20		Silicon Laboratories
 84:BA:3B		Canon Inc.
@@ -39211,6 +39219,7 @@
 88:97:65		exands
 88:97:DF		Entrypass Corporation Sdn. Bhd.
 88:98:21		Teraon
+88:99:86		Tp-Link Technologies Co.,Ltd.
 88:9A:FF		SystemX Co.,Ltd.
 88:9B:39		Samsung Electronics Co.,Ltd
 88:9C:A6		BTB Korea INC
@@ -45263,6 +45272,7 @@ A4:3F:A7		Hewlett Packard Enterprise
 A4:40:27		zte corporation
 A4:40:3D		Shenzhen Baseus Technology Co., Ltd.
 A4:42:3B		Intel Corporate
+A4:43:1B		Dreamtek Intelligent Technology Co., Ltd
 A4:43:43		Huawei Device Co., Ltd.
 A4:43:80		Huawei Device Co., Ltd.
 A4:43:8C		Commscope
@@ -47725,6 +47735,7 @@ B8:81:98		Intel Corporate
 B8:81:FA		Apple, Inc.
 B8:82:F2		WNC Corporation
 B8:83:03		Hewlett Packard Enterprise
+B8:84:11		Shenzhen Shokz Co., Ltd.
 B8:85:7B		Huawei Technologies Co.,Ltd
 B8:85:84		Dell Inc.
 B8:86:87		Liteon Technology Corporation
