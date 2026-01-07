@@ -29969,6 +29969,7 @@
 60:64:53		AOD Co.,Ltd.
 60:64:A1		RADiflow Ltd.
 60:65:25		Apple, Inc.
+60:65:F4		Chipsea Technologies (Shenzhen) Crop.
 60:66:82		Shenzhen Ateko Photoelectricity Co.,Ltd
 60:67:20		Intel Corporate
 60:68:32		Guangdong Seneasy Intelligent Technology Co., Ltd.
@@ -30063,6 +30064,7 @@
 60:95:CE:C0:00:00/28	Synamedia
 60:95:CE:D0:00:00/28	GovComm
 60:95:CE:E0:00:00/28	VNS Inc.
+60:95:F8		Arcadyan Corporation
 60:96:20		Private
 60:96:A4		Huawei Technologies Co.,Ltd
 60:97:DD		MicroSys Electronics GmbH
@@ -38179,6 +38181,7 @@
 80:77:86:20:00:00/28	Wintec Co., Ltd
 80:77:86:30:00:00/28	Demeas
 80:77:86:40:00:00/28	Realtime Biometrics India (P) limited
+80:77:86:50:00:00/28	Adiance Technologies Pvt Ltd
 80:77:86:70:00:00/28	Partronics eBoards Pvt Ltd
 80:77:86:A0:00:00/28	Huizhou Jiemeisi Technology Co.,Ltd.
 80:77:86:B0:00:00/28	Mach
@@ -39898,6 +39901,7 @@
 8C:1F:64:25:40:00/36	Zhuhai Yunzhou Intelligence Technology Ltd.
 8C:1F:64:25:60:00/36	Landinger
 8C:1F:64:25:70:00/36	Four Bars Design
+8C:1F:64:25:90:00/36	SHODEN Co., Ltd.
 8C:1F:64:25:A0:00/36	Wuhan Xingtuxinke ELectronic Co.,Ltd
 8C:1F:64:25:C0:00/36	TimeMachines Inc.
 8C:1F:64:25:E0:00/36	R2Sonic, LLC
