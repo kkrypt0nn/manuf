@@ -8637,7 +8637,7 @@
 00:21:01		Aplicaciones Electronicas Quasar (AEQ)
 00:21:02		UpdateLogic Inc.
 00:21:03		GHI Electronics, LLC
-00:21:04		Gigaset Communications GmbH
+00:21:04		Gigaset Technologies GmbH
 00:21:05		Alcatel-Lucent IPD
 00:21:06		RIM Testing Services
 00:21:07		Seowonintech Co Ltd.
@@ -29057,7 +29057,7 @@
 58:9B:4A		DWnet Technologies(Suzhou) Corporation
 58:9B:F7		Hefei Radio Communication Technology Co., Ltd
 58:9C:FC		FreeBSD Foundation
-58:9E:C6		Gigaset Communications GmbH
+58:9E:C6		Gigaset Technologies GmbH
 58:A0:23		Intel Corporate
 58:A0:CB		TrackNet, Inc
 58:A1:5F		Texas Instruments
@@ -39586,6 +39586,7 @@
 8C:1F:64:04:90:00/36	Nuances Org
 8C:1F:64:04:A0:00/36	GS Elektromedizinsiche Geräte G. Stemple GmbH
 8C:1F:64:04:C0:00/36	Gamber-Johnson LLC
+8C:1F:64:04:D0:00/36	LaserLinc, Inc.
 8C:1F:64:04:E0:00/36	Auditdata
 8C:1F:64:04:F0:00/36	ISILINE srl
 8C:1F:64:05:10:00/36	CP contech electronic GmbH
@@ -40561,6 +40562,7 @@
 8C:1F:64:66:20:00/36	Suzhou Leamore Optronics Co., Ltd.
 8C:1F:64:66:30:00/36	mal-tech Technological Solutions Ltd/CRISP
 8C:1F:64:66:40:00/36	Thermoeye Inc
+8C:1F:64:66:B0:00/36	Currux Vision LLC
 8C:1F:64:66:C0:00/36	Lineage Power Pvt Ltd.,
 8C:1F:64:66:D0:00/36	Vt100 Srl
 8C:1F:64:66:E0:00/36	Monnit Corporation
@@ -53579,6 +53581,7 @@ E8:45:8B		MitraStar Technology Corp.
 E8:45:EB		Kohler Ventures, Inc.
 E8:47:27		Quectel Wireless Solutions Co.,Ltd.
 E8:47:3A		Hon Hai Precision Industry Co.,LTD
+E8:47:F3		upscale ai
 E8:48:1F		Advanced Automotive Antennas
 E8:48:B8		TP-Link Systems Inc
 E8:49:43		YUGE Information technology Co. Ltd
