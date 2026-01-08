@@ -22395,6 +22395,7 @@
 28:AC:9E		Cisco Systems, Inc
 28:AD:18		Hui Zhou Gaoshengda Technology Co.,LTD
 28:AD:3E		Shenzhen TONG BO WEI Technology CO.,LTD
+28:AD:EA		Mallow SAS
 28:AF:0A		Sirius XM Radio Inc
 28:AF:21		zte corporation
 28:AF:42		Samsung Electronics Co.,Ltd
@@ -28365,6 +28366,7 @@
 54:1D:FB		Freestyle Energy Ltd
 54:1E:56		Juniper Networks
 54:1F:8D		zte corporation
+54:1F:CD		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 54:1F:D5		Advantage Electronics
 54:20:18		Tely Labs
 54:20:97		TTTech Auto  AG
@@ -38183,6 +38185,7 @@
 80:77:86:40:00:00/28	Realtime Biometrics India (P) limited
 80:77:86:50:00:00/28	Adiance Technologies Pvt Ltd
 80:77:86:70:00:00/28	Partronics eBoards Pvt Ltd
+80:77:86:90:00:00/28	SMW-Autoblok Spannsysteme
 80:77:86:A0:00:00/28	Huizhou Jiemeisi Technology Co.,Ltd.
 80:77:86:B0:00:00/28	Mach
 80:77:86:C0:00:00/28	Cornerstone Technology (Shenzhen) Limited
@@ -39736,6 +39739,7 @@
 8C:1F:64:12:D0:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:12:E0:00/36	inomatic GmbH
 8C:1F:64:13:30:00/36	Vtron Pty Ltd
+8C:1F:64:13:40:00/36	LyconSys GmbH & Co.KG
 8C:1F:64:13:50:00/36	Yuval Fichman
 8C:1F:64:13:80:00/36	Vissavi sp. z o.o.
 8C:1F:64:13:B0:00/36	SDELcc
@@ -39744,6 +39748,7 @@
 8C:1F:64:13:F0:00/36	Elsist Srl
 8C:1F:64:14:00:00/36	RF-Tuote Oy
 8C:1F:64:14:10:00/36	Code Blue Corporation
+8C:1F:64:14:30:00/36	ChamSys
 8C:1F:64:14:40:00/36	Langfang ENN lntelligent Technology Co.,Ltd.
 8C:1F:64:14:50:00/36	Spectrum FiftyNine BV
 8C:1F:64:14:60:00/36	Zhongrun Xinchan (Beijing) Technology Co., Ltd
@@ -40146,6 +40151,7 @@
 8C:1F:64:3C:70:00/36	Resmed Pty Ltd
 8C:1F:64:3C:80:00/36	BTG Instruments AB
 8C:1F:64:3C:90:00/36	TECHPLUS-LINK Technology Co.,Ltd
+8C:1F:64:3C:B0:00/36	Anhui Wenxiang Technology Co.,Ltd.
 8C:1F:64:3C:D0:00/36	Sejong security system Cor.
 8C:1F:64:3C:E0:00/36	Mahindr & Mahindra
 8C:1F:64:3D:00:00/36	Tripltek
@@ -54646,6 +54652,7 @@ F0:4D:A2		Dell Inc.
 F0:4D:D4		Sagemcom Broadband SAS
 F0:4E:A4		HP Inc.
 F0:4F:7C		Amazon Technologies Inc.
+F0:4F:E0		Vizio, Inc
 F0:51:36		TCT mobile ltd
 F0:51:EA		Fitbit, Inc.
 F0:54:94		Honeywell Connected Building
@@ -55513,6 +55520,7 @@ F8:0B:BE		Commscope
 F8:0B:CB		Cisco Systems, Inc
 F8:0B:D0		Datang Telecom communication terminal (Tianjin) Co., Ltd.
 F8:0C:58		Taicang T&W Electronics
+F8:0C:9A		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 F8:0C:F3		LG Electronics (Mobile Communications)
 F8:0D:43		Hon Hai Precision Ind. Co.,Ltd.
 F8:0D:4B		Nextracker, Inc.
