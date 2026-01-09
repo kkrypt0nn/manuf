@@ -16371,6 +16371,7 @@
 00:A2:EE		Cisco Systems, Inc
 00:A2:F5		Guangzhou Yuanyun Network Technology Co.,Ltd
 00:A2:FF		abatec group AG
+00:A3:07		Honor Device Co., Ltd.
 00:A3:88		Sky Uk Limited
 00:A3:8E		Cisco Systems, Inc
 00:A3:D1		Cisco Systems, Inc
@@ -21440,6 +21441,7 @@
 20:9A:7D		Sagemcom Broadband SAS
 20:9A:E9		Volacomm Co., Ltd
 20:9B:A5		JIAXING GLEAD Electronics Co.,Ltd
+20:9B:A9		Espressif Inc.
 20:9B:CD		Apple, Inc.
 20:9B:DD		Huawei Technologies Co.,Ltd
 20:9B:E6		Guangzhou Shiyuan Electronic Technology Company Limited
@@ -38051,6 +38053,7 @@
 80:28:3C		Sonova AG
 80:29:94		Vantiva USA LLC
 80:2A:A8		Ubiquiti Inc
+80:2A:F6		Honor Device Co., Ltd.
 80:2A:FA		Germaneers GmbH
 80:2B:F9		Hon Hai Precision Ind. Co.,Ltd.
 80:2D:1A		zte corporation
@@ -38185,6 +38188,7 @@
 80:77:86:40:00:00/28	Realtime Biometrics India (P) limited
 80:77:86:50:00:00/28	Adiance Technologies Pvt Ltd
 80:77:86:70:00:00/28	Partronics eBoards Pvt Ltd
+80:77:86:80:00:00/28	YSTen Technology Co., Ltd.
 80:77:86:90:00:00/28	SMW-Autoblok Spannsysteme
 80:77:86:A0:00:00/28	Huizhou Jiemeisi Technology Co.,Ltd.
 80:77:86:B0:00:00/28	Mach
@@ -39414,6 +39418,7 @@
 88:F0:0F		Miraeil
 88:F0:31		Cisco Systems, Inc
 88:F0:77		Cisco Systems, Inc
+88:F1:55		Espressif Inc.
 88:F2:BD		GD Midea Air-Conditioning Equipment Co.,Ltd.
 88:F4:88		cellon communications technology(shenzhen)Co.,Ltd.
 88:F4:90		Jetmobile Pte Ltd
@@ -43299,6 +43304,7 @@
 94:66:E7		WOM Engineering
 94:67:7E		Belden India Private Limited
 94:6A:77		Vantiva USA LLC
+94:6A:7C		OnePlus Technology (Shenzhen) Co., Ltd
 94:6A:B0		Arcadyan Corporation
 94:6C:04		EM Microelectronic
 94:6D:AE		Mellanox Technologies, Inc.
@@ -46191,6 +46197,7 @@ AC:22:0B		ASUSTek COMPUTER INC.
 AC:23:16		Mist Systems, Inc.
 AC:23:34		Infinix mobility limited
 AC:23:3F		Shenzhen Minew Technologies Co., Ltd.
+AC:27:6E		Espressif Inc.
 AC:29:29		Infinix mobility limited
 AC:29:3A		Apple, Inc.
 AC:2A:0C		Csr Zhuzhou Institute Co.,Ltd.
@@ -46507,6 +46514,7 @@ AC:CF:85		Huawei Technologies Co.,Ltd
 AC:D0:74		Espressif Inc.
 AC:D1:80		Crexendo Business Solutions, Inc.
 AC:D1:B8		Hon Hai Precision Ind. Co.,Ltd.
+AC:D2:0C		Chengdu SingCore Technology Co.,Ltd.
 AC:D3:1D		Cisco Meraki
 AC:D3:64		Abb Spa, Abb Sace Div.
 AC:D3:FB		Arycs Technologies Inc
