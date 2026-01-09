@@ -4366,7 +4366,7 @@
 00:11:1B		Targa Systems Div L-3 Communications
 00:11:1C		Pleora Technologies Inc.
 00:11:1D		Hectrix Limited
-00:11:1E		ETHERNET Powerlink Standarization Group (EPSG)
+00:11:1E		B&R Industrial Automation GmbH
 00:11:1F		Doremi Labs, Inc.
 00:11:20		Cisco Systems, Inc
 00:11:21		Cisco Systems, Inc
@@ -5390,7 +5390,7 @@
 00:15:1B		Isilon Systems Inc.
 00:15:1C		Leneco
 00:15:1D		M2I Corporation
-00:15:1E		ETHERNET Powerlink Standarization Group (EPSG)
+00:15:1E		B&R Industrial Automation GmbH
 00:15:1F		Multivision Intelligent Surveillance (Hong Kong) Ltd
 00:15:20		Radiocrafts AS
 00:15:21		Horoquartz
