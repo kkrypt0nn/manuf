@@ -47718,6 +47718,7 @@ B8:60:61		China Mobile Group Device Co.,Ltd.
 B8:60:91		Onnet Technologies and Innovations LLC
 B8:61:42		Beijing Tricolor Technology Co., Ltd
 B8:61:6F		Accton Technology Corp
+B8:61:FC		Juniper Networks
 B8:62:1F		Cisco Systems, Inc
 B8:63:4D		Apple, Inc.
 B8:63:92		Guangdong Genius Technology Co., Ltd.
@@ -53266,6 +53267,7 @@ E4:77:27		Huawei Technologies Co.,Ltd
 E4:77:6B		Aartesys Ag
 E4:77:D4		Minrray Industry Co.,Ltd
 E4:78:76		Arista Networks
+E4:79:3F		Juniper Networks
 E4:7A:2C		Sz Dji Technology Co.,Ltd
 E4:7B:3F		Beijing Co-Cloud Technology Ltd.
 E4:7C:1A		mercury corperation
