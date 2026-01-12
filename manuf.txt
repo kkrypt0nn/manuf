@@ -18204,6 +18204,9 @@
 08:3A:F2		Espressif Inc.
 08:3B:C1		Hangzhou Hikvision Digital Technology Co.,Ltd.
 08:3B:E9		New H3C Technologies Co., Ltd
+08:3C:03:10:00:00/28	SNM Technology
+08:3C:03:70:00:00/28	G-Innovations Vietnam
+08:3C:03:B0:00:00/28	Private
 08:3D:88		Samsung Electronics Co.,Ltd
 08:3E:0C		Commscope
 08:3E:5D		Sagemcom Broadband SAS
@@ -36720,6 +36723,7 @@
 74:DA:DA		D-Link International
 74:DA:EA		Texas Instruments
 74:DB:D1		Ebay Inc
+74:DC:13		Telink Micro LLC
 74:DD:CB		China Leadshine Technology Co.,Ltd
 74:DE:2B		Liteon Technology Corporation
 74:DF:BF		Liteon Technology Corporation
@@ -38187,6 +38191,7 @@
 80:77:86:30:00:00/28	Demeas
 80:77:86:40:00:00/28	Realtime Biometrics India (P) limited
 80:77:86:50:00:00/28	Adiance Technologies Pvt Ltd
+80:77:86:60:00:00/28	Glorious, LLC
 80:77:86:70:00:00/28	Partronics eBoards Pvt Ltd
 80:77:86:80:00:00/28	YSTen Technology Co., Ltd.
 80:77:86:90:00:00/28	SMW-Autoblok Spannsysteme
@@ -38194,6 +38199,7 @@
 80:77:86:B0:00:00/28	Mach
 80:77:86:C0:00:00/28	Cornerstone Technology (Shenzhen) Limited
 80:77:86:D0:00:00/28	Applied Energy Technologies Pvt Ltd
+80:77:86:E0:00:00/28	Arc networks pvt ltd
 80:77:A4		Tecno Mobile Limited
 80:78:71		Askey Computer Corp
 80:79:33		Aigentec Technology(Zhejiang) Co., Ltd.
@@ -38824,6 +38830,7 @@
 84:C2:E4		Jiangsu Qinheng Co., Ltd.
 84:C3:E8		Vaillant GmbH
 84:C5:A6		Intel Corporate
+84:C6:65		Taicang T&W Electronics
 84:C6:92		Texas Instruments
 84:C7:27		Gnodal Ltd
 84:C7:8F		APS Networks GmbH
@@ -40426,6 +40433,7 @@
 8C:1F:64:57:30:00/36	Ingenious Technology LLC
 8C:1F:64:57:40:00/36	Flock Audio Inc.
 8C:1F:64:57:50:00/36	Yu Heng Electric CO. TD
+8C:1F:64:57:60:00/36	Smart Dynamics SIA
 8C:1F:64:57:A0:00/36	NPO ECO-INTECH Ltd.
 8C:1F:64:57:B0:00/36	Potter Electric Signal Co. LLC
 8C:1F:64:57:D0:00/36	ISDI Ltd
@@ -41363,6 +41371,7 @@
 8C:1F:64:B5:40:00/36	Framatome Inc.
 8C:1F:64:B5:50:00/36	Sanchar Telesystems limited
 8C:1F:64:B5:60:00/36	Arcvideo
+8C:1F:64:B5:80:00/36	Eltvor Instruments
 8C:1F:64:B5:90:00/36	Vision Systems Safety Tech
 8C:1F:64:B5:A0:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:B5:B0:00/36	Tri-light Wuhan Electronics Technology Co.,Ltd
@@ -46805,6 +46814,7 @@ B0:78:F0		Beijing HuaqinWorld Technology Co.,Ltd.
 B0:79:08		Cummings Engineering
 B0:79:3C		Revolv Inc
 B0:79:94		Motorola Mobility LLC, a Lenovo Company
+B0:7A:16		Roehn
 B0:7A:DF		Huawei Technologies Co.,Ltd
 B0:7B:25		Dell Inc.
 B0:7C:51		Ruckus Wireless
