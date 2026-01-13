@@ -18204,6 +18204,7 @@
 08:3A:F2		Espressif Inc.
 08:3B:C1		Hangzhou Hikvision Digital Technology Co.,Ltd.
 08:3B:E9		New H3C Technologies Co., Ltd
+08:3C:03		IEEE Registration Authority
 08:3C:03:10:00:00/28	SNM Technology
 08:3C:03:70:00:00/28	G-Innovations Vietnam
 08:3C:03:B0:00:00/28	Private
@@ -40697,6 +40698,7 @@
 8C:1F:64:71:90:00/36	delResearch, LLC
 8C:1F:64:71:A0:00/36	Chell Instruments Ltd
 8C:1F:64:71:B0:00/36	Adasky Ltd.
+8C:1F:64:71:C0:00/36	Nebero Systems Private Limted
 8C:1F:64:71:D0:00/36	Epigon spol. s r.o.
 8C:1F:64:72:00:00/36	Hangzhou Huasu Technology CO., LTD.
 8C:1F:64:72:10:00/36	M/S Milind Ramachandra Rajwade
