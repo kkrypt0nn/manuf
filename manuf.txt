@@ -18208,6 +18208,7 @@
 08:3C:03:10:00:00/28	SNM Technology
 08:3C:03:70:00:00/28	G-Innovations Vietnam
 08:3C:03:B0:00:00/28	Private
+08:3C:03:C0:00:00/28	Dongguan Development Security Intelligent  Tech  Co., Ltd
 08:3D:88		Samsung Electronics Co.,Ltd
 08:3E:0C		Commscope
 08:3E:5D		Sagemcom Broadband SAS
@@ -23728,6 +23729,7 @@
 34:10:F4		Silicon Laboratories
 34:12:90		Treeview Co.,Ltd.
 34:12:98		Apple, Inc.
+34:12:DC		Qingdao HaierTechnology Co.,Ltd
 34:12:F9		Huawei Technologies Co.,Ltd
 34:13:43		GE Lighting
 34:13:A8		Mediplan Limited
@@ -39678,6 +39680,7 @@
 8C:1F:64:0B:70:00/36	Tiama
 8C:1F:64:0B:80:00/36	Signatrol Ltd
 8C:1F:64:0B:90:00/36	Newin Tech
+8C:1F:64:0B:A0:00/36	SungjinDSP Co., LTD
 8C:1F:64:0B:B0:00/36	InfraChen Technology Co., Ltd.
 8C:1F:64:0B:D0:00/36	Solace Systems Inc.
 8C:1F:64:0B:E0:00/36	Bnb
@@ -39807,6 +39810,7 @@
 8C:1F:64:18:A0:00/36	Network Rail
 8C:1F:64:18:B0:00/36	M-Pulse GmbH & Co.KG
 8C:1F:64:18:E0:00/36	J1-LED Intelligent Transport Systems Pty Ltd
+8C:1F:64:19:00:00/36	Wesync
 8C:1F:64:19:30:00/36	Sicon srl
 8C:1F:64:19:40:00/36	Tiflex
 8C:1F:64:19:50:00/36	VERIDAS Digital Authentication Solutions S.L
@@ -40758,6 +40762,7 @@
 8C:1F:64:76:E0:00/36	develogic GmbH
 8C:1F:64:76:F0:00/36	INVENTIA Sp. z o.o.
 8C:1F:64:77:10:00/36	Automatizacion Y Conectividad
+8C:1F:64:77:30:00/36	Power Electronics Espana, S.L.
 8C:1F:64:77:40:00/36	navXperience GmbH
 8C:1F:64:77:50:00/36	Becton Dickinson
 8C:1F:64:77:60:00/36	Visiosoft Pty Ltd
@@ -41297,6 +41302,7 @@
 8C:1F:64:AD:60:00/36	International Security Systems W.L.L.
 8C:1F:64:AD:70:00/36	Monnit Corporation
 8C:1F:64:AD:80:00/36	Novanta IMS
+8C:1F:64:AD:90:00/36	Vision Systems Safety Tech
 8C:1F:64:AD:B0:00/36	Hebei Weiji Electric Co.,Ltd
 8C:1F:64:AD:C0:00/36	Motor Protection Electronics
 8C:1F:64:AE:10:00/36	YUYAMA MFG Co.,Ltd
@@ -41871,6 +41877,7 @@
 8C:1F:64:E6:40:00/36	Indefac company
 8C:1F:64:E6:60:00/36	Enless Wireless
 8C:1F:64:E6:80:00/36	LHA Systems (Pty) Ltd
+8C:1F:64:E6:B0:00/36	Terratel Technology s.r.o.
 8C:1F:64:E6:E0:00/36	Human Dgm. Co., Ltd.
 8C:1F:64:E6:F0:00/36	Vision Systems Safety Tech
 8C:1F:64:E7:00:00/36	Telfi Technologies Private Limited
