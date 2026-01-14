@@ -18207,6 +18207,7 @@
 08:3C:03		IEEE Registration Authority
 08:3C:03:10:00:00/28	SNM Technology
 08:3C:03:70:00:00/28	G-Innovations Vietnam
+08:3C:03:A0:00:00/28	Luxshare Precision Industry Co., Ltd.
 08:3C:03:B0:00:00/28	Private
 08:3C:03:C0:00:00/28	Dongguan Development Security Intelligent  Tech  Co., Ltd
 08:3D:88		Samsung Electronics Co.,Ltd
@@ -18843,6 +18844,7 @@
 0C:86:29:E0:00:00/28	Fx Technology Limited
 0C:86:C7		Jabil Circuit (Guangzhou) Limited
 0C:87:72		Fujian Star-Net Communication Co.,Ltd
+0C:88:2F		Frog Innovations Limited
 0C:88:32		Nokia Solutions and Networks India Private Limited
 0C:89:10		Samsung Electronics Co.,Ltd
 0C:8A:87		AgLogica Holdings, Inc
@@ -19533,6 +19535,7 @@
 10:D6:57		Siemens Industrial Automation Products Ltd., Chengdu
 10:D6:80		Tendyron Corporation
 10:D7:B0		Sagemcom Broadband SAS
+10:D8:CC		Guangzhou FiiO Electronics Technology CO., LTD
 10:D9:A2		Google, Inc.
 10:DA:43		Netgear
 10:DA:49		Huawei Device Co., Ltd.
@@ -31484,6 +31487,7 @@
 6C:8F:B5		Microsoft Mobile Oy
 6C:90:B1		SanLogic Inc
 6C:91:06		Katena Computing Technologies
+6C:91:88		Nokia
 6C:92:BF		IEIT SYSTEMS Co., Ltd.
 6C:92:CF		Broadcom Limited
 6C:93:08		IEEE Registration Authority
@@ -40030,6 +40034,7 @@
 8C:1F:64:2F:20:00/36	Enless Wireless
 8C:1F:64:2F:40:00/36	Scame Sistemi srl
 8C:1F:64:2F:50:00/36	Florida R&D Associates LLC
+8C:1F:64:2F:70:00/36	Sealink Technology B.V
 8C:1F:64:2F:90:00/36	TSS COMPANY s.r.o.
 8C:1F:64:2F:A0:00/36	Rfengine Co., Ltd.
 8C:1F:64:2F:B0:00/36	MB connect line GmbH Fernwartungssysteme
@@ -50293,6 +50298,7 @@ CC:54:FE		Mimosa Networks
 CC:55:AD		Rim
 CC:57:63		Panasonic Automotive Systems Co.,Ltd
 CC:58:30		Sagemcom Broadband SAS
+CC:58:C7		Nokia
 CC:59:3E		Sensium Healthcare Limited
 CC:5A:53		Cisco Systems, Inc
 CC:5B:31		Nintendo Co.,Ltd
