@@ -2505,7 +2505,7 @@
 00:09:D5		Signal Communication, Inc.
 00:09:D6		KNC One GmbH
 00:09:D7		DC Security Products
-00:09:D8		Fält Communications AB
+00:09:D8		Telia Company AB
 00:09:D9		Neoscale Systems, Inc
 00:09:DA		Control Module Inc.
 00:09:DB		eSpace
@@ -16454,6 +16454,7 @@
 00:B7:8D		Nanjing Shining Electric Automation Co., Ltd
 00:B7:A8		Heinzinger electronic GmbH
 00:B8:10		Yichip Microelectronics (Hangzhou) Co.,Ltd
+00:B8:1D		Extreme Networks Headquarters
 00:B8:81		New platforms LLC
 00:B8:B3		Cisco Systems, Inc
 00:B8:B6		Motorola Mobility LLC, a Lenovo Company
@@ -17471,6 +17472,7 @@
 04:21:44		Sunitec Enterprise Co.,Ltd
 04:21:4C		Insight Energy Ventures LLC
 04:22:34		Wireless Standard Extensions
+04:22:E7		Fiberhome Telecommunication Technologies Co.,LTD
 04:23:22		Texas Instruments
 04:24:05		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 04:25:C5		Huawei Technologies Co.,Ltd
@@ -18206,10 +18208,13 @@
 08:3B:E9		New H3C Technologies Co., Ltd
 08:3C:03		IEEE Registration Authority
 08:3C:03:10:00:00/28	SNM Technology
+08:3C:03:20:00:00/28	Wildtech
+08:3C:03:30:00:00/28	GlobalXtreme
 08:3C:03:70:00:00/28	G-Innovations Vietnam
 08:3C:03:A0:00:00/28	Luxshare Precision Industry Co., Ltd.
 08:3C:03:B0:00:00/28	Private
 08:3C:03:C0:00:00/28	Dongguan Development Security Intelligent  Tech  Co., Ltd
+08:3C:03:D0:00:00/28	Yinglian Technology Co.,Ltd
 08:3D:88		Samsung Electronics Co.,Ltd
 08:3E:0C		Commscope
 08:3E:5D		Sagemcom Broadband SAS
@@ -19708,6 +19713,7 @@
 14:2D:79		Fiberhome Telecommunication Technologies Co.,LTD
 14:2D:8B		Incipio Technologies, Inc
 14:2D:F5		Amphitech
+14:2E:43		Hisense broadband multimedia technology Co.,Ltd
 14:2E:5E		Sercomm Corporation.
 14:2F:FD		Lt Security Inc
 14:30:04		Huawei Technologies Co.,Ltd
@@ -25492,6 +25498,7 @@
 40:66:7A		mediola - connected living AG
 40:67:9B		Shenzhen Skyworth Digital  Technology  CO., Ltd
 40:68:26		Thales UK Limited
+40:68:F9		Shenzhen SuperElectron Technology Co.,Ltd.
 40:69:18		EM Microelectronic
 40:6A:8E		Hangzhou Puwell OE Tech Ltd.
 40:6A:AB		Rim
@@ -30923,6 +30930,7 @@
 68:77:DA		zte corporation
 68:78:48		Westunitis Co., Ltd.
 68:78:4C		Nortel Networks
+68:78:A8		Fiberhome Telecommunication Technologies Co.,LTD
 68:79:09		Cisco Systems, Inc
 68:79:12		IEEE Registration Authority
 68:79:12:00:00:00/28	PCTEL, Inc.
@@ -39579,6 +39587,7 @@
 8C:1F:64:01:70:00/36	Farmote Limited
 8C:1F:64:01:80:00/36	Rax-Tech International
 8C:1F:64:01:A0:00/36	Paragraf
+8C:1F:64:01:C0:00/36	Suzhou Nihone Electronic Technology Co.,Ltd.
 8C:1F:64:01:D0:00/36	Nordson Corporation
 8C:1F:64:01:E0:00/36	SCIREQ Scientific Respiratory Equipment  Inc
 8C:1F:64:01:F0:00/36	Dualcomm Technology, Inc.
@@ -39596,6 +39605,7 @@
 8C:1F:64:03:10:00/36	Ektos A/S
 8C:1F:64:03:30:00/36	IQ Home Kft.
 8C:1F:64:03:50:00/36	RealWear
+8C:1F:64:03:60:00/36	Photon Counting Systems LLC
 8C:1F:64:03:A0:00/36	Orion Computers
 8C:1F:64:03:B0:00/36	Orion Power Systems, Inc.
 8C:1F:64:03:C0:00/36	Sona Business B.V.
@@ -39632,6 +39642,7 @@
 8C:1F:64:06:B0:00/36	Sanwa Supply Inc.
 8C:1F:64:06:C0:00/36	COBES GmbH
 8C:1F:64:06:D0:00/36	Monnit Corporation
+8C:1F:64:06:E0:00/36	Internet Protocolo Logica Sl
 8C:1F:64:07:10:00/36	Dorlet Sau
 8C:1F:64:07:20:00/36	Eyecloud, Inc
 8C:1F:64:07:30:00/36	Potter Electric Signal Co. LLC
@@ -47621,6 +47632,7 @@ B8:19:04		Nokia Shanghai Bell Co., Ltd.
 B8:19:99		Nesys
 B8:1D:1F		Huawei Technologies Co.,Ltd
 B8:1D:AA		LG Electronics (Mobile Communications)
+B8:1E:0B		Extreme Networks Headquarters
 B8:1E:61		Tellescom Industria E Comercio Em Telecomunicacao
 B8:1E:9E		Huawei Technologies Co.,Ltd
 B8:1E:A4		Liteon Technology Corporation
@@ -47915,6 +47927,7 @@ B8:CA:3A		Dell Inc.
 B8:CB:29		Dell Inc.
 B8:CB:93		Ic Boss.Com Tech Inc
 B8:CC:5F		Shenzhen iComm Semiconductor CO.,LTD
+B8:CD:58		Shenzhen SuperElectron Technology Co.,Ltd.
 B8:CD:93		Penetek, Inc
 B8:CD:A7		Maxeler Technologies Ltd.
 B8:CE:ED		Broadcom
@@ -48311,6 +48324,7 @@ BC:8B:55		NPP ELIKS America Inc. DBA T&M Atlantic
 BC:8C:CD		Samsung Electro-Mechanics(Thailand)
 BC:8D:0E		Nokia
 BC:8D:1F		Cisco Systems, Inc
+BC:8D:2D		Fiberhome Telecommunication Technologies Co.,LTD
 BC:8D:7E		Silicon Laboratories
 BC:90:3A		Robert Bosch GmbH
 BC:91:B5		Infinix mobility limited
@@ -53950,6 +53964,7 @@ E8:EF:05		Mind Tech International Limited
 E8:EF:22		Siemens Numerical Control Ltd., Nanjing
 E8:EF:89		OPMEX Tech.
 E8:F0:85		Huawei Technologies Co.,Ltd
+E8:F0:94		GD Midea Air-Conditioning Equipment Co.,Ltd.
 E8:F0:A4		Antonios A. Chariton
 E8:F1:B0		Sagemcom Broadband SAS
 E8:F2:26		Millson Custom Solutions Inc.
@@ -54096,6 +54111,7 @@ EC:2F:90		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 EC:30:8E		Lierda Science & Technology Group Co., Ltd
 EC:30:91		Cisco Systems, Inc
 EC:30:B3		Xiaomi Communications Co Ltd
+EC:30:DD		eero inc.
 EC:31:11		Sichuan AI-Link Technology Co., Ltd.
 EC:31:4A		Chengdu Quanjing Intelligent Technology Co.,Ltd
 EC:31:6D		Hansgrohe
