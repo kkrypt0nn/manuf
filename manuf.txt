@@ -18213,6 +18213,8 @@
 08:3C:03:40:00:00/28	Beijing New Matrix Information Technology CO., Ltd
 08:3C:03:60:00:00/28	Jiaxing UPhoton Optoelectronics Technology Co., Ltd.
 08:3C:03:70:00:00/28	G-Innovations Vietnam
+08:3C:03:80:00:00/28	GS Industrie-Elektronik GmbH
+08:3C:03:90:00:00/28	Innos Technologies Inc.
 08:3C:03:A0:00:00/28	Luxshare Precision Industry Co., Ltd.
 08:3C:03:B0:00:00/28	Private
 08:3C:03:C0:00:00/28	Dongguan Development Security Intelligent  Tech  Co., Ltd
