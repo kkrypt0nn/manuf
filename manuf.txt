@@ -39693,6 +39693,7 @@
 8C:1F:64:09:90:00/36	Pantherun Technologies Pvt Ltd
 8C:1F:64:09:A0:00/36	Shinetech Electronics Co., Ltd.
 8C:1F:64:09:B0:00/36	Taiv
+8C:1F:64:09:C0:00/36	Dsan Corporation
 8C:1F:64:09:D0:00/36	Flextronics International Kft
 8C:1F:64:09:E0:00/36	IWS Global Pty Ltd
 8C:1F:64:09:F0:00/36	MB connect line GmbH Fernwartungssysteme
@@ -40917,6 +40918,7 @@
 8C:1F:64:82:20:00/36	IP Devices
 8C:1F:64:82:40:00/36	Logicube Inc
 8C:1F:64:82:50:00/36	MTU Aero Engines AG
+8C:1F:64:82:70:00/36	Meisol Co., Ltd.
 8C:1F:64:82:80:00/36	Aurcore Technology Inc.
 8C:1F:64:82:B0:00/36	Flow Power
 8C:1F:64:82:C0:00/36	Power Electronics Espana, S.L.
