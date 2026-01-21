@@ -17718,6 +17718,7 @@
 04:A3:16		Texas Instruments
 04:A3:F3		Emicon
 04:A5:26		Nokia
+04:A6:C8		Intel Corporate
 04:A7:41		Cisco Systems, Inc
 04:A8:1C		Huawei Technologies Co.,Ltd
 04:A8:2A		Nokia Corporation
@@ -18221,6 +18222,7 @@
 08:3C:03:B0:00:00/28	Private
 08:3C:03:C0:00:00/28	Dongguan Development Security Intelligent  Tech  Co., Ltd
 08:3C:03:D0:00:00/28	Yinglian Technology Co.,Ltd
+08:3C:03:E0:00:00/28	Prozone
 08:3D:88		Samsung Electronics Co.,Ltd
 08:3E:0C		Commscope
 08:3E:5D		Sagemcom Broadband SAS
@@ -18598,6 +18600,7 @@
 0C:07:F3		Huawei Technologies Co.,Ltd
 0C:08:B4		HUMAX Co., Ltd.
 0C:0A:DF		Texas Instruments
+0C:0C:EA		BLU Products Inc
 0C:0E:76		D-Link International
 0C:0E:CB		Huawei Device Co., Ltd.
 0C:0F:D8		Gsd Viet Nam Technology Company Limited
@@ -18915,6 +18918,7 @@
 0C:AA:EE		Ansjer Electronics Co., Ltd.
 0C:AC:05		Unitend Technologies Inc.
 0C:AC:8A		Sagemcom Broadband SAS
+0C:AE:39		Intel Corporate
 0C:AE:5F		Silicon Laboratories
 0C:AE:7D		Texas Instruments
 0C:AE:BD		Edifier International
@@ -18981,6 +18985,7 @@
 0C:C7:63		eero inc.
 0C:C8:1F		Summer Infant, Inc.
 0C:C8:44		Cambridge Mobile Telematics, Inc.
+0C:C9:8A		Intel Corporate
 0C:C9:C6		Samwin Hong Kong Limited
 0C:CA:FB		TPVision Europe B.V
 0C:CB:0C		iSYS RTS GmbH
@@ -19468,6 +19473,7 @@
 10:A7:43		SK Mtek Limited
 10:A7:93		Vantiva USA LLC
 10:A8:29		Cisco Systems, Inc
+10:A8:79		Intel Corporate
 10:A9:32		Beijing Cyber Cloud Technology Co. ,Ltd.
 10:AB:C9		Samsung Electronics Co.,Ltd
 10:AE:60		Amazon Technologies Inc.
@@ -26218,6 +26224,7 @@
 40:EA:CE		Founder Broadband Network Service Co.,Ltd
 40:EB:21		Huawei Technologies Co.,Ltd
 40:EC:99		Intel Corporate
+40:EC:BD		Intel Corporate
 40:EC:F8		Siemens AG
 40:ED:00		TP-Link Systems Inc
 40:ED:98		IEEE Registration Authority
@@ -26863,6 +26870,7 @@
 48:3E:5E		Sernet (Suzhou) Technologies Corporation
 48:3F:DA		Espressif Inc.
 48:3F:E9		Huawei Technologies Co.,Ltd
+48:40:D5		Intel Corporate
 48:41:7B		Nokia Solutions and Networks GmbH & Co. KG
 48:43:5A		Huawei Technologies Co.,Ltd
 48:43:7C		Apple, Inc.
@@ -30476,6 +30484,7 @@
 64:55:B1		Commscope
 64:56:01		Tp-Link Technologies Co.,Ltd.
 64:57:25		Hui Zhou Gaoshengda Technology Co.,LTD
+64:57:BA		Intel Corporate
 64:57:E5		Beijing Royaltech Co.,Ltd
 64:58:AD		China Mobile IOT Company Limited
 64:59:F8		Vodafone Omnitel B.V.
@@ -30795,6 +30804,7 @@
 68:07:0A		TPVision Europe B.V
 68:07:15		Intel Corporate
 68:09:27		Apple, Inc.
+68:09:47		Espressif Inc.
 68:0A:D7		Yancheng Kecheng Optoelectronic Technology Co., Ltd
 68:0A:E2		Silicon Laboratories
 68:12:2D		Special Instrument Development Co., Ltd.
@@ -31204,6 +31214,7 @@
 68:F7:28		LCFC(Hefei) Electronics Technology co., ltd
 68:F7:D8		Microsoft Corporation
 68:F8:95		Redflow Limited
+68:F9:0F		Intel Corporate
 68:F9:56		Objetivos y Servicio de Valor Añadido
 68:FB:7E		Apple, Inc.
 68:FB:95		Generalplus Technology Inc.
@@ -31253,6 +31264,7 @@
 6C:0F:0B		China Mobile Group Device Co.,Ltd.
 6C:0F:61		Hypervolt Ltd
 6C:0F:6A		JDC Tech Co., Ltd.
+6C:10:41		Shenzhen Skyworth Digital  Technology  CO., Ltd
 6C:10:8B		WeLink Communications
 6C:11:B3		Wu Qi Technologies,Inc.
 6C:11:BA		zte corporation
@@ -32065,6 +32077,7 @@
 70:9E:86		X6D Limited
 70:9F:2D		zte corporation
 70:9F:A9		Tecno Mobile Limited
+70:A0:4B		Intel Corporate
 70:A1:91		Trendsetter Medical, LLC
 70:A2:B3		Apple, Inc.
 70:A3:A4		Beijing Guming Communication Technology Co., Ltd.
@@ -32086,6 +32099,7 @@
 70:AD:43		Blink by Amazon
 70:AD:54		Malvern Instruments Ltd
 70:AE:D5		Apple, Inc.
+70:AF:09		Espressif Inc.
 70:AF:24		TP Vision Belgium NV
 70:AF:25		Nishiyama Industry Co.,LTD.
 70:AF:6A		Shenzhen Fenglian Technology Co., Ltd.
@@ -41941,6 +41955,7 @@
 8C:1F:64:E7:C0:00/36	Ashinne Technology Co., Ltd
 8C:1F:64:E7:D0:00/36	Audio Visual Digital Systems
 8C:1F:64:E8:00:00/36	Power Electronics Espana, S.L.
+8C:1F:64:E8:20:00/36	SMITEC S.p.A.
 8C:1F:64:E8:60:00/36	ComVetia AG
 8C:1F:64:E8:70:00/36	Chemi-Con
 8C:1F:64:E8:80:00/36	SiFive Inc
@@ -42430,6 +42445,7 @@
 8C:8B:48		Silicon Laboratories
 8C:8B:5B		WNC Corporation
 8C:8B:83		Texas Instruments
+8C:8C:29		Espressif Inc.
 8C:8C:AA		LCFC(Hefei) Electronics Technology co., ltd
 8C:8D:28		Intel Corporate
 8C:8E:0D		zte corporation
@@ -42784,6 +42800,7 @@
 90:47:16		Rorze Corporation
 90:47:3C		China Mobile Group Device Co.,Ltd.
 90:47:48		Sony Interactive Entertainment Inc.
+90:47:C2		Intel Corporate
 90:48:46		Texas Instruments
 90:48:6C		Ring LLC
 90:48:9A		Hon Hai Precision Ind. Co.,Ltd.
@@ -43015,6 +43032,7 @@
 90:B1:1C		Dell Inc.
 90:B1:34		Commscope
 90:B1:44		Samsung Electronics Co.,Ltd
+90:B1:76		Intel Corporate
 90:B1:E0		Beijing Nebula Link Technology Co., Ltd
 90:B2:1F		Apple, Inc.
 90:B4:DD		Zpt R&D
@@ -44345,6 +44363,7 @@
 9C:44:A6		SwiftTest, Inc.
 9C:45:63		DIMEP Sistemas
 9C:45:F0		Skylark Electronics Pvt Ltd
+9C:47:11		Accton Technology Corporation
 9C:47:82		Tp-Link Technologies Co.,Ltd.
 9C:47:F4		Nokia
 9C:47:F9		LJU Automatisierungstechnik GmbH
@@ -45975,6 +45994,7 @@ A8:6F:36		vivo Mobile Communication Co., Ltd.
 A8:70:5D		Commscope
 A8:70:A5		UniComm Inc.
 A8:71:16		Earda Technologies co Ltd
+A8:72:4D		Intel Corporate
 A8:72:7E		WISDRI (wuhan) Automation Company Limited
 A8:72:85		Idt, Inc.
 A8:74:1D		Phoenix Contact GmbH & Co. KG
@@ -50973,6 +50993,7 @@ D0:8A:91		Vantiva USA LLC
 D0:8B:7E		Passif Semiconductor
 D0:8C:B5		Texas Instruments
 D0:8C:FF		Upwis Ab
+D0:8E:17		Accton Technology Corporation
 D0:8E:79		Dell Inc.
 D0:91:68		Shenzhen Chuangwei-Rgb Electronics Co.,Ltd
 D0:92:00		FiRa Consortium
@@ -51917,6 +51938,7 @@ D8:58:D7		CZ.NIC, z.s.p.o.
 D8:59:82		Huawei Technologies Co.,Ltd
 D8:5A:49		INGCHIPS Technology Co., Ltd
 D8:5B:22		Shenzhen Hohunet Technology Co., Ltd
+D8:5B:27		WNC Corporation
 D8:5B:2A		Samsung Electronics Co.,Ltd
 D8:5D:4C		Tp-Link Technologies Co.,Ltd.
 D8:5D:84		CAx soft GmbH
@@ -54517,6 +54539,7 @@ EC:F0:0E		AboCom
 EC:F0:FE		zte corporation
 EC:F2:2B		Tecno Mobile Limited
 EC:F2:36		Neomontana Electronics
+EC:F3:3C		Intel Corporate
 EC:F3:42		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 EC:F3:5B		Nokia Corporation
 EC:F3:7A		Forecr OU
