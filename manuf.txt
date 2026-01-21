@@ -26455,6 +26455,7 @@
 44:5F:8C		Intercel Group Limited
 44:61:32		ecobee inc
 44:61:9C		FONsystem co. ltd.
+44:61:DF		Skyquad Electronics & Appliances Pvt. Ltd.
 44:62:46		Comat AG
 44:63:70		LCFC(Hefei) Electronics Technology co., ltd
 44:64:3C		Cisco Systems, Inc
@@ -28272,6 +28273,7 @@
 50:ED:78		Changzhou Yongse Infotech Co.,Ltd
 50:ED:94		Egatel Sl
 50:EE:32		Hon Hai Precision Industry Co.,LTD
+50:EE:87		HPRO-Control
 50:F0:03		Open Stack, Inc.
 50:F0:D3		Samsung Electronics Co.,Ltd
 50:F1:4A		Texas Instruments
@@ -30120,6 +30122,7 @@
 60:9F:9D		CloudSwitch
 60:A1:0A		Samsung Electronics Co.,Ltd
 60:A1:1E		Wuhan Maxsine Electric Co.,Ltd.
+60:A1:FE		HPRO-Control
 60:A2:C6		Huawei Technologies Co.,Ltd
 60:A3:7D		Apple, Inc.
 60:A3:E3		Tp-Link Technologies Co.,Ltd.
