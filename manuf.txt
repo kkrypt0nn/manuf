@@ -24164,6 +24164,8 @@
 34:D7:37		IBG Industriebeteiligungsgesellschaft mbH &b Co. KG
 34:D7:72		Xiamen Yudian Automation Technology Co., Ltd
 34:D7:B4		Tributary Systems, Inc.
+34:D7:F5		IEEE Registration Authority
+34:D7:F5:A0:00:00/28	Hefei Panyuan Intelligent Technology Co., Ltd
 34:D8:56		Shenzhen Skyworth Digital  Technology  CO., Ltd
 34:D8:68		Broadcom Limited
 34:D9:54		WiBotic Inc.
@@ -42377,6 +42379,7 @@
 8C:68:3A		Huawei Technologies Co.,Ltd
 8C:68:78		Nortek-AS
 8C:68:C8		zte corporation
+8C:69:14		Freebox Sas
 8C:6A:3B		Samsung Electronics Co.,Ltd
 8C:6A:8D		Vantiva USA LLC
 8C:6A:E4		Viogem Limited
@@ -49159,6 +49162,7 @@ C4:2A:D0		Apple, Inc.
 C4:2B:44		Huawei Device Co., Ltd.
 C4:2C:03		Apple, Inc.
 C4:2C:4F		Qingdao Hisense Mobile Communication Technology Co,Ltd
+C4:2C:7B		Vietnam Post And Telecommunication Industry Technology Join Stock Company
 C4:2F:90		Hangzhou Hikvision Digital Technology Co.,Ltd.
 C4:30:18		MCS Logic Inc.
 C4:30:CA		SD Biosensor
