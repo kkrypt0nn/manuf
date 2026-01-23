@@ -30833,6 +30833,7 @@
 68:1D:64		Sunwave Communications Co., Ltd
 68:1D:EF		Shenzhen CYX Technology Co., Ltd.
 68:1E:8B		InfoSight Corporation
+68:1E:A3		Sichuan Tianyi Comheart Telecom Co.,LTD
 68:1F:40		Blu Wireless Technology Ltd
 68:1F:D8		Siemens Industry, Inc.
 68:21:5F		Edgecore Networks Corporation
@@ -39003,6 +39004,7 @@
 84:FE:9E		RTC Industries, Inc.
 84:FE:DC		Borqs Beijing Ltd.
 84:FF:C2		Cisco Systems, Inc
+88:00:C6		Sichuan Tianyi Comheart Telecom Co.,LTD
 88:01:0C		Sichuan Tianyi Comheart Telecom Co.,LTD
 88:01:18		BLT Co
 88:01:F2		Vitec System Engineering Inc.
