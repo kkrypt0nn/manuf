@@ -23942,6 +23942,7 @@
 34:6E:9D		Ericsson AB
 34:6F:11		Qingdao Zhipai Information Technology Co., Ltd.
 34:6F:24		AzureWave Technology Inc.
+34:6F:3F		Hon Hai Precision Industry Co.,LTD
 34:6F:71		TenaFe Inc.
 34:6F:90		Cisco Systems, Inc
 34:6F:92		White Rodgers Division
@@ -24165,7 +24166,10 @@
 34:D7:72		Xiamen Yudian Automation Technology Co., Ltd
 34:D7:B4		Tributary Systems, Inc.
 34:D7:F5		IEEE Registration Authority
+34:D7:F5:10:00:00/28	ShenZhen C&D Electronics CO.Ltd.
 34:D7:F5:A0:00:00/28	Hefei Panyuan Intelligent Technology Co., Ltd
+34:D7:F5:B0:00:00/28	Resnics Technology (Shanghai), lnc.
+34:D7:F5:C0:00:00/28	Lucy Electric Manufacturing and Technologies India Pvt Ltd
 34:D8:56		Shenzhen Skyworth Digital  Technology  CO., Ltd
 34:D8:68		Broadcom Limited
 34:D9:54		WiBotic Inc.
@@ -27384,6 +27388,7 @@
 4C:49:68		Ruijie Networks Co.,LTD
 4C:49:6C		Intel Corporate
 4C:49:E3		Xiaomi Communications Co Ltd
+4C:4B:1F		Cloud Network Technology Singapore Pte. Ltd.
 4C:4B:68		Mobile Device, Inc.
 4C:4B:F9		IEEE Registration Authority
 4C:4B:F9:00:00:00/28	Multitek Elektronik Sanayi ve Ticaret A.S.
@@ -28642,6 +28647,7 @@
 54:9F:C6		Cisco Systems, Inc
 54:A0:4F		t-mac Technologies Ltd
 54:A0:50		ASUSTek COMPUTER INC.
+54:A0:AB		Maiyue Future Intelligent Technology (Suzhou) Co.,Ltd.
 54:A1:04		OPTOWL Co.,Ltd
 54:A2:45		Digisol Systems Limited
 54:A2:74		Cisco Systems, Inc
@@ -39499,6 +39505,7 @@
 88:FC:5D		Cisco Systems, Inc
 88:FC:A6		devolo AG
 88:FD:15		Lineeye Co., Ltd
+88:FE:B6		Askey Computer Corp
 88:FE:D6		ShangHai WangYong Software Co., Ltd.
 8A:00:B0		Eoptolink Technology Inc. Ltd,
 8A:07:75		Horys Technologies Llc
@@ -40642,6 +40649,7 @@
 8C:1F:64:65:70:00/36	Bright Solutions PTE LTD
 8C:1F:64:65:A0:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:65:B0:00/36	SUS Corporation
+8C:1F:64:65:C0:00/36	CyberCube ApS
 8C:1F:64:65:D0:00/36	Action Streamer LLC
 8C:1F:64:65:F0:00/36	Astrometric Instruments, Inc.
 8C:1F:64:66:00:00/36	Llc Ntpc
@@ -41717,6 +41725,7 @@
 8C:1F:64:CF:40:00/36	Nt
 8C:1F:64:CF:60:00/36	NYBSYS Inc
 8C:1F:64:CF:70:00/36	BusPas
+8C:1F:64:CF:80:00/36	Paso Spa
 8C:1F:64:CF:90:00/36	VeoTech
 8C:1F:64:CF:A0:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:CF:B0:00/36	YUYAMA MFG Co.,Ltd
@@ -46129,6 +46138,7 @@ A8:C8:7F		Roqos, Inc.
 A8:C9:8A		New H3C Technologies Co., Ltd
 A8:CA:77		Amazon Technologies Inc.
 A8:CA:7B		Huawei Technologies Co.,Ltd
+A8:CA:87		Zhejiang Dahua Zhilian Co.,Ltd
 A8:CA:B9		Samsung Electro Mechanics Co., Ltd.
 A8:CB:95		East Best Co., Ltd.
 A8:CC:6F		HMD Global Oy
@@ -52265,6 +52275,7 @@ DC:0E:A1		Compal Information (Kunshan) Co., Ltd.
 DC:10:57		Apple, Inc.
 DC:12:1D		Huawei Technologies Co.,Ltd
 DC:15:2D		China Mobile Group Device Co.,Ltd.
+DC:15:5C		Anntec （Beijing） Technology Co.,Ltd.
 DC:15:C8		AVM Audiovisuelles Marketing und Computersysteme GmbH
 DC:15:DB		Ge Ruili Intelligent Technology ( Beijing ) Co., Ltd.
 DC:16:A2		Medtronic Diabetes
@@ -54243,6 +54254,7 @@ EC:55:4D		Private
 EC:55:F9		Hon Hai Precision Ind. Co.,Ltd.
 EC:56:23		Huawei Technologies Co.,Ltd
 EC:57:0D		AFE Inc.
+EC:58:65		Shenzhen Xinguodu Technology Co., Ltd
 EC:58:EA		Ruckus Wireless
 EC:59:E7		Microsoft Corporation
 EC:5A:31		Buffalo.Inc
