@@ -20931,6 +20931,7 @@
 1C:88:79:E0:00:00/28	Orion Labs inc
 1C:8B:76		Calix Inc.
 1C:8B:EF		Beijing Xiaomi Electronics Co.,Ltd
+1C:8C:6E		Arista Networks
 1C:8E:2A		Apple, Inc.
 1C:8E:5C		Huawei Technologies Co.,Ltd
 1C:8E:8E		DB Communication & Systems Co., ltd.
@@ -23059,6 +23060,7 @@
 2C:B0:DF		Soliton Technologies Pvt Ltd
 2C:B0:FD		Shenzhen MiaoMing  Intelligent Technology Co.,Ltd
 2C:B1:15		Integrated Device Technology (Malaysia) Sdn. Bhd.
+2C:B1:B7		Mellanox Technologies, Inc.
 2C:B2:1A		Phicomm (Shanghai) Co., Ltd.
 2C:B3:01		Honor Device Co., Ltd.
 2C:B4:3A		Apple, Inc.
@@ -38668,6 +38670,7 @@
 84:4D:4C		Adtran Inc
 84:4D:BE		Fiberhome Telecommunication Technologies Co.,LTD
 84:4F:03		Ablelink Electronics Ltd
+84:50:29		Arista Networks
 84:50:75		Huawei Device Co., Ltd.
 84:50:9A		Easy Soft TV Co., Ltd
 84:51:81		Samsung Electronics Co.,Ltd
@@ -45622,6 +45625,7 @@ A4:A4:90		Samsung Electronics Co.,Ltd
 A4:A4:D3		Bluebank Communication Technology Co.Ltd
 A4:A5:28		Sichuan Tianyi Comheart Telecom Co.,LTD
 A4:A5:84		Cisco Systems, Inc
+A4:A6:4E		Mellanox Technologies, Inc.
 A4:A6:A9		Private
 A4:A8:0F		Shenzhen Coship Electronics Co., Ltd.
 A4:A9:30		Beijing Xiaomi Mobile Software Co., Ltd
