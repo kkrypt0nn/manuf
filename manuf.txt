@@ -22405,6 +22405,7 @@
 28:9A:F7		ADVA Optical Networking Ltd.
 28:9A:FA		TCT mobile ltd
 28:9C:6E		Shanghai High-Flying Electronics  Technology Co., Ltd
+28:9E:1E		Texas Instruments
 28:9E:97		Huawei Technologies Co.,Ltd
 28:9E:DF		Danfoss Turbocor Compressors, Inc
 28:9E:FC		Sagemcom Broadband SAS
@@ -26542,6 +26543,7 @@
 44:80:EB		Motorola Mobility LLC, a Lenovo Company
 44:82:E5		Huawei Technologies Co.,Ltd
 44:83:12		Star-Net
+44:83:46		Texas Instruments
 44:85:00		Intel Corporate
 44:85:02		Shenzhen SuperElectron Technology Co.,Ltd.
 44:85:DA		Shenzhen Skyworth Digital  Technology  CO., Ltd
@@ -30623,6 +30625,7 @@
 64:9A:63		Ring LLC
 64:9A:BE		Apple, Inc.
 64:9B:24		V Technology Co., Ltd.
+64:9B:8F		Texas Instruments
 64:9C:81		Qualcomm Inc.
 64:9C:8E		Texas Instruments
 64:9C:F3		Fiberhome Telecommunication Technologies Co.,LTD
@@ -36597,6 +36600,7 @@
 74:68:59		Sunitec Technology Co.,Limited
 74:69:4A		Sichuan Tianyi Comheart Telecom Co.,LTD
 74:6A:3A		Aperi Corporation
+74:6A:84		Texas Instruments
 74:6A:89		Rezolt Corporation
 74:6A:8F		VS Vision Systems GmbH
 74:6A:B3		MICIUS Laboratory
@@ -37187,6 +37191,7 @@
 78:78:35:C0:00:00/28	DBG Communications Technology Co.,Ltd.
 78:78:35:D0:00:00/28	Suzhou Chena Information Technology Co., Ltd.
 78:78:35:E0:00:00/28	NEOARK Corporation
+78:78:71		Texas Instruments
 78:79:84		Apple, Inc.
 78:7A:6F		Juice Technology AG
 78:7B:8A		Apple, Inc.
@@ -42618,6 +42623,7 @@
 8C:CF:09		Dell EMC
 8C:CF:5C		BEFEGA GmbH
 8C:CF:8F		ITC Systems
+8C:D0:66		Texas Instruments
 8C:D0:8B		WuXi Rigosys Technology Co.,LTD
 8C:D0:B2		Beijing Xiaomi Mobile Software Co., Ltd
 8C:D1:7B		CG Mobile
@@ -46001,6 +46007,7 @@ A8:60:B6		Apple, Inc.
 A8:61:0A		Arduino Ag
 A8:61:AA		Cloudview Limited
 A8:61:DF		China Mobile Group Device Co.,Ltd.
+A8:61:EC		Texas Instruments
 A8:62:A2		Jiwumedia Co., Ltd.
 A8:63:08		Avutec
 A8:63:7D		D-Link International
@@ -52666,6 +52673,7 @@ DC:DC:E2		Samsung Electronics Co.,Ltd
 DC:DD:24		Energica Motor Company SpA
 DC:DE:4F		Gionee Communication Equipment Co Ltd
 DC:DE:CA		Akyllor
+DC:DE:E3		Texas Instruments
 DC:DF:D6		zte corporation
 DC:E0:26		Patrol Tag, Inc
 DC:E0:EB		Nanjing Aozheng Information Technology Co.Ltd
