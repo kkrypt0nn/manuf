@@ -24192,6 +24192,7 @@
 34:D7:F5:B0:00:00/28	Resnics Technology (Shanghai), lnc.
 34:D7:F5:C0:00:00/28	Lucy Electric Manufacturing and Technologies India Pvt Ltd
 34:D7:F5:D0:00:00/28	Schenker Storen AG
+34:D7:F5:E0:00:00/28	Catapult Sports Inc
 34:D8:56		Shenzhen Skyworth Digital  Technology  CO., Ltd
 34:D8:68		Broadcom Limited
 34:D9:54		WiBotic Inc.
@@ -30573,6 +30574,7 @@
 64:69:BC		Hytera Communications Co .,ltd
 64:6A:52		Avaya Inc
 64:6A:74		Auth-Servers, Llc
+64:6B:E7		Qingdao Intelligent&Precise Electronics Co.,Ltd.
 64:6C:80		Chongqing Fugui Electronics Co.,Ltd.
 64:6C:B2		Samsung Electronics Co.,Ltd
 64:6D:2F		Apple, Inc.
@@ -31441,6 +31443,7 @@
 6C:45:C4		Cloudflare, Inc.
 6C:47:25		Rochester Network Supply, Inc.
 6C:47:60		Sunitec Enterprise Co.,Ltd
+6C:47:80:90:00:00/28	Private
 6C:48:3F		Xiaomi Communications Co Ltd
 6C:48:A6		Fiberhome Telecommunication Technologies Co.,LTD
 6C:49:C1		o2ones Co., Ltd.
@@ -41488,6 +41491,7 @@
 8C:1F:64:B4:C0:00/36	Picocom Technology Ltd
 8C:1F:64:B4:F0:00/36	Vaunix Technology Corporation
 8C:1F:64:B5:00:00/36	Kinemetrics, Inc.
+8C:1F:64:B5:30:00/36	Asi
 8C:1F:64:B5:40:00/36	Framatome Inc.
 8C:1F:64:B5:50:00/36	Sanchar Telesystems limited
 8C:1F:64:B5:60:00/36	Arcvideo
@@ -43303,6 +43307,7 @@
 94:0E:E7		Huawei Technologies Co.,Ltd
 94:10:3E		Belkin International Inc.
 94:10:42		Fanox Electronic S.L.
+94:10:5A		Dell Inc.
 94:11:DA		ITF Fröschl GmbH
 94:14:57		Shenzhen Sundray Technologies company Limited
 94:14:7A		vivo Mobile Communication Co., Ltd.
@@ -43545,7 +43550,7 @@
 94:AC:CA		trivum technologies GmbH
 94:AD:23		Apple, Inc.
 94:AE:61		Alcatel Lucent
-94:AE:E3		Belden Hirschmann Industries (Suzhou) Ltd.
+94:AE:E3		Belden Hirschmann industries (Suzhou) Limited
 94:AE:F0		Cisco Systems, Inc
 94:B0:1F		Apple, Inc.
 94:B1:0A		Samsung Electronics Co.,Ltd
