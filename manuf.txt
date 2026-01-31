@@ -18581,6 +18581,7 @@
 0A:87:36		IEEE 1901 Working Group
 0A:8E:62		Delta Solutions LLC
 0A:93:26		Qorvo, Inc.
+0A:9E:66		Distance Technologies Ltd
 0A:A2:3B		Vitex LLC
 0A:AB:8C		Midwest Microwave Solutions Inc.
 0A:CD:8F		Cisco Systems Norway
@@ -31443,6 +31444,7 @@
 6C:45:C4		Cloudflare, Inc.
 6C:47:25		Rochester Network Supply, Inc.
 6C:47:60		Sunitec Enterprise Co.,Ltd
+6C:47:80		IEEE Registration Authority
 6C:47:80:90:00:00/28	Private
 6C:48:3F		Xiaomi Communications Co Ltd
 6C:48:A6		Fiberhome Telecommunication Technologies Co.,LTD
