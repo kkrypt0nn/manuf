@@ -23794,6 +23794,7 @@
 34:1F:C4		Shenzhen V-Link Technology CO., LTD.
 34:1F:E4		Commscope
 34:20:03		Shenzhen Feitengyun Technology Co.,LTD
+34:20:D3		Shenzhen Ip-Com Networks Co.,Ltd.
 34:20:E3		Ruckus Wireless
 34:21:09		Jensen Scandinavia AS
 34:23:87		Hon Hai Precision Ind. Co.,Ltd.
@@ -31445,6 +31446,7 @@
 6C:47:25		Rochester Network Supply, Inc.
 6C:47:60		Sunitec Enterprise Co.,Ltd
 6C:47:80		IEEE Registration Authority
+6C:47:80:00:00:00/28	KEI SYSTEM Co., Ltd.
 6C:47:80:90:00:00/28	Private
 6C:48:3F		Xiaomi Communications Co Ltd
 6C:48:A6		Fiberhome Telecommunication Technologies Co.,LTD
@@ -37400,6 +37402,7 @@
 78:D2:94		Netgear
 78:D3:47		Ericsson AB
 78:D3:4F		Pace-O-Matic, Inc.
+78:D3:66		GuangZhou Dazzleview Intelligent Technology Co., Ltd
 78:D3:8D		Hongkong Yunlink Technology Limited
 78:D3:ED		Norma
 78:D4:F1		IEEE Registration Authority
@@ -37978,6 +37981,7 @@
 7C:CC:FC		Quectel Wireless Solutions Co.,Ltd.
 7C:CD:11		MS-Magnet
 7C:CD:3C		Guangzhou Juzing Technology Co., Ltd
+7C:CF:0F		LCFC(Hefei) Electronics Technology co., ltd
 7C:CF:4E		Fine Triumph Technology Corp.,Ltd.
 7C:CF:CF		Shanghai SEARI Intelligent System Co., Ltd
 7C:D1:AD		Apple, Inc.
@@ -38521,6 +38525,7 @@
 80:E6:50		Apple, Inc.
 80:E7:69		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 80:E8:2C		Hewlett Packard
+80:E8:69		AltoBeam Inc.
 80:E8:6F		Cisco Systems, Inc
 80:E9:4A		LEAPS s.r.o.
 80:EA:07		Tp-Link Technologies Co.,Ltd.
@@ -39439,6 +39444,7 @@
 88:BF:D5		Simple Audio Ltd
 88:BF:E4		Huawei Technologies Co.,Ltd
 88:C0:8B		Apple, Inc.
+88:C0:93		Gigamedia
 88:C1:74		zte corporation
 88:C2:27		Huawei Technologies Co.,Ltd
 88:C2:42		Poynt Co.
@@ -42038,6 +42044,7 @@
 8C:1F:64:EA:C0:00/36	Miracle Healthcare, Inc.
 8C:1F:64:EA:D0:00/36	Messung Systems Pvt Ltd
 8C:1F:64:EA:E0:00/36	Traffic Polska sp. z o. o.
+8C:1F:64:EA:F0:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:EB:00:00/36	Exyte Technology GmbH
 8C:1F:64:EB:20:00/36	Aqua Broadcast Ltd
 8C:1F:64:EB:40:00/36	1Finity Inc.
@@ -53441,6 +53448,7 @@ E4:6E:8A		BYD Lithium Battery Co., Ltd.
 E4:6F:13		D-Link International
 E4:70:B8		Intel Corporate
 E4:71:85		Securifi Ltd
+E4:72:9D		Nokia Shanghai Bell Co., Ltd.
 E4:72:E2		Huawei Technologies Co.,Ltd
 E4:73:05		Shenzhen INVT Electric CO.,Ltd
 E4:73:19		Huawei Device Co., Ltd.
@@ -54095,6 +54103,7 @@ E8:E8:B7		Murata Manufacturing Co., Ltd.
 E8:E9:8E		SOLAR controls s.r.o.
 E8:EA:4D		Huawei Technologies Co.,Ltd
 E8:EA:6A		StarTech.com
+E8:EA:7C		Shenzhen Amazwear Holdings Co., Ltd
 E8:EA:DA		Denkovi Assembly Electronics LTD
 E8:EA:FA		Qingdao Haier Technology Co.,Ltd
 E8:EB:11		Texas Instruments
