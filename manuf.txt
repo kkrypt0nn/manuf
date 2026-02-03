@@ -19558,6 +19558,7 @@
 10:D6:57		Siemens Industrial Automation Products Ltd., Chengdu
 10:D6:80		Tendyron Corporation
 10:D7:B0		Sagemcom Broadband SAS
+10:D8:B1		AUO Corporation
 10:D8:CC		Guangzhou FiiO Electronics Technology CO., LTD
 10:D9:A2		Google, Inc.
 10:DA:43		Netgear
@@ -22023,6 +22024,7 @@
 24:BE:05		Hewlett Packard
 24:BE:18		Dadoutek Company Limited
 24:BF:74		Hamamatsu Photonics K.K.
+24:C0:13		zte corporation
 24:C0:B3		Rsf
 24:C1:7A		Beijing Iactive Network Co.,Ltd
 24:C1:BD		Crrc Dalian R&D Co.,Ltd.
@@ -31450,6 +31452,7 @@
 6C:47:80:00:00:00/28	KEI SYSTEM Co., Ltd.
 6C:47:80:40:00:00/28	Battery Management Technology Corporation
 6C:47:80:90:00:00/28	Private
+6C:47:80:C0:00:00/28	ZVK GmbH
 6C:48:3F		Xiaomi Communications Co Ltd
 6C:48:A6		Fiberhome Telecommunication Technologies Co.,LTD
 6C:49:C1		o2ones Co., Ltd.
@@ -53077,6 +53080,7 @@ E0:9B:27		Ciena Corporation
 E0:9C:8D		Seakeeper, Inc.
 E0:9C:E5		Shanghai Tricheer Technology Co.,Ltd.
 E0:9D:13		Samsung Electronics Co.,Ltd
+E0:9D:1E		zte corporation
 E0:9D:31		Intel Corporate
 E0:9D:73		Mellanox Technologies, Inc.
 E0:9D:B8		Planex Communications Inc.
@@ -54673,6 +54677,7 @@ F0:07:86		Shandong Bittel Electronics Co., Ltd
 F0:08:D1		Espressif Inc.
 F0:08:F1		Samsung Electronics Co.,Ltd
 F0:09:0D		TP-Link Systems Inc
+F0:0C:51		zte corporation
 F0:0D:5C		JinQianMao  Technology Co.,Ltd.
 F0:0D:F5		ACOMA Medical Industry Co,. Ltd.
 F0:0E:1D		Megafone Limited
