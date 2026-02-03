@@ -20242,6 +20242,7 @@
 18:5D:9A		BobjGear LLC
 18:5E:0B		zte corporation
 18:5E:0F		Intel Corporate
+18:5F:27		Motorola Mobility LLC, a Lenovo Company
 18:60:24		Hewlett Packard
 18:60:41		Arcadyan Corporation
 18:61:C7		lemonbeat GmbH
@@ -31447,6 +31448,7 @@
 6C:47:60		Sunitec Enterprise Co.,Ltd
 6C:47:80		IEEE Registration Authority
 6C:47:80:00:00:00/28	KEI SYSTEM Co., Ltd.
+6C:47:80:40:00:00/28	Battery Management Technology Corporation
 6C:47:80:90:00:00/28	Private
 6C:48:3F		Xiaomi Communications Co Ltd
 6C:48:A6		Fiberhome Telecommunication Technologies Co.,LTD
@@ -38617,6 +38619,7 @@
 84:1B:5E		Netgear
 84:1B:77		Intel Corporate
 84:1C:70		zte corporation
+84:1D:E8		CJ intelligent technology LTD.
 84:1E:26		KERNEL-I Co.,LTD
 84:1E:A3		Sagemcom Broadband SAS
 84:1F:E8		Espressif Inc.
@@ -45855,6 +45858,7 @@ A4:F6:E6		Apple, Inc.
 A4:F6:E8		Apple, Inc.
 A4:F7:D0		LAN Accessories Co., Ltd.
 A4:F8:41		Apple, Inc.
+A4:F8:FF		Ubiquiti Inc
 A4:F9:21		Apple, Inc.
 A4:F9:33		Intel Corporate
 A4:F9:E4		AirVine Scientific, Inc.
@@ -47002,6 +47006,7 @@ B0:8B:BE		ABL GmbH
 B0:8B:CF		Cisco Systems, Inc
 B0:8B:D0		Cisco Systems, Inc
 B0:8C:75		Apple, Inc.
+B0:8C:B3		FN-LINK TECHNOLOGY Ltd.
 B0:8D:57		Cisco Systems, Inc
 B0:8E:1A		URadio Systems Co., Ltd
 B0:90:74		Fulan Electronics Limited
@@ -49422,6 +49427,7 @@ C4:83:72:C0:00:00/28	Acenew technology(shenzhen) limited company
 C4:83:72:D0:00:00/28	Annapurna labs
 C4:83:72:E0:00:00/28	Suzhou LZY technology Co.,Ltd
 C4:84:66		Apple, Inc.
+C4:84:C0		Motorola Mobility LLC, a Lenovo Company
 C4:84:FC		Apple, Inc.
 C4:85:08		Intel Corporate
 C4:86:4F		Beijing BitIntelligence Information Technology Co. Ltd.
@@ -50379,6 +50385,7 @@ CC:34:29		Tp-Link Technologies Co.,Ltd.
 CC:34:D7		Gewiss S.P.A.
 CC:35:40		Vantiva USA LLC
 CC:35:5A		SecuGen Corporation
+CC:35:D9		Ubiquiti Inc
 CC:36:BB		Silicon Laboratories
 CC:36:CF		Cisco Systems, Inc
 CC:37:AB		Edgecore Networks Corporation
@@ -51634,6 +51641,7 @@ D4:87:D8		Samsung Electronics Co.,Ltd
 D4:88:3F		Hdpro Co., Ltd.
 D4:88:66		Huawei Technologies Co.,Ltd
 D4:88:90		Samsung Electronics Co.,Ltd
+D4:89:C1		Ubiquiti Inc
 D4:8A:39		Samsung Electronics Co.,Ltd
 D4:8A:3B		Hunan Fn-Link Technology Limited
 D4:8A:FC		Espressif Inc.
