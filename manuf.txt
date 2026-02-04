@@ -1478,7 +1478,7 @@
 00:05:B7		Arbor Technology Corp.
 00:05:B8		Electronic Design Associates, Inc.
 00:05:B9		Airvana, Inc.
-00:05:BA		Area Netwoeks, Inc.
+00:05:BA		XK22 Enterprises, LLC
 00:05:BB		Myspace AB
 00:05:BC		Resource Data Management Ltd
 00:05:BD		Roax Bv
@@ -41772,6 +41772,7 @@
 8C:1F:64:CE:40:00/36	Sl Usa, Llc
 8C:1F:64:CE:50:00/36	Private
 8C:1F:64:CE:90:00/36	Landis+Gyr Equipamentos de Medição Ltda
+8C:1F:64:CE:A0:00/36	Mootek Technologies Private Limited
 8C:1F:64:CE:B0:00/36	Eureka For Smart Properties Co. W.L.L
 8C:1F:64:CE:C0:00/36	Zhuhai Huaya machinery Technology Co., LTD
 8C:1F:64:CE:D0:00/36	Nha Trang Hitech Company,  Ltd
@@ -44909,6 +44910,7 @@ A0:23:9F		Cisco Systems, Inc
 A0:24:42		Shenzhenshi Xinzhongxin Technology Co.Ltd
 A0:24:F9		Chengdu InnovaTest Technology Co., Ltd
 A0:25:D7		Hewlett Packard Enterprise
+A0:26:05		Belden Hirschmann industries (Suzhou) Limited
 A0:27:B6		Samsung Electronics Co.,Ltd
 A0:28:33		IEEE Registration Authority
 A0:28:33:00:00:00/28	GERSYS GmbH
@@ -45337,6 +45339,7 @@ A4:05:FD		Bouffalo Lab (Nanjing) Co., Ltd.
 A4:06:E9		Texas Instruments
 A4:07:B6		Samsung Electronics Co.,Ltd
 A4:08:01		Amazon Technologies Inc.
+A4:08:53		Nokia Solutions and Networks India Private Limited
 A4:08:EA		Murata Manufacturing Co., Ltd.
 A4:08:F5		Sagemcom Broadband SAS
 A4:09:87		Apple, Inc.
