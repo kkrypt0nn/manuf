@@ -18369,6 +18369,7 @@
 08:94:EC		Huawei Device Co., Ltd.
 08:94:EF		Wistron Infocomm (Zhongshan) Corporation
 08:95:2A		Vantiva USA LLC
+08:95:36		Actiontec Electronics Inc.
 08:95:42		Apple, Inc.
 08:96:AD		Cisco Systems, Inc
 08:96:D7		AVM GmbH
@@ -54948,6 +54949,7 @@ F0:73:AE		PEAK-System Technik
 F0:74:85		NGD Systems, Inc.
 F0:74:8D		Ruijie Networks Co.,LTD
 F0:74:BF		Silicon Laboratories
+F0:74:C1		Blink by Amazon
 F0:74:E4		Thundercomm Technology Co., Ltd
 F0:76:1C		Compal Information (Kunshan) Co., Ltd.
 F0:76:6F		Apple, Inc.
