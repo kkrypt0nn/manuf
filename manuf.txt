@@ -17871,6 +17871,7 @@
 04:DA:D2		Cisco Systems, Inc
 04:DB:56		Apple, Inc.
 04:DB:8A		Suntech International Ltd.
+04:DB:D9		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 04:DD:4C		Velocytech
 04:DE:DB		Rockport Networks Inc
 04:DE:F2		Shenzhen ECOM Technology Co. Ltd
@@ -18379,6 +18380,7 @@
 08:97:98		Compal Information (Kunshan) Co., Ltd.
 08:99:E8		KEMAS GmbH
 08:9A:C7		zte corporation
+08:9B:27		Gsd Viet Nam Technology Company Limited
 08:9B:4B		iKuai Networks
 08:9B:B9		Nokia Solutions and Networks GmbH & Co. KG
 08:9B:F1		eero inc.
@@ -20098,6 +20100,7 @@
 18:12:12		Cepton Technologies
 18:13:2D		zte corporation
 18:14:20		Teb Sas
+18:14:54		Cig Shanghai Co Ltd
 18:14:56		Nokia Corporation
 18:14:6C		Zhejiang Tmall Technology Co., Ltd.
 18:14:AE		Nokia
@@ -31456,10 +31459,14 @@
 6C:47:60		Sunitec Enterprise Co.,Ltd
 6C:47:80		IEEE Registration Authority
 6C:47:80:00:00:00/28	KEI SYSTEM Co., Ltd.
+6C:47:80:10:00:00/28	Hd Hyundai Energy Solutions Co., Ltd.
+6C:47:80:20:00:00/28	CAF Power and Automation
 6C:47:80:40:00:00/28	Battery Management Technology Corporation
+6C:47:80:60:00:00/28	CTHINGS.CO sp. z o.o.
 6C:47:80:70:00:00/28	Onicon
 6C:47:80:90:00:00/28	Private
 6C:47:80:A0:00:00/28	Prolink Surveillance Technology Co.Ltd
+6C:47:80:B0:00:00/28	Cardio Sistemas Comercial E Industrial Ltda
 6C:47:80:C0:00:00/28	ZVK GmbH
 6C:47:80:D0:00:00/28	JEL Corporation
 6C:48:3F		Xiaomi Communications Co Ltd
@@ -38469,6 +38476,7 @@
 80:C2:F0		Xiamen Yeastar Digital Technology Co.,Ltd
 80:C3:BA		Sonova Consumer Hearing GmbH
 80:C4:1B		Texas Instruments
+80:C4:29		Renesas Electronics Operations Services Limited
 80:C4:5D		IPG Laser GmbH
 80:C5:01		OctoGate IT Security Systems GmbH
 80:C5:48		Shenzhen Zowee Technology Co.,Ltd
@@ -39734,6 +39742,7 @@
 8C:1F:64:04:E0:00/36	Auditdata
 8C:1F:64:04:F0:00/36	ISILINE srl
 8C:1F:64:05:10:00/36	CP contech electronic GmbH
+8C:1F:64:05:20:00/36	Sensus
 8C:1F:64:05:30:00/36	HS.com Kft
 8C:1F:64:05:40:00/36	Watter
 8C:1F:64:05:50:00/36	Intercreate
@@ -44816,6 +44825,7 @@
 9C:F9:38		AREVA NP GmbH
 9C:FA:3C		Daeyoung Electronics
 9C:FA:76		Apple, Inc.
+9C:FA:96		T3 Technology Co., Ltd.
 9C:FB:77		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 9C:FB:D5		vivo Mobile Communication Co., Ltd.
 9C:FB:F1		MESOMATIC GmbH & Co.KG
@@ -48774,6 +48784,7 @@ C0:2E:25		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 C0:2E:26		iRhythm Technologies, Inc.
 C0:2E:5F		Zyxel Communications Corporation
 C0:2E:DF		AltoBeam Inc.
+C0:2F:CD		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 C0:2F:F1		Volta Networks
 C0:33:5E		Microsoft
 C0:33:79		Huawei Technologies Co.,Ltd
