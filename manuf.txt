@@ -20478,6 +20478,7 @@
 18:C3:00		Nokia
 18:C3:E4		IEEE Registration Authority
 18:C3:E4:10:00:00/28	HuiTong intelligence Company
+18:C3:E4:D0:00:00/28	CASE Deutschland GmbH
 18:C3:F4		IEEE Registration Authority
 18:C3:F4:00:00:00/28	Scati Labs, S.A.
 18:C3:F4:10:00:00/28	Enertex Bayern GmbH
@@ -25228,6 +25229,7 @@
 3C:BD:69		Nokia Shanghai Bell Co., Ltd.
 3C:BD:C5		Arcadyan Corporation
 3C:BD:D8		Lg Electronics Inc
+3C:BE:8E		Guangzhou Shiyuan Electronic Technology Company Limited
 3C:BE:E1		Nikon Corporation
 3C:BF:60		Apple, Inc.
 3C:C0:3E		Huawei Technologies Co.,Ltd
@@ -28392,6 +28394,7 @@
 50:FF:99:C0:00:00/28	Goetting KG
 50:FF:99:D0:00:00/28	Shenzhen Haipengxin Electronic Co., Ltd.
 50:FF:99:E0:00:00/28	Informa LLC
+54:01:4A		Guangzhou Shiyuan Electronic Technology Company Limited
 54:02:37		Teltronic AG
 54:02:95		Huawei Technologies Co.,Ltd
 54:03:84		Hongkong Nano IC Technologies Co., Ltd
@@ -29275,6 +29278,7 @@
 58:DB:8D		Fast Co., Ltd.
 58:DC:6D		Exceptional Innovation, Inc.
 58:DF:59		Cisco Systems, Inc
+58:DF:70		Private
 58:E0:2C		Micro Technic A/S
 58:E1:6C		Ying Hua Information Technology (Shanghai)Co., LTD
 58:E2:8F		Apple, Inc.
@@ -45613,6 +45617,7 @@ A4:5F:9B		Nexell
 A4:5F:B9		DreamBig Semiconductor, Inc.
 A4:60:11		Verifone, Inc.
 A4:60:32		MRV Communications (Networks) LTD
+A4:61:77		Amosense
 A4:61:85		Tools for Humanity Corporation
 A4:61:91		NamJunSa
 A4:62:DF		DS Global. Co., LTD
@@ -47672,6 +47677,7 @@ B4:BA:9D		Sky Uk Limited
 B4:BC:7C		Texas Instruments
 B4:BF:E9		Espressif Inc.
 B4:BF:F6		Samsung Electronics Co.,Ltd
+B4:C0:C3		TP-Link Systems Inc.
 B4:C0:F5		Shenzhen TINNO Mobile Technology Corp.
 B4:C1:70		Yi chip Microelectronics (Hangzhou) Co., Ltd
 B4:C2:6A		Garmin International
@@ -48806,6 +48812,7 @@ C0:38:96		Hon Hai Precision Ind. Co.,Ltd.
 C0:38:F9		Nokia Danmark A/S
 C0:39:37		Gree Electric Appliances, Inc. Of Zhuhai
 C0:39:5A		Zhejiang Dahua Technology Co., Ltd.
+C0:3A:55		TP-Link Systems Inc.
 C0:3B:8F		Minicom Digital Signage
 C0:3C:04		Sagemcom Broadband SAS
 C0:3C:59		Intel Corporate
