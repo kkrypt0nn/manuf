@@ -20478,6 +20478,7 @@
 18:C3:00		Nokia
 18:C3:E4		IEEE Registration Authority
 18:C3:E4:10:00:00/28	HuiTong intelligence Company
+18:C3:E4:B0:00:00/28	Cascadia Motion LLC
 18:C3:E4:D0:00:00/28	CASE Deutschland GmbH
 18:C3:F4		IEEE Registration Authority
 18:C3:F4:00:00:00/28	Scati Labs, S.A.
@@ -21315,6 +21316,7 @@
 20:32:33		Shenzhen Bilian Electronic Co.，Ltd
 20:32:6C		Samsung Electronics Co.,Ltd
 20:32:C6		Apple, Inc.
+20:33:89		Google, Inc.
 20:34:62		Xiaomi Communications Co Ltd
 20:34:FB		Xiaomi Communications Co Ltd
 20:35:43		Sagemcom Broadband SAS
@@ -26372,6 +26374,7 @@
 44:0C:EE		Robert Bosch Elektronikai Kft.
 44:0C:FD		NetMan Co., Ltd.
 44:0F:B4		Gsd Viet Nam Technology Company Limited
+44:10:30		Google, Inc.
 44:10:FE		Huizhou Foryou General Electronics Co., Ltd.
 44:11:02		EDMI  Europe Ltd
 44:11:46		The Chamberlain Group, Inc
@@ -27042,6 +27045,7 @@
 48:77:06		NXP Semiconductor (Tianjin) LTD.
 48:77:46		Calix Inc.
 48:77:BD		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
+48:78:5B		Hangzhou Hikvision Digital Technology Co.,Ltd.
 48:78:5E		Amazon Technologies Inc.
 48:79:4D		Samsung Electronics Co.,Ltd
 48:7A:55		ALE International
@@ -38461,6 +38465,7 @@
 80:B3:2A		UK Grid Solutions Ltd
 80:B5:4E		Espressif Inc.
 80:B5:75		Huawei Technologies Co.,Ltd
+80:B5:C6		OMRON Corporation
 80:B6:24		Ivs
 80:B6:55		Intel Corporate
 80:B6:86		Huawei Technologies Co.,Ltd
@@ -43219,6 +43224,7 @@
 90:DB:46		E-Lead Electronic Co., Ltd
 90:DD:5D		Apple, Inc.
 90:DE:80		Shenzhen Century Xinyang Technology Co., Ltd
+90:DF:06		Ciena Corporation
 90:DF:7D		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 90:DF:B7		s.m.s smart microwave sensors GmbH
 90:DF:FB		Homerider Systems
@@ -53731,6 +53737,7 @@ E4:FD:8C		Extreme Networks Headquarters
 E4:FD:A1		Huawei Technologies Co.,Ltd
 E4:FE:43		Beijing Xiaomi Mobile Software Co., Ltd
 E4:FE:D9		EDMI Europe Ltd
+E4:FE:E4		Ciena Corporation
 E4:FF:DD		Electron India
 E8:00:36		Befs co,. ltd
 E8:01:15		COOCAA Network Technology CO.,TD.
