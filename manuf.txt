@@ -5955,7 +5955,7 @@
 00:17:50		GSI Group, MicroE Systems
 00:17:51		Online Corporation
 00:17:52		DAGS, Inc
-00:17:53		nFore Technology Inc.
+00:17:53		nFore Technology Co., Ltd.
 00:17:54		Arkino HiTOP Corporation Limited
 00:17:55		GE Security
 00:17:56		Vinci Labs Oy
@@ -20478,8 +20478,10 @@
 18:C3:00		Nokia
 18:C3:E4		IEEE Registration Authority
 18:C3:E4:10:00:00/28	HuiTong intelligence Company
+18:C3:E4:60:00:00/28	Clicks Technology Ltd
 18:C3:E4:B0:00:00/28	Cascadia Motion LLC
 18:C3:E4:D0:00:00/28	CASE Deutschland GmbH
+18:C3:E4:E0:00:00/28	Shenzhen Megmeet Electrical Co., Ltd
 18:C3:F4		IEEE Registration Authority
 18:C3:F4:00:00:00/28	Scati Labs, S.A.
 18:C3:F4:10:00:00/28	Enertex Bayern GmbH
@@ -21947,6 +21949,7 @@
 24:96:D5		NEXCON Technology Co.,ltd.
 24:97:45		Huawei Technologies Co.,Ltd
 24:97:ED		Techvision Intelligent Technology Limited
+24:99:00		FRITZ! Technology GmbH
 24:9A:C8		Shenzhen Skyworth Digital  Technology  CO., Ltd
 24:9A:D8		Yealink(Xiamen) Network Technology Co.,Ltd.
 24:9D:2A		LinkData Technology (Tianjin) Co., LTD
@@ -23903,6 +23906,7 @@
 34:49:51		Eliyan Corp.
 34:49:5B		Sagemcom Broadband SAS
 34:4A:1B		zte corporation
+34:4A:86		Honor Device Co., Ltd.
 34:4A:C3		HuNan ZiKun Information Technology CO., Ltd
 34:4B:3D		Fiberhome Telecommunication Technologies Co.,LTD
 34:4B:50		zte corporation
@@ -25248,6 +25252,7 @@
 3C:C9:9E		Huiyang Technology Co., Ltd
 3C:CA:61		Tecno Mobile Limited
 3C:CA:87		Iders Incorporated
+3C:CB:01		Beijing Lingji innovations Technology Co., LTD.
 3C:CB:4D		Avikus Co., Ltd
 3C:CB:7C		TCT mobile ltd
 3C:CD:36		Apple, Inc.
@@ -28254,7 +28259,7 @@
 50:C2:75		GN Audio A/S
 50:C2:E8		Cloud Network Technology Singapore Pte. Ltd.
 50:C2:ED		GN Audio A/S
-50:C3:A2		nFore Technology Co.,Ltd.
+50:C3:A2		nFore Technology Co., Ltd.
 50:C4:DD		Buffalo.Inc
 50:C5:8D		Juniper Networks
 50:C6:8E		Biwin Semiconductor (HK) Company Limted
@@ -30112,6 +30117,7 @@
 60:76:88		Velodyne
 60:77:71		Texas Instruments
 60:77:E2		Samsung Electronics Co.,Ltd
+60:7A:D8		GD Midea Air-Conditioning Equipment Co.,Ltd.
 60:7D:09		Luxshare Precision Industry Co., Ltd
 60:7D:DD		Shenzhen Shichuangyi Electronics Co.,Ltd
 60:7E:A4		Shanghai Imilab Technology Co.Ltd
@@ -31404,6 +31410,7 @@
 6C:27:C8:C0:00:00/28	Shenzhen Eview Gps Technology
 6C:27:C8:D0:00:00/28	Bg T&A Co.
 6C:27:C8:E0:00:00/28	ScentedVents
+6C:28:13		nFore Technology Co., Ltd.
 6C:29:90		WiZ Connected Lighting Company Limited
 6C:29:95		Intel Corporate
 6C:29:D2		Cisco Systems, Inc
@@ -39341,6 +39348,7 @@
 88:7A:31		Velankani Electronics Pvt. Ltd.
 88:7A:BC		Cisco Systems, Inc
 88:7B:2C		zte corporation
+88:7C:C1		Zebronics India Pvt Ltd
 88:7E:25		Extreme Networks Headquarters
 88:7F:03		Comper Technology Investment Limited
 88:7F:D5		zte corporation
@@ -45375,7 +45383,7 @@ A4:01:30		ABIsystems Co., LTD
 A4:01:DE		Sercomm Philippines Inc
 A4:02:B7		Amazon Technologies Inc.
 A4:02:B9		Intel Corporate
-A4:04:50		nFore Technology Inc.
+A4:04:50		nFore Technology Co., Ltd.
 A4:05:6E		Tiinlab Corporation
 A4:05:9E		STA Infinity LLP
 A4:05:D6		Commscope
@@ -46910,6 +46918,7 @@ B0:35:0B		Mobiwire Mobiles (Ningbo) Co.,Ltd
 B0:35:8D		Nokia Corporation
 B0:35:9F		Intel Corporate
 B0:35:B5		Apple, Inc.
+B0:37:31		Fujian Star-Net Communication Co.,Ltd
 B0:37:95		LG Electronics
 B0:38:29		Siliconware Precision Industries Co., Ltd.
 B0:38:50		Nanjing CAS-ZDC IOT SYSTEM CO.,LTD
@@ -48240,6 +48249,7 @@ BA:C8:C4		Transponder & Reader Engineered Systems, Inc
 BA:F2:1C		Iso/Tc22/Sc31
 BA:FE:3A		Denso Corporation
 BC:00:04		Fiberhome Telecommunication Technologies Co.,LTD
+BC:00:23		Honor Device Co., Ltd.
 BC:02:00		Stewart Audio
 BC:02:4A		HMD Global Oy
 BC:02:6E		Silicon Laboratories
@@ -52571,6 +52581,7 @@ DC:68:0C		Hewlett Packard Enterprise
 DC:68:80		zte corporation
 DC:68:EB		Nintendo Co.,Ltd
 DC:69:B5		eero inc.
+DC:69:CC		LG Innotek
 DC:69:E2		Samsung Electronics Co.,Ltd
 DC:6A:E7		Xiaomi Communications Co Ltd
 DC:6A:EA		Infinix mobility limited
