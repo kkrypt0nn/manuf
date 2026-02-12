@@ -20478,7 +20478,10 @@
 18:C3:00		Nokia
 18:C3:E4		IEEE Registration Authority
 18:C3:E4:10:00:00/28	HuiTong intelligence Company
+18:C3:E4:20:00:00/28	Duress Pty Ltd
+18:C3:E4:50:00:00/28	iX-tech GmbH
 18:C3:E4:60:00:00/28	Clicks Technology Ltd
+18:C3:E4:80:00:00/28	xDevelop GmbH
 18:C3:E4:B0:00:00/28	Cascadia Motion LLC
 18:C3:E4:D0:00:00/28	CASE Deutschland GmbH
 18:C3:E4:E0:00:00/28	Shenzhen Megmeet Electrical Co., Ltd
@@ -28343,6 +28346,7 @@
 50:ED:94		Egatel Sl
 50:EE:32		Hon Hai Precision Industry Co.,LTD
 50:EE:87		HPRO-Control
+50:EE:9B		AltoBeam Inc.
 50:F0:03		Open Stack, Inc.
 50:F0:D3		Samsung Electronics Co.,Ltd
 50:F1:4A		Texas Instruments
@@ -31463,6 +31467,7 @@
 6C:3E:6D		Apple, Inc.
 6C:3E:9C		KE Knestel Elektronik GmbH
 6C:40:08		Apple, Inc.
+6C:40:33		Beijing Megwang Technology Co., Ltd.
 6C:40:C6		Nimbus Data, Inc.
 6C:40:E8		vivo Mobile Communication Co., Ltd.
 6C:41:0E		Cisco Systems, Inc
@@ -31484,6 +31489,7 @@
 6C:47:80:40:00:00/28	Battery Management Technology Corporation
 6C:47:80:60:00:00/28	CTHINGS.CO sp. z o.o.
 6C:47:80:70:00:00/28	Onicon
+6C:47:80:80:00:00/28	Private
 6C:47:80:90:00:00/28	Private
 6C:47:80:A0:00:00/28	Prolink Surveillance Technology Co.Ltd
 6C:47:80:B0:00:00/28	Cardio Sistemas Comercial E Industrial Ltda
@@ -39744,6 +39750,7 @@
 8C:1F:64:02:A0:00/36	DEUTA Werke GmbH
 8C:1F:64:02:D0:00/36	Shenzhen Tezesk Energy Technology Co.,LTD
 8C:1F:64:02:F0:00/36	SOLIDpower SpA
+8C:1F:64:03:00:00/36	AvanTimes
 8C:1F:64:03:10:00/36	Ektos A/S
 8C:1F:64:03:30:00/36	IQ Home Kft.
 8C:1F:64:03:50:00/36	RealWear
@@ -40395,6 +40402,7 @@
 8C:1F:64:42:D0:00/36	Jemac Sweden AB
 8C:1F:64:42:F0:00/36	Tomorrow Companies Inc
 8C:1F:64:43:20:00/36	Rebel Systems
+8C:1F:64:43:40:00/36	netmon
 8C:1F:64:43:70:00/36	Gogo BA
 8C:1F:64:43:80:00/36	Integer.pl S.A.
 8C:1F:64:43:90:00/36	Bornico
@@ -42264,6 +42272,7 @@
 8C:1F:64:FB:70:00/36	Grace Design/Lunatec LLC
 8C:1F:64:FB:90:00/36	IWS Global Pty Ltd
 8C:1F:64:FB:A0:00/36	Onto Innovation
+8C:1F:64:FB:B0:00/36	Telica
 8C:1F:64:FB:D0:00/36	SAN-AI Electronic Industries Co.,Ltd.
 8C:1F:64:FC:10:00/36	Nidec asi spa
 8C:1F:64:FC:20:00/36	I/O Controls
@@ -54456,6 +54465,7 @@ EC:71:DB		Reolink Innovation Limited
 EC:72:5B		zte corporation
 EC:73:59		Shenzhen Cloudsky Technologies Co., Ltd.
 EC:73:79		Apple, Inc.
+EC:73:F6		Sichuan AI-Link Technology Co., Ltd.
 EC:74:27		eero inc.
 EC:74:8C		Sony Interactive Entertainment Inc.
 EC:74:BA		Hirschmann Automation and Control GmbH
