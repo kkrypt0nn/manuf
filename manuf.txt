@@ -18192,6 +18192,7 @@
 08:33:ED		Askey Computer Corp
 08:35:1B		Shenzhen Jialihua Electronic Technology Co., Ltd
 08:35:71		CASwell INC.
+08:35:7D		Microsoft Corporation
 08:35:B2		CoreEdge Networks Co., Ltd
 08:36:C9		Netgear
 08:37:3D		Samsung Electronics Co.,Ltd
@@ -18838,6 +18839,7 @@
 0C:83:06		Huawei Device Co., Ltd.
 0C:83:9A		Huawei Device Co., Ltd.
 0C:83:CC		Alpha Networks Inc.
+0C:83:F4		Canopy Works, Inc.
 0C:84:08		Huawei Technologies Co.,Ltd
 0C:84:11		A.O. Smith Water Products
 0C:84:47		Fiberhome Telecommunication Technologies Co.,LTD
@@ -28345,7 +28347,7 @@
 50:ED:78		Changzhou Yongse Infotech Co.,Ltd
 50:ED:94		Egatel Sl
 50:EE:32		Hon Hai Precision Industry Co.,LTD
-50:EE:87		HPRO-Control
+50:EE:87		Hpro
 50:EE:9B		AltoBeam Inc.
 50:F0:03		Open Stack, Inc.
 50:F0:D3		Samsung Electronics Co.,Ltd
@@ -30200,7 +30202,7 @@
 60:9F:9D		CloudSwitch
 60:A1:0A		Samsung Electronics Co.,Ltd
 60:A1:1E		Wuhan Maxsine Electric Co.,Ltd.
-60:A1:FE		HPRO-Control
+60:A1:FE		Hpro
 60:A2:C6		Huawei Technologies Co.,Ltd
 60:A3:7D		Apple, Inc.
 60:A3:E3		Tp-Link Technologies Co.,Ltd.
@@ -31487,6 +31489,7 @@
 6C:47:80:10:00:00/28	Hd Hyundai Energy Solutions Co., Ltd.
 6C:47:80:20:00:00/28	CAF Power and Automation
 6C:47:80:40:00:00/28	Battery Management Technology Corporation
+6C:47:80:50:00:00/28	Monnit Corporation
 6C:47:80:60:00:00/28	CTHINGS.CO sp. z o.o.
 6C:47:80:70:00:00/28	Onicon
 6C:47:80:80:00:00/28	Private
@@ -45448,7 +45451,7 @@ A4:17:52		Hifocus Electronics India Private Limited
 A4:17:8B		Huawei Technologies Co.,Ltd
 A4:17:91		Shenzhen Decnta Technology Co.,LTD.
 A4:18:75		Cisco Systems, Inc
-A4:18:94		Bosch Security Systems B.V.
+A4:18:94		Iqsight B.V.
 A4:19:08		Fiberhome Telecommunication Technologies Co.,LTD
 A4:1A:3A		Tp-Link Technologies Co.,Ltd.
 A4:1A:6E		zte corporation
@@ -51310,6 +51313,7 @@ D0:C5:F3		Apple, Inc.
 D0:C6:37		Intel Corporate
 D0:C6:5B		Huawei Technologies Co.,Ltd
 D0:C6:7F		Huawei Technologies Co.,Ltd
+D0:C6:BE		HPRO-Video
 D0:C7:30		zte corporation
 D0:C7:89		Cisco Systems, Inc
 D0:C7:C0		Tp-Link Technologies Co.,Ltd.
