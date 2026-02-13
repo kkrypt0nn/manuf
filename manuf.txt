@@ -20219,7 +20219,7 @@
 18:4E:CB		Samsung Electronics Co.,Ltd
 18:4F:32		Hon Hai Precision Ind. Co.,Ltd.
 18:4F:43		Unionman Technology Co.,Ltd
-18:4F:5D		JRC Mobility Inc.
+18:4F:5D		Japan Radio Co., Ltd
 18:50:2A		Soarnex
 18:50:73		Tianjin HuaLai Technology CO., Ltd.
 18:51:11		Universal Electronics, Inc.
@@ -41610,6 +41610,7 @@
 8C:1F:64:B9:10:00/36	Clealink Technology
 8C:1F:64:B9:20:00/36	Neurable
 8C:1F:64:B9:30:00/36	Modern Server Solutions LLP
+8C:1F:64:B9:40:00/36	Private
 8C:1F:64:B9:60:00/36	Observable Space
 8C:1F:64:B9:70:00/36	Gemini Electronics B.V.
 8C:1F:64:B9:80:00/36	Calamity, Inc.
