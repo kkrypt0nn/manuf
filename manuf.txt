@@ -20485,6 +20485,7 @@
 18:C3:E4:60:00:00/28	Clicks Technology Ltd
 18:C3:E4:80:00:00/28	xDevelop GmbH
 18:C3:E4:B0:00:00/28	Cascadia Motion LLC
+18:C3:E4:C0:00:00/28	Bit Part LLC
 18:C3:E4:D0:00:00/28	CASE Deutschland GmbH
 18:C3:E4:E0:00:00/28	Shenzhen Megmeet Electrical Co., Ltd
 18:C3:F4		IEEE Registration Authority
@@ -31488,6 +31489,7 @@
 6C:47:80:00:00:00/28	KEI SYSTEM Co., Ltd.
 6C:47:80:10:00:00/28	Hd Hyundai Energy Solutions Co., Ltd.
 6C:47:80:20:00:00/28	CAF Power and Automation
+6C:47:80:30:00:00/28	Eaton Bussmann
 6C:47:80:40:00:00/28	Battery Management Technology Corporation
 6C:47:80:50:00:00/28	Monnit Corporation
 6C:47:80:60:00:00/28	CTHINGS.CO sp. z o.o.
