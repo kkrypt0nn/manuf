@@ -48823,6 +48823,7 @@ C0:2C:17		Cisco Systems, Inc
 C0:2C:5C		Apple, Inc.
 C0:2C:7A		Shenzhen Horn Audio Co.,Ltd.
 C0:2C:ED		Silicon Laboratories
+C0:2D:10		Mohan Electronics And Systems
 C0:2D:2E		China Mobile Group Device Co.,Ltd.
 C0:2D:EE		Cuff
 C0:2E:1D		Nokia Solutions and Networks GmbH & Co. KG
