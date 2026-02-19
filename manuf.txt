@@ -20485,6 +20485,7 @@
 18:C3:E4:50:00:00/28	iX-tech GmbH
 18:C3:E4:60:00:00/28	Clicks Technology Ltd
 18:C3:E4:80:00:00/28	xDevelop GmbH
+18:C3:E4:90:00:00/28	38220
 18:C3:E4:B0:00:00/28	Cascadia Motion LLC
 18:C3:E4:C0:00:00/28	Bit Part LLC
 18:C3:E4:D0:00:00/28	CASE Deutschland GmbH
@@ -36766,6 +36767,7 @@
 74:97:79		Cloud Network Technology Singapore Pte. Ltd.
 74:97:81		zte corporation
 74:97:8E		Nova Labs
+74:98:F4		Buffalo.Inc
 74:99:75		IBM Corporation
 74:9A:C0		Cachengo, Inc.
 74:9B:89		Huawei Technologies Co.,Ltd
@@ -41270,6 +41272,7 @@
 8C:1F:64:96:80:00/36	Iav Engineering Sarl
 8C:1F:64:96:A0:00/36	EA Elektro-Automatik GmbH
 8C:1F:64:96:B0:00/36	Vantageo Private Limited
+8C:1F:64:96:E0:00/36	inomatic GmbH
 8C:1F:64:96:F0:00/36	Vortix Networks
 8C:1F:64:97:00:00/36	Potter Electric Signal Co. LLC
 8C:1F:64:97:10:00/36	Infrasafe/ Advantor Systems
@@ -41296,6 +41299,7 @@
 8C:1F:64:99:40:00/36	uHave Control, Inc
 8C:1F:64:99:80:00/36	EVLO Stockage Énergie
 8C:1F:64:99:90:00/36	Advanced Techne
+8C:1F:64:99:B0:00/36	Grossenbacher Systeme AG
 8C:1F:64:99:C0:00/36	i2A Systems Co., Ltd.
 8C:1F:64:99:E0:00/36	EIDOS s.r.l.
 8C:1F:64:9A:10:00/36	Pacific Software Development Co., Ltd.
@@ -41424,6 +41428,7 @@
 8C:1F:64:A6:00:00/36	Active Optical Systems, LLC
 8C:1F:64:A6:10:00/36	Breas Medical AB
 8C:1F:64:A6:40:00/36	Vigor Electric Corp.
+8C:1F:64:A6:60:00/36	vtt systems Inc.
 8C:1F:64:A6:70:00/36	Electrovymir LLC
 8C:1F:64:A6:A0:00/36	Sphere Com Services Pvt Ltd
 8C:1F:64:A6:D0:00/36	CyberneX Co., Ltd
@@ -41569,6 +41574,7 @@
 8C:1F:64:B4:C0:00/36	Picocom Technology Ltd
 8C:1F:64:B4:F0:00/36	Vaunix Technology Corporation
 8C:1F:64:B5:00:00/36	Kinemetrics, Inc.
+8C:1F:64:B5:10:00/36	Vojensky Technicky Ustav, s.p.
 8C:1F:64:B5:30:00/36	Asi
 8C:1F:64:B5:40:00/36	Framatome Inc.
 8C:1F:64:B5:50:00/36	Sanchar Telesystems limited
@@ -42400,6 +42406,7 @@
 8C:4D:B9		Unmonday Ltd
 8C:4D:EA		Cerio Corporation
 8C:4E:46		Motorola Mobility LLC, a Lenovo Company
+8C:4E:BB		Amazon Technologies Inc.
 8C:4F:00		Espressif Inc.
 8C:50:1A		Private
 8C:51:05		Shenzhen ireadygo Information Technology CO.,LTD.
@@ -54366,6 +54373,7 @@ EC:30:B3		Xiaomi Communications Co Ltd
 EC:30:DD		eero inc.
 EC:31:11		Sichuan AI-Link Technology Co., Ltd.
 EC:31:4A		Chengdu Quanjing Intelligent Technology Co.,Ltd
+EC:31:5F		Amazon Technologies Inc.
 EC:31:6D		Hansgrohe
 EC:34:E2		Private
 EC:35:32		Tactrix Inc.
