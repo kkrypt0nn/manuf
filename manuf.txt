@@ -20482,6 +20482,7 @@
 18:C3:E4:10:00:00/28	HuiTong intelligence Company
 18:C3:E4:20:00:00/28	Duress Pty Ltd
 18:C3:E4:30:00:00/28	Proximus sp. z .o.o.
+18:C3:E4:40:00:00/28	Trusted Technology Solutions, Inc.
 18:C3:E4:50:00:00/28	iX-tech GmbH
 18:C3:E4:60:00:00/28	Clicks Technology Ltd
 18:C3:E4:70:00:00/28	BRS Sistemas Eletrônicos
@@ -40640,6 +40641,7 @@
 8C:1F:64:59:30:00/36	Brillian Network & Automation Integrated System Co., Ltd.
 8C:1F:64:59:50:00/36	Inspinia Technology s.r.o.
 8C:1F:64:59:60:00/36	RF Code
+8C:1F:64:59:70:00/36	Becton Dickinson
 8C:1F:64:59:80:00/36	Tirasoft Technology
 8C:1F:64:59:A0:00/36	Primalucelab isrl
 8C:1F:64:59:C0:00/36	Private
