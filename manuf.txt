@@ -20482,6 +20482,7 @@
 18:C2:BF		Buffalo.Inc
 18:C3:00		Nokia
 18:C3:E4		IEEE Registration Authority
+18:C3:E4:00:00:00/28	Sodalec
 18:C3:E4:10:00:00/28	HuiTong intelligence Company
 18:C3:E4:20:00:00/28	Duress Pty Ltd
 18:C3:E4:30:00:00/28	Proximus sp. z .o.o.
@@ -20491,6 +20492,7 @@
 18:C3:E4:70:00:00/28	BRS Sistemas Eletrônicos
 18:C3:E4:80:00:00/28	xDevelop GmbH
 18:C3:E4:90:00:00/28	38220
+18:C3:E4:A0:00:00/28	Fime SAS
 18:C3:E4:B0:00:00/28	Cascadia Motion LLC
 18:C3:E4:C0:00:00/28	Bit Part LLC
 18:C3:E4:D0:00:00/28	CASE Deutschland GmbH
@@ -31514,6 +31516,7 @@
 6C:47:80:B0:00:00/28	Cardio Sistemas Comercial E Industrial Ltda
 6C:47:80:C0:00:00/28	ZVK GmbH
 6C:47:80:D0:00:00/28	JEL Corporation
+6C:47:80:E0:00:00/28	Alban Giacomo S.p.a.
 6C:48:3F		Xiaomi Communications Co Ltd
 6C:48:A6		Fiberhome Telecommunication Technologies Co.,LTD
 6C:49:C1		o2ones Co., Ltd.
