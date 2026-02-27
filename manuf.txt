@@ -27988,6 +27988,7 @@
 50:32:75		Samsung Electronics Co.,Ltd
 50:33:8B		Texas Instruments
 50:33:F0		Yichen (Shenzhen) Technology Co.Ltd
+50:37:CD		Quectel Wireless Solutions Co., Ltd.
 50:38:2F		ASE Group Chung-Li
 50:38:AB		Prove
 50:39:2F		Ingram Micro Services
@@ -28973,6 +28974,7 @@
 58:27:45		Angelbird Technologies GmbH
 58:27:8C		Buffalo.Inc
 58:2A:93		Apple, Inc.
+58:2A:BD		Espressif Inc.
 58:2A:F7		Huawei Technologies Co.,Ltd
 58:2B:0A		Texas Instruments
 58:2B:DB		Pax AB
@@ -36535,6 +36537,7 @@
 74:24:35		Huawei Device Co., Ltd.
 74:24:9F		TIBRO Corp.
 74:24:CA		Guangzhou Shiyuan Electronic Technology Company Limited
+74:25:54		NVIDIA Corporation
 74:25:84		IEEE Registration Authority
 74:25:84:00:00:00/28	Alcon Wireless Private Limited
 74:25:84:10:00:00/28	Creative Synergy Ventures Pty. Ltd.
@@ -40443,6 +40446,7 @@
 8C:1F:64:42:B0:00/36	Gamber Johnson-LLC
 8C:1F:64:42:D0:00/36	Jemac Sweden AB
 8C:1F:64:42:F0:00/36	Tomorrow Companies Inc
+8C:1F:64:43:10:00/36	Pneumax Spa
 8C:1F:64:43:20:00/36	Rebel Systems
 8C:1F:64:43:40:00/36	netmon
 8C:1F:64:43:70:00/36	Gogo BA
@@ -40742,6 +40746,7 @@
 8C:1F:64:5F:A0:00/36	PolCam Systems Sp. z o.o.
 8C:1F:64:5F:B0:00/36	Recom Llc.
 8C:1F:64:5F:C0:00/36	Lance Design LLC
+8C:1F:64:5F:E0:00/36	Pneumax Spa
 8C:1F:64:5F:F0:00/36	Dave Srl
 8C:1F:64:60:00:00/36	Anhui Chaokun Testing Equipment Co., Ltd
 8C:1F:64:60:10:00/36	Camius
@@ -41086,6 +41091,7 @@
 8C:1F:64:80:20:00/36	Daiichi Electric Industry Co., Ltd
 8C:1F:64:80:30:00/36	MOSCA Elektronik und Antriebstechnik GmbH
 8C:1F:64:80:40:00/36	EA Elektro-Automatik GmbH
+8C:1F:64:80:50:00/36	ATAL s.r.o.
 8C:1F:64:80:60:00/36	Matrixspace
 8C:1F:64:80:70:00/36	Giordano Controls Spa
 8C:1F:64:80:C0:00/36	Thermify Holdings Ltd
@@ -41698,6 +41704,7 @@
 8C:1F:64:BC:20:00/36	Huz Electronics Ltd
 8C:1F:64:BC:30:00/36	FoxIoT OÜ
 8C:1F:64:BC:40:00/36	EasyNet Industry (Shenzhen) Co., Ltd
+8C:1F:64:BC:50:00/36	Dorlet Sau
 8C:1F:64:BC:60:00/36	Chengdu ZiChen Time&Frequency Technology Co.,Ltd
 8C:1F:64:BC:70:00/36	UGUARD NETWORKS TECHNOLOGY Co.,LTD
 8C:1F:64:BC:90:00/36	Gl Tech Co.,Ltd
@@ -43048,6 +43055,7 @@
 90:61:AE		Intel Corporate
 90:62:3F		Apple, Inc.
 90:63:3B		Samsung Electronics Co.,Ltd
+90:64:9B		Espressif Inc.
 90:64:AD		Huawei Technologies Co.,Ltd
 90:65:60		EM Microelectronic
 90:65:84		Intel Corporate
@@ -44795,6 +44803,7 @@
 9C:C9:EB		Netgear
 9C:CA:D9		Nokia Corporation
 9C:CB:F7		Cloud Star Technology Co., Ltd.
+9C:CC:01		Espressif Inc.
 9C:CC:83		Juniper Networks
 9C:CD:42		Dongguan Liesheng Electronic Co., Ltd.
 9C:CD:82		Cheng Uei Precision Industry Co.,Ltd
@@ -45894,6 +45903,7 @@ A4:D5:78		Texas Instruments
 A4:D5:C2		Hangzhou Hikvision Digital Technology Co.,Ltd.
 A4:D7:3C		Seiko Epson Corporation
 A4:D7:95		Wingtech Mobile Communications Co.,Ltd
+A4:D7:D6		Shenzhen Linkoh Network Technology Co;Ltd
 A4:D8:56		Gimbal, Inc
 A4:D8:CA		Hong Kong Water World Technology Co. Limited
 A4:D9:31		Apple, Inc.
@@ -49547,11 +49557,17 @@ C4:80:25		Huawei Device Co., Ltd.
 C4:80:8A		Cloud Diagnostics Canada ULC
 C4:82:3F		Fujian Newland Auto-ID Tech. Co,.Ltd.
 C4:82:4E		Changzhou Uchip Electronics Co., LTD.
+C4:82:72:00:00:00/28	Gabriel Tecnologia
 C4:82:72:10:00:00/28	Private
+C4:82:72:20:00:00/28	Digisine Energytech Co., Ltd.
+C4:82:72:50:00:00/28	Schunk SE & Co. KG
 C4:82:72:60:00:00/28	Mantenimiento y paileria
 C4:82:72:70:00:00/28	Mode Sensors AS
+C4:82:72:80:00:00/28	Shanghai Smart Logic Technology Ltd.
+C4:82:72:90:00:00/28	Satways Ltd
 C4:82:72:A0:00:00/28	Tolt Technologies LLC
 C4:82:72:B0:00:00/28	MyPlace Australia Pty Ltd
+C4:82:72:C0:00:00/28	E2-Cad
 C4:82:E1		Tuya Smart Inc.
 C4:83:6F		Ciena Corporation
 C4:83:72		IEEE Registration Authority
@@ -50276,6 +50292,7 @@ C8:C6:FE		eero inc.
 C8:C7:50		Motorola Mobility LLC, a Lenovo Company
 C8:C7:91		Zero1.tv GmbH
 C8:C8:3F		Texas Instruments
+C8:C8:73		Chipsen Inc.
 C8:C9:A3		Espressif Inc.
 C8:CA:63		Huawei Device Co., Ltd.
 C8:CA:79		Ciena Corporation
@@ -50440,6 +50457,7 @@ CC:08:E0		Apple, Inc.
 CC:08:FA		Apple, Inc.
 CC:08:FB		Tp-Link Technologies Co.,Ltd.
 CC:09:C8		Imaqliq Ltd
+CC:0C:9C		Cig Shanghai Co Ltd
 CC:0C:DA		Miljovakt AS
 CC:0D:CB		Microsoft Corporation
 CC:0D:E7		B Meters S.R.L.
