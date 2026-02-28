@@ -19658,6 +19658,7 @@
 14:08:08		Espressif Inc.
 14:09:B4		zte corporation
 14:09:DC		Huawei Technologies Co.,Ltd
+14:0A:02		Shenzhen Bilian Electronic Co.，Ltd
 14:0A:29		Tiinlab Corporation
 14:0A:C5		Amazon Technologies Inc.
 14:0B:9E		Samsung Electronics Co.,Ltd
@@ -24768,6 +24769,7 @@
 38:E0:54		Security Design, Inc.
 38:E0:8E		Mitsubishi Electric Corporation
 38:E1:3D		Apple, Inc.
+38:E1:58		Flaircomm Microelectronics,Inc.
 38:E1:AA		zte corporation
 38:E1:F4		Sagemcom Broadband SAS
 38:E2:6E		ShenZhen Sweet Rain Electronics Co.,Ltd.
@@ -41713,6 +41715,7 @@
 8C:1F:64:BC:C0:00/36	Sound Health Systems
 8C:1F:64:BC:D0:00/36	A.L.S.E.
 8C:1F:64:BC:E0:00/36	BESO sp. z o.o.
+8C:1F:64:BC:F0:00/36	Erba Lachema s.r.o.
 8C:1F:64:BD:00:00/36	Mesa Labs, Inc.
 8C:1F:64:BD:20:00/36	attocube systems AG
 8C:1F:64:BD:30:00/36	IO Master Technology
@@ -49568,6 +49571,7 @@ C4:82:72:90:00:00/28	Satways Ltd
 C4:82:72:A0:00:00/28	Tolt Technologies LLC
 C4:82:72:B0:00:00/28	MyPlace Australia Pty Ltd
 C4:82:72:C0:00:00/28	E2-Cad
+C4:82:72:D0:00:00/28	Posital B.V.
 C4:82:E1		Tuya Smart Inc.
 C4:83:6F		Ciena Corporation
 C4:83:72		IEEE Registration Authority
@@ -51858,6 +51862,7 @@ D4:9E:3B		Guangzhou Shiyuan Electronic Technology Company Limited
 D4:9E:6D		Wuhan Zhongyuan Huadian Science & Technology Co.,
 D4:9F:29		Fiberhome Telecommunication Technologies Co.,LTD
 D4:9F:DD		Huawei Device Co., Ltd.
+D4:9F:F9		Earda Technologies co Ltd
 D4:A0:2A		Cisco Systems, Inc
 D4:A0:FB		IEEE Registration Authority
 D4:A0:FB:00:00:00/28	M2MD Technologies, Inc.
@@ -53428,6 +53433,7 @@ E0:FA:EC		Platan sp. z o.o. sp. k.
 E0:FF:F1		Texas Instruments
 E0:FF:F7		Softiron Inc.
 E4:01:77		SafeOwl, Inc.
+E4:02:74		FW Murphy Production Controls
 E4:02:9B		Intel Corporate
 E4:04:39		TomTom Software Ltd
 E4:05:F8		Bytedance
@@ -56437,6 +56443,7 @@ FA:63:E1		Samsung Electronics (UK) Ltd
 FA:66:73		Nells Electronic Systems (Nes)
 FA:7A:CB		Ultra Ethernet Consortium
 FA:7D:04		Salience Labs
+FA:93:05		Panasonic Automotive Systems Co., Ltd.
 FA:94:F1		IEEE 802.1 Chair
 FA:BA:85		APAT Optoelectronics Components Co., Ltd.
 FA:D9:88		Momentum Data Systems
