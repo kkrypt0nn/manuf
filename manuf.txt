@@ -40798,6 +40798,7 @@
 8C:1F:64:64:40:00/36	Dave Srl
 8C:1F:64:64:70:00/36	Senior Group LLC
 8C:1F:64:64:80:00/36	Gridpulse c.o.o.
+8C:1F:64:64:C0:00/36	ACS Motion Control
 8C:1F:64:64:D0:00/36	Newone Co.,Ltd.
 8C:1F:64:64:E0:00/36	Nilfisk Food
 8C:1F:64:64:F0:00/36	Invixium Access Inc
@@ -42014,6 +42015,7 @@
 8C:1F:64:D9:C0:00/36	Relcom, Inc.
 8C:1F:64:D9:D0:00/36	Mitsubishi Heavy Industries Thermal Systems, Ltd.
 8C:1F:64:D9:E0:00/36	Wagner Group GmbH
+8C:1F:64:DA:00:00/36	Sensata Technologies Inc.
 8C:1F:64:DA:10:00/36	Hangteng (HK) Technology Co., Limited
 8C:1F:64:DA:40:00/36	Foenix Coding Ltd
 8C:1F:64:DA:50:00/36	Daom
@@ -49569,6 +49571,7 @@ C4:82:4E		Changzhou Uchip Electronics Co., LTD.
 C4:82:72:00:00:00/28	Gabriel Tecnologia
 C4:82:72:10:00:00/28	Private
 C4:82:72:20:00:00/28	Digisine Energytech Co., Ltd.
+C4:82:72:40:00:00/28	Melecs EWS GmbH
 C4:82:72:50:00:00/28	Schunk SE & Co. KG
 C4:82:72:60:00:00/28	Mantenimiento y paileria
 C4:82:72:70:00:00/28	Mode Sensors AS
@@ -53935,6 +53938,7 @@ E8:1E:92		Huawei Device Co., Ltd.
 E8:20:E2		HUMAX Co., Ltd.
 E8:22:81		GD Midea Air-Conditioning Equipment Co.,Ltd.
 E8:22:B8		Shenzhen Skyworth Digital  Technology  CO., Ltd
+E8:23:FB		Redder
 E8:24:04		Quectel Wireless Solutions Co.,Ltd.
 E8:24:A6		Juniper Networks
 E8:25:87		Shenzhen Chilink IoT Technology Co., Ltd.
