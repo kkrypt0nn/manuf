@@ -15521,6 +15521,7 @@
 00:7D:FA		Volkswagen Group of America
 00:7E:56		China Dragon Technology Limited
 00:7E:95		Cisco Systems, Inc
+00:7F:1D		Fantasia Trading LLC
 00:7F:28		Actiontec Electronics, Inc
 00:80:00		Multitech Systems, Inc.
 00:80:01		Periphonics Corporation
@@ -21165,6 +21166,7 @@
 1C:E1:92		Qisda Corporation
 1C:E2:09		Apple, Inc.
 1C:E2:CC		Texas Instruments
+1C:E4:DD		Technicolor (China) Technology Co., Ltd.
 1C:E5:04		Huawei Technologies Co.,Ltd
 1C:E5:7F		Samsung Electronics Co.,Ltd
 1C:E6:1D		Samsung Electronics Co.,Ltd
@@ -24677,6 +24679,8 @@
 38:AF:D0		Nevro
 38:AF:D7		Fujitsu Limited
 38:B1:2D		Sonotronic Nagel GmbH
+38:B1:4E:20:00:00/28	Marssun
+38:B1:4E:80:00:00/28	QNION Co.,Ltd
 38:B1:9E		IEEE Registration Authority
 38:B1:9E:00:00:00/28	Triple Jump Medical
 38:B1:9E:10:00:00/28	Freedompro Srl
@@ -25744,6 +25748,7 @@
 40:B8:9A		Hon Hai Precision Ind. Co.,Ltd.
 40:B8:C2		Osmozis
 40:B9:3C		Hewlett Packard Enterprise
+40:BA:09		Dell Inc.
 40:BA:61		ARIMA Communications Corp.
 40:BB:56		TeraNXT Global India Pvt Ltd.
 40:BC:60		Apple, Inc.
@@ -28952,6 +28957,7 @@
 58:20:8A:E0:00:00/28	UPM Technology, Inc
 58:20:B1		Hewlett Packard
 58:21:36		KMB systems, s.r.o.
+58:21:9D		Shanghai Timar Integrated Circuit Co., LTD
 58:21:E9		Twpi
 58:23:8C		Vantiva USA LLC
 58:23:9B		Fiberhome Telecommunication Technologies Co.,LTD
@@ -40107,6 +40113,7 @@
 8C:1F:64:20:E0:00/36	Alpha Bridge Technologies Private Limited
 8C:1F:64:21:10:00/36	Bipom Electronics, Inc.
 8C:1F:64:21:50:00/36	XLOGIC srl
+8C:1F:64:21:60:00/36	Hiwin Mikrosystem Corp.
 8C:1F:64:21:90:00/36	Guangzhou Desam Audio Co.,Ltd
 8C:1F:64:21:A0:00/36	Exicom Technologies India Pvt. Ltd.
 8C:1F:64:21:C0:00/36	LLC "EMS-Expert"
@@ -40454,6 +40461,7 @@
 8C:1F:64:43:10:00/36	Pneumax Spa
 8C:1F:64:43:20:00/36	Rebel Systems
 8C:1F:64:43:40:00/36	netmon
+8C:1F:64:43:60:00/36	Vision Systems Safety Tech
 8C:1F:64:43:70:00/36	Gogo BA
 8C:1F:64:43:80:00/36	Integer.pl S.A.
 8C:1F:64:43:90:00/36	Bornico
@@ -47367,6 +47375,7 @@ B0:EC:E1		Private
 B0:EE:45		AzureWave Technology Inc.
 B0:EE:7B		Roku, Inc
 B0:F0:0C		Dongguan Wecxw CO.,Ltd.
+B0:F0:79		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 B0:F1:A3		Fengfan (BeiJing) Technology Co., Ltd.
 B0:F1:AE		eero inc.
 B0:F1:BC		Dhemax Ingenieros Ltda
@@ -49581,6 +49590,7 @@ C4:82:72:A0:00:00/28	Tolt Technologies LLC
 C4:82:72:B0:00:00/28	MyPlace Australia Pty Ltd
 C4:82:72:C0:00:00/28	E2-Cad
 C4:82:72:D0:00:00/28	Posital B.V.
+C4:82:72:E0:00:00/28	Smart Radar System, Inc
 C4:82:E1		Tuya Smart Inc.
 C4:83:6F		Ciena Corporation
 C4:83:72		IEEE Registration Authority
@@ -54038,6 +54048,7 @@ E8:65:5F		Dell Inc.
 E8:65:D4		Tenda Technology Co.,Ltd.Dongguan branch
 E8:66:C4		Diamanti
 E8:68:19		Huawei Technologies Co.,Ltd
+E8:68:B1		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 E8:68:E7		Espressif Inc.
 E8:6A:64		LCFC(Hefei) Electronics Technology co., ltd
 E8:6B:EA		Espressif Inc.
