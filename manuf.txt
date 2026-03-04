@@ -24679,8 +24679,11 @@
 38:AF:D0		Nevro
 38:AF:D7		Fujitsu Limited
 38:B1:2D		Sonotronic Nagel GmbH
+38:B1:4E		IEEE Registration Authority
 38:B1:4E:20:00:00/28	Marssun
+38:B1:4E:70:00:00/28	Nace
 38:B1:4E:80:00:00/28	QNION Co.,Ltd
+38:B1:4E:D0:00:00/28	Private
 38:B1:9E		IEEE Registration Authority
 38:B1:9E:00:00:00/28	Triple Jump Medical
 38:B1:9E:10:00:00/28	Freedompro Srl
