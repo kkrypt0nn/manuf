@@ -51684,6 +51684,7 @@ D4:46:E1		Apple, Inc.
 D4:47:5A		ScreenBeam, Inc.
 D4:48:2D		Shenzhen Deejoy Lighting Technology Co.,Ltd.
 D4:48:67		Silicon Laboratories
+D4:4A:85		Silicon Laboratories
 D4:4B:5E		Taiyo Yuden Co., Ltd.
 D4:4B:B6		Zhejiang Tmall Technology Co., Ltd.
 D4:4C:24		Vuppalamritha Magnetic Components LTD
@@ -53469,6 +53470,7 @@ E4:06:E0		Huawei Technologies Co.,Ltd
 E4:07:2B		Huawei Device Co., Ltd.
 E4:08:E7		Quectel Wireless Solutions Co.,Ltd.
 E4:0A:16		Huawei Technologies Co.,Ltd
+E4:0A:75		Silicon Laboratories
 E4:0C:FD		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 E4:0D:36		Intel Corporate
 E4:0D:3B		Ericsson AB
