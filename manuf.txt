@@ -26653,6 +26653,7 @@
 44:95:FA		Qingdao Santong Digital Technology Co.Ltd
 44:96:2B		Aidon Oy
 44:97:5A		Shenzhen Fast Technologies Co.,Ltd
+44:9A:52		zte corporation
 44:9B:78		The Now Factory
 44:9B:C1		Huawei Technologies Co.,Ltd
 44:9B:C6		EOSS s.r.l.
@@ -26709,6 +26710,7 @@
 44:AE:44		Huawei Device Co., Ltd.
 44:AE:AB		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 44:AF:28		Intel Corporate
+44:B1:76		Espressif Inc.
 44:B2:95		Sichuan AI-Link Technology Co., Ltd.
 44:B3:2D		Tp-Link Technologies Co.,Ltd.
 44:B3:82		Kuang-chi Institute of Advanced Technology
@@ -31239,6 +31241,7 @@
 68:C4:4D		Motorola Mobility LLC, a Lenovo Company
 68:C6:3A		Espressif Inc.
 68:C6:AC		Intel Corporate
+68:C8:C0		Gsd Viet Nam Technology Company Limited
 68:C8:EB		Rockwell Automation
 68:C9:0B		Texas Instruments
 68:C9:5D		SZ Knowact Robot Technology Co., Ltd
@@ -31315,6 +31318,7 @@
 68:ED:A4		Shenzhen Seavo Technology Co.,Ltd
 68:EE:4B		Sharetronic Data Technology Co.,Ltd
 68:EE:88		Shenzhen TINNO Mobile Technology Corp.
+68:EE:8F		Espressif Inc.
 68:EE:96		Cisco SPVTG
 68:EF:43		Apple, Inc.
 68:EF:A8		AutomationDirect.com
@@ -41342,6 +41346,7 @@
 8C:1F:64:97:10:00/36	Infrasafe/ Advantor Systems
 8C:1F:64:97:20:00/36	Federant LLC
 8C:1F:64:97:30:00/36	Dorsett Technologies Inc
+8C:1F:64:97:60:00/36	JES Electronic Systems Private Limited
 8C:1F:64:97:80:00/36	Planet Innovation Products Inc.
 8C:1F:64:97:90:00/36	Arktis Radiation Detectors
 8C:1F:64:97:C0:00/36	MB connect line GmbH Fernwartungssysteme
@@ -50176,6 +50181,7 @@ C8:84:4E		Flextronics International Kft
 C8:84:8C		Ruckus Wireless
 C8:84:A1		Cisco Systems, Inc
 C8:84:CF		Huawei Technologies Co.,Ltd
+C8:85:41		Espressif Inc.
 C8:85:50		Apple, Inc.
 C8:86:29		Shenzhen Duubee Intelligent Technologies Co.,LTD.
 C8:87:22		Lumenpulse
@@ -51760,6 +51766,7 @@ D4:63:DE		vivo Mobile Communication Co., Ltd.
 D4:63:FE		Arcadyan Corporation
 D4:64:F7		Chengdu Usee Digital Technology Co., Ltd
 D4:66:24		Cisco Systems, Inc
+D4:66:63		Shenzhen Detran Technology Co.,Ltd.
 D4:66:A8		Riedo Networks Ltd
 D4:67:61		XonTel Technology Co.
 D4:67:D3		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
@@ -52293,6 +52300,7 @@ D8:80:DC		Huawei Device Co., Ltd.
 D8:81:CE		Ahn Inc.
 D8:83:32		TaiXin Semiconductor Co., Ltd
 D8:84:66		Extreme Networks Headquarters
+D8:85:5E		zte corporation
 D8:85:AC		Espressif Inc.
 D8:86:0B		IEEE Registration Authority
 D8:86:0B:00:00:00/28	Inspur Group Co., Ltd.
@@ -55456,6 +55464,7 @@ F4:1A:79:D0:00:00/28	Directed Electronics OE Pty Ltd
 F4:1A:79:E0:00:00/28	Shenzhen Yizhao Innovation Technology Co., Ltd.
 F4:1A:9C		Xiaomi Communications Co Ltd
 F4:1A:B0		Shenzhen Xingguodu Technology Co., Ltd.
+F4:1A:F7		zte corporation
 F4:1B:A1		Apple, Inc.
 F4:1C:26		AltoBeam Inc.
 F4:1C:71		Shenzhen Sanmu Communication Technology Co., Ltd
