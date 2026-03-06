@@ -24686,6 +24686,7 @@
 38:B1:4E:70:00:00/28	Nace
 38:B1:4E:80:00:00/28	QNION Co.,Ltd
 38:B1:4E:90:00:00/28	Dcl Communication Pte. Ltd.
+38:B1:4E:A0:00:00/28	Amissiontech Co., Ltd
 38:B1:4E:D0:00:00/28	Private
 38:B1:9E		IEEE Registration Authority
 38:B1:9E:00:00:00/28	Triple Jump Medical
@@ -29763,6 +29764,7 @@
 5C:A6:E6		TP-Link Systems Inc
 5C:A7:21		New H3C Technologies Co., Ltd
 5C:A8:6A		Huawei Technologies Co.,Ltd
+5C:A9:31		38436
 5C:A9:33		Luma Home
 5C:AA:FD		Sonos, Inc.
 5C:AC:3D		Samsung Electronics Co.,Ltd
