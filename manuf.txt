@@ -4783,7 +4783,7 @@
 00:12:BC		Echolab LLC
 00:12:BD		Avantec Manufacturing Limited
 00:12:BE		Astek Corporation
-00:12:BF		Arcadyan Technology Corporation
+00:12:BF		Arcadyan Corporation
 00:12:C0		HotLava Systems, Inc.
 00:12:C1		Check Point Software Technologies Ltd.
 00:12:C2		Apex Electronics Factory
@@ -6682,7 +6682,7 @@
 00:1A:27		Ubistar
 00:1A:28		ASWT Co., LTD. Taiwan Branch H.K.
 00:1A:29		Johnson Outdoors Marine Electronics d/b/a Minnkota
-00:1A:2A		Arcadyan Technology Corporation
+00:1A:2A		Arcadyan Corporation
 00:1A:2B		Ayecom Technology Co., Ltd.
 00:1A:2C		SATEC Co.,LTD
 00:1A:2D		The Navvo Group
@@ -7634,7 +7634,7 @@
 00:1D:16		Sfr
 00:1D:17		Digital Sky Corporation
 00:1D:18		Power Innovation GmbH
-00:1D:19		Arcadyan Technology Corporation
+00:1D:19		Arcadyan Corporation
 00:1D:1A		OvisLink S.A.
 00:1D:1B		Sangean Electronics Inc.
 00:1D:1C		Gennet s.a.
@@ -9153,7 +9153,7 @@
 00:23:05		Cisco Systems, Inc
 00:23:06		Alpsalpine Co,.Ltd
 00:23:07		Future Innovation Tech Co.,Ltd
-00:23:08		Arcadyan Technology Corporation
+00:23:08		Arcadyan Corporation
 00:23:09		Janam Technologies LLC
 00:23:0A		ARBURG GmbH & Co KG
 00:23:0B		Commscope
@@ -9982,7 +9982,7 @@
 00:26:48		Emitech Corp.
 00:26:4A		Apple, Inc.
 00:26:4C		Shanghai DigiVision Technology Co., Ltd.
-00:26:4D		Arcadyan Technology Corporation
+00:26:4D		Arcadyan Corporation
 00:26:4E		r2p GmbH
 00:26:4F		Krüger &Gothe GmbH
 00:26:50		2Wire Inc
@@ -20345,7 +20345,7 @@
 18:82:19		Alibaba Cloud Computing Ltd.
 18:82:8C		Arcadyan Corporation
 18:83:31		Samsung Electronics Co.,Ltd
-18:83:BF		Arcadyan Technology Corporation
+18:83:BF		Arcadyan Corporation
 18:84:10		CoreTrust Inc.
 18:84:C1		Guangzhou Shiyuan Electronic Technology Company Limited
 18:86:37		Ingram Micro Services
@@ -21118,7 +21118,7 @@
 1C:C3:AB		Espressif Inc.
 1C:C3:EB		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 1C:C5:86		Absolute Acoustics
-1C:C6:3C		Arcadyan Technology Corporation
+1C:C6:3C		Arcadyan Corporation
 1C:C7:2D		Shenzhen Huapu Digital CO.,Ltd
 1C:C8:C1		HongKong YiTong Technology Ltd.
 1C:C9:92		Honor Device Co., Ltd.
@@ -21925,6 +21925,7 @@
 24:7D:4D		Texas Instruments
 24:7E:12		Cisco Systems, Inc
 24:7E:51		zte corporation
+24:7E:7F		D-Fend Solutions A.D Ltd
 24:7F:20		Sagemcom Broadband SAS
 24:7F:3C		Huawei Technologies Co.,Ltd
 24:80:00		Westcontrol AS
@@ -24636,6 +24637,7 @@
 38:9F:83		OTN Systems N.V.
 38:A0:67		Nokia Solutions and Networks GmbH & Co. KG
 38:A2:8C		Shenzhen Rf-Link Technology Co.,Ltd.
+38:A3:E0		1Finity Inc
 38:A4:4B		Huawei Device Co., Ltd.
 38:A4:ED		Xiaomi Communications Co Ltd
 38:A5:3C		COMECER Netherlands
@@ -24684,13 +24686,16 @@
 38:B1:4E:00:00:00/28	Shenzhen Tongchuang Mechatronics co,LtD.
 38:B1:4E:10:00:00/28	Shenzhen Mondo Technology Co,.Ltd
 38:B1:4E:20:00:00/28	Marssun
+38:B1:4E:30:00:00/28	QRONOZ CO., Ltd.
 38:B1:4E:40:00:00/28	Noitom Robotics Technology (Beijing) Co.,Ltd.
+38:B1:4E:50:00:00/28	Brookhaven National Laboratory
 38:B1:4E:60:00:00/28	Universal Robots A/S
 38:B1:4E:70:00:00/28	Nace
 38:B1:4E:80:00:00/28	QNION Co.,Ltd
 38:B1:4E:90:00:00/28	Dcl Communication Pte. Ltd.
 38:B1:4E:A0:00:00/28	Amissiontech Co., Ltd
 38:B1:4E:B0:00:00/28	Huizhou GYXX Technology Co., Ltd
+38:B1:4E:C0:00:00/28	Guangzhou Sunrise Technology Co., Ltd.
 38:B1:4E:D0:00:00/28	Private
 38:B1:9E		IEEE Registration Authority
 38:B1:9E:00:00:00/28	Triple Jump Medical
@@ -27393,7 +27398,7 @@
 4C:07:C9		COMPUTER OFFICE Co.,Ltd.
 4C:09:97		Arista Networks
 4C:09:B4		zte corporation
-4C:09:D4		Arcadyan Technology Corporation
+4C:09:D4		Arcadyan Corporation
 4C:09:FA		Frontier Smart Technologies Ltd
 4C:0A:3D		Adnacom Inc.
 4C:0A:4E		Extreme Networks Headquarters
@@ -28175,7 +28180,7 @@
 50:7B:9D		LCFC(Hefei) Electronics Technology co., ltd
 50:7C:6F		Intel Corporate
 50:7D:02		Biodit
-50:7E:5D		Arcadyan Technology Corporation
+50:7E:5D		Arcadyan Corporation
 50:80:4A		Quectel Wireless Solutions Co.,Ltd.
 50:81:40		HP Inc.
 50:82:D5		Apple, Inc.
@@ -29848,7 +29853,7 @@
 5C:DA:D4		Murata Manufacturing Co., Ltd.
 5C:DB:36		Calix Inc.
 5C:DC:49		Samsung Electronics Co.,Ltd
-5C:DC:96		Arcadyan Technology Corporation
+5C:DC:96		Arcadyan Corporation
 5C:DD:70		Hangzhou H3C Technologies Co., Limited
 5C:DE:34		Shenzhen Mercury Communication Technologies Co.,Ltd.
 5C:DF:89		Ruckus Wireless
@@ -35199,7 +35204,7 @@
 70:B3:D5:B7:50:00/36	Grossenbacher Systeme AG
 70:B3:D5:B7:60:00/36	Atl-Sd
 70:B3:D5:B7:70:00/36	Motec Pty Ltd
-70:B3:D5:B7:80:00/36	HOERMANN GmbH
+70:B3:D5:B7:80:00/36	Hörmann Warnsysteme GmbH
 70:B3:D5:B7:90:00/36	Dadacon GmbH
 70:B3:D5:B7:A0:00/36	Mahle
 70:B3:D5:B7:B0:00/36	Doosan Digital Innovation America
@@ -36609,7 +36614,7 @@
 74:2F:68		AzureWave Technology Inc.
 74:30:9D		Infinix mobility limited
 74:30:AF		Fiberhome Telecommunication Technologies Co.,LTD
-74:31:70		Arcadyan Technology Corporation
+74:31:70		Arcadyan Corporation
 74:31:74		Apple, Inc.
 74:31:7E		Ruckus Wireless
 74:32:56		NT-ware Systemprg GmbH
@@ -37801,7 +37806,7 @@
 7C:4D:8F		HP Inc.
 7C:4E:09		Shenzhen Skyworth Wireless Technology Co.,Ltd
 7C:4F:7D		Sawwave
-7C:4F:B5		Arcadyan Technology Corporation
+7C:4F:B5		Arcadyan Corporation
 7C:50:49		Apple, Inc.
 7C:50:79		Intel Corporate
 7C:50:DA		E.J Ward
@@ -38974,7 +38979,7 @@
 84:9A:40		Hangzhou Hikvision Digital Technology Co.,Ltd.
 84:9C:02		Druid Software
 84:9C:A4		Mimosa Networks
-84:9C:A6		Arcadyan Technology Corporation
+84:9C:A6		Arcadyan Corporation
 84:9D:4B		Shenzhen Boomtech Industrial Corporation
 84:9D:64		SMC Corporation
 84:9D:C2		Shanghai MXCHIP Information Technology Co., Ltd.
@@ -39180,7 +39185,7 @@
 88:01:F9		Texas Instruments
 88:02:64		Pascal Audio
 88:03:4C		Weifang Goertek Electronics Co.,Ltd
-88:03:55		Arcadyan Technology Corporation
+88:03:55		Arcadyan Corporation
 88:03:E9		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 88:07:4B		LG Electronics (Mobile Communications)
 88:08:94		Skullcandy
@@ -39231,7 +39236,7 @@
 88:23:FE		TTTech Computertechnik AG
 88:25:08		Meta Platforms, Inc.
 88:25:10		Hewlett Packard Enterprise
-88:25:2C		Arcadyan Technology Corporation
+88:25:2C		Arcadyan Corporation
 88:25:93		Tp-Link Technologies Co.,Ltd.
 88:26:3F		Zhejiang Uniview Technologies Co.,Ltd.
 88:28:7D		AltoBeam (China) Inc.
@@ -40847,6 +40852,7 @@
 8C:1F:64:66:20:00/36	Suzhou Leamore Optronics Co., Ltd.
 8C:1F:64:66:30:00/36	mal-tech Technological Solutions Ltd/CRISP
 8C:1F:64:66:40:00/36	Thermoeye Inc
+8C:1F:64:66:80:00/36	Johnson and Johnson Medtech
 8C:1F:64:66:B0:00/36	Currux Vision LLC
 8C:1F:64:66:C0:00/36	Lineage Power Pvt Ltd.,
 8C:1F:64:66:D0:00/36	Vt100 Srl
@@ -44727,7 +44733,7 @@
 9C:7F:57		UNIC Memory Technology Co Ltd
 9C:7F:81		Shenzhen Fast Technologies Co.,Ltd
 9C:80:7D		SYSCABLE Korea Inc.
-9C:80:DF		Arcadyan Technology Corporation
+9C:80:DF		Arcadyan Corporation
 9C:82:3F		Huawei Device Co., Ltd.
 9C:82:75		Yichip Microelectronics (Hangzhou) Co.,Ltd
 9C:82:81		vivo Mobile Communication Co., Ltd.
@@ -46394,7 +46400,7 @@ A8:D0:E5		Juniper Networks
 A8:D1:62		Samsung Electronics Co.,Ltd
 A8:D2:36		Lightware Visual Engineering
 A8:D3:C8		Wachendorff Automation GmbH & CO.KG
-A8:D3:F7		Arcadyan Technology Corporation
+A8:D3:F7		Arcadyan Corporation
 A8:D4:09		USA 111 Inc
 A8:D4:98		Avira Operations GmbH & Co. KG
 A8:D4:E0		Huawei Technologies Co.,Ltd
@@ -49066,6 +49072,7 @@ C0:67:AF		Cisco Systems, Inc
 C0:68:CC		Shenzhen Skyworth Digital  Technology  CO., Ltd
 C0:69:11		Arista Networks
 C0:6B:55		Motorola Mobility LLC, a Lenovo Company
+C0:6B:C7		Gallagher Group Limited
 C0:6C:0C		Apple, Inc.
 C0:6C:0F		Dobbs Stanford
 C0:6C:6D		MagneMotion, Inc.
