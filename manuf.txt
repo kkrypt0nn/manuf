@@ -18458,6 +18458,7 @@
 08:CC:A7		Cisco Systems, Inc
 08:CD:9B		samtec automotive electronics & software GmbH
 08:CE:94		EM Microelectronic
+08:D0:1E		Juniper Networks
 08:D0:9F		Cisco Systems, Inc
 08:D0:B7		Qingdao Hisense Communications Co.,Ltd.
 08:D1:F9		Espressif Inc.
@@ -21547,6 +21548,9 @@
 20:AF:1B		SteelSeries ApS
 20:B0:01		Vantiva Technologies Belgium
 20:B0:F7		Enclustra GmbH
+20:B3:7F		IEEE Registration Authority
+20:B3:7F:20:00:00/28	Aina Computers ,Inc.
+20:B3:7F:B0:00:00/28	B810 Spa
 20:B3:99		Enterasys
 20:B5:C6		Mimosa Networks
 20:B7:30		TeconGroup, Inc
@@ -23275,6 +23279,7 @@
 30:05:5C		Brother industries, LTD.
 30:07:4D		Samsung Electro-Mechanics(Thailand)
 30:07:5C		43403
+30:08:4D		Trumpf Hüttinger
 30:09:C0		Motorola Mobility LLC, a Lenovo Company
 30:09:F9		IEEE Registration Authority
 30:09:F9:00:00:00/28	Hurray Cloud Technology Co., Ltd.
@@ -24546,6 +24551,7 @@
 38:6B:1C		Shenzhen Mercury Communication Technologies Co.,Ltd.
 38:6B:BB		Commscope
 38:6C:9B		Ivy Biomedical
+38:6D:ED		Juniper Networks
 38:6E:21		Wasion Group Ltd.
 38:6E:88		zte corporation
 38:6E:A2		vivo Mobile Communication Co., Ltd.
@@ -36517,6 +36523,7 @@
 74:12:13		Linksys USA, Inc
 74:12:B3		Chongqing Fugui Electronics Co.,Ltd.
 74:12:BB		Fiberhome Telecommunication Technologies Co.,LTD
+74:13:6A		Motorola Mobility LLC, a Lenovo Company
 74:13:EA		Intel Corporate
 74:14:89		SRT Wireless
 74:14:D0		Apple, Inc.
@@ -42021,6 +42028,7 @@
 8C:1F:64:D6:20:00/36	Alpes recherche et développement
 8C:1F:64:D6:30:00/36	Mobileye
 8C:1F:64:D6:40:00/36	Potter Electric Signal Co. LLC
+8C:1F:64:D6:70:00/36	Groundtruth Ltd
 8C:1F:64:D6:90:00/36	ADiCo Corporation
 8C:1F:64:D6:C0:00/36	Packetalk LLC
 8C:1F:64:D7:10:00/36	Computech International
@@ -44065,6 +44073,7 @@
 98:29:A6		Compal Information (Kunshan) Co., Ltd.
 98:2A:0A		Intelbras
 98:2A:FD		Huawei Technologies Co.,Ltd
+98:2B:A6		Motorola Mobility LLC, a Lenovo Company
 98:2C:BC		Intel Corporate
 98:2C:BE		2Wire Inc
 98:2C:C6		Sernet (Suzhou) Technologies Corporation
@@ -54630,6 +54639,7 @@ EC:6C:9F		Chengdu Volans Technology CO.,LTD
 EC:6C:B5		zte corporation
 EC:6E:79		InHand Networks, INC.
 EC:6F:0B		FADU, Inc.
+EC:6F:F9		Pioseed Technology(Chengdu)Co.,Ltd.
 EC:70:97		Commscope
 EC:71:DB		Reolink Innovation Limited
 EC:72:5B		zte corporation
@@ -54808,6 +54818,7 @@ EC:B4:E8		Wistron Mexico SA de CV
 EC:B5:0A		Quectel Wireless Solutions Co.,Ltd.
 EC:B5:41		SHINANO E and E Co.Ltd.
 EC:B5:50		Samsung Electronics Co.,Ltd
+EC:B5:AF		RayService a.s.
 EC:B5:FA		Philips Lighting BV
 EC:B8:70		Beijing Heweinet Technology Co.,Ltd.
 EC:B8:78		Huawei Device Co., Ltd.
