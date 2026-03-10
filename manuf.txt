@@ -24697,6 +24697,7 @@
 38:B1:4E:B0:00:00/28	Huizhou GYXX Technology Co., Ltd
 38:B1:4E:C0:00:00/28	Guangzhou Sunrise Technology Co., Ltd.
 38:B1:4E:D0:00:00/28	Private
+38:B1:4E:E0:00:00/28	Knit Sound Company
 38:B1:9E		IEEE Registration Authority
 38:B1:9E:00:00:00/28	Triple Jump Medical
 38:B1:9E:10:00:00/28	Freedompro Srl
