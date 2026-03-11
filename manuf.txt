@@ -19271,6 +19271,7 @@
 10:39:17		Samsung Electronics Co.,Ltd
 10:39:4E		Hisense broadband multimedia technology Co.,Ltd
 10:39:E9		Juniper Networks
+10:3A:5D		Emerson
 10:3B:59		Samsung Electronics Co.,Ltd
 10:3C:59		zte corporation
 10:3D:0A		Hui Zhou Gaoshengda Technology Co.,LTD
@@ -21550,6 +21551,7 @@
 20:B0:F7		Enclustra GmbH
 20:B3:7F		IEEE Registration Authority
 20:B3:7F:20:00:00/28	Aina Computers ,Inc.
+20:B3:7F:30:00:00/28	QT medical inc
 20:B3:7F:B0:00:00/28	B810 Spa
 20:B3:99		Enterasys
 20:B5:C6		Mimosa Networks
@@ -22430,6 +22432,7 @@
 28:84:FA		SHARP Corporation
 28:85:2D		Touch Networks
 28:85:BB		Zen Exim Pvt. Ltd.
+28:87:5F		Annapurna labs
 28:87:61		LG Innotek
 28:87:BA		TP-Link Systems Inc
 28:89:15		CashGuard Sverige AB
@@ -29684,6 +29687,7 @@
 5C:7D:F3		Fiberhome Telecommunication Technologies Co.,LTD
 5C:80:B6		Intel Corporate
 5C:81:A7		Network Devices Pty Ltd
+5C:82:17		DSE srl
 5C:83:6C		Ruckus Wireless
 5C:83:82		Nokia
 5C:83:8F		Cisco Systems, Inc
@@ -30230,6 +30234,7 @@
 60:92:F5		Commscope
 60:93:16		Apple, Inc.
 60:95:32		Zebra Technologies Inc.
+60:95:78		Samsung Electronics Co.,Ltd
 60:95:BD		Apple, Inc.
 60:95:CE		IEEE Registration Authority
 60:95:CE:00:00:00/28	Siema Applications
@@ -30771,6 +30776,7 @@
 64:A8:37		Juni Korea Co., Ltd
 64:A9:65		Linkflow Co., Ltd.
 64:AC:2B		Juniper Networks
+64:AC:E0		Samsung Electronics Co.,Ltd
 64:AE:0C		Cisco Systems, Inc
 64:AE:88		Polytec GmbH
 64:AE:F1		Qingdao Hisense Electronics Co.,Ltd.
@@ -37067,6 +37073,7 @@
 78:07:38		Z.U.K. Elzab S.A.
 78:07:8F		Huawei Technologies Co.,Ltd
 78:08:4D		Huawei Technologies Co.,Ltd
+78:0A:57		Shanghai Lightningsemi Technology Co.,Ltd.
 78:0A:C7		Baofeng TV Co., Ltd.
 78:0B:8C		Private
 78:0C:71		Inseego Wireless, Inc
@@ -39920,6 +39927,7 @@
 8C:1F:64:0A:40:00/36	Dynamic Research, Inc.
 8C:1F:64:0A:50:00/36	Gomero Nordic AB
 8C:1F:64:0A:80:00/36	SamabaNova Systems
+8C:1F:64:0A:90:00/36	RFT Corp.
 8C:1F:64:0A:A0:00/36	Di3 Infotech Llp
 8C:1F:64:0A:B0:00/36	Norbit ODM AS
 8C:1F:64:0A:C0:00/36	Patch Technologies, Inc.
@@ -41586,6 +41594,7 @@
 8C:1F:64:AC:B0:00/36	Villari B.V.
 8C:1F:64:AC:D0:00/36	Escape Velocity Technologies
 8C:1F:64:AC:E0:00/36	Rayhaan Networks
+8C:1F:64:AC:F0:00/36	Provenrun
 8C:1F:64:AD:00:00/36	Elektrotechnik & Elektronik Oltmann GmbH
 8C:1F:64:AD:20:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:AD:30:00/36	Working Set Software Solutions
@@ -46915,6 +46924,7 @@ AC:E4:03		Shenzhen Visteng Technology CO.,LTD
 AC:E4:2E		SK hynix
 AC:E4:B5		Apple, Inc.
 AC:E5:F0		Doppler Labs
+AC:E6:06		Honor Device Co., Ltd.
 AC:E6:4B		Shenzhen Baojia Battery Technology Co., Ltd.
 AC:E6:BB		Google, Inc.
 AC:E7:7B		Sichuan Tianyi Comheart Telecom Co.,LTD
@@ -50608,6 +50618,7 @@ CC:2D:D2		Ruckus Wireless
 CC:2D:E0		Routerboard.com
 CC:2F:71		Intel Corporate
 CC:30:80		VAIO Corporation
+CC:30:89		Mellanox Technologies, Inc.
 CC:31:2A		Huizhou Tcl Communication Electron Co.,Ltd
 CC:32:96		Huawei Device Co., Ltd.
 CC:32:E5		Tp-Link Technologies Co.,Ltd.
@@ -51001,6 +51012,7 @@ CC:F9:E8		Samsung Electronics Co.,Ltd
 CC:F9:F0		Samsung Electronics Co.,Ltd
 CC:FA:00		LG Electronics (Mobile Communications)
 CC:FA:66		Huawei Device Co., Ltd.
+CC:FA:95		Honor Device Co., Ltd.
 CC:FA:F1		Sagemcom Broadband SAS
 CC:FB:65		Nintendo Co., Ltd.
 CC:FC:6D		Riz Transmitters
@@ -52780,6 +52792,7 @@ DC:72:23		Hui Zhou Gaoshengda Technology Co.,LTD
 DC:72:9B		Huawei Technologies Co.,Ltd
 DC:73:06		Vantiva Connected Home - Home Networks
 DC:73:85		Huawei Device Co., Ltd.
+DC:73:FC		Mellanox Technologies, Inc.
 DC:74:A8		Samsung Electronics Co.,Ltd
 DC:74:CE		ITOCHU Techno-Solutions Corporation
 DC:76:C3		IEEE Registration Authority
@@ -56454,6 +56467,7 @@ F8:DE:73		Huawei Technologies Co.,Ltd
 F8:DF:15		Sunitec Enterprise Co.,Ltd
 F8:DF:A8		zte corporation
 F8:DF:E1		MyLight Systems
+F8:E0:00		Fuji Electric Co., Ltd.
 F8:E0:79		Motorola Mobility LLC, a Lenovo Company
 F8:E2:52		Apple, Inc.
 F8:E3:5F		Sichuan Tianyi Comheart Telecom Co.,LTD
