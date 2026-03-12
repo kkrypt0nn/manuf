@@ -21552,7 +21552,10 @@
 20:B3:7F		IEEE Registration Authority
 20:B3:7F:20:00:00/28	Aina Computers ,Inc.
 20:B3:7F:30:00:00/28	QT medical inc
+20:B3:7F:60:00:00/28	Kitchen Armor
+20:B3:7F:80:00:00/28	Xconnect LLP
 20:B3:7F:B0:00:00/28	B810 Spa
+20:B3:7F:C0:00:00/28	EGSTON Power Electronics GmbH
 20:B3:99		Enterasys
 20:B5:C6		Mimosa Networks
 20:B7:30		TeconGroup, Inc
@@ -26538,6 +26541,7 @@
 44:49:63		Woven By Toyota U.S., Inc.
 44:49:88		Intel Corporate
 44:4A:37		Xiaomi Communications Co Ltd
+44:4A:4C		vivo Mobile Communication Co., Ltd.
 44:4A:65		Silverflare Ltd.
 44:4A:B0		Zhejiang Moorgen Intelligence Technology Co., Ltd
 44:4A:D6		Shenzhen Rinocloud Technology Co.,Ltd.
@@ -28124,6 +28128,7 @@
 50:61:3F		eero inc.
 50:61:7E		Shenzhen MiaoMing Intelligent Technology Co.,Ltd
 50:61:84		Avaya Inc
+50:61:88		PLANET Technology Corporation
 50:61:BF		Cisco Systems, Inc
 50:61:D6		Indu-Sol GmbH
 50:61:F6		Universal Electronics, Inc.
@@ -42040,6 +42045,7 @@
 8C:1F:64:D6:70:00/36	Groundtruth Ltd
 8C:1F:64:D6:90:00/36	ADiCo Corporation
 8C:1F:64:D6:C0:00/36	Packetalk LLC
+8C:1F:64:D6:F0:00/36	Arktron Electronics
 8C:1F:64:D7:10:00/36	Computech International
 8C:1F:64:D7:30:00/36	BRS Sistemas Eletrônicos
 8C:1F:64:D7:40:00/36	Tex Computer Srl
@@ -44108,6 +44114,7 @@
 98:3A:1F		Google, Inc.
 98:3B:16		AMPAK Technology, Inc.
 98:3B:67		DWnet Technologies(Suzhou) Corporation
+98:3B:8A		Sekisui Jushi CAP-AI System Co.,Ltd.
 98:3B:8F		Intel Corporate
 98:3C:8C		Apple, Inc.
 98:3D:AE		Espressif Inc.
@@ -47185,6 +47192,7 @@ B0:79:08		Cummings Engineering
 B0:79:3C		Revolv Inc
 B0:79:94		Motorola Mobility LLC, a Lenovo Company
 B0:7A:16		Roehn
+B0:7A:A4		Guangzhou Punp Electronics Manufacturing Co., Ltd.
 B0:7A:DF		Huawei Technologies Co.,Ltd
 B0:7B:25		Dell Inc.
 B0:7C:51		Ruckus Wireless
@@ -51370,6 +51378,7 @@ D0:96:86:B0:00:00/28	Changsha keruijie lnformation Technology Co.,Ltd
 D0:96:86:C0:00:00/28	ECS s.r.l.
 D0:96:86:D0:00:00/28	CertusNet Information Technology Co.,LTD
 D0:96:86:E0:00:00/28	withnetworks
+D0:96:EA		vivo Mobile Communication Co., Ltd.
 D0:96:FB		Zhone Technologies, Inc.
 D0:97:FE		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 D0:98:9C		ConMet
