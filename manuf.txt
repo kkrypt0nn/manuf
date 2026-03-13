@@ -29818,6 +29818,7 @@
 5C:B9:01		Hewlett Packard
 5C:BA:2C		Hewlett Packard Enterprise
 5C:BA:37		Microsoft Corporation
+5C:BA:75		Quectel Wireless Solutions Co., Ltd.
 5C:BA:EF		Chongqing Fugui Electronics Co.,Ltd.
 5C:BB:EE		zte corporation
 5C:BD:9A		Huawei Device Co., Ltd.
@@ -39929,6 +39930,7 @@
 8C:1F:64:09:F0:00/36	MB connect line GmbH Fernwartungssysteme
 8C:1F:64:0A:00:00/36	Techniwave
 8C:1F:64:0A:20:00/36	Best
+8C:1F:64:0A:30:00/36	Fischer & Connectors SA
 8C:1F:64:0A:40:00/36	Dynamic Research, Inc.
 8C:1F:64:0A:50:00/36	Gomero Nordic AB
 8C:1F:64:0A:80:00/36	SamabaNova Systems
@@ -40066,6 +40068,7 @@
 8C:1F:64:17:B0:00/36	Bavaria Digital Technik GmbH
 8C:1F:64:17:C0:00/36	Zelp Ltd
 8C:1F:64:17:E0:00/36	MI Inc.
+8C:1F:64:17:F0:00/36	Bcmtech
 8C:1F:64:18:00:00/36	Structural Integrity Services
 8C:1F:64:18:30:00/36	NICE Total Cash Management Co., Ltd.
 8C:1F:64:18:50:00/36	Biotage Gb Ltd
@@ -42299,6 +42302,7 @@
 8C:1F:64:F1:20:00/36	CAITRON GmbH
 8C:1F:64:F1:30:00/36	ACS Motion Control
 8C:1F:64:F1:40:00/36	Elektrosil GmbH
+8C:1F:64:F1:60:00/36	Schildknecht AG
 8C:1F:64:F1:80:00/36	Northern Design (Electronics) Ltd
 8C:1F:64:F1:90:00/36	Hurry-tech
 8C:1F:64:F1:B0:00/36	Nextep Co.,Ltd.
@@ -42438,6 +42442,7 @@
 8C:1F:64:FE:C0:00/36	Newtec A/S
 8C:1F:64:FE:D0:00/36	Televic Rail GmbH
 8C:1F:64:FE:E0:00/36	Leap Info Systems Pvt. Ltd.
+8C:1F:64:FF:20:00/36	Mitsubishi Electric India Pvt. Ltd.
 8C:1F:64:FF:30:00/36	Fuzhou Tucsen Photonics Co.,Ltd
 8C:1F:64:FF:40:00/36	SMS group GmbH
 8C:1F:64:FF:50:00/36	IQ Tools LLC
@@ -43635,6 +43640,7 @@
 94:53:30		Hon Hai Precision Ind. Co.,Ltd.
 94:53:FF		Intel Corporate
 94:54:93		Rigado, LLC
+94:54:A0		Fosilicon CO., Ltd
 94:54:C5		Espressif Inc.
 94:54:CE		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 94:54:DF		Yst Corp.
@@ -49964,7 +49970,7 @@ C4:FF:BC:00:00:00/28	Danego BV
 C4:FF:BC:10:00:00/28	Visatech C0., Ltd.
 C4:FF:BC:20:00:00/28	Mobiletron Electronics Co., Ltd
 C4:FF:BC:30:00:00/28	Shenzhen Kalif Electronics Co.,Ltd
-C4:FF:BC:40:00:00/28	iMageTech CO.,LTD.
+C4:FF:BC:40:00:00/28	HyperNet CO., LTD
 C4:FF:BC:50:00:00/28	comtime GmbH
 C4:FF:BC:60:00:00/28	Shanghai Kanghai Information System CO.,LTD.
 C4:FF:BC:70:00:00/28	Critical Link
