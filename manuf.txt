@@ -15507,6 +15507,7 @@
 00:76:3D		Veea
 00:76:86		Cisco Systems, Inc
 00:76:B1		Somfy-Protect By Myfox SAS
+00:76:B6		Ford Motor Company
 00:77:8D		Cisco Systems, Inc
 00:77:E4		Nokia Solutions and Networks GmbH & Co. KG
 00:78:39		Nokia
@@ -21553,6 +21554,7 @@
 20:B3:7F:20:00:00/28	Aina Computers ,Inc.
 20:B3:7F:30:00:00/28	QT medical inc
 20:B3:7F:60:00:00/28	Kitchen Armor
+20:B3:7F:70:00:00/28	Luxedo
 20:B3:7F:80:00:00/28	Xconnect LLP
 20:B3:7F:B0:00:00/28	B810 Spa
 20:B3:7F:C0:00:00/28	EGSTON Power Electronics GmbH
@@ -40459,6 +40461,7 @@
 8C:1F:64:3D:D0:00/36	Dorlet Sau
 8C:1F:64:3D:F0:00/36	LimeSoft Co., Ltd.
 8C:1F:64:3E:00:00/36	YPP Corporation
+8C:1F:64:3E:10:00/36	CRUXELL Corp.
 8C:1F:64:3E:20:00/36	Agrico
 8C:1F:64:3E:30:00/36	FMTec GmbH - Future Management Technologies
 8C:1F:64:3E:50:00/36	Systems Mechanics
@@ -40736,6 +40739,7 @@
 8C:1F:64:58:B0:00/36	Quectel Wireless Solutions Co.,Ltd.
 8C:1F:64:58:C0:00/36	Ear Micro LLC
 8C:1F:64:58:E0:00/36	Novanta IMS
+8C:1F:64:59:00:00/36	Teledyne Scientific and Imaging
 8C:1F:64:59:10:00/36	MB connect line GmbH Fernwartungssysteme
 8C:1F:64:59:30:00/36	Brillian Network & Automation Integrated System Co., Ltd.
 8C:1F:64:59:50:00/36	Inspinia Technology s.r.o.
@@ -48038,6 +48042,7 @@ B8:37:4B		Hewlett Packard Enterprise
 B8:37:65		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 B8:37:B2		Hewlett Packard Enterprise
 B8:38:61		Cisco Systems, Inc
+B8:38:65		Hewlett Packard Enterprise
 B8:38:CA		Kyokko Tsushin System CO.,LTD
 B8:38:EF		ADVA Optical Networking Ltd.
 B8:3A:08		Tenda Technology Co.,Ltd.Dongguan branch
