@@ -21562,6 +21562,8 @@
 20:B3:7F:60:00:00/28	Kitchen Armor
 20:B3:7F:70:00:00/28	Luxedo
 20:B3:7F:80:00:00/28	Xconnect LLP
+20:B3:7F:90:00:00/28	Annapurna labs
+20:B3:7F:A0:00:00/28	ShenZhen C&D Electronics CO.Ltd.
 20:B3:7F:B0:00:00/28	B810 Spa
 20:B3:7F:C0:00:00/28	EGSTON Power Electronics GmbH
 20:B3:7F:D0:00:00/28	Xunmu Information Technology (Shanghai) Co., Ltd.
@@ -23135,6 +23137,7 @@
 2C:B2:1A		Phicomm (Shanghai) Co., Ltd.
 2C:B3:01		Honor Device Co., Ltd.
 2C:B4:3A		Apple, Inc.
+2C:B4:71		Tuya Smart Inc.
 2C:B6:8F		Huawei Technologies Co.,Ltd
 2C:B6:93		Radware
 2C:B6:9D		RED Digital Cinema
@@ -23625,6 +23628,7 @@
 30:A3:B5		Jiangsu Best Tone Information Service Co., Ltd
 30:A4:52		Arrival Elements BV
 30:A6:12		ShenZhen Hugsun Technology Co.,Ltd.
+30:A7:71		Jiang Su Fulian Communication Technology Co.,Ltd
 30:A8:89		Decimator Design
 30:A8:DB		Sony Corporation
 30:A9:98		Huawei Device Co., Ltd.
@@ -28541,6 +28545,7 @@
 54:12:CB		Huawei Technologies Co.,Ltd
 54:13:10		Huawei Technologies Co.,Ltd
 54:13:79		Hon Hai Precision Ind. Co.,Ltd.
+54:13:8F		GEOIDE Crypto&Com
 54:13:CA		Itel Mobile Limited
 54:14:73		Wingtech Group (HongKong）Limited
 54:14:A7		Nanjing Qinheng Microelectronics Co., Ltd.
@@ -42570,6 +42575,7 @@
 8C:51:09:D0:00:00/28	Surpedia Technologies Co., Ltd.
 8C:51:09:E0:00:00/28	IROOTELLUCKY Corp.
 8C:52:19		SHARP Corporation
+8C:53:87		Huzhou Luxshare Precision Industry Co.LTD
 8C:53:C3		Beijing Xiaomi Mobile Software Co., Ltd
 8C:53:D2		China Mobile Group Device Co.,Ltd.
 8C:53:E6		WNC Corporation
@@ -51351,6 +51357,7 @@ D0:7F:A0		Samsung Electronics Co.,Ltd
 D0:7F:C4		Ou Wei Technology Co.，Ltd. of Shenzhen City
 D0:81:7A		Apple, Inc.
 D0:81:C5		Juniper Networks
+D0:82:EB		Tuya Smart Inc.
 D0:83:D4		Xtel Wireless ApS
 D0:84:B0		Sagemcom Broadband SAS
 D0:85:43		Cisco Systems, Inc
@@ -56957,6 +56964,7 @@ FC:C2:E5		Holowits Technologies Co.,Ltd
 FC:C7:34		Samsung Electronics Co.,Ltd
 FC:C7:37		Shaanxi Gangsion Electronic Technology Co., Ltd
 FC:C8:97		zte corporation
+FC:CA:10		Mercusys Technologies Co., Ltd.
 FC:CA:C4		LifeHealth, LLC
 FC:CC:E4		Ascon Ltd.
 FC:CD:2F		IEEE Registration Authority
