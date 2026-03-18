@@ -31383,6 +31383,7 @@
 68:F2:1F		Bose Corporation
 68:F3:8E		Juniper Networks
 68:F4:4B		Home Control Singapore Pte Ltd
+68:F4:E2		Juke Audio
 68:F5:43		Huawei Technologies Co.,Ltd
 68:F6:2B		Itel Mobile Limited
 68:F6:3B		Amazon Technologies Inc.
