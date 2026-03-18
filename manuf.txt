@@ -21567,6 +21567,7 @@
 20:B3:7F:B0:00:00/28	B810 Spa
 20:B3:7F:C0:00:00/28	EGSTON Power Electronics GmbH
 20:B3:7F:D0:00:00/28	Xunmu Information Technology (Shanghai) Co., Ltd.
+20:B3:7F:E0:00:00/28	Kawasaki Thermal Engineering Co.,Ltd.
 20:B3:99		Enterasys
 20:B5:C6		Mimosa Networks
 20:B7:30		TeconGroup, Inc
