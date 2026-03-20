@@ -24276,6 +24276,7 @@
 34:DC:99		New H3C Technologies Co., Ltd
 34:DD:04		Minut AB
 34:DD:7E		Umeox Innovations Co.,Ltd
+34:DD:CC		Google, Inc.
 34:DE:1A		Intel Corporate
 34:DE:34		zte corporation
 34:DF:20		Shenzhen Comstar .Technology Co.,Ltd
@@ -38302,6 +38303,7 @@
 80:19:67		Shanghai Reallytek Information Technology  Co.,Ltd
 80:19:70		Samsung Electronics Co.,Ltd
 80:19:FE		JianLing Technology CO., LTD
+80:1D:0D		IEEE Registration Authority
 80:1D:0D:D0:00:00/28	802 Secure
 80:1D:39		Apple, Inc.
 80:1D:AA		Avaya Inc
@@ -39623,6 +39625,7 @@
 88:C2:27		Huawei Technologies Co.,Ltd
 88:C2:42		Poynt Co.
 88:C2:55		Texas Instruments
+88:C3:44		Google, Inc.
 88:C3:6E		Beijing Ereneben lnformation Technology Limited
 88:C3:97		Beijing Xiaomi Mobile Software Co., Ltd
 88:C3:B3		Sovico
@@ -40690,7 +40693,6 @@
 8C:1F:64:51:80:00/36	Wagner Group GmbH
 8C:1F:64:51:90:00/36	Shenzhen Gw Technology Co.,Ltd
 8C:1F:64:51:A0:00/36	TELE Haase Steuergeräte Ges.m.b.H
-8C:1F:64:51:E0:00/36	Owl Home Inc.
 8C:1F:64:52:10:00/36	MP-SENSOR GmbH
 8C:1F:64:52:20:00/36	CloudRAN.ai
 8C:1F:64:52:30:00/36	SPEKTRA Schwingungstechnik und Akustik GmbH Dresden
@@ -42448,6 +42450,7 @@
 8C:1F:64:FC:40:00/36	Dorlet Sau
 8C:1F:64:FC:50:00/36	Sumico
 8C:1F:64:FC:60:00/36	Invertek Drives Ltd
+8C:1F:64:FC:80:00/36	Metaphase Technologies
 8C:1F:64:FC:A0:00/36	Elektrotechnik & Elektronik Oltmann GmbH
 8C:1F:64:FC:C0:00/36	Gredmann Taiwan Ltd.
 8C:1F:64:FC:D0:00/36	elbit systems - EW and sigint - Elisra
@@ -44695,6 +44698,7 @@
 9C:4F:DA		Apple, Inc.
 9C:50:D1		Murata Manufacturing Co., Ltd.
 9C:50:EE		Cambridge Industries(Group) Co.,Ltd.
+9C:51:87		Sunitec Technology Co.,Limited
 9C:52:F8		Huawei Technologies Co.,Ltd
 9C:53:22		TP-Link Systems Inc
 9C:53:85		PT. Hartono Istana Teknologi
