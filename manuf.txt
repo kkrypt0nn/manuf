@@ -18343,6 +18343,7 @@
 08:7C:43		Huawei Device Co., Ltd.
 08:7C:BE		Quintic Corp.
 08:7D:21		Altasec technology corporation
+08:7D:60		SAMJIN Co.ltd
 08:7E:64		Vantiva USA LLC
 08:7F:98		vivo Mobile Communication Co., Ltd.
 08:80:39		Cisco SPVTG
@@ -28567,6 +28568,7 @@
 54:13:CA		Itel Mobile Limited
 54:14:73		Wingtech Group (HongKong）Limited
 54:14:A7		Nanjing Qinheng Microelectronics Co., Ltd.
+54:14:E9		AltoBeam Inc.
 54:14:F3		Intel Corporate
 54:14:FD		Orbbec 3D Technology International
 54:15:89		MCS Logic Inc.
@@ -38323,11 +38325,13 @@
 80:19:70		Samsung Electronics Co.,Ltd
 80:19:FE		JianLing Technology CO., LTD
 80:1D:0D		IEEE Registration Authority
+80:1D:0D:20:00:00/28	SZ Spinning Power Top Boundary Technology Co.Ltd.
 80:1D:0D:30:00:00/28	Lecoo Technology Co.,Ltd.
 80:1D:0D:40:00:00/28	GTL Tecnologia e Sistemas Ltda
 80:1D:0D:60:00:00/28	Drowsy Digital Inc
 80:1D:0D:70:00:00/28	Hangzhou Innowavepower Electronic Technology Co.,Ltd
 80:1D:0D:B0:00:00/28	Syrma SGS Technology
+80:1D:0D:C0:00:00/28	Logicom Sa
 80:1D:0D:D0:00:00/28	802 Secure
 80:1D:39		Apple, Inc.
 80:1D:AA		Avaya Inc
@@ -41824,6 +41828,7 @@
 8C:1F:64:BB:80:00/36	ezDOOR, LLC
 8C:1F:64:BB:90:00/36	SmartD Technologies Inc
 8C:1F:64:BB:A0:00/36	elysia GmbH
+8C:1F:64:BB:B0:00/36	SiLC Technologies
 8C:1F:64:BB:C0:00/36	Liberator Pty Ltd
 8C:1F:64:BB:E0:00/36	AirScan, Inc. dba HemaTechnologies
 8C:1F:64:BB:F0:00/36	Retency
@@ -42467,6 +42472,7 @@
 8C:1F:64:FA:C0:00/36	Showa Electric Laboratory co.,ltd.
 8C:1F:64:FB:00:00/36	MARIAN GmbH
 8C:1F:64:FB:10:00/36	Abb
+8C:1F:64:FB:30:00/36	Camius
 8C:1F:64:FB:40:00/36	Thales Nederland BV
 8C:1F:64:FB:50:00/36	Bavaria Digital Technik GmbH
 8C:1F:64:FB:60:00/36	Racelogic Ltd
@@ -48867,6 +48873,7 @@ BC:B1:F3		Samsung Electronics Co.,Ltd
 BC:B2:2B		EM-Tech
 BC:B2:CC		Samsung Electronics Co.,Ltd
 BC:B3:08		Hongkong Ragentek Communication Technology Co.,Limited
+BC:B3:0E		Cisco Systems, Inc
 BC:B4:FD		NXP Semiconductor (Tianjin) LTD.
 BC:B6:FB		P4Q Electronics, S.L.
 BC:B8:52		Cybera, Inc.
@@ -51795,6 +51802,7 @@ D4:28:B2		ioBridge, Inc.
 D4:28:D5		TCT mobile ltd
 D4:29:A7		Infinix mobility limited
 D4:29:EA		Zimory GmbH
+D4:2B:6F		Cisco Systems, Inc
 D4:2C:0F		Commscope
 D4:2C:3D		Sky Light Digital Limited
 D4:2C:44		Cisco Systems, Inc
@@ -54899,6 +54907,7 @@ EC:9F:0D:C0:00:00/28	Sarcos Corp
 EC:9F:0D:D0:00:00/28	SKS Control Oy
 EC:9F:0D:E0:00:00/28	MAX Technologies
 EC:A1:38		Amazon Technologies Inc.
+EC:A1:CC		Cisco Systems, Inc
 EC:A1:D1		Huawei Technologies Co.,Ltd
 EC:A2:9B		Kemppi Oy
 EC:A2:A0		Taicang T&W Electronics
@@ -55987,6 +55996,7 @@ F4:B7:2A		Time Interconnect Ltd
 F4:B7:8D		Huawei Technologies Co.,Ltd
 F4:B7:B3		vivo Mobile Communication Co., Ltd.
 F4:B7:E2		Hon Hai Precision Ind. Co.,Ltd.
+F4:B8:21		Cisco Systems, Inc
 F4:B8:5E		Texas Instruments
 F4:B8:98		Texas Instruments
 F4:B8:A7		zte corporation
