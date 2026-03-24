@@ -38327,6 +38327,7 @@
 80:1D:0D:40:00:00/28	GTL Tecnologia e Sistemas Ltda
 80:1D:0D:60:00:00/28	Drowsy Digital Inc
 80:1D:0D:70:00:00/28	Hangzhou Innowavepower Electronic Technology Co.,Ltd
+80:1D:0D:B0:00:00/28	Syrma SGS Technology
 80:1D:0D:D0:00:00/28	802 Secure
 80:1D:39		Apple, Inc.
 80:1D:AA		Avaya Inc
@@ -39213,6 +39214,7 @@
 84:EA:99		Vieworks
 84:EA:D2		Koganei Corporation
 84:EA:ED		Roku, Inc
+84:EB:0C		Mellanox Technologies, Inc.
 84:EB:18		Texas Instruments
 84:EB:3E		Vivint Smart Home
 84:EB:3F		Vivint Inc
@@ -55646,6 +55648,7 @@ F4:1F:88		zte corporation
 F4:1F:C2		Cisco Systems, Inc
 F4:20:12		Cuciniale GmbH
 F4:20:15		Guangzhou Shiyuan Electronic Technology Company Limited
+F4:20:4D		Mellanox Technologies, Inc.
 F4:20:55		IEEE Registration Authority
 F4:20:55:00:00:00/28	AsicFlag
 F4:20:55:10:00:00/28	Sichuan Gengyuan Technology Co.,Ltd
