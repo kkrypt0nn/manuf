@@ -21557,6 +21557,7 @@
 20:B0:01		Vantiva Technologies Belgium
 20:B0:F7		Enclustra GmbH
 20:B3:7F		IEEE Registration Authority
+20:B3:7F:00:00:00/28	B810 Spa
 20:B3:7F:10:00:00/28	TDK-Lambda UK
 20:B3:7F:20:00:00/28	Aina Computers ,Inc.
 20:B3:7F:30:00:00/28	QT medical inc
@@ -21567,7 +21568,6 @@
 20:B3:7F:80:00:00/28	Xconnect LLP
 20:B3:7F:90:00:00/28	Annapurna labs
 20:B3:7F:A0:00:00/28	ShenZhen C&D Electronics CO.Ltd.
-20:B3:7F:B0:00:00/28	B810 Spa
 20:B3:7F:C0:00:00/28	EGSTON Power Electronics GmbH
 20:B3:7F:D0:00:00/28	Xunmu Information Technology (Shanghai) Co., Ltd.
 20:B3:7F:E0:00:00/28	Kawasaki Thermal Engineering Co.,Ltd.
@@ -31006,7 +31006,7 @@
 68:14:01		Hon Hai Precision Ind. Co.,Ltd.
 68:15:79		BrosTrend Technology LLC
 68:15:90		Sagemcom Broadband SAS
-68:15:D3		Zaklady Elektroniki i Mechaniki Precyzyjnej R&G S.A.
+68:15:D3		R&G PLUS Sp. z o.o.
 68:16:05		Systems And Electronic Development FZCO
 68:17:29		Intel Corporate
 68:18:D9		Hill AFB - CAPRE Group
@@ -38335,6 +38335,7 @@
 80:1D:0D:70:00:00/28	Hangzhou Innowavepower Electronic Technology Co.,Ltd
 80:1D:0D:80:00:00/28	Crestchic (Uk) Limited
 80:1D:0D:90:00:00/28	Warner Electronics (I) Pvt. Ltd.
+80:1D:0D:A0:00:00/28	Luxshare Electronic Technology (KunShan) Ltd
 80:1D:0D:B0:00:00/28	Syrma SGS Technology
 80:1D:0D:C0:00:00/28	Logicom Sa
 80:1D:0D:D0:00:00/28	802 Secure
@@ -41167,6 +41168,7 @@
 8C:1F:64:7A:F0:00/36	E Vision India Pvt Ltd
 8C:1F:64:7B:00:00/36	Axid System
 8C:1F:64:7B:10:00/36	EA Elektro-Automatik GmbH
+8C:1F:64:7B:20:00/36	Neosem Inc.
 8C:1F:64:7B:50:00/36	Guan Show Technologe Co., Ltd.
 8C:1F:64:7B:60:00/36	Keyline S.P.A.
 8C:1F:64:7B:70:00/36	James G. Biddle dba Megger
@@ -43512,6 +43514,7 @@
 90:EF:4A		Dongguan Liesheng Electronic Co., Ltd.
 90:EF:68		Zyxel Communications Corporation
 90:F0:05		Xi'an Molead Technology Co., Ltd
+90:F0:4C		Nokia Solutions (Shanghai) Co.,Ltd.
 90:F0:52		MEIZU Technology Co., Ltd.
 90:F1:57		Garmin International
 90:F1:AA		Samsung Electronics Co.,Ltd
@@ -50841,6 +50844,7 @@ CC:5F:BF		Topwise 3G Communication Co., Ltd.
 CC:60:23		Apple, Inc.
 CC:60:BB		Empower RF Systems
 CC:60:C8		Microsoft Corporation
+CC:61:46		Gsd Viet Nam Technology Company Limited
 CC:61:E5		Motorola Mobility LLC, a Lenovo Company
 CC:62:00		Honor Device Co., Ltd.
 CC:62:FE		Union Man Technology Co.,Ltd
@@ -56116,6 +56120,7 @@ F4:F5:E8		Google, Inc.
 F4:F6:46		Dediprog Technology Co. Ltd.
 F4:F6:47		zte corporation
 F4:F7:0C		Avang - neterbit
+F4:F9:1E		Ingram Micro Services
 F4:F9:51		Apple, Inc.
 F4:FB:B8		Huawei Technologies Co.,Ltd
 F4:FB:F5		EM Microelectronic
