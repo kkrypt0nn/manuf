@@ -21810,6 +21810,7 @@
 24:33:6C		Private
 24:34:08		Edgecore Americas Networking Corporation
 24:35:CC		Zhongshan Scinan Internet of Things Co.,Ltd.
+24:36:72		AMPAK Technology Inc.
 24:36:DA		Cisco Systems, Inc
 24:37:4C		Cisco SPVTG
 24:37:EF		EMC Electronic Media Communication SA
@@ -23310,6 +23311,7 @@
 30:05:5C		Brother industries, LTD.
 30:07:4D		Samsung Electro-Mechanics(Thailand)
 30:07:5C		43403
+30:07:A3		Shenzhen Skyworth Digital  Technology  CO., Ltd
 30:08:4D		Trumpf Hüttinger
 30:09:C0		Motorola Mobility LLC, a Lenovo Company
 30:09:F9		IEEE Registration Authority
@@ -26669,6 +26671,7 @@
 44:76:E7		Tecno Mobile Limited
 44:78:31		Huawei Technologies Co.,Ltd
 44:78:3E		Samsung Electronics Co.,Ltd
+44:7B:45		Amazon Technologies Inc.
 44:7B:BB		Shenzhen YOUHUA Technology Co., Ltd
 44:7B:C4		DualShine Technology(SZ)Co.,Ltd
 44:7C:7F		Innolight Technology Corporation
@@ -38050,6 +38053,7 @@
 7C:A6:1D		Mhl, Llc
 7C:A6:2A		Hewlett Packard Enterprise
 7C:A7:B0		Shenzhen Bilian Electronic Co.，Ltd
+7C:A8:5D		Rongcheeng Goer Technology Co.,Ltd.
 7C:A8:EC		Hewlett Packard Enterprise
 7C:A9:09		Hui Zhou Gaoshengda Technology Co.,LTD
 7C:A9:6B		Syrotech Networks. Ltd.
@@ -38619,6 +38623,7 @@
 80:A5:79:D0:00:00/28	Guangdong Province Ivsuan technology co., ltd
 80:A5:79:E0:00:00/28	Unplugged Technologies Ltd.
 80:A5:89		AzureWave Technology Inc.
+80:A6:3C		Amazon Technologies Inc.
 80:A7:96		Neuralink Corp.
 80:A8:5D		Osterhout Design Group
 80:A9:97		Apple, Inc.
@@ -42218,6 +42223,7 @@
 8C:1F:64:DE:B0:00/36	PXM Marek Zupnik spolka komandytowa
 8C:1F:64:DE:D0:00/36	PhotonPath
 8C:1F:64:DF:00:00/36	Cyberkar Systems inc.
+8C:1F:64:DF:20:00/36	Lomar Srl
 8C:1F:64:DF:50:00/36	Concept Pro Surveillance
 8C:1F:64:DF:60:00/36	Micronova srl
 8C:1F:64:DF:80:00/36	Wittra Networks AB
@@ -42472,6 +42478,7 @@
 8C:1F:64:F8:70:00/36	Fly Electronic (Shang Hai) Technology Co.,Ltd
 8C:1F:64:F8:80:00/36	LAMTEC Mess- und Regeltechnik für Feuerungen GmbH & Co. KG
 8C:1F:64:F8:C0:00/36	Bk Lab
+8C:1F:64:F8:E0:00/36	Chengdu Aplux Inteligence Technology Ltd.
 8C:1F:64:F9:00:00/36	Enfabrica
 8C:1F:64:F9:10:00/36	Consonance
 8C:1F:64:F9:20:00/36	Vision Systems Safety Tech
@@ -51123,6 +51130,10 @@ CC:E7:98		My Social Stuff
 CC:E7:DE		IEEE Registration Authority
 CC:E7:DE:00:00:00/28	Shenzhen Jooan Technology  Co., Ltd
 CC:E7:DE:20:00:00/28	Octopus Energy Ltd
+CC:E7:DE:30:00:00/28	Private
+CC:E7:DE:40:00:00/28	Fareco
+CC:E7:DE:70:00:00/28	Shanghai Dabuziduo Information and Technology Co., Ltd.
+CC:E7:DE:90:00:00/28	Shenzhen Qichang Intelligent Technology Co., Ltd.
 CC:E7:DE:B0:00:00/28	3D Computing
 CC:E7:DE:C0:00:00/28	Guangdong Sirivision Communication Technology Co.,LTD.
 CC:E7:DE:D0:00:00/28	Juke Audio
