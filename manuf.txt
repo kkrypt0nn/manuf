@@ -54829,6 +54829,7 @@ EC:6E:79		InHand Networks, INC.
 EC:6F:0B		FADU, Inc.
 EC:6F:F9		Pioseed Technology(Chengdu)Co.,Ltd.
 EC:70:97		Commscope
+EC:71:5E		Freefly Systems Inc
 EC:71:DB		Reolink Innovation Limited
 EC:72:5B		zte corporation
 EC:72:F7		Dji Baiwang Technology Co Ltd
