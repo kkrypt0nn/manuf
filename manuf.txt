@@ -51164,6 +51164,7 @@ CC:E7:DE:60:00:00/28	Skylight
 CC:E7:DE:70:00:00/28	Shanghai Dabuziduo Information and Technology Co., Ltd.
 CC:E7:DE:80:00:00/28	Private
 CC:E7:DE:90:00:00/28	Shenzhen Qichang Intelligent Technology Co., Ltd.
+CC:E7:DE:A0:00:00/28	Opal Camera Inc.
 CC:E7:DE:B0:00:00/28	3D Computing
 CC:E7:DE:C0:00:00/28	Guangdong Sirivision Communication Technology Co.,LTD.
 CC:E7:DE:D0:00:00/28	Juke Audio
@@ -51506,6 +51507,7 @@ D0:81:7A		Apple, Inc.
 D0:81:C5		Juniper Networks
 D0:82:EB		Tuya Smart Inc.
 D0:83:D4		Xtel Wireless ApS
+D0:84:5D		B&C Transit, Inc.
 D0:84:B0		Sagemcom Broadband SAS
 D0:85:43		Cisco Systems, Inc
 D0:87:B5		Safemo Pte. Ltd.
