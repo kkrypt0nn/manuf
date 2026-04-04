@@ -27642,6 +27642,7 @@
 4C:6B:E8		Apple, Inc.
 4C:6C:13		IoT Company Solucoes Tecnologicas Ltda
 4C:6D:58		Juniper Networks
+4C:6E:44		IEEE Registration Authority
 4C:6E:44:60:00:00/28	Panache DigiLife Limited
 4C:6E:6E		Comnect Technology CO.,LTD
 4C:6F:9C		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
