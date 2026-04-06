@@ -23532,6 +23532,7 @@
 30:52:53		BuildJet, Inc.
 30:52:5A		NST Co., LTD
 30:52:CB		Liteon Technology Corporation
+30:53:5B		Shenzhen Comnect Technology Co.,LTD
 30:53:C1		Cresyn
 30:55:ED		Trex Network LLC
 30:56:0F		GIGA-BYTE TECHNOLOGY CO. , Ltd.
@@ -29263,6 +29264,7 @@
 58:90:43		Sagemcom Broadband SAS
 58:91:53		China Mobile IOT Company Limited
 58:91:CF		Intel Corporate
+58:92:04		zte corporation
 58:92:0D		Kinetic Avionics Limited
 58:93:51		Huawei Device Co., Ltd.
 58:93:96		Ruckus Wireless
@@ -38424,6 +38426,7 @@
 80:3A:59		At&T
 80:3A:F4		Fiberhome Telecommunication Technologies Co.,LTD
 80:3B:2A		ABB Xiamen Low Voltage Equipment Co.,Ltd.
+80:3B:70		Private
 80:3B:9A		ghe-ces electronic ag
 80:3B:F6		Look Easy International Limited
 80:3C:04		TP-Link Systems Inc.
@@ -39870,6 +39873,7 @@
 8C:16:45		LCFC(Hefei) Electronics Technology co., ltd
 8C:17:59		Intel Corporate
 8C:17:B6		Huawei Device Co., Ltd.
+8C:18:01		zte corporation
 8C:18:50		China Mobile (Hangzhou) Information Technology Co., Ltd.
 8C:18:D9		Shenzhen RF Technology Co., Ltd
 8C:19:2D		IEEE Registration Authority
@@ -40437,6 +40441,7 @@
 8C:1F:64:31:C0:00/36	Accumetrics
 8C:1F:64:31:D0:00/36	Tech Mobility Aps
 8C:1F:64:31:F0:00/36	STV Electronic GmbH
+8C:1F:64:32:00:00/36	VITREA Smart Home Technologies Ltd.
 8C:1F:64:32:40:00/36	Kinetic Technologies
 8C:1F:64:32:70:00/36	Deutescher Wetterdienst
 8C:1F:64:32:80:00/36	Com Video Security Systems Co., Ltd.
@@ -49858,6 +49863,7 @@ C4:91:0C		Apple, Inc.
 C4:91:3A		Shenzhen Sanland Electronic Co., ltd.
 C4:91:CF		Luxul
 C4:92:4C		Keisokuki Center Co.,Ltd.
+C4:92:D9		zte corporation
 C4:93:00		8Devices
 C4:93:13		100fio networks technology llc
 C4:93:80		Speedytel technology
@@ -54163,6 +54169,7 @@ E4:FD:A1		Huawei Technologies Co.,Ltd
 E4:FE:43		Beijing Xiaomi Mobile Software Co., Ltd
 E4:FE:D9		EDMI Europe Ltd
 E4:FE:E4		Ciena Corporation
+E4:FF:69		Holiday Robotics
 E4:FF:DD		Electron India
 E8:00:36		Befs co,. ltd
 E8:01:15		COOCAA Network Technology CO.,TD.
