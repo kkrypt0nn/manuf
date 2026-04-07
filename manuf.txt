@@ -25291,6 +25291,7 @@
 3C:A0:70		Blink by Amazon
 3C:A1:0D		Samsung Electronics Co.,Ltd
 3C:A1:61		Huawei Technologies Co.,Ltd
+3C:A2:39		DGSQ Co.,Ltd
 3C:A2:C3		vivo Mobile Communication Co., Ltd.
 3C:A3:08		Texas Instruments
 3C:A3:15		Bless Information & Communications Co., Ltd
@@ -27645,6 +27646,7 @@
 4C:6D:58		Juniper Networks
 4C:6E:44		IEEE Registration Authority
 4C:6E:44:60:00:00/28	Panache DigiLife Limited
+4C:6E:44:A0:00:00/28	Swistec GmbH
 4C:6E:6E		Comnect Technology CO.,LTD
 4C:6F:9C		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 4C:70:CC		Blyott NV
@@ -41253,6 +41255,7 @@
 8C:1F:64:7E:30:00/36	Une Srl
 8C:1F:64:7E:70:00/36	robert juliat
 8C:1F:64:7E:80:00/36	EA Elektro-Automatik GmbH
+8C:1F:64:7E:A0:00/36	Abbott Diagnostics Technologies AS
 8C:1F:64:7E:C0:00/36	Methods2Business B.V.
 8C:1F:64:7E:D0:00/36	Eding CNC bv
 8C:1F:64:7E:E0:00/36	Orange Precision Measurement LLC
@@ -41691,6 +41694,7 @@
 8C:1F:64:A9:C0:00/36	Upstart Power
 8C:1F:64:A9:D0:00/36	Aegex Technologies LLC Magyarországi Fióktelepe
 8C:1F:64:A9:E0:00/36	Optimum Instruments Inc.
+8C:1F:64:A9:F0:00/36	Dadhwal Ai Private Limited
 8C:1F:64:AA:00:00/36	Flextronics International Kft
 8C:1F:64:AA:10:00/36	Tech Fass s.r.o.
 8C:1F:64:AA:30:00/36	Peter Huber Kaeltemaschinenbau SE
@@ -42000,6 +42004,7 @@
 8C:1F:64:C6:10:00/36	Beijing Ceresdate Technology Co.,LTD
 8C:1F:64:C6:20:00/36	GMI Ltd
 8C:1F:64:C6:40:00/36	Ajeco Oy
+8C:1F:64:C6:50:00/36	Headwave
 8C:1F:64:C6:70:00/36	Oriux
 8C:1F:64:C6:80:00/36	Fiberme Communications Llc
 8C:1F:64:C6:A0:00/36	Red Phase Technologies Limited
@@ -42137,6 +42142,7 @@
 8C:1F:64:D2:F0:00/36	Ltec Co.,Ltd
 8C:1F:64:D3:00:00/36	FMC Technologies Measurement Solutions Inc
 8C:1F:64:D3:40:00/36	Kronotech Srl
+8C:1F:64:D3:50:00/36	Xi'an Biangu Information Technology Co., Ltd.
 8C:1F:64:D3:80:00/36	Cuu Long Technology And Trading Company Limited
 8C:1F:64:D3:A0:00/36	Applied Materials
 8C:1F:64:D3:B0:00/36	Gogo BA
