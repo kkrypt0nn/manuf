@@ -17785,7 +17785,7 @@
 04:C3:E6:10:00:00/28	Guangdong New Pulse Electric Co., Ltd.
 04:C3:E6:20:00:00/28	SiS Technology
 04:C3:E6:30:00:00/28	Extech Electronics Co., LTD.
-04:C3:E6:40:00:00/28	Innovusion Inc.
+04:C3:E6:40:00:00/28	Seyond
 04:C3:E6:50:00:00/28	Invasys
 04:C3:E6:60:00:00/28	Shenzhen Shuotian Information Technology Co., LTD
 04:C3:E6:70:00:00/28	Advanced Digital Technologies, s.r.o.
@@ -18608,6 +18608,7 @@
 0C:01:C8		DENSO Co.,Ltd
 0C:01:DB		Infinix mobility limited
 0C:02:27		Vantiva USA LLC
+0C:02:5B		Microchip Technology Inc.
 0C:02:BD		Samsung Electronics Co.,Ltd
 0C:04:00		Jantar d.o.o.
 0C:05:35		Juniper Systems
@@ -19634,6 +19635,7 @@
 10:F0:05		Intel Corporate
 10:F0:68		Ruckus Wireless
 10:F1:63		Tnk Co.,Ltd
+10:F1:C7		Tachyon Networks Inc
 10:F1:F2		LG Electronics (Mobile Communications)
 10:F3:11		Cisco Systems, Inc
 10:F3:DB		Gridco Systems, Inc.
@@ -27645,6 +27647,7 @@
 4C:6C:13		IoT Company Solucoes Tecnologicas Ltda
 4C:6D:58		Juniper Networks
 4C:6E:44		IEEE Registration Authority
+4C:6E:44:00:00:00/28	Quasonix
 4C:6E:44:60:00:00/28	Panache DigiLife Limited
 4C:6E:44:A0:00:00/28	Swistec GmbH
 4C:6E:6E		Comnect Technology CO.,LTD
@@ -30916,6 +30919,7 @@
 64:D2:41		Keith & Koep GmbH
 64:D2:C4		Apple, Inc.
 64:D3:15		HMD Global Oy
+64:D3:63		Seyond
 64:D4:BD		Alpsalpine Co,.Ltd
 64:D4:DA		Intel Corporate
 64:D4:F0		Netvue，Inc.
