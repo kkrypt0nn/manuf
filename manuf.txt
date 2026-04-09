@@ -26960,6 +26960,7 @@
 48:08:EB:C0:00:00/28	Zhejiang Aike Intelligenttechnology Co.Ltd
 48:08:EB:D0:00:00/28	Silicon Dynamic Networks
 48:08:EB:E0:00:00/28	uniline energy systems pvt ltd
+48:09:51		Guangzhou Trustmo Information System Co.,LTD
 48:0B:B2		IEEE Registration Authority
 48:0B:B2:00:00:00/28	Ridango AS
 48:0B:B2:10:00:00/28	Baja Electronics Technology Limited
@@ -27647,11 +27648,13 @@
 4C:6B:B8		Hui Zhou Gaoshengda Technology Co.,LTD
 4C:6B:E8		Apple, Inc.
 4C:6C:13		IoT Company Solucoes Tecnologicas Ltda
+4C:6C:A1		Chipsea Technologies (Shenzhen) Crop.
 4C:6D:58		Juniper Networks
 4C:6E:44		IEEE Registration Authority
 4C:6E:44:00:00:00/28	Quasonix
 4C:6E:44:60:00:00/28	Panache DigiLife Limited
 4C:6E:44:A0:00:00/28	Swistec GmbH
+4C:6E:44:D0:00:00/28	1Home Solutions GmbH
 4C:6E:6E		Comnect Technology CO.,LTD
 4C:6F:9C		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 4C:70:CC		Blyott NV
@@ -38449,6 +38452,7 @@
 80:42:7C		Adolf Tedsen GmbH & Co. KG
 80:43:3F		Juniper Networks
 80:44:FD		China Mobile (Hangzhou) Information Technology Co., Ltd.
+80:45:6B		Espressif Inc.
 80:45:DD		Intel Corporate
 80:47:15		Apple, Inc.
 80:47:31		Packet Design, Inc.
@@ -40267,6 +40271,7 @@
 8C:1F:64:20:10:00/36	Hiwin Mikrosystem Corp.
 8C:1F:64:20:30:00/36	ENTOSS Co.,Ltd
 8C:1F:64:20:40:00/36	castcore
+8C:1F:64:20:50:00/36	Anuvu AB
 8C:1F:64:20:60:00/36	Kryfs Technologies Private Limited
 8C:1F:64:20:80:00/36	Sichuan AnSphere Technology Co. Ltd.
 8C:1F:64:20:A0:00/36	Oriux
@@ -41431,6 +41436,7 @@
 8C:1F:64:8E:D0:00/36	QM Technologies aps
 8C:1F:64:8E:E0:00/36	Abbott Diagnostics Technologies AS
 8C:1F:64:8F:00:00/36	Igl
+8C:1F:64:8F:30:00/36	EverBot Technology CO., LTD
 8C:1F:64:8F:40:00/36	Loadrite (Auckland) Limited
 8C:1F:64:8F:50:00/36	Dave Srl
 8C:1F:64:8F:60:00/36	Idneo Technologies S.A.U.
@@ -43386,6 +43392,7 @@
 90:90:3C		Trison Technology Corporation
 90:90:60		Rsi Video Technologies
 90:91:64		ChongQing Lavid Technology Co., Ltd.
+90:92:2C		Changzhi City Zhouyi Hengtong Information Security Co.,Ltd.
 90:92:B4		Diehl BGT Defence GmbH & Co. KG
 90:93:5A		Commscope
 90:94:0A		Analog Devices, Inc
@@ -48330,6 +48337,7 @@ B8:78:2E		Apple, Inc.
 B8:78:79		Roche Diagnostics GmbH
 B8:79:7E		Secure Meters (UK) Limited
 B8:7A:C9		Siemens Ltd.
+B8:7B:4D		Espressif Inc.
 B8:7B:C5		Apple, Inc.
 B8:7B:D4		Google, Inc.
 B8:7C:6F		NXP (China) Management Ltd.
@@ -51831,6 +51839,7 @@ D4:02:4A		Delphian Systems LLC
 D4:04:CD		Commscope
 D4:04:E6		Broadcom Limited
 D4:04:FF		Juniper Networks
+D4:05:92		Espressif Inc.
 D4:05:98		Commscope
 D4:05:DE		eero inc.
 D4:06:0F		Texas Instruments
@@ -53687,6 +53696,7 @@ E0:D3:1A		EQUES Technology Co., Limited
 E0:D3:62		TP-Link Systems Inc.
 E0:D3:8E		Chipsea Technologies (Shenzhen) Crop.
 E0:D3:B4		Cisco Meraki
+E0:D3:F0		AltoBeam Inc.
 E0:D4:62		Huawei Device Co., Ltd.
 E0:D4:64		Intel Corporate
 E0:D4:91		Cisco Systems, Inc
