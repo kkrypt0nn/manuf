@@ -26986,6 +26986,7 @@
 48:12:58		Huawei Technologies Co.,Ltd
 48:12:8F		Huawei Technologies Co.,Ltd
 48:13:7E		Samsung Electronics Co.,Ltd
+48:13:89		Mellanox Technologies, Inc.
 48:13:F3		Bbk Educational Electronics Corp.,Ltd.
 48:16:93		Lear Corporation GmbH
 48:17:4C		MicroPower technologies
@@ -49085,6 +49086,7 @@ BC:F8:7E		Arcadyan Corporation
 BC:F8:8B		zte corporation
 BC:F9:F2		Teko
 BC:FA:B8		Guangzhou Shiyuan Electronic Technology Company Limited
+BC:FA:BA		Mellanox Technologies, Inc.
 BC:FA:EB		Cisco Systems, Inc
 BC:FC:E7		ASUSTek COMPUTER INC.
 BC:FD:0C		Shenzhen Phaten Tech. LTD
@@ -52154,6 +52156,7 @@ D4:93:98		Nokia Corporation
 D4:93:A0		Fidelix Oy
 D4:94:00		Huawei Technologies Co.,Ltd
 D4:94:5A		Cosmo Co., Ltd
+D4:94:77		FONEX Data Systems Inc.
 D4:94:A1		Texas Instruments
 D4:94:A9		Intel Corporate
 D4:94:E8		Huawei Technologies Co.,Ltd
