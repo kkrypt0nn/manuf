@@ -25514,6 +25514,7 @@
 40:11:75:E0:00:00/28	Nibble
 40:11:C3		Samsung Electronics Co.,Ltd
 40:11:DC		Sonance
+40:12:77		Microsoft Corporation
 40:12:E4		Compass-EOS
 40:13:D9		Global ES
 40:14:82		Cisco Systems, Inc
@@ -27653,8 +27654,11 @@
 4C:6D:58		Juniper Networks
 4C:6E:44		IEEE Registration Authority
 4C:6E:44:00:00:00/28	Quasonix
+4C:6E:44:30:00:00/28	Qingting Intelligent Technology（Suzhou）Co.,Ltd.
 4C:6E:44:60:00:00/28	Panache DigiLife Limited
+4C:6E:44:80:00:00/28	Shenzhen iTayga Technology Co.,Ltd
 4C:6E:44:A0:00:00/28	Swistec GmbH
+4C:6E:44:C0:00:00/28	Windar Photonics A/S
 4C:6E:44:D0:00:00/28	1Home Solutions GmbH
 4C:6E:6E		Comnect Technology CO.,LTD
 4C:6F:9C		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
@@ -37081,6 +37085,7 @@
 74:E5:43		Liteon Technology Corporation
 74:E5:F9		Intel Corporate
 74:E6:0F		Tecno Mobile Limited
+74:E6:65		Dynabook Technology (Hangzhou) Inc.
 74:E6:B8		LG Electronics
 74:E6:C7		LUXSHARE-ICT Co., Ltd.
 74:E6:E2		Dell Inc.
@@ -37469,6 +37474,7 @@
 78:89:73		Cmc
 78:8A:20		Ubiquiti Inc
 78:8A:86		China Dragon Technology Limited
+78:8A:FB		Hanshow Technology Co.,Ltd.
 78:8B:2A		Zhen Shi Information Technology (Shanghai) Co., Ltd.
 78:8B:77		Standar Telecom
 78:8C:4D		Indyme Solutions, LLC
@@ -40853,6 +40859,7 @@
 8C:1F:64:57:80:00/36	OES Inc.
 8C:1F:64:57:A0:00/36	NPO ECO-INTECH Ltd.
 8C:1F:64:57:B0:00/36	Potter Electric Signal Co. LLC
+8C:1F:64:57:C0:00/36	EA Elektro-Automatik GmbH
 8C:1F:64:57:D0:00/36	ISDI Ltd
 8C:1F:64:57:E0:00/36	Guoqing (shangdong) Information Technology Co.,Ltd
 8C:1F:64:58:00:00/36	SAKURA SEIKI Co., Ltd.
@@ -54185,6 +54192,7 @@ E4:F9:39		Minxon Hotel Technology INC.
 E4:FA:1D		PAD Peripheral Advanced Design Inc.
 E4:FA:5B		Texas Instruments
 E4:FA:C4		TP-Link Systems Inc
+E4:FA:DE		Microsoft Corporation
 E4:FA:E4		Shenzhen SDMC Technology CP,.LTD
 E4:FA:ED		Samsung Electronics Co.,Ltd
 E4:FA:FD		Intel Corporate
