@@ -19140,6 +19140,7 @@
 0C:FE:5D:D0:00:00/28	Maksat Technologies P Ltd
 0C:FE:5D:E0:00:00/28	Newgreen Tech Co., Ltd.
 0C:FE:7B		Vantiva USA LLC
+0C:FE:E5		Texas Instruments
 10:00:00		Private
 10:00:20		Apple, Inc.
 10:00:3B		Espressif Inc.
@@ -24562,6 +24563,7 @@
 38:4C:4F		Huawei Technologies Co.,Ltd
 38:4C:90		Commscope
 38:4D:D2		Huawei Device Co., Ltd.
+38:4E:56		Texas Instruments
 38:4F:49		Juniper Networks
 38:4F:F0		AzureWave Technology Inc.
 38:52:1A		Nokia
@@ -26390,6 +26392,7 @@
 40:EC:BD		Intel Corporate
 40:EC:F8		Siemens AG
 40:ED:00		TP-Link Systems Inc
+40:ED:7B		Zscaler
 40:ED:98		IEEE Registration Authority
 40:ED:98:00:00:00/28	Tsinghua Tongfang Co., LTD
 40:ED:98:10:00:00/28	GuangZhou FiiO Electronics Technology Co.,Ltd
@@ -27655,6 +27658,7 @@
 4C:6E:44		IEEE Registration Authority
 4C:6E:44:00:00:00/28	Quasonix
 4C:6E:44:30:00:00/28	Qingting Intelligent Technology（Suzhou）Co.,Ltd.
+4C:6E:44:40:00:00/28	Private
 4C:6E:44:60:00:00/28	Panache DigiLife Limited
 4C:6E:44:80:00:00/28	Shenzhen iTayga Technology Co.,Ltd
 4C:6E:44:A0:00:00/28	Swistec GmbH
@@ -38635,6 +38639,7 @@
 80:97:1B		Altenergy Power System,Inc.
 80:97:33		Shenzhen Elebao Technology Co., Ltd
 80:99:9B		Murata Manufacturing Co., Ltd.
+80:99:CF		Texas Instruments
 80:99:E7		Sony Corporation
 80:9B:20		Intel Corporate
 80:9D:65		FN-LINK TECHNOLOGY Ltd.
@@ -39115,6 +39120,7 @@
 84:96:D8		Commscope
 84:97:B8		Memjet Inc.
 84:98:66		Samsung Electronics Co.,Ltd
+84:98:A7		Texas Instruments
 84:9A:40		Hangzhou Hikvision Digital Technology Co.,Ltd.
 84:9C:02		Druid Software
 84:9C:A4		Mimosa Networks
@@ -45842,6 +45848,7 @@ A4:3B:FA:C0:00:00/28	Shanghai Xietong Technology Inc.
 A4:3B:FA:D0:00:00/28	JSC “Component-ASU”
 A4:3B:FA:E0:00:00/28	The Magstim Company Ltd.
 A4:3B:FA:F0:00:00/28	Private
+A4:3C:D4		JBL Professional
 A4:3C:D7		NTX Electronics YangZhou co.,LTD
 A4:3D:78		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 A4:3E:51		Anov France
@@ -47021,6 +47028,7 @@ AC:A6:67		Electronic Systems Protection, Inc.
 AC:A7:04		Espressif Inc.
 AC:A7:F1		TP-Link Systems Inc.
 AC:A8:8E		SHARP Corporation
+AC:A8:99		Texas Instruments
 AC:A9:19		TrekStor GmbH
 AC:A9:A0		Audioengine, Ltd.
 AC:AB:2E		Beijing LasNubes Technology Co., Ltd.
@@ -48092,6 +48100,7 @@ B4:DD:D0		AUMOVIO Hungary Kft.
 B4:DD:E0		Shanghai Amphenol Airwave Communication Electronics Co.,Ltd.
 B4:DE:31		Cisco Systems, Inc
 B4:DE:DF		zte corporation
+B4:DF:09		Flux::
 B4:DF:3B		Chromlech
 B4:DF:91		Cisco Meraki
 B4:DF:FA		Litemax Electronics Inc.
@@ -48535,6 +48544,7 @@ B8:D8:12:F0:00:00/28	Private
 B8:D8:2D		Qingdao Intelligent&Precise Electronics Co.,Ltd.
 B8:D9:4D		Sagemcom Broadband SAS
 B8:D9:CE		Samsung Electronics Co.,Ltd
+B8:DA:5E		Texas Instruments
 B8:DA:E8		Huawei Device Co., Ltd.
 B8:DA:F1		Strahlenschutz- Entwicklungs- und Ausruestungsgesellschaft mbH
 B8:DA:F7		Advanced Photonics, Inc.
@@ -52864,6 +52874,7 @@ DC:17:5A		Hitachi High-Technologies Corporation
 DC:17:92		Captivate Network
 DC:1A:01		Ecoliv Technology ( Shenzhen ) Ltd.
 DC:1A:C5		vivo Mobile Communication Co., Ltd.
+DC:1B:48		Texas Instruments
 DC:1B:A1		Intel Corporate
 DC:1D:9F		U & B tech
 DC:1D:D4		Microstep-MIS spol. s r.o.
@@ -55573,6 +55584,7 @@ F0:B0:E7		Apple, Inc.
 F0:B1:07		Ericsson AB
 F0:B1:1D		Nokia
 F0:B1:3F		Huawei Device Co., Ltd.
+F0:B1:63		Texas Instruments
 F0:B2:B9		Intel Corporate
 F0:B2:E5		Cisco Systems, Inc
 F0:B3:1E		Universal Electronics, Inc.
