@@ -21866,6 +21866,7 @@
 24:4E:7B:C0:00:00/28	Chunghsin Technology Group Co.,Ltd
 24:4E:7B:D0:00:00/28	Church & Dwight Co., Inc.
 24:4E:7B:E0:00:00/28	WithWin Technology ShenZhen CO.,LTD
+24:4E:CD		Sagemcom Broadband SAS
 24:4F:1D		iRule LLC
 24:50:6F		Thinkcar Tech Co.,Ltd.
 24:52:6A		Zhejiang Dahua Technology Co., Ltd.
@@ -23571,6 +23572,7 @@
 30:69:4B		Rim
 30:6A:85		Samsung Electronics Co.,Ltd
 30:6C:BE		Skymotion Technology (HK) Limited
+30:6D:34		Wu Qi Technologies,Inc.
 30:6D:F9		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 30:6E:5C		Validus Technologies
 30:6F:07		Nations Technologies Inc.
@@ -25293,6 +25295,7 @@
 3C:9F:81		Shenzhen CATIC Bit Communications Technology Co.,Ltd
 3C:9F:C3		Beijing Sinead Technology Co., Ltd.
 3C:9F:CD		Shenzhen Neoway Technology Co.,Ltd.
+3C:A0:0E		Shenzhen Skyworth Digital  Technology  CO., Ltd
 3C:A0:67		Liteon Technology Corporation
 3C:A0:70		Blink by Amazon
 3C:A1:0D		Samsung Electronics Co.,Ltd
@@ -26584,6 +26587,7 @@
 44:42:01		Amazon Technologies Inc.
 44:42:2F		Testop Co.,Ltd.
 44:44:50		OttoQ
+44:45:20		EM Microelectronic
 44:45:6F		Shenzhen Onega Technology Co.,Ltd
 44:45:BA		Edgecore Americas Networking Corporation
 44:46:48		Hon Hai Precision Industry Co.,LTD
@@ -27657,6 +27661,7 @@
 4C:6D:58		Juniper Networks
 4C:6E:44		IEEE Registration Authority
 4C:6E:44:00:00:00/28	Quasonix
+4C:6E:44:10:00:00/28	Shenzhen Xmitech Electronic Co.,Ltd
 4C:6E:44:30:00:00/28	Qingting Intelligent Technology（Suzhou）Co.,Ltd.
 4C:6E:44:40:00:00/28	Private
 4C:6E:44:60:00:00/28	Panache DigiLife Limited
@@ -29888,6 +29893,7 @@
 5C:B2:60		EM Microelectronic
 5C:B2:6D		Intel Corporate
 5C:B2:9E		ASCO Power Technologies
+5C:B2:DF		Shenzhen Powerleader  Storage Technology Co., Ltd.
 5C:B3:95		Huawei Technologies Co.,Ltd
 5C:B3:F6		Human, Incorporated
 5C:B4:3E		Huawei Technologies Co.,Ltd
@@ -30795,6 +30801,7 @@
 64:77:7D		Hitron Technologies. Inc
 64:77:91		Samsung Electronics Co.,Ltd
 64:79:24		Huawei Device Co., Ltd.
+64:79:99		Sagemcom Broadband SAS
 64:79:A7		Phison Electronics Corp.
 64:79:F0		Intel Corporate
 64:7B:1E		Sagemcom Broadband SAS
@@ -39780,6 +39787,7 @@
 88:DA:1A		Redpine Signals, Inc.
 88:DA:33		Beijing Xiaoyuer Network Technology Co., Ltd
 88:DA:36		Calix Inc.
+88:DB:08		EM Microelectronic
 88:DC:96		EnGenius Technologies, Inc.
 88:DD:79		Voltaire
 88:DD:B8		Huawei Device Co., Ltd.
@@ -48423,6 +48431,7 @@ B8:9A:ED		OceanServer Technology, Inc
 B8:9B:C9		SMC Networks Inc
 B8:9B:E4		ABB Power Systems Power Generation
 B8:9C:13		Alps Alpine
+B8:9D:E5		ASIX Electronics Corporation
 B8:9E:A6		Spbec-Mining Co.Ltd
 B8:9F:09		WNC Corporation
 B8:9F:CC		Huawei Technologies Co.,Ltd
@@ -54071,6 +54080,7 @@ E4:97:F0		Shanghai VLC Technologies Ltd. Co.
 E4:98:BB		Phyplus Microelectronics Limited
 E4:98:D1		Microsoft Mobile Oy
 E4:98:D6		Apple, Inc.
+E4:98:E0		Tonly Technology Co. Ltd
 E4:99:5F		Huawei Technologies Co.,Ltd
 E4:9A:79		Apple, Inc.
 E4:9A:DC		Apple, Inc.
@@ -56897,6 +56907,7 @@ FC:22:D3		Fdsys
 FC:22:F4		Zyxel Communications Corporation
 FC:23:25		EosTek (Shenzhen) Co., Ltd.
 FC:23:CD		Shenzhen Bilian Electronic Co.，Ltd
+FC:24:22		Hangzhou Ezviz Software Co.,Ltd.
 FC:25:3F		Apple, Inc.
 FC:26:8C		Signify B.V.
 FC:27:A2		Trans Electric Co., Ltd.
