@@ -27673,8 +27673,10 @@
 4C:6E:44:80:00:00/28	Shenzhen iTayga Technology Co.,Ltd
 4C:6E:44:90:00:00/28	Chengdu Ruibitechuang Technology Co.,Ltd
 4C:6E:44:A0:00:00/28	Swistec GmbH
+4C:6E:44:B0:00:00/28	NovaFly LLC
 4C:6E:44:C0:00:00/28	Windar Photonics A/S
 4C:6E:44:D0:00:00/28	1Home Solutions GmbH
+4C:6E:44:E0:00:00/28	Shenzhen Jooan Technology  Co., Ltd
 4C:6E:6E		Comnect Technology CO.,LTD
 4C:6F:9C		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 4C:70:CC		Blyott NV
@@ -29730,6 +29732,7 @@
 5C:61:99		Cloud Network Technology Singapore Pte. Ltd.
 5C:62:5A		Canon Inc.
 5C:62:8B		TP-Link Systems Inc
+5C:63:B0		Fortinet, Inc.
 5C:63:BF		Tp-Link Technologies Co.,Ltd.
 5C:63:C9		Intellithings Ltd.
 5C:64:0F		Sage Technologies Inc.
@@ -38515,6 +38518,7 @@
 80:58:F8		Motorola Mobility LLC, a Lenovo Company
 80:59:FD		Noviga
 80:5A:04		LG Electronics (Mobile Communications)
+80:5A:70		Fortinet, Inc.
 80:5B:65		LG Innotek
 80:5E:0C		Yealink(Xiamen) Network Technology Co.,Ltd.
 80:5E:4F		Fn-Link Technology Limited
@@ -39829,6 +39833,7 @@
 88:F0:77		Cisco Systems, Inc
 88:F1:55		Espressif Inc.
 88:F2:BD		GD Midea Air-Conditioning Equipment Co.,Ltd.
+88:F3:D5		Zyxel Communications Corporation
 88:F4:88		cellon communications technology(shenzhen)Co.,Ltd.
 88:F4:90		Jetmobile Pte Ltd
 88:F4:DA		Intel Corporate
@@ -40824,6 +40829,7 @@
 8C:1F:64:51:80:00/36	Wagner Group GmbH
 8C:1F:64:51:90:00/36	Shenzhen Gw Technology Co.,Ltd
 8C:1F:64:51:A0:00/36	TELE Haase Steuergeräte Ges.m.b.H
+8C:1F:64:51:C0:00/36	JS Tech Co., Ltd.
 8C:1F:64:52:10:00/36	MP-SENSOR GmbH
 8C:1F:64:52:20:00/36	CloudRAN.ai
 8C:1F:64:52:30:00/36	SPEKTRA Schwingungstechnik und Akustik GmbH Dresden
@@ -40964,6 +40970,7 @@
 8C:1F:64:5E:D0:00/36	DEUTA Werke GmbH
 8C:1F:64:5F:10:00/36	HD Link Co., Ltd.
 8C:1F:64:5F:20:00/36	CMC Applied Technology institute
+8C:1F:64:5F:40:00/36	Jiangsu Yi Rong Mstar Technology Ltd.
 8C:1F:64:5F:50:00/36	HongSeok Ltd.
 8C:1F:64:5F:60:00/36	Forward Edge.AI
 8C:1F:64:5F:70:00/36	Eagle Harbor Technologies, Inc.
@@ -41014,6 +41021,7 @@
 8C:1F:64:63:D0:00/36	Rax-Tech International
 8C:1F:64:63:E0:00/36	Monnit Corporation
 8C:1F:64:63:F0:00/36	Preo Industries Far East Ltd
+8C:1F:64:64:00:00/36	Transports Publics Genevois
 8C:1F:64:64:10:00/36	biosilver .co.,ltd
 8C:1F:64:64:40:00/36	Dave Srl
 8C:1F:64:64:70:00/36	Senior Group LLC
@@ -41959,6 +41967,7 @@
 8C:1F:64:BD:00:00/36	Mesa Labs, Inc.
 8C:1F:64:BD:20:00/36	attocube systems AG
 8C:1F:64:BD:30:00/36	IO Master Technology
+8C:1F:64:BD:40:00/36	AVEA Group, Inc.
 8C:1F:64:BD:50:00/36	Pro-Custom Group
 8C:1F:64:BD:60:00/36	NOVA Products GmbH
 8C:1F:64:BD:70:00/36	Union Electronic.
@@ -45921,6 +45930,7 @@ A4:4F:29:C0:00:00/28	Shenzhen Huadoo Bright Group Limitied
 A4:4F:29:D0:00:00/28	Halliburton
 A4:4F:29:E0:00:00/28	Neotech Systems Pvt. Ltd.
 A4:4F:29:F0:00:00/28	Private
+A4:4F:3E:90:00:00/28	LINK Group Inc.
 A4:50:06		Shenzhen Huachuang Shidai Technologyco.,Ltd
 A4:50:46		Xiaomi Communications Co Ltd
 A4:50:55		Busware.De
@@ -52707,6 +52717,7 @@ D8:A1:05		Syslane, Co., Ltd.
 D8:A2:5E		Apple, Inc.
 D8:A3:15		vivo Mobile Communication Co., Ltd.
 D8:A3:5C		Samsung Electronics Co.,Ltd
+D8:A4:69		Sonova AG
 D8:A4:91		Huawei Device Co., Ltd.
 D8:A5:34		Spectronix Corporation
 D8:A6:F0		Wu Qi Technologies,Inc.
