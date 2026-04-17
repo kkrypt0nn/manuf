@@ -23514,7 +23514,7 @@
 30:49:50:70:00:00/28	Shenzhen iTG robot Co.,Ltd.
 30:49:50:80:00:00/28	Shenzhen Ldrobot Co., Ltd.
 30:49:50:90:00:00/28	Shanghai gatang technology CO.,LTD
-30:49:50:A0:00:00/28	Ledworks SRL
+30:49:50:A0:00:00/28	Illucere Srl
 30:49:50:B0:00:00/28	Hangzhou Ev-Tech Co.,Ltd
 30:49:50:C0:00:00/28	Anacove LLC
 30:49:50:D0:00:00/28	Merlyn Mind, Inc.
@@ -37196,6 +37196,7 @@
 78:0A:57		Shanghai Lightningsemi Technology Co.,Ltd.
 78:0A:C7		Baofeng TV Co., Ltd.
 78:0B:8C		Private
+78:0C:48		Hong Kong Yihao Electronic Technology Co., Limited
 78:0C:71		Inseego Wireless, Inc
 78:0C:B8		Intel Corporate
 78:0C:F0		Cisco Systems, Inc
@@ -37586,6 +37587,7 @@
 78:B8:D6		Zebra Technologies Inc.
 78:BA:D0		Shinybow Technology Co. Ltd.
 78:BA:F9		Cisco Systems, Inc
+78:BB:5C		Nokia Solutions and Networks India Private Limited
 78:BB:88		Maxio Technology (Hangzhou) Ltd.
 78:BB:C1		Servercom (India) Private Limited
 78:BC:1A		Cisco Systems, Inc
@@ -43471,6 +43473,7 @@
 90:A1:BA		PNetworks Electronics Information
 90:A2:10		United Telecoms Ltd
 90:A2:5B		Apple, Inc.
+90:A2:5D		Shenzhen Hailingwei Electronics Co.,Ltd
 90:A2:DA		Gheo Sa
 90:A3:65		HMD Global Oy
 90:A4:6A		Sisnet Co., Ltd
@@ -45930,6 +45933,7 @@ A4:4F:29:C0:00:00/28	Shenzhen Huadoo Bright Group Limitied
 A4:4F:29:D0:00:00/28	Halliburton
 A4:4F:29:E0:00:00/28	Neotech Systems Pvt. Ltd.
 A4:4F:29:F0:00:00/28	Private
+A4:4F:3E		IEEE Registration Authority
 A4:4F:3E:90:00:00/28	LINK Group Inc.
 A4:50:06		Shenzhen Huachuang Shidai Technologyco.,Ltd
 A4:50:46		Xiaomi Communications Co Ltd
@@ -52943,7 +52947,7 @@ DC:2C:6E		Routerboard.com
 DC:2D:04		vivo Mobile Communication Co., Ltd.
 DC:2D:3C		Huawei Device Co., Ltd.
 DC:2D:CB		Beijing Unis HengYue Technology Co., Ltd.
-DC:2D:DE		Ledworks SRL
+DC:2D:DE		Illucere Srl
 DC:2E:6A		HCT. Co., Ltd.
 DC:2E:97		Quectel Wireless Solutions Co.,Ltd.
 DC:2F:03		Step forward Group Co., Ltd.
@@ -57031,6 +57035,7 @@ FC:58:4A		xiamenshi c-chip technology co., ltd
 FC:58:9A		Cisco Systems, Inc
 FC:58:DF		Interphone Service
 FC:58:FA		Shen Zhen Shi Xin Zhong Xin Technology Co.,Ltd.
+FC:59:7A		Zebra Technologies Inc.
 FC:59:9F		Ruijie Networks Co.,LTD
 FC:59:C0		Arista Networks
 FC:5A:1D		Hitron Technologies. Inc
