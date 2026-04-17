@@ -31541,7 +31541,7 @@
 6C:15:24:10:00:00/28	Telsonic AG
 6C:15:24:20:00:00/28	Linkplay
 6C:15:24:30:00:00/28	Forcite Helmet Systems Pty Ltd
-6C:15:24:40:00:00/28	Magicyo Technology CO., LTD.
+6C:15:24:40:00:00/28	Magicyo Technology CO.,Ltd
 6C:15:24:50:00:00/28	Shenzhen Electron Technology Co., LTD.
 6C:15:24:60:00:00/28	Kunshan Abram Software Technology Co.,Ltd.
 6C:15:24:70:00:00/28	Motium Pty Ltd
@@ -42092,6 +42092,7 @@
 8C:1F:64:C8:F0:00/36	JW Froehlich Maschinenfabrik GmbH
 8C:1F:64:C9:10:00/36	Soehnle Industrial Solutions GmbH
 8C:1F:64:C9:20:00/36	EQ Earthquake Ltd.
+8C:1F:64:C9:50:00/36	Lemier
 8C:1F:64:C9:60:00/36	Smart Data (Shenzhen) Intelligent System Co., Ltd.
 8C:1F:64:C9:70:00/36	Magnet-Physik Dr. Steingroever GmbH
 8C:1F:64:C9:90:00/36	Vinfast Trading and Production JSC
@@ -45934,7 +45935,11 @@ A4:4F:29:D0:00:00/28	Halliburton
 A4:4F:29:E0:00:00/28	Neotech Systems Pvt. Ltd.
 A4:4F:29:F0:00:00/28	Private
 A4:4F:3E		IEEE Registration Authority
+A4:4F:3E:10:00:00/28	Netshield Europe Srl
+A4:4F:3E:70:00:00/28	Vinfast Trading and Production JSC
+A4:4F:3E:80:00:00/28	Neurable
 A4:4F:3E:90:00:00/28	LINK Group Inc.
+A4:4F:3E:C0:00:00/28	Joyar Technology (Hong Kong) Company Limited
 A4:50:06		Shenzhen Huachuang Shidai Technologyco.,Ltd
 A4:50:46		Xiaomi Communications Co Ltd
 A4:50:55		Busware.De
