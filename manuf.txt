@@ -40485,6 +40485,7 @@
 8C:1F:64:30:D0:00/36	Flextronics International Kft
 8C:1F:64:30:E0:00/36	Tangent Design Engineering
 8C:1F:64:30:F0:00/36	East Photonics
+8C:1F:64:31:00:00/36	CrossBar, Inc.
 8C:1F:64:31:30:00/36	Sb-Group Ltd
 8C:1F:64:31:40:00/36	Cedel BV
 8C:1F:64:31:60:00/36	Potter Electric Signal Co. LLC
@@ -56696,6 +56697,7 @@ F8:A4:5F		Xiaomi Communications Co Ltd
 F8:A4:75		PT Indoreka Jaya Wutama
 F8:A4:FB		Nanjing Decowell Automation Co.,LTD
 F8:A5:C5		Cisco Systems, Inc
+F8:A5:E6		Magicyo Technology CO.,Ltd
 F8:A7:3A		Cisco Systems, Inc
 F8:A7:63		Zhejiang Tmall Technology Co., Ltd.
 F8:A9:1F		ZVISION Technologies Co., Ltd
