@@ -43485,7 +43485,6 @@
 90:A1:BA		PNetworks Electronics Information
 90:A2:10		United Telecoms Ltd
 90:A2:5B		Apple, Inc.
-90:A2:5D		Shenzhen Hailingwei Electronics Co.,Ltd
 90:A2:DA		Gheo Sa
 90:A3:65		HMD Global Oy
 90:A4:6A		Sisnet Co., Ltd
