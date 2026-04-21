@@ -27238,6 +27238,7 @@
 48:93:DC		Uniway Infocom Pvt Ltd
 48:95:07		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 48:96:D9		zte corporation
+48:98:AB		Wistron InfoComm(Chongqing)Co.,Ltd.
 48:98:CA		Sichuan AI-Link Technology Co., Ltd.
 48:9A:42		Technomate Ltd
 48:9A:5B		Shenzhen iComm Semiconductor CO.,LTD
@@ -28486,6 +28487,7 @@
 50:E1:4A		Private
 50:E2:4E		zte corporation
 50:E4:52		Chipsea Technologies (Shenzhen) Corp.
+50:E4:67		Ring LLC
 50:E4:78		Sichuan AI-Link Technology Co., Ltd.
 50:E4:E0		Hewlett Packard Enterprise
 50:E5:38		Hangzhou Hikvision Digital Technology Co.,Ltd.
@@ -29892,7 +29894,7 @@
 5C:A6:E6		TP-Link Systems Inc
 5C:A7:21		New H3C Technologies Co., Ltd
 5C:A8:6A		Huawei Technologies Co.,Ltd
-5C:A9:31		38436
+5C:A9:31		Ubee Interactive Co., Limited
 5C:A9:33		Luma Home
 5C:AA:FD		Sonos, Inc.
 5C:AC:3D		Samsung Electronics Co.,Ltd
@@ -32103,6 +32105,7 @@
 70:2B:1D		E-Domus International Limited
 70:2C:09		Nintendo Co.,Ltd
 70:2C:1F		Wisol
+70:2D:81		Infinix mobility limited
 70:2D:84		i4C Innovations
 70:2D:D1		Newings Communication CO., LTD.
 70:2E:22		zte corporation
@@ -40595,6 +40598,7 @@
 8C:1F:64:3A:20:00/36	Kron Medidores
 8C:1F:64:3A:30:00/36	Lumentum
 8C:1F:64:3A:40:00/36	QLM Technology Ltd
+8C:1F:64:3A:50:00/36	Techmovers Systems India Limited
 8C:1F:64:3A:C0:00/36	Benison Tech
 8C:1F:64:3A:D0:00/36	TowerIQ
 8C:1F:64:3A:F0:00/36	PSA Technology Ltda.
@@ -40935,6 +40939,7 @@
 8C:1F:64:5A:90:00/36	Aktiebolag Solask Energi
 8C:1F:64:5A:A0:00/36	Landis+Gyr Equipamentos de Medição Ltda
 8C:1F:64:5A:C0:00/36	YUYAMA MFG Co.,Ltd
+8C:1F:64:5A:D0:00/36	TAKAHATA PRECISION Co., LTD.
 8C:1F:64:5A:E0:00/36	Suzhou Motorcomm Electronic Technology Co., Ltd
 8C:1F:64:5A:F0:00/36	Teq Diligent Product Solutions Pvt. Ltd.
 8C:1F:64:5B:00:00/36	Sonel S.A.
@@ -43875,6 +43880,7 @@
 94:57:A5		Hewlett Packard
 94:58:CB		Nintendo Co.,Ltd
 94:59:07		Shanghai HITE-BELDEN Network Technology Co., Ltd.
+94:59:15		Amazon Technologies Inc.
 94:59:2D		EKE Building Technology Systems Ltd
 94:5A:EA		Huawei Technologies Co.,Ltd
 94:5A:FC		Amazon Technologies Inc.
@@ -44800,6 +44806,7 @@
 9C:1E:CF		Valeo Telematik und Akustik GmbH
 9C:1F:CA		Hangzhou AlmightyDigit Technology Co., Ltd
 9C:1F:DD		Accupix Inc.
+9C:1F:E6		Shenzhen Skyworth Display Technologies Co.,Ltd
 9C:20:7B		Apple, Inc.
 9C:21:6A		Tp-Link Technologies Co.,Ltd.
 9C:21:83		Broadcom Limited
@@ -45952,11 +45959,13 @@ A4:4F:3E		IEEE Registration Authority
 A4:4F:3E:00:00:00/28	United Automotive Electronic Systems Co.,Ltd
 A4:4F:3E:10:00:00/28	Netshield Europe Srl
 A4:4F:3E:20:00:00/28	Rinvent Industries Private Limited
+A4:4F:3E:30:00:00/28	Annapurna labs
 A4:4F:3E:70:00:00/28	Vinfast Trading and Production JSC
 A4:4F:3E:80:00:00/28	Neurable
 A4:4F:3E:90:00:00/28	LINK Group Inc.
 A4:4F:3E:B0:00:00/28	Suzhou AIDomex Intelligent Technology Co., Ltd.
 A4:4F:3E:C0:00:00/28	Joyar Technology (Hong Kong) Company Limited
+A4:4F:3E:D0:00:00/28	NTT sonority, Inc.
 A4:50:06		Shenzhen Huachuang Shidai Technologyco.,Ltd
 A4:50:46		Xiaomi Communications Co Ltd
 A4:50:55		Busware.De
@@ -49999,6 +50008,7 @@ C4:95:4D:D0:00:00/28	Newland Era Edu Hi-Tech(BeiJing)Co.,Ltd
 C4:95:4D:E0:00:00/28	Canare Electric Co., Ltd.
 C4:95:5F		Anhui Saida Technology Limited Liability Company
 C4:95:A2		Shenzhen Weijiu Industry And Trade Development Co., Ltd
+C4:96:9F		Amazon Technologies Inc.
 C4:98:05		Minieum Networks, Inc
 C4:98:5C		Hui Zhou Gaoshengda Technology Co.,LTD
 C4:98:78		Shanghai Moaan Intelligent Technology Co.,Ltd
@@ -51063,6 +51073,7 @@ CC:79:4A		BLU Products Inc.
 CC:79:CF		Shenzhen Rf-Link Technology Co.,Ltd.
 CC:79:D7		Cisco Systems, Inc
 CC:7A:30		CMAX Wireless Co., Ltd.
+CC:7A:8B		Shenzhen Tecno Technology
 CC:7B:35		zte corporation
 CC:7B:5C		Espressif Inc.
 CC:7B:61		Nikkiso Co., Ltd.
