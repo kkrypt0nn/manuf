@@ -20830,6 +20830,7 @@
 1C:5A:0B		Tegile Systems
 1C:5A:3E		Samsung Electronics Co.,Ltd
 1C:5A:6B		Philips Electronics Nederland BV
+1C:5B:A2		Hp Globales Mexico
 1C:5C:55		PRIMA Cinema, Inc
 1C:5C:60		Shenzhen Belzon Technology Co.,LTD.
 1C:5C:F2		Apple, Inc.
@@ -21108,6 +21109,7 @@
 1C:B8:BA		Xiamen Leelen Technology Co., Ltd
 1C:B9:C4		Ruckus Wireless
 1C:BA:8C		Texas Instruments
+1C:BA:B8		vivo Mobile Communication Co., Ltd.
 1C:BB:A8		OJSC "Ufimskiy Zavod "Promsvyaz"
 1C:BC:EC		silex technology, Inc.
 1C:BD:0E		Amplified Engineering Pty Ltd
@@ -21548,6 +21550,7 @@
 20:A2:00		Huawei Technologies Co.,Ltd
 20:A2:E4		Apple, Inc.
 20:A2:E7		Lee-Dickens Ltd
+20:A3:66		vivo Mobile Communication Co., Ltd.
 20:A5:CB		Apple, Inc.
 20:A6:0C		Xiaomi Communications Co Ltd
 20:A6:80		Huawei Technologies Co.,Ltd
@@ -28454,6 +28457,7 @@
 50:D6:D7		Takahata Precision
 50:D7:53		CONELCOM GmbH
 50:DA:00		Hangzhou H3C Technologies Co., Limited
+50:DA:9E		Shen Zhen Tenda Technology Co.,Ltd
 50:DA:D6		Xiaomi Communications Co Ltd
 50:DB:3F		Shenzhen Gongjin Electronics Co.,Lt
 50:DC:D0		Observint Technologies, Inc.
@@ -31492,6 +31496,7 @@
 68:FC:B3		Next Level Security Systems, Inc.
 68:FC:B6		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 68:FC:CA		Samsung Electronics Co.,Ltd
+68:FD:E8		Ruckus Wireless
 68:FE:71		Espressif Inc.
 68:FE:DA		Fiberhome Telecommunication Technologies Co.,LTD
 68:FE:F7		Apple, Inc.
@@ -45960,6 +45965,8 @@ A4:4F:3E:00:00:00/28	United Automotive Electronic Systems Co.,Ltd
 A4:4F:3E:10:00:00/28	Netshield Europe Srl
 A4:4F:3E:20:00:00/28	Rinvent Industries Private Limited
 A4:4F:3E:30:00:00/28	Annapurna labs
+A4:4F:3E:40:00:00/28	ShenZhen hionetech Co,.ltd
+A4:4F:3E:60:00:00/28	Maven Pet Inc
 A4:4F:3E:70:00:00/28	Vinfast Trading and Production JSC
 A4:4F:3E:80:00:00/28	Neurable
 A4:4F:3E:90:00:00/28	LINK Group Inc.
@@ -49974,6 +49981,7 @@ C4:86:E9		Huawei Technologies Co.,Ltd
 C4:88:E5		Samsung Electronics Co.,Ltd
 C4:89:ED		Solid Optics EU N.V.
 C4:8A:5A		Jfcontrol
+C4:8A:CE		Hisense Visual Technology Co.,Ltd
 C4:8B:66		Hui Zhou Gaoshengda Technology Co.,LTD
 C4:8B:A3		Cisco Meraki
 C4:8E:8F		Hon Hai Precision Ind. Co.,Ltd.
@@ -57011,6 +57019,7 @@ FC:34:E2		Shenzhen YOUHUA Technology Co., Ltd
 FC:35:98		Favite Inc.
 FC:35:E6		Visteon Corporation
 FC:37:2B		Sichuan Tianyi Comheart Telecom Co.,LTD
+FC:37:6D		Shenzhen Bilian Electronic Co.，Ltd
 FC:38:6A		Shenzhen Skyworth Digital  Technology  CO., Ltd
 FC:38:76		Forum Communication Systems, Inc
 FC:38:82		Infinix mobility limited
