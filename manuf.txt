@@ -22477,6 +22477,7 @@
 28:85:BB		Zen Exim Pvt. Ltd.
 28:87:5F		Annapurna labs
 28:87:61		LG Innotek
+28:87:AF		Advantech Technology (CHINA) Co., Ltd.
 28:87:BA		TP-Link Systems Inc
 28:89:15		CashGuard Sverige AB
 28:8A:1C		Juniper Networks
@@ -25371,6 +25372,7 @@
 3C:C5:DD		Hui Zhou Gaoshengda Technology Co.,LTD
 3C:C6:83		Sichuan AI-Link Technology Co., Ltd.
 3C:C7:86		Dongguan Huarong Communication Technologies Co.,Ltd.
+3C:C8:01		Shenzhen Sundray Technologies company Limited
 3C:C9:9E		Huiyang Technology Co., Ltd
 3C:CA:61		Tecno Mobile Limited
 3C:CA:87		Iders Incorporated
@@ -27421,6 +27423,7 @@
 48:E9:F1		Apple, Inc.
 48:EA:62		HP Inc.
 48:EA:63		Zhejiang Uniview Technologies Co., Ltd.
+48:EA:A9		ShenZhen C&D Electronics CO.Ltd.
 48:EB:30		Eterna Technology, Inc.
 48:EB:62		Murata Manufacturing Co., Ltd.
 48:EB:65		Henan KunLun Technologies CO.,Ltd.
@@ -29594,6 +29597,7 @@
 5C:16:48		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 5C:16:7D		Huawei Technologies Co.,Ltd
 5C:16:C7		Arista Networks
+5C:17:15		ODrive Robotics
 5C:17:20		Huawei Device Co., Ltd.
 5C:17:37		I-View Now, LLC.
 5C:17:83		Edgecore Americas Networking Corporation
@@ -37374,6 +37378,7 @@
 78:51:0C		LiveU Ltd.
 78:52:1A		Samsung Electronics Co.,Ltd
 78:52:37		zte corporation
+78:52:49		Loxone Electronics GmbH
 78:52:4A		Optonic GmbH
 78:52:62		Shenzhen Hojy Software Co., Ltd.
 78:53:0D		Shenzhen Skyworth Digital  Technology  CO., Ltd
@@ -41465,6 +41470,7 @@
 8C:1F:64:8B:10:00/36	Viewpixel Pvt. Ltd.
 8C:1F:64:8B:20:00/36	Abbott Diagnostics Technologies AS
 8C:1F:64:8B:30:00/36	Hubbell Power Systems
+8C:1F:64:8B:40:00/36	MYIR Electronics Limited
 8C:1F:64:8B:50:00/36	Ashton Bentley Collaboration Spaces
 8C:1F:64:8B:60:00/36	AXIS Sp z o.o.
 8C:1F:64:8B:70:00/36	DA-Design Oy
@@ -45976,9 +45982,11 @@ A4:4F:3E:60:00:00/28	Maven Pet Inc
 A4:4F:3E:70:00:00/28	Vinfast Trading and Production JSC
 A4:4F:3E:80:00:00/28	Neurable
 A4:4F:3E:90:00:00/28	LINK Group Inc.
+A4:4F:3E:A0:00:00/28	CMCNI Co., Ltd
 A4:4F:3E:B0:00:00/28	Suzhou AIDomex Intelligent Technology Co., Ltd.
 A4:4F:3E:C0:00:00/28	Joyar Technology (Hong Kong) Company Limited
 A4:4F:3E:D0:00:00/28	NTT sonority, Inc.
+A4:4F:3E:E0:00:00/28	ShenZhen Chainway Information Technology Co., Ltd.
 A4:50:06		Shenzhen Huachuang Shidai Technologyco.,Ltd
 A4:50:46		Xiaomi Communications Co Ltd
 A4:50:55		Busware.De
@@ -46861,6 +46869,7 @@ AC:22:41		Huawei Technologies Co.,Ltd
 AC:23:16		Mist Systems, Inc.
 AC:23:34		Infinix mobility limited
 AC:23:3F		Shenzhen Minew Technologies Co., Ltd.
+AC:24:77		Shenzhen Tinno Mobile Technology Corp
 AC:27:6E		Espressif Inc.
 AC:29:29		Infinix mobility limited
 AC:29:3A		Apple, Inc.
@@ -49094,6 +49103,7 @@ BC:BC:CA		Huawei Device Co., Ltd.
 BC:BD:84		zte corporation
 BC:BD:9E		Itel Mobile Limited
 BC:BE:FB		ASL Xiamen Technology CO., LTD
+BC:BF:2E		ASUSTek COMPUTER INC.
 BC:C0:0F		Fiberhome Telecommunication Technologies Co.,LTD
 BC:C1:68		DinBox Sverige AB
 BC:C2:3A		Thomson Video Networks
@@ -56818,6 +56828,7 @@ F8:C6:50		Cisco Systems, Inc
 F8:C6:78		Carefusion
 F8:C9:03		Tp-Link Technologies Co.,Ltd.
 F8:C9:6C		Fiberhome Telecommunication Technologies Co.,LTD
+F8:C9:D6:20:00:00/28	Annapurna labs
 F8:CA:59		NetComm Wireless
 F8:CA:85		NEC Corporation
 F8:CA:B8		Dell Inc.
