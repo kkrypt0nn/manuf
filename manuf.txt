@@ -31067,6 +31067,7 @@
 68:05:CA		Intel Corporate
 68:07:0A		TPVision Europe B.V
 68:07:15		Intel Corporate
+68:08:0D		Shenzhen Yingsheng Technology Co., LTD
 68:09:27		Apple, Inc.
 68:09:47		Espressif Inc.
 68:0A:D7		Yancheng Kecheng Optoelectronic Technology Co., Ltd
@@ -37839,6 +37840,7 @@
 7C:0A:3F		Samsung Electronics Co.,Ltd
 7C:0A:50		J-MEX Inc.
 7C:0B:C6		Samsung Electronics Co.,Ltd
+7C:0C:5F		Espressif Inc.
 7C:0C:92		Suzhou Mobydata Smart System Co.,Ltd.
 7C:0C:F6		Guangdong Huiwei High-tech Co., Ltd.
 7C:0C:FA		Huawei Technologies Co.,Ltd
@@ -37966,6 +37968,7 @@
 7C:4D:8F		HP Inc.
 7C:4E:09		Shenzhen Skyworth Wireless Technology Co.,Ltd
 7C:4F:7D		Sawwave
+7C:4F:AD		Espressif Inc.
 7C:4F:B5		Arcadyan Corporation
 7C:50:49		Apple, Inc.
 7C:50:79		Intel Corporate
@@ -38305,6 +38308,7 @@
 7C:E5:6B		ESEN Optoelectronics Technology Co.,Ltd.
 7C:E7:12		Quectel Wireless Solutions Co.,Ltd.
 7C:E8:7F		Sagemcom Broadband SAS
+7C:E8:B1		Espressif Inc.
 7C:E9:13		Fantasia Trading LLC
 7C:E9:7C		Itel Mobile Limited
 7C:E9:D3		Hon Hai Precision Ind. Co.,Ltd.
@@ -40412,6 +40416,7 @@
 8C:1F:64:28:B0:00/36	Power Electronics Espana, S.L.
 8C:1F:64:28:C0:00/36	Sakura Seiki Co.,Ltd.
 8C:1F:64:28:D0:00/36	AVA Monitoring AB
+8C:1F:64:28:F0:00/36	MDA SatConn UK
 8C:1F:64:29:00:00/36	Ubiq Technologies International Ltd
 8C:1F:64:29:10:00/36	Jiangsu Ruidong Electric Power Technology Co.,Ltd
 8C:1F:64:29:20:00/36	Gogo Business Aviation
@@ -45966,6 +45971,7 @@ A4:4F:3E:10:00:00/28	Netshield Europe Srl
 A4:4F:3E:20:00:00/28	Rinvent Industries Private Limited
 A4:4F:3E:30:00:00/28	Annapurna labs
 A4:4F:3E:40:00:00/28	ShenZhen hionetech Co,.ltd
+A4:4F:3E:50:00:00/28	Mobilint
 A4:4F:3E:60:00:00/28	Maven Pet Inc
 A4:4F:3E:70:00:00/28	Vinfast Trading and Production JSC
 A4:4F:3E:80:00:00/28	Neurable
@@ -54656,6 +54662,7 @@ E8:B6:C2		Juniper Networks
 E8:B7:22		GreenTrol Automation
 E8:B7:23		Shenzhen Vatilon Electronics Co.,Ltd
 E8:B7:48		Cisco Systems, Inc
+E8:B8:53		Gsd Viet Nam Technology Company Limited
 E8:BA:70		Cisco Systems, Inc
 E8:BA:E2		Xplora Technologies AS
 E8:BB:3D		Sino Prime-Tech Limited
