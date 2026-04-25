@@ -56828,6 +56828,7 @@ F8:C6:50		Cisco Systems, Inc
 F8:C6:78		Carefusion
 F8:C9:03		Tp-Link Technologies Co.,Ltd.
 F8:C9:6C		Fiberhome Telecommunication Technologies Co.,LTD
+F8:C9:D6		IEEE Registration Authority
 F8:C9:D6:20:00:00/28	Annapurna labs
 F8:CA:59		NetComm Wireless
 F8:CA:85		NEC Corporation
