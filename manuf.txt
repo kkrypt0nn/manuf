@@ -23279,6 +23279,7 @@
 2C:E3:10		Stratacache
 2C:E3:8E		Cisco Systems, Inc
 2C:E4:12		Sagemcom Broadband SAS
+2C:E6:4D		GD Midea Air-Conditioning Equipment Co.,Ltd.
 2C:E6:CC		Ruckus Wireless
 2C:E8:71		Alert Metalguard ApS
 2C:EA:7F		Dell Inc.
@@ -38701,6 +38702,7 @@
 80:A1:AB		Intellisis
 80:A1:D7		Shanghai DareGlobal Technologies Co.,Ltd
 80:A2:35		Edgecore Networks Corporation
+80:A2:FC		AzureWave Technology Inc.
 80:A5:79		IEEE Registration Authority
 80:A5:79:00:00:00/28	Benano Inc.
 80:A5:79:10:00:00/28	Zhe Jiang EV-Tech Co.,Ltd
@@ -40000,6 +40002,7 @@
 8C:1F:64:00:10:00/36	HYFIX Spatial Intelligence
 8C:1F:64:00:30:00/36	Brighten Controls LLP
 8C:1F:64:00:60:00/36	Dunasys Ingenierie
+8C:1F:64:00:70:00/36	Intown Co., Ltd.
 8C:1F:64:00:90:00/36	Converging Systems Inc.
 8C:1F:64:00:A0:00/36	TaskUnite Inc. (dba AMPAworks)
 8C:1F:64:00:C0:00/36	Guan Show Technologe Co., Ltd.
@@ -40586,6 +40589,7 @@
 8C:1F:64:37:E0:00/36	SIDUS Solutions, LLC
 8C:1F:64:37:F0:00/36	Scarlet Tech Co., Ltd.
 8C:1F:64:38:00:00/36	Yslab
+8C:1F:64:38:10:00/36	TimeMachines Inc.
 8C:1F:64:38:20:00/36	Shenzhen ROLSTONE Technology Co., Ltd
 8C:1F:64:38:40:00/36	Tango Tango
 8C:1F:64:38:50:00/36	Multilane Inc
@@ -41014,6 +41018,7 @@
 8C:1F:64:5F:F0:00/36	Dave Srl
 8C:1F:64:60:00:00/36	Anhui Chaokun Testing Equipment Co., Ltd
 8C:1F:64:60:10:00/36	Camius
+8C:1F:64:60:20:00/36	Power Electronics Espana, S.L.
 8C:1F:64:60:30:00/36	Fuku Energy Technology Co., Ltd.
 8C:1F:64:60:50:00/36	Xacti Corporation
 8C:1F:64:60:60:00/36	NodOn SAS
@@ -51883,6 +51888,7 @@ D0:D3:FC		Mios, Ltd.
 D0:D4:12		ADB Broadband Italia
 D0:D4:71		MVTECH co., Ltd
 D0:D4:9F		Apple, Inc.
+D0:D4:FB		Home Control Singapore Pte Ltd
 D0:D6:CC		Wintop
 D0:D7:83		Huawei Technologies Co.,Ltd
 D0:D7:BE		Huawei Technologies Co.,Ltd
@@ -52849,6 +52855,7 @@ D8:CE:3A		Xiaomi Communications Co Ltd
 D8:CF:61		Sagemcom Broadband SAS
 D8:CF:89		Beijing DoSee Science and Technology Co., Ltd.
 D8:CF:9C		Apple, Inc.
+D8:CF:B1		Bright Technologies India Private Limited
 D8:CF:BF		Motorola Mobility LLC, a Lenovo Company
 D8:D0:90		Dell Inc.
 D8:D1:CB		Apple, Inc.
@@ -56830,6 +56837,8 @@ F8:C9:03		Tp-Link Technologies Co.,Ltd.
 F8:C9:6C		Fiberhome Telecommunication Technologies Co.,LTD
 F8:C9:D6		IEEE Registration Authority
 F8:C9:D6:20:00:00/28	Annapurna labs
+F8:C9:D6:80:00:00/28	Miri Technologies, Inc
+F8:C9:D6:B0:00:00/28	Vt100 Srl
 F8:CA:59		NetComm Wireless
 F8:CA:85		NEC Corporation
 F8:CA:B8		Dell Inc.
