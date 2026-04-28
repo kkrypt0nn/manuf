@@ -18302,6 +18302,7 @@
 08:63:32:D0:00:00/28	akYtec GmbH
 08:63:32:E0:00:00/28	C-Vue (Shanghai) Audio Technology Co.,Ltd
 08:63:61		Huawei Technologies Co.,Ltd
+08:63:8A		Cisco Systems, Inc
 08:64:80		Black Sesame Technologies Co., Ltd
 08:65:18		Apple, Inc.
 08:65:F0		JM Zengge Co., Ltd
@@ -18652,6 +18653,7 @@
 0C:23:69		Honeywell SPS
 0C:23:8D		Huawei Technologies Co.,Ltd
 0C:25:76		Longcheer Telecommunication Limited
+0C:26:43		Cisco Systems, Inc
 0C:27:24		Cisco Systems, Inc
 0C:27:55		Valuable Techologies Limited
 0C:27:56		Rongcheeng Goer Technology Co.,Ltd.
@@ -18679,6 +18681,7 @@
 0C:37:96		Bizlink Technology, Inc.
 0C:37:DC		Huawei Technologies Co.,Ltd
 0C:38:3E		Fanvil Technology Co., Ltd.
+0C:39:3D		eero inc.
 0C:39:56		Observator instruments
 0C:3A:FA		New H3C Technologies Co., Ltd
 0C:3B:50		Apple, Inc.
@@ -21174,6 +21177,7 @@
 1C:D1:BA		Fiberhome Telecommunication Technologies Co.,LTD
 1C:D1:D7		Hangzhou BroadLink Technology Co., Ltd
 1C:D1:E0		Cisco Systems, Inc
+1C:D2:1E		Juniper Networks
 1C:D3:AF		LG Innotek
 1C:D4:0C		Kriwan Industrie-Elektronik GmbH
 1C:D5:E2		Shenzhen YOUHUA Technology Co., Ltd
@@ -27587,6 +27591,7 @@
 4C:49:68		Ruijie Networks Co.,LTD
 4C:49:6C		Intel Corporate
 4C:49:E3		Xiaomi Communications Co Ltd
+4C:4A:B4		Juniper Networks
 4C:4B:1F		Cloud Network Technology Singapore Pte. Ltd.
 4C:4B:68		Mobile Device, Inc.
 4C:4B:F9		IEEE Registration Authority
@@ -28304,6 +28309,7 @@
 50:82:D5		Apple, Inc.
 50:84:92		Intel Corporate
 50:85:69		Samsung Electronics Co.,Ltd
+50:85:7C		eero inc.
 50:87:4D		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 50:87:89		Cisco Systems, Inc
 50:87:B8		Nuvyyo Inc
@@ -39929,6 +39935,7 @@
 8C:11:CB		ABUS Security-Center GmbH & Co. KG
 8C:12:C2		GLBB Japan
 8C:13:E2		Netlink Ict
+8C:14:2A		Cisco Systems, Inc
 8C:14:7D		IEEE Registration Authority
 8C:14:7D:00:00:00/28	Nio
 8C:14:7D:10:00:00/28	Private
@@ -43872,6 +43879,7 @@
 94:44:44		LG Innotek
 94:44:52		Belkin International Inc.
 94:45:60		Google, Inc.
+94:46:67		Cisco Systems, Inc
 94:46:96		BaudTec Corporation
 94:47:88		Huawei Technologies Co.,Ltd
 94:47:B0		Beijing Eswin Computing Technology Co., Ltd
@@ -43917,6 +43925,7 @@
 94:63:72		vivo Mobile Communication Co., Ltd.
 94:63:D1		Samsung Electronics Co.,Ltd
 94:64:24		Hewlett Packard Enterprise
+94:64:42		Celestica Inc.
 94:65:2D		OnePlus Technology (Shenzhen) Co., Ltd
 94:65:9C		Intel Corporate
 94:66:E7		WOM Engineering
