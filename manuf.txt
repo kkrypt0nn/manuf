@@ -18332,7 +18332,7 @@
 08:74:58		Fiberhome Telecommunication Technologies Co.,LTD
 08:74:F6		Winterhalter Gastronom GmbH
 08:75:72		Obelux Oy
-08:76:18		ViE Technologies Sdn. Bhd.
+08:76:18		ViTrox Technologies Sdn. Bhd
 08:76:71		Juniper Networks
 08:76:95		Auto Industrial Co., Ltd.
 08:76:FF		Thomson Telecom Belgium
@@ -28499,6 +28499,7 @@
 50:DE:19:C0:00:00/28	Shenzhen Vipstech Co., Ltd
 50:DE:19:D0:00:00/28	Penny & Giles Aerospace Ltd
 50:DE:19:E0:00:00/28	DTEN Inc.
+50:DE:92		shenzhen worldelite electronics co., LTD
 50:DF:95		Lytx
 50:E0:39		Zyxel Communications Corporation
 50:E0:85		Intel Corporate
@@ -49099,6 +49100,7 @@ BC:A5:11		Netgear
 BC:A5:8B		Samsung Electronics Co.,Ltd
 BC:A5:A9		Apple, Inc.
 BC:A6:8D		Continetal Automotive Systems Sibiu
+BC:A6:E7		Sichuan Odot Automation System Co., Ltd.
 BC:A8:A6		Intel Corporate
 BC:A9:20		Apple, Inc.
 BC:A9:93		Cambium Networks Limited
@@ -56872,6 +56874,7 @@ F8:C9:6C		Fiberhome Telecommunication Technologies Co.,LTD
 F8:C9:D6		IEEE Registration Authority
 F8:C9:D6:20:00:00/28	Annapurna labs
 F8:C9:D6:80:00:00/28	Miri Technologies, Inc
+F8:C9:D6:A0:00:00/28	DIAS Infrared GmbH
 F8:C9:D6:B0:00:00/28	Vt100 Srl
 F8:CA:59		NetComm Wireless
 F8:CA:85		NEC Corporation
