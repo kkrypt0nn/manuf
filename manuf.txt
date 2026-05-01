@@ -56886,8 +56886,11 @@ F8:C9:03		Tp-Link Technologies Co.,Ltd.
 F8:C9:6C		Fiberhome Telecommunication Technologies Co.,LTD
 F8:C9:D6		IEEE Registration Authority
 F8:C9:D6:20:00:00/28	Annapurna labs
+F8:C9:D6:30:00:00/28	CPflight_srl
 F8:C9:D6:50:00:00/28	Annapurna labs
+F8:C9:D6:60:00:00/28	Shanghai Innovatech Information Technology Co., Ltd.
 F8:C9:D6:80:00:00/28	Miri Technologies, Inc
+F8:C9:D6:90:00:00/28	Dimetix AG
 F8:C9:D6:A0:00:00/28	DIAS Infrared GmbH
 F8:C9:D6:B0:00:00/28	Vt100 Srl
 F8:C9:D6:D0:00:00/28	Fortis Medical Devices LTD
