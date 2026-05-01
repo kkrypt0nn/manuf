@@ -30661,6 +30661,7 @@
 64:20:9F		Tilgin AB
 64:20:E0		T3 Technology Co., Ltd.
 64:21:84		Nippon Denki Kagaku Co.,LTD
+64:21:FD		Guang zhou Xradio Technology Co., Ltd
 64:22:16		Shandong Taixin Electronic co.,Ltd
 64:23:15		Huawei Device Co., Ltd.
 64:24:00		Xorcom Ltd.
@@ -31990,6 +31991,7 @@
 6C:DD:BC		Samsung Electronics Co.,Ltd
 6C:DD:EF		EPCOMM Inc.
 6C:DE:A9		Cisco Meraki
+6C:DF:D9		Concept2, Inc.
 6C:DF:FB		IEEE Registration Authority
 6C:DF:FB:00:00:00/28	Shenzhen HDCVT Technology
 6C:DF:FB:10:00:00/28	Chongqing Baoli Yota Technologies Limited
@@ -56884,9 +56886,11 @@ F8:C9:03		Tp-Link Technologies Co.,Ltd.
 F8:C9:6C		Fiberhome Telecommunication Technologies Co.,LTD
 F8:C9:D6		IEEE Registration Authority
 F8:C9:D6:20:00:00/28	Annapurna labs
+F8:C9:D6:50:00:00/28	Annapurna labs
 F8:C9:D6:80:00:00/28	Miri Technologies, Inc
 F8:C9:D6:A0:00:00/28	DIAS Infrared GmbH
 F8:C9:D6:B0:00:00/28	Vt100 Srl
+F8:C9:D6:D0:00:00/28	Fortis Medical Devices LTD
 F8:CA:59		NetComm Wireless
 F8:CA:85		NEC Corporation
 F8:CA:B8		Dell Inc.
