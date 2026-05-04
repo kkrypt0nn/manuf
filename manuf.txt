@@ -21785,6 +21785,7 @@
 24:19:A5		New H3C Technologies Co., Ltd
 24:1A:8C		Squarehead Technology AS
 24:1A:E6		Huawei Device Co., Ltd.
+24:1A:F7		Sichuan Tianyi Comheart Telecom Co.,LTD
 24:1B:13		Shanghai Nutshell Electronic Co., Ltd.
 24:1B:44		Hangzhou Tuners Electronics Co., Ltd
 24:1B:7A		Apple, Inc.
@@ -22955,6 +22956,7 @@
 2C:48:35:E0:00:00/28	Irootech Technology Co.,Ltd
 2C:48:81		vivo Mobile Communication Co., Ltd.
 2C:4A:11		Ciena Corporation
+2C:4B:14		Sichuan Tianyi Comheart Telecom Co.,LTD
 2C:4C:15		Juniper Networks
 2C:4C:7D		New H3C Technologies Co., Ltd
 2C:4C:C6		Murata Manufacturing Co., Ltd.
@@ -29722,6 +29724,7 @@
 5C:58:19		Jingsheng Technology Co., Ltd.
 5C:58:E6		Palo Alto Networks
 5C:59:48		Apple, Inc.
+5C:5A:35		eero inc.
 5C:5A:4C		IEEE Registration Authority
 5C:5A:4C:00:00:00/28	Jinchuan Group Co.,Ltd
 5C:5A:4C:10:00:00/28	Orchid Products Limited
@@ -31754,6 +31757,7 @@
 6C:55:8D		Huawei Technologies Co.,Ltd
 6C:55:B1		Amazon Technologies Inc.
 6C:55:E8		Vantiva USA LLC
+6C:55:F6		eero inc.
 6C:56:40		BLU Products Inc
 6C:56:97		Amazon Technologies Inc.
 6C:57:79		Aclima, Inc.
@@ -32322,6 +32326,7 @@
 70:72:3C		Huawei Technologies Co.,Ltd
 70:72:CF		EdgeCore Networks
 70:72:FE		Apple, Inc.
+70:73:3A		Jiangxi Remote lntelligence Technology Co.,Ltd
 70:73:62		Huawei Technologies Co.,Ltd
 70:73:CB		Apple, Inc.
 70:74:14		Murata Manufacturing Co., Ltd.
@@ -41424,6 +41429,7 @@
 8C:1F:64:81:F0:00/36	ViewSonic Corp
 8C:1F:64:82:00:00/36	Tiama
 8C:1F:64:82:20:00/36	IP Devices
+8C:1F:64:82:30:00/36	Lumiplan Duhamel
 8C:1F:64:82:40:00/36	Logicube Inc
 8C:1F:64:82:50:00/36	MTU Aero Engines AG
 8C:1F:64:82:70:00/36	Meisol Co., Ltd.
@@ -41448,6 +41454,7 @@
 8C:1F:64:84:80:00/36	Jena-Optronik GmbH
 8C:1F:64:84:90:00/36	Talleres de Escoriaza SAU
 8C:1F:64:84:A0:00/36	Bitmapper Integration Technologies Private Limited
+8C:1F:64:84:B0:00/36	Unlimited Bandwidth LLC
 8C:1F:64:84:C0:00/36	AvMap srlu
 8C:1F:64:84:D0:00/36	Dave Srl
 8C:1F:64:84:E0:00/36	West Pharmaceutical Services, Inc.
@@ -41671,6 +41678,7 @@
 8C:1F:64:9A:60:00/36	Instituto De Gestão, Redes Tecnológicas E Nergias
 8C:1F:64:9A:70:00/36	Nihon Bouhan Camera Inc
 8C:1F:64:9A:90:00/36	Tiama
+8C:1F:64:9A:A0:00/36	xTools Inc.
 8C:1F:64:9A:B0:00/36	Dave Srl
 8C:1F:64:9A:C0:00/36	Hangzhou Jingtang Communication Technology Co.,Ltd.
 8C:1F:64:9A:D0:00/36	Potter Electric Signal Co. LLC
@@ -41794,6 +41802,7 @@
 8C:1F:64:A6:60:00/36	vtt systems Inc.
 8C:1F:64:A6:70:00/36	Electrovymir LLC
 8C:1F:64:A6:A0:00/36	Sphere Com Services Pvt Ltd
+8C:1F:64:A6:C0:00/36	Arctic Instruments Oy
 8C:1F:64:A6:D0:00/36	CyberneX Co., Ltd
 8C:1F:64:A6:E0:00/36	shenzhen beswave co.,ltd
 8C:1F:64:A6:F0:00/36	Cardinal Scales Manufacturing Co
@@ -56897,6 +56906,7 @@ F8:C9:03		Tp-Link Technologies Co.,Ltd.
 F8:C9:6C		Fiberhome Telecommunication Technologies Co.,LTD
 F8:C9:D6		IEEE Registration Authority
 F8:C9:D6:00:00:00/28	Ningbo Ming Sing Optical R&D Co.,Ltd
+F8:C9:D6:10:00:00/28	Beijing Mlink Technology Inc.
 F8:C9:D6:20:00:00/28	Annapurna labs
 F8:C9:D6:30:00:00/28	CPflight_srl
 F8:C9:D6:50:00:00/28	Annapurna labs
