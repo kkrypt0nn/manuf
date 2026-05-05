@@ -46842,6 +46842,7 @@ AA:0F:85		Yamaichi Electronics
 AA:14:6B		IronWiFi
 AA:34:D4		CDVI Wireless SpA
 AA:38:C7		Kaloom inc
+AA:42:5A		Globus Medical
 AA:54:8B		Tintri
 AA:78:A3		Dongguan Yiertek Co., Ltd
 AA:DC:47		Cachengo, Inc.
