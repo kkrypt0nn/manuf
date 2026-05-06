@@ -22493,6 +22493,7 @@
 28:8E:B9		Wacom Co.,Ltd.
 28:8E:EC		Apple, Inc.
 28:8F:F6		Apple, Inc.
+28:91:04		TP-Link Systems Inc.
 28:91:76		Indyme Solutions, LLC
 28:91:D0		Stage Tec Entwicklungsgesellschaft für professionelle Audiotechnik mbH
 28:92:00		Intel Corporate
@@ -22783,6 +22784,7 @@
 2C:02:9F		3ALogics
 2C:03:69		Accton Technology Corporation
 2C:05:47		Shenzhen Phaten Tech. LTD
+2C:06:13		China Mobile Group Device Co.,Ltd.
 2C:06:23		Win Leader Inc.
 2C:07:3C		Devline Limited
 2C:07:86		Huawei Device Co., Ltd.
@@ -30141,6 +30143,7 @@
 60:14:B3		CyberTAN Technology Inc.
 60:15:21		Redarc Electronics
 60:15:2B		Palo Alto Networks
+60:15:6F		TP-Link Systems Inc.
 60:15:92		IEEE Registration Authority
 60:15:92:00:00:00/28	S Labs sp. z o.o.
 60:15:92:10:00:00/28	RTDS Technologies Inc.
@@ -46479,6 +46482,7 @@ A8:26:D9		HTC Corporation
 A8:27:C8		Edgecore Americas Networking Corporation
 A8:29:48		TP-Link Systems Inc.
 A8:29:4C		Precision Optical Transceivers, Inc.
+A8:29:DC		TP-Link Systems Inc.
 A8:2A:D6		Arthrex Inc.
 A8:2B:B5		Edgecore Networks Corporation
 A8:2B:B9		Samsung Electronics Co.,Ltd
@@ -56720,6 +56724,8 @@ F8:73:1A		zte corporation
 F8:73:94		Netgear
 F8:73:A2		Avaya Inc
 F8:73:DF		Apple, Inc.
+F8:75:28:00:00:00/28	Qube Cinema Technologies Pvt Ltd
+F8:75:28:D0:00:00/28	After Technologies
 F8:75:88		Huawei Technologies Co.,Ltd
 F8:75:A4		LCFC(Hefei) Electronics Technology co., ltd
 F8:76:9B		Neopis Co., Ltd.
@@ -56924,6 +56930,7 @@ F8:C9:D6:A0:00:00/28	DIAS Infrared GmbH
 F8:C9:D6:B0:00:00/28	Vt100 Srl
 F8:C9:D6:C0:00:00/28	Zhongzhen Huachuang(Shenzhen)Technology Co.,LTD
 F8:C9:D6:D0:00:00/28	Fortis Medical Devices LTD
+F8:C9:D6:E0:00:00/28	Shenzhen smart-core technology co.,ltd.
 F8:CA:59		NetComm Wireless
 F8:CA:85		NEC Corporation
 F8:CA:B8		Dell Inc.
