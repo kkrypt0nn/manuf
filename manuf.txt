@@ -32134,7 +32134,7 @@
 70:20:84		Hon Hai Precision Industry Co., Ltd.
 70:21:7F		Xiaomi Communications Co Ltd
 70:22:FE		Apple, Inc.
-70:23:93		fos4X GmbH
+70:23:93		Polytech A/S
 70:25:26		Nokia
 70:25:59		CyberTAN Technology Inc.
 70:26:05		SONY Visual Products Inc.
@@ -39095,6 +39095,7 @@
 84:64:DD		Huawei Technologies Co.,Ltd
 84:65:2B		Donaldson Company
 84:65:69		New H3C Technologies Co., Ltd
+84:67:9A		Arm Ltd
 84:68:3E		Intel Corporate
 84:68:78		Apple, Inc.
 84:68:C8		Totolink Technology Int‘L Limited
@@ -49546,6 +49547,7 @@ C0:8A:60		AltoBeam Inc.
 C0:8A:CD		Guangzhou Shiyuan Electronic Technology Company Limited
 C0:8A:DE		Ruckus Wireless
 C0:8B:05		Huawei Technologies Co.,Ltd
+C0:8B:27		FN-LINK TECHNOLOGY Ltd.
 C0:8B:2A		Cisco Systems, Inc
 C0:8B:6F		S I Sistemas Inteligentes Eletrônicos Ltda
 C0:8C:60		Cisco Systems, Inc
@@ -56724,7 +56726,9 @@ F8:73:1A		zte corporation
 F8:73:94		Netgear
 F8:73:A2		Avaya Inc
 F8:73:DF		Apple, Inc.
+F8:75:28		IEEE Registration Authority
 F8:75:28:00:00:00/28	Qube Cinema Technologies Pvt Ltd
+F8:75:28:80:00:00/28	Myers Emergency Power Systems
 F8:75:28:D0:00:00/28	After Technologies
 F8:75:88		Huawei Technologies Co.,Ltd
 F8:75:A4		LCFC(Hefei) Electronics Technology co., ltd
