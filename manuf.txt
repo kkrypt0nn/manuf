@@ -26865,6 +26865,7 @@
 44:C9:A2		Greenwald Industries
 44:CB:8B		LG Innotek
 44:CB:AD		Xiaomi Communications Co Ltd
+44:CC:6E		Rockwell Automation
 44:CD:0E		Flextronics Manufacturing(Zhuhai)Co.,Ltd.
 44:CE:1D		Nokia
 44:CE:3A		Jiangsu Huacun Electronic Technology Co., Ltd.
