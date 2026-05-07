@@ -53479,6 +53479,7 @@ DC:EF:CA		Murata Manufacturing Co., Ltd.
 DC:F0:5D		Letta Teknoloji
 DC:F0:90		Nubia Technology Co.,Ltd.
 DC:F1:10		Nokia Corporation
+DC:F1:44		Ocean Solution Technology
 DC:F3:1C		Texas Instruments
 DC:F3:4C		Pt Han Sung Electoronics Indonesia
 DC:F4:01		Dell Inc.
@@ -56996,6 +56997,7 @@ F8:E5:CE		Apple, Inc.
 F8:E5:CF		Cgi It Uk Limited
 F8:E6:1A		Samsung Electronics Co.,Ltd
 F8:E7:1E		Ruckus Wireless
+F8:E7:3C		Ufispace Co., LTD.
 F8:E7:A0		vivo Mobile Communication Co., Ltd.
 F8:E7:B5		µTech Tecnologia LTDA
 F8:E8:11		Huawei Technologies Co.,Ltd
