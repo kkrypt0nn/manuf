@@ -28114,6 +28114,7 @@
 50:20:6B		Copeland - Transportation Solutions ApS
 50:21:EC		Huawei Device Co., Ltd.
 50:22:67		PixeLINK
+50:22:C9		Bel Power Solutions, Inc.
 50:23:6D		Nintendo Co.,Ltd
 50:23:A2		Apple, Inc.
 50:25:2B		Nethra Imaging Incorporated
@@ -56729,6 +56730,7 @@ F8:73:DF		Apple, Inc.
 F8:75:28		IEEE Registration Authority
 F8:75:28:00:00:00/28	Qube Cinema Technologies Pvt Ltd
 F8:75:28:80:00:00/28	Myers Emergency Power Systems
+F8:75:28:90:00:00/28	RLS d.o.o.
 F8:75:28:D0:00:00/28	After Technologies
 F8:75:88		Huawei Technologies Co.,Ltd
 F8:75:A4		LCFC(Hefei) Electronics Technology co., ltd
