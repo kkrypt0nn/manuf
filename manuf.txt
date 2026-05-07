@@ -19420,6 +19420,7 @@
 10:78:73		Shenzhen Jinkeyi Communication Co., Ltd.
 10:78:CE		Hanvit SI, Inc.
 10:78:D2		Elitegroup Computer Systems Co.,Ltd.
+10:7A:2A		Microsoft Corporation
 10:7A:86		U&U Engineering Inc.
 10:7B:44		ASUSTek COMPUTER INC.
 10:7B:93		Zhen Shi Information Technology (Shanghai) Co., Ltd.
@@ -29095,6 +29096,7 @@
 58:16:D7		Alpsalpine Co,.Ltd
 58:17:0C		Sony Corporation
 58:18:62		Sony Corporation
+58:18:B4		Chengdu Quanjing Intelligent Technology Co.,Ltd
 58:19:F8		Commscope
 58:1C:BD		Affinegy
 58:1C:F8		Intel Corporate
@@ -31910,6 +31912,7 @@
 6C:A4:01		essensys plc
 6C:A4:D1		Fiberhome Telecommunication Technologies Co.,LTD
 6C:A6:04		Commscope
+6C:A6:13		AltoBeam Inc.
 6C:A6:82		EDAM information & communications
 6C:A7:5F		zte corporation
 6C:A7:80		Nokia Corporation
@@ -37118,6 +37121,7 @@
 74:D6:EA		Texas Instruments
 74:D7:13		Huaqin Technology Co. LTD
 74:D7:CA		Panasonic Automotive Systems Co.,Ltd
+74:D8:09		Microsoft Corporation
 74:D8:3E		Intel Corporate
 74:D8:50		Evrisko Systems
 74:D8:73		Guangdong Genius Technology Co., Ltd.
@@ -52883,6 +52887,7 @@ D8:B0:61		Shenzhen Wenxun Technology Co.,Ltd
 D8:B1:22		Juniper Networks
 D8:B1:2A		Panasonic Mobile Communications Co.,Ltd.
 D8:B1:90		Cisco Systems, Inc
+D8:B1:DE		Hewlett Packard Enterprise
 D8:B2:49		Huawei Device Co., Ltd.
 D8:B2:93		Topssd
 D8:B2:AA		zte corporation
@@ -56731,6 +56736,7 @@ F8:75:28		IEEE Registration Authority
 F8:75:28:00:00:00/28	Qube Cinema Technologies Pvt Ltd
 F8:75:28:80:00:00/28	Myers Emergency Power Systems
 F8:75:28:90:00:00/28	RLS d.o.o.
+F8:75:28:B0:00:00/28	Shenzhen Wisewing Internet Technology Co.,Ltd
 F8:75:28:D0:00:00/28	After Technologies
 F8:75:88		Huawei Technologies Co.,Ltd
 F8:75:A4		LCFC(Hefei) Electronics Technology co., ltd
