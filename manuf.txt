@@ -21536,6 +21536,7 @@
 20:91:DF		Apple, Inc.
 20:93:39		Juniper Networks
 20:93:4D		Fujian Star-Net Communication Co.,Ltd
+20:93:95		nVent
 20:96:8A		China Mobile (Hangzhou) Information Technology Co., Ltd.
 20:97:27		Teltonika Networks Uab
 20:98:8E		Shenzhen Feasycom Co., Ltd
@@ -22340,7 +22341,7 @@
 28:36:13:40:00:00/28	Elytone Electronic Co., Ltd.
 28:36:13:50:00:00/28	Turing Video
 28:36:13:60:00:00/28	ESI Ventures, LLC
-28:36:13:70:00:00/28	shenzhen technology limited
+28:36:13:70:00:00/28	Shenzhen Ofeixin Technology Limited
 28:36:13:80:00:00/28	Fuzhou Lesi Intelligent Technology Co., Ltd
 28:36:13:90:00:00/28	Qingdao Airpoint Electronics Co.,Ltd.
 28:36:13:A0:00:00/28	MAKEEN Energy
@@ -24803,7 +24804,7 @@
 38:B1:9E:E0:00:00/28	ShenZhen ShuaiXian Electronic Equipment Co.Ltd
 38:B1:DB		Hon Hai Precision Ind. Co.,Ltd.
 38:B3:F7		Huawei Device Co., Ltd.
-38:B4:D3		BSH Hausgeraete GmbH
+38:B4:D3		BSH Hausgeräte GmbH
 38:B5:4D		Apple, Inc.
 38:B5:BD		E.G.O. Elektro-Ger
 38:B5:C9		Ingram Micro Services
@@ -28807,6 +28808,7 @@
 54:72:5E		Union Man Technology Co.,Ltd
 54:72:6E		Daimler Truck AG
 54:73:5A		Huawei Device Co., Ltd.
+54:73:70		The LEGO Group
 54:73:98		Toyo Electronics Corporation
 54:74:E6		Webtech Wireless
 54:75:95		Tp-Link Technologies Co.,Ltd.
@@ -36908,7 +36910,7 @@
 74:5C:9F		TCT mobile ltd
 74:5C:FA		Shenzhen Shunrui Gaojie Technology Co., Ltd.
 74:5D:22		LCFC(Hefei) Electronics Technology co., ltd
-74:5D:43		BSH Hausgeraete GmbH
+74:5D:43		BSH Hausgeräte GmbH
 74:5D:68		Fiberhome Telecommunication Technologies Co.,LTD
 74:5E:1C		Pioneer Corporation
 74:5F:00		Samsung Semiconductor Inc.
@@ -40304,6 +40306,7 @@
 8C:1F:64:17:E0:00/36	MI Inc.
 8C:1F:64:17:F0:00/36	Bcmtech
 8C:1F:64:18:00:00/36	Structural Integrity Services
+8C:1F:64:18:20:00/36	Private
 8C:1F:64:18:30:00/36	NICE Total Cash Management Co., Ltd.
 8C:1F:64:18:50:00/36	Biotage Gb Ltd
 8C:1F:64:18:60:00/36	Breas Medical AB
@@ -41949,6 +41952,7 @@
 8C:1F:64:B3:00:00/36	Fujian ONETHING Technology Co.,Ltd.
 8C:1F:64:B3:10:00/36	Rsc
 8C:1F:64:B3:20:00/36	Plug Power
+8C:1F:64:B3:30:00/36	Skylark Lasers
 8C:1F:64:B3:50:00/36	RADA Electronics Industries Ltd.
 8C:1F:64:B3:60:00/36	Pneumax Spa
 8C:1F:64:B3:70:00/36	Flextronics International Kft
@@ -50812,7 +50816,7 @@ C8:D5:FE		Shenzhen Zowee Technology Co., Ltd
 C8:D6:9D		Arab International Optronics
 C8:D6:B7		Solidigm Technology
 C8:D7:19		Cisco-Linksys, LLC
-C8:D7:78		BSH Hausgeraete GmbH
+C8:D7:78		BSH Hausgeräte GmbH
 C8:D7:79		Qing Dao Haier Telecom Co.,Ltd.
 C8:D7:B0		Samsung Electronics Co.,Ltd
 C8:D8:84		Universal Electronics, Inc.
@@ -51475,6 +51479,7 @@ D0:09:C8		Cisco Systems, Inc
 D0:09:F5		Hosiden Corporation
 D0:0A:AB		Yokogawa Digital Computer Corporation
 D0:0B:27		Murata Manufacturing Co., Ltd.
+D0:0C:5E		Nanjing Qinheng Microelectronics Co., Ltd.
 D0:0D:F7		Huawei Device Co., Ltd.
 D0:0E:A4		Porsche Cars North America
 D0:0E:D9		Taicang T&W Electronics
@@ -51484,6 +51489,7 @@ D0:12:42		BIOS Corporation
 D0:12:55		Hui Zhou Gaoshengda Technology Co.,LTD
 D0:12:CB		AVM Audiovisuelles Marketing und Computersysteme GmbH
 D0:13:1E		Sunrex Technology Corp
+D0:13:C1		Shenzhen Skyworth Digital  Technology  CO., Ltd
 D0:13:FD		LG Electronics (Mobile Communications)
 D0:14:11		IEEE Registration Authority
 D0:14:11:00:00:00/28	EkkoSense Ltd
@@ -56741,7 +56747,10 @@ F8:73:A2		Avaya Inc
 F8:73:DF		Apple, Inc.
 F8:75:28		IEEE Registration Authority
 F8:75:28:00:00:00/28	Qube Cinema Technologies Pvt Ltd
+F8:75:28:40:00:00/28	Annapurna labs
 F8:75:28:50:00:00/28	Norbit Asa
+F8:75:28:60:00:00/28	Kunshan Wondertek Technology Co.,Ltd.
+F8:75:28:70:00:00/28	Panasonic Automotive System Malaysia
 F8:75:28:80:00:00/28	Myers Emergency Power Systems
 F8:75:28:90:00:00/28	RLS d.o.o.
 F8:75:28:B0:00:00/28	Shenzhen Wisewing Internet Technology Co.,Ltd
