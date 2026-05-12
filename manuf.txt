@@ -21933,6 +21933,7 @@
 24:62:AB		Espressif Inc.
 24:62:C6		Huawei Device Co., Ltd.
 24:62:CE		Hewlett Packard Enterprise
+24:64:04		Gsd Viet Nam Technology Company Limited
 24:64:77		Beijing Xiaomi Mobile Software Co., Ltd
 24:64:9F		Huawei Device Co., Ltd.
 24:64:EF		Cyg Sunri Co.,Ltd.
@@ -23641,6 +23642,7 @@
 30:89:99		Guangdong East Power Co.,
 30:89:A6		Huawei Technologies Co.,Ltd
 30:89:D3		Hongkong Ucloudlink Network Technology Limited
+30:89:EC		Nintendo Co.,Ltd
 30:8A:F7		Huawei Device Co., Ltd.
 30:8B:23		Annapurna labs
 30:8B:B2		Cisco Systems, Inc
@@ -24468,6 +24470,7 @@
 38:14:1B		Secure Letter Inc.
 38:14:28		Dell Inc.
 38:14:4E		Fiberhome Telecommunication Technologies Co.,LTD
+38:14:A1		LG Innotek
 38:16:5A		zte corporation
 38:16:72		Shenzhen SuperElectron Technology Co.,Ltd.
 38:16:D1		Samsung Electronics Co.,Ltd
@@ -24543,6 +24546,7 @@
 38:37:8B		Huawei Technologies Co.,Ltd
 38:38:4B		vivo Mobile Communication Co., Ltd.
 38:38:A6		Arista Networks
+38:39:04		ittim
 38:39:6C		Huawei Device Co., Ltd.
 38:39:8F		Silicon Laboratories
 38:39:CD		vivo Mobile Communication Co., Ltd.
@@ -38161,6 +38165,7 @@
 7C:8D:9C		Edgecore Americas Networking Corporation
 7C:8E:E4		Texas Instruments
 7C:8F:DE		DWnet Technologies(Suzhou) Corporation
+7C:90:E9		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 7C:91:22		Samsung Electronics Co.,Ltd
 7C:94:2A		Huawei Technologies Co.,Ltd
 7C:94:9F		Shenzhen iComm Semiconductor CO.,LTD
@@ -38930,6 +38935,7 @@
 84:00:55		VusionGroup
 84:00:D2		Sony Corporation
 84:01:12		Kaon Group Co., Ltd.
+84:01:6E		Honor Device Co., Ltd.
 84:01:A7		Greyware Automation Products, Inc
 84:02:83		HUMAX Co., Ltd.
 84:03:28		Juniper Networks
@@ -41579,6 +41585,7 @@
 8C:1F:64:8E:C0:00/36	LMS Services GmbH & Co. KG
 8C:1F:64:8E:D0:00/36	QM Technologies aps
 8C:1F:64:8E:E0:00/36	Abbott Diagnostics Technologies AS
+8C:1F:64:8E:F0:00/36	Osec
 8C:1F:64:8F:00:00/36	Igl
 8C:1F:64:8F:30:00/36	EverBot Technology CO., LTD
 8C:1F:64:8F:40:00/36	Loadrite (Auckland) Limited
@@ -41874,6 +41881,7 @@
 8C:1F:64:AB:60:00/36	EMIT GmbH
 8C:1F:64:AB:70:00/36	MClavis Co.,Ltd.
 8C:1F:64:AB:80:00/36	Private
+8C:1F:64:AB:A0:00/36	FLUGCOM GmbH
 8C:1F:64:AB:E0:00/36	TAIYO DENON Corporation
 8C:1F:64:AB:F0:00/36	Stackiot Technologies Private Limited
 8C:1F:64:AC:00:00/36	AIQuatro
@@ -44657,6 +44665,7 @@
 98:9D:E5		Hangzhou Hikvision Digital Technology Co.,Ltd.
 98:9E:63		Apple, Inc.
 98:9E:80		tonies GmbH
+98:9E:85		Honor Device Co., Ltd.
 98:9F:1A		Private
 98:9F:1E		Huawei Technologies Co.,Ltd
 98:A1:4A		Quectel Wireless Solutions Co.,Ltd.
@@ -48146,6 +48155,7 @@ B4:98:42		zte corporation
 B4:98:82		Brusa HyPower AG
 B4:99:4C		Texas Instruments
 B4:99:BA		Hewlett Packard
+B4:9A:7D		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 B4:9A:95		Shenzhen Boomtech Industrial Corporation
 B4:9C:DF		Apple, Inc.
 B4:9D:02		Samsung Electronics Co.,Ltd
@@ -56003,6 +56013,7 @@ F4:15:32		PETAiO (NanJing), Inc.
 F4:15:35		SPON Communication Technology Co.,Ltd
 F4:15:63		F5 Inc.
 F4:15:FD		Shanghai Pateo Electronic Equipment Manufacturing Co., Ltd.
+F4:16:E7		Skyverse Limited
 F4:17:B8		AirTies Wireless Networks
 F4:19:E2		Volterra
 F4:1A:79		IEEE Registration Authority
@@ -56725,6 +56736,7 @@ F8:60:F0		Hewlett Packard Enterprise
 F8:62:14		Apple, Inc.
 F8:62:AA		xn systems
 F8:63:3F		Intel Corporate
+F8:63:47		Sichuan AI-Link Technology Co., Ltd.
 F8:63:D9		Commscope
 F8:64:65		Anova Applied Electronics, Inc.
 F8:64:B8		zte corporation
@@ -56758,6 +56770,7 @@ F8:73:DF		Apple, Inc.
 F8:75:28		IEEE Registration Authority
 F8:75:28:00:00:00/28	Qube Cinema Technologies Pvt Ltd
 F8:75:28:10:00:00/28	Wuhan Xingtuxinke ELectronic Co.,Ltd
+F8:75:28:20:00:00/28	Lyte AI
 F8:75:28:30:00:00/28	SGSG Science&Technology Co., Ltd. Zhuhai
 F8:75:28:40:00:00/28	Annapurna labs
 F8:75:28:50:00:00/28	Norbit Asa
@@ -56765,6 +56778,7 @@ F8:75:28:60:00:00/28	Kunshan Wondertek Technology Co.,Ltd.
 F8:75:28:70:00:00/28	Panasonic Automotive System Malaysia
 F8:75:28:80:00:00/28	Myers Emergency Power Systems
 F8:75:28:90:00:00/28	RLS d.o.o.
+F8:75:28:A0:00:00/28	Siact Hinton (Beijing) Intelligent Control Technology Co., Ltd.
 F8:75:28:B0:00:00/28	Shenzhen Wisewing Internet Technology Co.,Ltd
 F8:75:28:C0:00:00/28	Origin Acoustics, LLC
 F8:75:28:D0:00:00/28	After Technologies
@@ -56999,6 +57013,7 @@ F8:D5:54		GD Midea Air-Conditioning Equipment Co.,Ltd.
 F8:D7:56		Simm Tronic Limited
 F8:D7:58		Veratron AG
 F8:D7:BF		REV Ritter GmbH
+F8:D8:11		Quectel Wireless Solutions Co.,Ltd.
 F8:D9:B8		Open Mesh, Inc.
 F8:DA:0C		Hon Hai Precision Ind. Co.,Ltd.
 F8:DA:DF		EcoTech, Inc.
