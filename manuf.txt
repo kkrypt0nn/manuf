@@ -18736,6 +18736,7 @@
 0C:53:31		ETH Zurich
 0C:53:B7		Apple, Inc.
 0C:54:15		Intel Corporate
+0C:54:27		Dongguan Huayin Electronic Technology Co., Ltd.
 0C:54:A5		Pegatron Corporation
 0C:54:B9		Nokia
 0C:55:21		Axiros GmbH
@@ -19508,6 +19509,7 @@
 10:AE:60		Amazon Technologies Inc.
 10:AE:A5		Duskrise inc.
 10:AF:78		Shenzhen ATUE Technology Co., Ltd
+10:B0:6E		Shenzhen Phaten Tech. LTD
 10:B1:DF		Cloud Network Technology Singapore Pte. Ltd.
 10:B1:F8		Huawei Technologies Co.,Ltd
 10:B2:32		Qingdao Intelligent&Precise Electronics Co.,Ltd.
@@ -56764,6 +56766,7 @@ F8:75:28:70:00:00/28	Panasonic Automotive System Malaysia
 F8:75:28:80:00:00/28	Myers Emergency Power Systems
 F8:75:28:90:00:00/28	RLS d.o.o.
 F8:75:28:B0:00:00/28	Shenzhen Wisewing Internet Technology Co.,Ltd
+F8:75:28:C0:00:00/28	Origin Acoustics, LLC
 F8:75:28:D0:00:00/28	After Technologies
 F8:75:88		Huawei Technologies Co.,Ltd
 F8:75:A4		LCFC(Hefei) Electronics Technology co., ltd
