@@ -18621,6 +18621,7 @@
 0C:0A:DF		Texas Instruments
 0C:0C:EA		BLU Products Inc
 0C:0E:76		D-Link International
+0C:0E:C1		IEEE Registration Authority
 0C:0E:C1:B0:00:00/28	tecget GmbH
 0C:0E:CB		Huawei Device Co., Ltd.
 0C:0F:D8		Gsd Viet Nam Technology Company Limited
