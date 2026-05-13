@@ -56782,6 +56782,7 @@ F8:75:28:A0:00:00/28	Siact Hinton (Beijing) Intelligent Control Technology Co., 
 F8:75:28:B0:00:00/28	Shenzhen Wisewing Internet Technology Co.,Ltd
 F8:75:28:C0:00:00/28	Origin Acoustics, LLC
 F8:75:28:D0:00:00/28	After Technologies
+F8:75:28:E0:00:00/28	Ingersoll-Rand
 F8:75:88		Huawei Technologies Co.,Ltd
 F8:75:A4		LCFC(Hefei) Electronics Technology co., ltd
 F8:76:9B		Neopis Co., Ltd.
