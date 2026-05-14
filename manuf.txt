@@ -26791,6 +26791,7 @@
 44:95:FA		Qingdao Santong Digital Technology Co.Ltd
 44:96:2B		Aidon Oy
 44:97:5A		Shenzhen Fast Technologies Co.,Ltd
+44:99:5B		GX India Pvt Ltd
 44:9A:52		zte corporation
 44:9B:78		The Now Factory
 44:9B:C1		Huawei Technologies Co.,Ltd
@@ -29568,6 +29569,7 @@
 58:F3:87		Airios
 58:F3:9C		Cisco Systems, Inc
 58:F4:96		Source Chain
+58:F6:58		Edifier International
 58:F6:7B		Xia Men UnionCore Technology LTD.
 58:F6:BF		Kyoto University
 58:F8:5C		LLC Proizvodstvennaya Kompania "TransService"
@@ -53967,6 +53969,7 @@ E0:D0:83		Samsung Electronics Co.,Ltd
 E0:D1:0A		Katoudenkikougyousyo co ltd
 E0:D1:73		Cisco Systems, Inc
 E0:D1:E6		Aliph dba Jawbone
+E0:D2:39		Technolid, Llc
 E0:D3:1A		EQUES Technology Co., Limited
 E0:D3:62		TP-Link Systems Inc.
 E0:D3:8E		Chipsea Technologies (Shenzhen) Crop.
