@@ -18341,6 +18341,7 @@
 08:79:8C		Huawei Technologies Co.,Ltd
 08:79:99		AIM GmbH
 08:7A:4C		Huawei Technologies Co.,Ltd
+08:7B:0F		Amazon Technologies Inc.
 08:7B:12		Sagemcom Broadband SAS
 08:7B:87		Cisco Systems, Inc
 08:7B:AA		Svyazkomplektservice, Llc
@@ -31831,6 +31832,7 @@
 6C:64:1A		Penguin Computing
 6C:65:67		BELIMO Automation AG
 6C:67:EF		Huawei Technologies Co.,Ltd
+6C:68:8A		Amazon Technologies Inc.
 6C:68:A4		Guangzhou V-Solution Telecommunication Technology Co.,Ltd.
 6C:6A:77		Intel Corporate
 6C:6C:0F		Huawei Technologies Co.,Ltd
@@ -36391,7 +36393,7 @@
 70:B3:D5:F4:90:00/36	Zmbizi App Llc
 70:B3:D5:F4:A0:00/36	Lacs Srl
 70:B3:D5:F4:B0:00/36	Chengdu Lingya Technology Co., Ltd.
-70:B3:D5:F4:C0:00/36	PolyTech A/S
+70:B3:D5:F4:C0:00/36	Polytech A/S
 70:B3:D5:F4:D0:00/36	Honeywell
 70:B3:D5:F4:E0:00/36	Hunan Lianzhong Technology Co.,Ltd.
 70:B3:D5:F4:F0:00/36	Power Electronics Espana, S.L.
