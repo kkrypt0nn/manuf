@@ -18625,6 +18625,7 @@
 0C:0E:C1		IEEE Registration Authority
 0C:0E:C1:00:00:00/28	Spintronica LLC
 0C:0E:C1:10:00:00/28	Deltacast.Tv
+0C:0E:C1:30:00:00/28	Lupa Tecnologia e Sistemas Ltda
 0C:0E:C1:60:00:00/28	Cogito Tech Company Limited
 0C:0E:C1:B0:00:00/28	tecget GmbH
 0C:0E:CB		Huawei Device Co., Ltd.
