@@ -18627,6 +18627,7 @@
 0C:0E:C1:10:00:00/28	Deltacast.Tv
 0C:0E:C1:30:00:00/28	Lupa Tecnologia e Sistemas Ltda
 0C:0E:C1:60:00:00/28	Cogito Tech Company Limited
+0C:0E:C1:70:00:00/28	naext gmbh
 0C:0E:C1:B0:00:00/28	tecget GmbH
 0C:0E:CB		Huawei Device Co., Ltd.
 0C:0F:D8		Gsd Viet Nam Technology Company Limited
@@ -21453,6 +21454,7 @@
 20:58:43		WNC Corporation
 20:58:69		Ruckus Wireless
 20:59:A0		Paragon Technologies Inc.
+20:59:D1		Mellanox Technologies, Inc.
 20:5A:00		Coval
 20:5A:1D		zte corporation
 20:5A:8F		Shenzhen Hikeen Technology Co.,LTD
@@ -26862,6 +26864,7 @@
 44:B4:23		Hanwha Vision Vietnam Company Limited
 44:B4:33		tide.co.,ltd
 44:B4:62		Flextronics Tech.(Ind) Pvt Ltd
+44:B4:A0		Mellanox Technologies, Inc.
 44:B4:B2		Amazon Technologies Inc.
 44:B5:9C		Tenet Networks Private Limited
 44:B6:BE		Cisco Systems, Inc
@@ -30900,6 +30903,7 @@
 64:7B:D4		Texas Instruments
 64:7C:34		Ubee Interactive Co., Limited
 64:7C:E8		Palo Alto Networks
+64:7D:4D		Arcadyan Corporation
 64:7D:81		Yokota Industrial Co,.Ltd
 64:7F:DA		TEKTELIC Communications Inc.
 64:80:8B		VG Controls, Inc.
@@ -30922,6 +30926,7 @@
 64:90:C1		Beijing Xiaomi Mobile Software Co., Ltd
 64:95:6C		LG Electronics
 64:97:14		eero inc.
+64:97:46		AzureWave Technology Inc.
 64:98:29		Integrated Device Technology (Malaysia) Sdn. Bhd.
 64:98:9E		Trinnov Audio
 64:99:5D		Lge
@@ -36817,6 +36822,7 @@
 74:27:EA		Elitegroup Computer Systems Co.,Ltd.
 74:28:57		Mayfield Robotics
 74:28:69		Huawei Device Co., Ltd.
+74:28:AE		Mellanox Technologies, Inc.
 74:29:17		Apple, Inc.
 74:29:20		MCX-PRO Kft.
 74:29:59		Apple, Inc.
@@ -37289,6 +37295,7 @@
 78:0A:57		Shanghai Lightningsemi Technology Co.,Ltd.
 78:0A:C7		Baofeng TV Co., Ltd.
 78:0B:8C		Private
+78:0C:26		Trafag AG
 78:0C:48		Hong Kong Yihao Electronic Technology Co., Limited
 78:0C:71		Inseego Wireless, Inc
 78:0C:B8		Intel Corporate
@@ -55255,6 +55262,7 @@ EC:83:D5		GIRD Systems Inc
 EC:84:39		Private
 EC:84:B4		Cig Shanghai Co Ltd
 EC:85:2F		Apple, Inc.
+EC:86:C4		Mellanox Technologies, Inc.
 EC:88:8F		Tp-Link Technologies Co.,Ltd.
 EC:88:92		Motorola Mobility LLC, a Lenovo Company
 EC:89:14		Huawei Technologies Co.,Ltd
