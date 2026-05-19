@@ -29078,6 +29078,7 @@
 54:F0:B1		Hewlett Packard Enterprise
 54:F1:5F		Sichuan AI-Link Technology Co., Ltd.
 54:F2:01		Samsung Electronics Co.,Ltd
+54:F2:83		Silicon Laboratories
 54:F2:94		Huawei Device Co., Ltd.
 54:F2:9F		Hunan Fn-Link Technology Limited
 54:F5:B6		Oriental Pacific International Limited
@@ -40671,6 +40672,7 @@
 8C:1F:64:36:A0:00/36	INVENTIS S.r.l.
 8C:1F:64:36:B0:00/36	ViewSonic Corp
 8C:1F:64:36:C0:00/36	Scramble Tools LLC
+8C:1F:64:36:D0:00/36	Waveband Technologies Pvt Limited
 8C:1F:64:36:E0:00/36	Abbott Diagnostics Technologies AS
 8C:1F:64:36:F0:00/36	Sp Manufacturing Pte Ltd
 8C:1F:64:37:00:00/36	WOLF Advanced Technology
@@ -41079,6 +41081,7 @@
 8C:1F:64:5C:50:00/36	Active Research Limited
 8C:1F:64:5C:60:00/36	Systems With Intelligence Inc.
 8C:1F:64:5C:90:00/36	Abbott Diagnostics Technologies AS
+8C:1F:64:5C:A0:00/36	Vitaltrace PTY LTD
 8C:1F:64:5C:B0:00/36	dinosys
 8C:1F:64:5C:C0:00/36	Alpes recherche et développement
 8C:1F:64:5C:D0:00/36	Mahindr & Mahindra
@@ -41640,6 +41643,7 @@
 8C:1F:64:90:30:00/36	Portrait Displays, Inc.
 8C:1F:64:90:40:00/36	Hensoldt Sensors GmbH
 8C:1F:64:90:50:00/36	Qualitrol LLC
+8C:1F:64:90:60:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:90:70:00/36	Sicon srl
 8C:1F:64:90:90:00/36	Matelex
 8C:1F:64:90:C0:00/36	Cool Air Incorporated
@@ -42729,6 +42733,7 @@
 8C:1F:64:F7:D0:00/36	Rpg Informatica, S.A.
 8C:1F:64:F7:F0:00/36	Vision Systems Safety Tech
 8C:1F:64:F8:00:00/36	Vinfast Trading and Production JSC
+8C:1F:64:F8:20:00/36	Seorim Technology
 8C:1F:64:F8:30:00/36	Vishay Nobel AB
 8C:1F:64:F8:40:00/36	KST technology
 8C:1F:64:F8:60:00/36	INFOSTECH Co., Ltd.
@@ -57190,6 +57195,7 @@ FC:0F:E7		Microchip Technology Inc.
 FC:10:1A		Palo Alto Networks
 FC:10:BD		Control Sistematizado S.A.
 FC:10:C6		Taicang T&W Electronics
+FC:11:19		Silicon Laboratories
 FC:11:65		Cambium Networks Limited
 FC:11:86		Logic3 plc
 FC:11:93		Huawei Technologies Co.,Ltd
