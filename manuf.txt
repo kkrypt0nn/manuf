@@ -982,7 +982,7 @@
 00:03:C7		hopf Elektronik GmbH
 00:03:C8		CML Emergency Services
 00:03:C9		TECOM Co., Ltd.
-00:03:CA		MTS Systems Corp.
+00:03:CA		Temposonics, LLC
 00:03:CB		SystemGear Co., Ltd.
 00:03:CC		Momentum Computer, Inc.
 00:03:CD		Clovertech, Inc.
