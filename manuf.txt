@@ -19240,6 +19240,7 @@
 10:18:49		Weifang Goertek Electronics Co.,Ltd
 10:18:9E		Elmo Motion Control
 10:19:65		New H3C Technologies Co., Ltd
+10:19:88		Mother Computer Inc.
 10:1A:92		Akebono Brake Industry Co.,Ltd.
 10:1B:54		Huawei Technologies Co.,Ltd
 10:1C:0C		Apple, Inc.
@@ -56975,6 +56976,7 @@ F8:AF:DB		Fiberhome Telecommunication Technologies Co.,LTD
 F8:B1:32		Huawei Technologies Co.,Ltd
 F8:B1:56		Dell Inc.
 F8:B1:DD		Apple, Inc.
+F8:B2:2C		Roku, Inc
 F8:B2:F3		Guangzhou Bosma Technology Co.,Ltd
 F8:B3:B7		Espressif Inc.
 F8:B4:6A		Hewlett Packard
