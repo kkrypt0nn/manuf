@@ -15855,7 +15855,7 @@
 00:90:1A		Unisphere Solutions
 00:90:1B		Digital Controls
 00:90:1C		mps Software Gmbh
-00:90:1D		Pec (Nz) Ltd.
+00:90:1D		Gallagher Group Limited
 00:90:1E		Selesta Ingegneria S.p.A.
 00:90:1F		Adtec Productions, Inc.
 00:90:20		Philips Analytical X-Ray B.V.
@@ -18626,9 +18626,11 @@
 0C:0E:C1:00:00:00/28	Spintronica LLC
 0C:0E:C1:10:00:00/28	Deltacast.Tv
 0C:0E:C1:30:00:00/28	Lupa Tecnologia e Sistemas Ltda
+0C:0E:C1:40:00:00/28	Swann Communications Pty Ltd
 0C:0E:C1:50:00:00/28	Micron Systems
 0C:0E:C1:60:00:00/28	Cogito Tech Company Limited
 0C:0E:C1:70:00:00/28	naext gmbh
+0C:0E:C1:80:00:00/28	Bits And Byte It Consulting Pvt Ltd
 0C:0E:C1:90:00:00/28	GO.N.GO Ltd
 0C:0E:C1:A0:00:00/28	Sonoro Audio GmbH
 0C:0E:C1:B0:00:00/28	tecget GmbH
@@ -23846,6 +23848,7 @@
 30:FC:8C		Vantiva - Connected Home
 30:FC:EB		LG Electronics (Mobile Communications)
 30:FD:11		Macrotech (Usa) Inc.
+30:FD:34		COMMANDO Networks Pvt Ltd.
 30:FD:38		Google, Inc.
 30:FD:65		Huawei Technologies Co.,Ltd
 30:FE:31		Nokia
@@ -42245,6 +42248,7 @@
 8C:1F:64:C7:B0:00/36	Freedom Atlantic
 8C:1F:64:C7:C0:00/36	MERKLE Schweissanlagen-Technik GmbH
 8C:1F:64:C7:D0:00/36	Glasson Electronics Ltd
+8C:1F:64:C7:F0:00/36	Brightwell Dosing ltd
 8C:1F:64:C8:00:00/36	VECOS Europe B.V.
 8C:1F:64:C8:10:00/36	Taolink Technologies Corporation
 8C:1F:64:C8:20:00/36	SekureTrak Inc. dba TraknProtect
