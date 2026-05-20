@@ -16639,7 +16639,7 @@
 00:C0:93		Alta Research Corp.
 00:C0:94		Vmx Inc.
 00:C0:95		ZNYX Networks, Inc.
-00:C0:96		Tamura Corporation
+00:C0:96		Tamu Radiance Corporation
 00:C0:97		Archipel Sa
 00:C0:98		Chuntex Electronic Co., Ltd.
 00:C0:99		Yoshiki Industrial Co.,Ltd.
@@ -18631,6 +18631,7 @@
 0C:0E:C1:90:00:00/28	GO.N.GO Ltd
 0C:0E:C1:A0:00:00/28	Sonoro Audio GmbH
 0C:0E:C1:B0:00:00/28	tecget GmbH
+0C:0E:C1:C0:00:00/28	Insky Communications Private Limited
 0C:0E:CB		Huawei Device Co., Ltd.
 0C:0F:D8		Gsd Viet Nam Technology Company Limited
 0C:11:05		Akuvox (Xiamen) Networks Co., Ltd
@@ -21216,6 +21217,7 @@
 1C:E4:DD		Technicolor (China) Technology Co., Ltd.
 1C:E5:04		Huawei Technologies Co.,Ltd
 1C:E5:7F		Samsung Electronics Co.,Ltd
+1C:E5:87		Cisco Meraki
 1C:E6:1D		Samsung Electronics Co.,Ltd
 1C:E6:2B		Apple, Inc.
 1C:E6:39		Huawei Technologies Co.,Ltd
@@ -45616,6 +45618,7 @@ A0:4C:5B		Shenzhen TINNO Mobile Technology Corp.
 A0:4C:C1		Helixtech Corp.
 A0:4E:01		CENTRAL ENGINEERING co.,ltd.
 A0:4E:04		Nokia Corporation
+A0:4E:8D		Cisco Meraki
 A0:4E:A7		Apple, Inc.
 A0:4E:CF		Apple, Inc.
 A0:4F:52		Intel Corporate
@@ -51715,6 +51718,7 @@ D0:53:49		Liteon Technology Corporation
 D0:54:2D		Cambridge Industries(Group) Co.,Ltd.
 D0:54:75		SAVI Controls
 D0:55:09		Nintendo Co.,Ltd
+D0:55:33		Palo Alto Networks
 D0:55:B2		Integrated Device Technology (Malaysia) Sdn. Bhd.
 D0:56:BF		Amosense
 D0:56:F2		Buffalo.Inc
