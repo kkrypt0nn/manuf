@@ -17583,6 +17583,7 @@
 04:58:5D:D0:00:00/28	HDS Otomasyon Güvenlik ve Yazılım Teknolojileri Sanayi Ticaret Limited Şirketi
 04:58:5D:E0:00:00/28	Shanghai Kanghai Information System CO.,LTD.
 04:58:6F		Sichuan Whayer information industry Co.,LTD
+04:5A:3D		Nothing Technology Limited
 04:5A:95		Nokia Corporation
 04:5C:06		Zmodo Technology Corporation
 04:5C:6C		Juniper Networks
@@ -17744,6 +17745,7 @@
 04:B1:A1		Samsung Electronics Co.,Ltd
 04:B2:47		Espressif Inc.
 04:B3:B6		Seamap (UK) Ltd
+04:B3:C9		WNC Corporation
 04:B4:29		Samsung Electronics Co.,Ltd
 04:B4:66		BSP Co., Ltd.
 04:B4:FE		AVM Audiovisuelles Marketing und Computersysteme GmbH
@@ -18625,6 +18627,7 @@
 0C:0E:C1		IEEE Registration Authority
 0C:0E:C1:00:00:00/28	Spintronica LLC
 0C:0E:C1:10:00:00/28	Deltacast.Tv
+0C:0E:C1:20:00:00/28	MTS Systems Corp.
 0C:0E:C1:30:00:00/28	Lupa Tecnologia e Sistemas Ltda
 0C:0E:C1:40:00:00/28	Swann Communications Pty Ltd
 0C:0E:C1:50:00:00/28	Micron Systems
