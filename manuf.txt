@@ -40042,7 +40042,7 @@
 8C:14:7D:70:00:00/28	UrbanHello
 8C:14:7D:80:00:00/28	V2 S.p.A.
 8C:14:7D:90:00:00/28	Anyware Solutions ApS
-8C:14:7D:A0:00:00/28	Bluemega Document & Print Services
+8C:14:7D:A0:00:00/28	Kpax
 8C:14:7D:B0:00:00/28	Bausch Datacom NV/SA
 8C:14:7D:C0:00:00/28	Reynaers Aluminium
 8C:14:7D:D0:00:00/28	Shenzhen  Lanxus  technology Co. Ltd.
