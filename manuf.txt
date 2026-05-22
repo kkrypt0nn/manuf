@@ -17496,6 +17496,7 @@
 04:2D:B4		First Property (Beijing) Co., Ltd Modern MOMA Branch
 04:2E:C1		Apple, Inc.
 04:2F:56		ATOCS (Shenzhen) LTD
+04:30:FA		Cisco Systems, Inc
 04:31:10		Inspur Group Co., Ltd.
 04:32:01		Broadcom Limited
 04:32:F4		Partron
@@ -39406,6 +39407,7 @@
 84:DB:AC		Huawei Technologies Co.,Ltd
 84:DB:FC		Nokia
 84:DD:20		Texas Instruments
+84:DD:84		Cisco Systems, Inc
 84:DD:B7		Cilag GmbH International
 84:DE:3D		Crystal Vision Ltd
 84:DF:0C		Net2Grid Bv
@@ -50286,6 +50288,7 @@ C4:A7:2B		Shenzhen Chuangwei-Rgb Electronics Co.,Ltd
 C4:A8:16		eero inc.
 C4:A8:1D		D-Link International
 C4:A9:B8		Xiamenshi C-Chip Technology Co.,Ltd
+C4:AA:43		Cisco Systems, Inc
 C4:AA:99		Huawei Technologies Co.,Ltd
 C4:AA:A1		SUMMIT DEVELOPMENT, spol.s r.o.
 C4:AA:C4		Zhejiang Dahua Technology Co., Ltd.
@@ -56252,6 +56255,7 @@ F4:57:3E		Fiberhome Telecommunication Technologies Co.,LTD
 F4:58:42		Boxx TV Ltd
 F4:5B:29		Huawei Technologies Co.,Ltd
 F4:5B:73		Wanjiaan Interconnected Technology Co., Ltd
+F4:5B:B4		Cisco Systems, Inc
 F4:5C:42		Huawei Device Co., Ltd.
 F4:5C:89		Apple, Inc.
 F4:5E:AB		Texas Instruments
