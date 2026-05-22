@@ -18638,6 +18638,7 @@
 0C:0E:C1:A0:00:00/28	Sonoro Audio GmbH
 0C:0E:C1:B0:00:00/28	tecget GmbH
 0C:0E:C1:C0:00:00/28	Insky Communications Private Limited
+0C:0E:C1:D0:00:00/28	Aerora North America
 0C:0E:CB		Huawei Device Co., Ltd.
 0C:0F:D8		Gsd Viet Nam Technology Company Limited
 0C:11:05		Akuvox (Xiamen) Networks Co., Ltd
@@ -31917,6 +31918,7 @@
 6C:91:88		Nokia
 6C:92:BF		IEIT SYSTEMS Co., Ltd.
 6C:92:CF		Broadcom Limited
+6C:92:F6		Arista Networks
 6C:93:08		IEEE Registration Authority
 6C:93:08:00:00:00/28	Braums
 6C:93:08:10:00:00/28	Waterford Consultants Llc
@@ -43918,6 +43920,7 @@
 94:0E:2A		NXP Semiconductors Taiwan Ltd.
 94:0E:6B		Huawei Technologies Co.,Ltd
 94:0E:E7		Huawei Technologies Co.,Ltd
+94:0F:3B		Askey Computer Corp
 94:10:3E		Belkin International Inc.
 94:10:42		Fanox Electronic S.L.
 94:10:5A		Dell Inc.
@@ -55921,6 +55924,7 @@ F0:C3:71		Apple, Inc.
 F0:C4:2F		Huawei Device Co., Ltd.
 F0:C4:78		Huawei Technologies Co.,Ltd
 F0:C5:58		U.D.Electronic Corp.
+F0:C7:1F		Arista Networks
 F0:C7:25		Apple, Inc.
 F0:C7:45		Tecno Mobile Limited
 F0:C7:7F		Texas Instruments
