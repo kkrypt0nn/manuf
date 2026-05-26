@@ -1070,7 +1070,7 @@
 00:04:1F		Sony Interactive Entertainment Inc.
 00:04:20		Slim Devices, Inc.
 00:04:21		Ocular Networks
-00:04:22		Studio Technologies, Inc
+00:04:22		Studio Technologies, Inc.
 00:04:23		Intel Corporation
 00:04:24		TMC s.r.l.
 00:04:25		Atmel Corporation
@@ -18640,6 +18640,7 @@
 0C:0E:C1:B0:00:00/28	tecget GmbH
 0C:0E:C1:C0:00:00/28	Insky Communications Private Limited
 0C:0E:C1:D0:00:00/28	Aerora North America
+0C:0E:C1:E0:00:00/28	t0.technology Inc.
 0C:0E:CB		Huawei Device Co., Ltd.
 0C:0F:D8		Gsd Viet Nam Technology Company Limited
 0C:11:05		Akuvox (Xiamen) Networks Co., Ltd
@@ -18749,6 +18750,7 @@
 0C:4F:5A		ASA-RT s.r.l.
 0C:4F:9B		Huawei Technologies Co.,Ltd
 0C:51:01		Apple, Inc.
+0C:51:41		NXP Semiconductors Taiwan Ltd.
 0C:51:7E		Apple, Inc.
 0C:51:F7		Chauvin Arnoux
 0C:52:03		Agm Group Limited
@@ -21825,6 +21827,7 @@
 24:1E:2B		Zhejiang Cainiao Supply Chain Management Co., Ltd
 24:1E:EB		Apple, Inc.
 24:1F:2C		Calsys, Inc.
+24:1F:49		NXP Semiconductors Taiwan Ltd.
 24:1F:A0		Huawei Technologies Co.,Ltd
 24:1F:BD		Extreme Networks Headquarters
 24:20:C7		Sagemcom Broadband SAS
@@ -42401,6 +42404,7 @@
 8C:1F:64:D5:40:00/36	Grupo Epelsa S.L.
 8C:1F:64:D5:50:00/36	Fairwinds Technologies
 8C:1F:64:D5:60:00/36	Wisdom Audio
+8C:1F:64:D5:70:00/36	Integer.pl S.A.
 8C:1F:64:D5:80:00/36	Zumbach Electronic AG
 8C:1F:64:D5:A0:00/36	Realtek Semiconductor Corp.
 8C:1F:64:D5:B0:00/36	Local Security
@@ -45533,6 +45537,7 @@ A0:22:DE		vivo Mobile Communication Co., Ltd.
 A0:23:1B		TeleComp R&D Corp.
 A0:23:9F		Cisco Systems, Inc
 A0:24:42		Shenzhenshi Xinzhongxin Technology Co.Ltd
+A0:24:90:B0:00:00/28	Tauro Technologies
 A0:24:F9		Chengdu InnovaTest Technology Co., Ltd
 A0:25:D7		Hewlett Packard Enterprise
 A0:26:05		Belden Hirschmann industries (Suzhou) Limited
