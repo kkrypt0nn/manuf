@@ -42838,6 +42838,7 @@
 8C:1F:64:FF:B0:00/36	Taicang T&W Electronics
 8C:1F:64:FF:C0:00/36	Invendis Technologies India Pvt Ltd
 8C:1F:94		RF Surgical System Inc.
+8C:20:F1		OpenAI
 8C:21:0A		Tp-Link Technologies Co.,Ltd.
 8C:22:D2		Hangzhou Hikvision Digital Technology Co.,Ltd.
 8C:25:05		Huawei Technologies Co.,Ltd
@@ -45537,6 +45538,7 @@ A0:22:DE		vivo Mobile Communication Co., Ltd.
 A0:23:1B		TeleComp R&D Corp.
 A0:23:9F		Cisco Systems, Inc
 A0:24:42		Shenzhenshi Xinzhongxin Technology Co.Ltd
+A0:24:90		IEEE Registration Authority
 A0:24:90:B0:00:00/28	Tauro Technologies
 A0:24:F9		Chengdu InnovaTest Technology Co., Ltd
 A0:25:D7		Hewlett Packard Enterprise
@@ -54466,6 +54468,7 @@ E4:D3:32		Tp-Link Technologies Co.,Ltd.
 E4:D3:73		Huawei Technologies Co.,Ltd
 E4:D3:AA		Fcnt Llc
 E4:D3:F1		Cisco Systems, Inc
+E4:D4:36		Nokia Solutions and Networks India Private Limited
 E4:D5:3D		Hon Hai Precision Ind. Co.,Ltd.
 E4:D5:8B		Hangzhou Hikvision Digital Technology Co.,Ltd.
 E4:D7:1D		Oraya Therapeutics
