@@ -25020,6 +25020,7 @@
 3A:02:92		Video Electronics Standards Association
 3A:0E:75		Kevcom Llc
 3A:1E:C0		Genesis
+3A:27:A5		Wootware Computers (Pty) Ltd
 3A:35:41		Raspberry Pi (Trading) Ltd
 3A:5A:27		Shenzhen Longsys Electronics Co.,Ltd.
 3A:5E:03		Cirrus Data Solutions, Inc
@@ -32413,6 +32414,7 @@
 70:7D:AF		Plucent AB
 70:7D:B9		Cisco Systems, Inc
 70:7E:43		Commscope
+70:7E:DA		Gsd Viet Nam Technology Company Limited
 70:7E:DE		Nastec Ltd.
 70:7F:F2		Telechips, Inc.
 70:81:05		Cisco Systems, Inc
@@ -39491,6 +39493,7 @@
 88:01:F2		Vitec System Engineering Inc.
 88:01:F9		Texas Instruments
 88:02:64		Pascal Audio
+88:03:48		Sercomm Philippines Inc
 88:03:4C		Weifang Goertek Electronics Co.,Ltd
 88:03:55		Arcadyan Corporation
 88:03:E9		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
@@ -41590,6 +41593,7 @@
 8C:1F:64:89:90:00/36	American Edge IP
 8C:1F:64:89:A0:00/36	National Control Devices, LLC
 8C:1F:64:89:E0:00/36	Cinetix Srl
+8C:1F:64:89:F0:00/36	Potter Electric Signal Co LLC
 8C:1F:64:8A:00:00/36	H&abyz
 8C:1F:64:8A:40:00/36	Genesis Technologies AG
 8C:1F:64:8A:80:00/36	Massachusetts Institute of Technology
@@ -41748,6 +41752,7 @@
 8C:1F:64:98:B0:00/36	Syscom Instruments SA
 8C:1F:64:98:C0:00/36	PAN Business & Consulting (ANYOS]
 8C:1F:64:98:D0:00/36	Aksel sp. z o.o.
+8C:1F:64:98:E0:00/36	Rational Production srl Unipersonale
 8C:1F:64:98:F0:00/36	Breas Medical AB
 8C:1F:64:99:10:00/36	DB Systel GmbH
 8C:1F:64:99:30:00/36	Applied Electro Magnetics Pvt. Ltd.
@@ -41994,7 +41999,7 @@
 8C:1F:64:AF:E0:00/36	Motec USA, Inc.
 8C:1F:64:AF:F0:00/36	Qtechnology A/S
 8C:1F:64:B0:00:00/36	Gets MSS
-8C:1F:64:B0:10:00/36	Blue Ocean UG
+8C:1F:64:B0:10:00/36	Terranova Industries UG (haftungsbeschränkt)
 8C:1F:64:B0:30:00/36	Shenzhen Pisoftware Technology Co.,Ltd.
 8C:1F:64:B0:80:00/36	Cronus Electronics
 8C:1F:64:B0:C0:00/36	Barkodes Bilgisayar Sistemleri Bilgi Iletisim ve Y
@@ -51996,6 +52001,7 @@ D0:AE:05		Xiaomi Communications Co Ltd
 D0:AE:EC		Alpha Networks Inc.
 D0:AF:B6		Linktop Technology Co., LTD
 D0:B0:CD		Moen
+D0:B0:DF		Mimosa Networks
 D0:B1:28		Samsung Electronics Co.,Ltd
 D0:B1:CA		Shenzhen Skyworth Digital  Technology  CO., Ltd
 D0:B2:14		PoeWit Inc
@@ -57242,6 +57248,7 @@ FC:16:07		Taian Technology(Wuxi) Co.,Ltd.
 FC:17:94		InterCreative Co., Ltd
 FC:18:03		Huawei Technologies Co.,Ltd
 FC:18:3C		Apple, Inc.
+FC:18:6B		Dot Origin Ltd
 FC:19:10		Samsung Electronics Co.,Ltd
 FC:19:28		Actions Microelectronics
 FC:19:99		Xiaomi Communications Co Ltd
