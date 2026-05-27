@@ -45539,6 +45539,7 @@ A0:23:1B		TeleComp R&D Corp.
 A0:23:9F		Cisco Systems, Inc
 A0:24:42		Shenzhenshi Xinzhongxin Technology Co.Ltd
 A0:24:90		IEEE Registration Authority
+A0:24:90:40:00:00/28	Nefence Inc.
 A0:24:90:B0:00:00/28	Tauro Technologies
 A0:24:F9		Chengdu InnovaTest Technology Co., Ltd
 A0:25:D7		Hewlett Packard Enterprise
