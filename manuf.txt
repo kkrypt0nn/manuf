@@ -52327,6 +52327,7 @@ D4:53:83		Murata Manufacturing Co., Ltd.
 D4:53:AF		VIGO System S.A.
 D4:54:8B		Intel Corporate
 D4:55:56		Fiber Mountain Inc.
+D4:55:AD		go-e GmbH
 D4:55:BE		Shenzhen Fast Technologies Co.,Ltd
 D4:57:63		Apple, Inc.
 D4:58:00		Fiberhome Telecommunication Technologies Co.,LTD
