@@ -38228,6 +38228,7 @@
 7C:96:D2		Fihonest communication co.,Ltd
 7C:97:63		Openmatics s.r.o.
 7C:97:E1		Huawei Device Co., Ltd.
+7C:98:24		Sagemcom Broadband SAS
 7C:99:2E		Shanghai Notion lnformatio Technology Co.,Ltd.
 7C:99:46		Sector Alarm Tech S.L.
 7C:9A:1D		Apple, Inc.
@@ -40825,6 +40826,7 @@
 8C:1F:64:42:B0:00/36	Gamber Johnson-LLC
 8C:1F:64:42:D0:00/36	Jemac Sweden AB
 8C:1F:64:42:F0:00/36	Tomorrow Companies Inc
+8C:1F:64:43:00:00/36	Editech Co., Ltd.
 8C:1F:64:43:10:00/36	Pneumax Spa
 8C:1F:64:43:20:00/36	Rebel Systems
 8C:1F:64:43:40:00/36	netmon
@@ -49906,6 +49908,7 @@ C0:FB:F9:B0:00:00/28	Shenzhen Comix Hst Cloud Computing Co., Ltd.
 C0:FB:F9:C0:00:00/28	Shenzhen Elsky Technology Co., Ltd
 C0:FB:F9:D0:00:00/28	Dropbeats Technology Co., Ltd.
 C0:FB:F9:E0:00:00/28	Navitas Digital Safety Ltd
+C0:FD:6F		Sagemcom Broadband SAS
 C0:FD:84		zte corporation
 C0:FF:A8		Huawei Technologies Co.,Ltd
 C0:FF:D4		Netgear
