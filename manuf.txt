@@ -30963,6 +30963,7 @@
 64:9D:38		Google, Inc.
 64:9D:99		Fs Com Inc
 64:9E:31		Beijing Xiaomi Mobile Software Co., Ltd
+64:9E:58		MM Devices Pty. Ltd.
 64:9E:F3		Cisco Systems, Inc
 64:9F:F7		Kone OYj
 64:A0:AC		Adtran Inc
@@ -47876,6 +47877,7 @@ B0:D5:76		Apple, Inc.
 B0:D5:9D		Shenzhen Zowee Technology Co., Ltd
 B0:D5:CC		Texas Instruments
 B0:D5:FB		Google, Inc.
+B0:D6:16		Super Micro Computer, Inc.
 B0:D7:7E		Huawei Technologies Co.,Ltd
 B0:D7:C5		Logipix Ltd
 B0:D7:CC		Tridonic GmbH & Co KG
@@ -49787,6 +49789,7 @@ C0:C9:46		Mitsuya Laboratories Inc.
 C0:C9:76		Shenzhen TINNO Mobile Technology Corp.
 C0:C9:89		Edgecore Americas Networking Corporation
 C0:C9:E3		Tp-Link Technologies Co.,Ltd.
+C0:CA:A2		Essys
 C0:CB:38		Hon Hai Precision Ind. Co.,Ltd.
 C0:CB:F1		Mobiwire Mobiles (NingBo) Co., LTD
 C0:CC:42		Sichuan Tianyi Comheart Telecom Co.,LTD
