@@ -40271,6 +40271,7 @@
 8C:1F:64:0D:50:00/36	RealD, Inc.
 8C:1F:64:0D:60:00/36	Avd Innovation Limited
 8C:1F:64:0D:80:00/36	Power Electronics Espana, S.L.
+8C:1F:64:0D:E0:00/36	Ace Tech
 8C:1F:64:0D:F0:00/36	Leidos
 8C:1F:64:0E:00:00/36	Autopharma
 8C:1F:64:0E:30:00/36	JISEONGENG Co,.LTD
@@ -45553,6 +45554,7 @@ A0:23:9F		Cisco Systems, Inc
 A0:24:42		Shenzhenshi Xinzhongxin Technology Co.Ltd
 A0:24:90		IEEE Registration Authority
 A0:24:90:40:00:00/28	Nefence Inc.
+A0:24:90:90:00:00/28	Sansha Electric Manufacturing Co., Ltd.
 A0:24:90:B0:00:00/28	Tauro Technologies
 A0:24:90:C0:00:00/28	WiE GmbH - Werk für industrielle Elektronik
 A0:24:F9		Chengdu InnovaTest Technology Co., Ltd
