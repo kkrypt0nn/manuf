@@ -22612,6 +22612,7 @@
 28:B9:D9		Radisys Corporation
 28:BA:18		NextNav, LLC
 28:BA:B5		Samsung Electronics Co.,Ltd
+28:BA:B9		Acme Lighting
 28:BB:59		RNET Technologies, Inc.
 28:BB:B2		Infinix mobility limited
 28:BB:ED		Bouffalo Lab (Nanjing) Co., Ltd.
@@ -30611,6 +30612,7 @@
 60:DB:EF		Unify Software and Solutions GmbH & Co. KG
 60:DC:0D		Taiwan Shin Kong Security Co., Ltd
 60:DC:81		AltoBeam Inc.
+60:DD:10		Shenzhen Angxun Technology Co.,Ltd
 60:DD:70		Apple, Inc.
 60:DD:8E		Intel Corporate
 60:DE:18		Apple, Inc.
@@ -45555,6 +45557,7 @@ A0:23:1B		TeleComp R&D Corp.
 A0:23:9F		Cisco Systems, Inc
 A0:24:42		Shenzhenshi Xinzhongxin Technology Co.Ltd
 A0:24:90		IEEE Registration Authority
+A0:24:90:10:00:00/28	Shenzhen Atten Technology Co.,Ltd
 A0:24:90:40:00:00/28	Nefence Inc.
 A0:24:90:90:00:00/28	Sansha Electric Manufacturing Co., Ltd.
 A0:24:90:B0:00:00/28	Tauro Technologies
@@ -46595,6 +46598,7 @@ A8:1E:84		Quanta Computer Inc.
 A8:1F:79		Yingling Innovations Pte. Ltd.
 A8:1F:AF		Krypton Polska
 A8:20:66		Apple, Inc.
+A8:21:3A		Shenzhen Talent Technology Comapny Limited 深圳市泰霖科技有限公司
 A8:21:C8		shenzhen phoenix telecom technology Co.,Ltd.
 A8:23:16		Nokia
 A8:23:FE		LG Electronics
