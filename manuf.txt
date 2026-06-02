@@ -23375,7 +23375,7 @@
 30:05:3F		JTI Co.,Ltd.
 30:05:5C		Brother industries, LTD.
 30:07:4D		Samsung Electro-Mechanics(Thailand)
-30:07:5C		43403
+30:07:5C		Netis Technology Co., Ltd.
 30:07:A3		Shenzhen Skyworth Digital  Technology  CO., Ltd
 30:08:4D		Trumpf Hüttinger
 30:09:16		Apple, Inc.
@@ -41494,6 +41494,7 @@
 8C:1F:64:7F:30:00/36	Videosys Broadcast Ltd
 8C:1F:64:7F:40:00/36	G.M. International srl
 8C:1F:64:7F:60:00/36	Abbott Diagnostics Technologies AS
+8C:1F:64:7F:70:00/36	ADITUS GmbH
 8C:1F:64:7F:80:00/36	FleetSafe India Private Limited
 8C:1F:64:7F:90:00/36	Copelion International Inc
 8C:1F:64:7F:C0:00/36	Mitsubishi Electric Klimat Transportation Systems S.p.A.
@@ -41746,6 +41747,7 @@
 8C:1F:64:97:10:00/36	Infrasafe/ Advantor Systems
 8C:1F:64:97:20:00/36	Federant LLC
 8C:1F:64:97:30:00/36	Dorsett Technologies Inc
+8C:1F:64:97:40:00/36	Reo Ag
 8C:1F:64:97:50:00/36	Preston Industries dba PolyScience
 8C:1F:64:97:60:00/36	JES Electronic Systems Private Limited
 8C:1F:64:97:80:00/36	Planet Innovation Products Inc.
@@ -54960,6 +54962,7 @@ E8:D3:EB		eero inc.
 E8:D4:83		ULTIMATE Europe Transportation Equipment GmbH
 E8:D4:E0		Beijing BenyWave Technology Co., Ltd.
 E8:D5:2B		Google, Inc.
+E8:D5:A1		Earda Technologies co Ltd
 E8:D7:65		Huawei Technologies Co.,Ltd
 E8:D7:75		Huawei Technologies Co.,Ltd
 E8:D8:19		AzureWave Technology Inc.
