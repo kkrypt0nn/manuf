@@ -29949,6 +29949,7 @@
 5C:8D:2D		Shanghai Wellpay Information Technology Co., Ltd
 5C:8D:4E		Apple, Inc.
 5C:8D:E5		Delta Electronics, Inc.
+5C:8D:FD		Clariphotonics CO., Ltd
 5C:8E:10		TimeWatch Infocom Pvt. Ltd.
 5C:8E:8B		Shenzhen Linghai Electronics Co.,Ltd
 5C:8F:40		Tecno Mobile Limited
@@ -52592,6 +52593,7 @@ D4:B4:3E		Messcomp Datentechnik GmbH
 D4:B4:C0		Fortinet, Inc.
 D4:B5:CD		Sagemcom Broadband SAS
 D4:B6:80		Shanghai Linkyum Microeletronics Co.,Ltd
+D4:B6:C9		Nokia
 D4:B7:09		zte corporation
 D4:B7:61		Sichuan AI-Link Technology Co., Ltd.
 D4:B7:D0		Ciena Corporation
@@ -57368,6 +57370,7 @@ FC:47:D8		Apple, Inc.
 FC:48:C9		Yobiiq Intelligence B.V.
 FC:48:EF		Huawei Technologies Co.,Ltd
 FC:49:2D		Amazon Technologies Inc.
+FC:4A:47		Nokia
 FC:4A:E9		Castlenet Technology Inc.
 FC:4B:1C		Intersensor S.R.L.
 FC:4B:57		Peerless Instrument Division of Curtiss-Wright
