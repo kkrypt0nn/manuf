@@ -29925,7 +29925,7 @@
 5C:87:D8		IEEE Registration Authority
 5C:87:D8:00:00:00/28	Nanjing Shufan Information Technology Co., Ltd.
 5C:87:D8:10:00:00/28	COMET SYSTEM, s.r.o.
-5C:87:D8:20:00:00/28	Freeus LLC
+5C:87:D8:20:00:00/28	Becklar, LLC
 5C:87:D8:30:00:00/28	Shenzhen Beiens Import and Export Co.,Ltd
 5C:87:D8:40:00:00/28	Telfi Technologies Private Limited
 5C:87:D8:50:00:00/28	Hangzhou Advanced Intelligent Manufacturing Systems Co.,Ltd.
@@ -50713,7 +50713,7 @@ C8:63:14:80:00:00/28	Thinci, Inc.
 C8:63:14:90:00:00/28	Maxcom S.A.
 C8:63:14:A0:00:00/28	Optictimes Co.,Ltd
 C8:63:14:B0:00:00/28	Shenzhen Lihewei Electronics Co.,Ltd.Hunan Branch
-C8:63:14:C0:00:00/28	Freeus LLC
+C8:63:14:C0:00:00/28	Becklar, LLC
 C8:63:14:D0:00:00/28	Telematix AG
 C8:63:14:E0:00:00/28	Taylor Dynamometer
 C8:63:40		Cisco Meraki
@@ -56381,7 +56381,7 @@ F4:70:0C:90:00:00/28	Annapurna labs
 F4:70:0C:A0:00:00/28	Jinan Huake Electrical Device Co., Ltd.
 F4:70:0C:B0:00:00/28	Shanghai Risingpo Electronics CO.,LTD
 F4:70:0C:C0:00:00/28	G.S.D Group Inc.
-F4:70:0C:D0:00:00/28	Freeus LLC
+F4:70:0C:D0:00:00/28	Becklar, LLC
 F4:70:0C:E0:00:00/28	Shenzhen WeProTalk Technology Co., Ltd.
 F4:70:18		Hangzhou Ezviz Software Co.,Ltd.
 F4:70:AB		vivo Mobile Communication Co., Ltd.
