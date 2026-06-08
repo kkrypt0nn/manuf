@@ -40269,6 +40269,7 @@
 8C:1F:64:0C:C0:00/36	Smart I Electronics Systems Pvt. Ltd.
 8C:1F:64:0C:D0:00/36	DEUTA Werke GmbH
 8C:1F:64:0C:E0:00/36	Digitella Inc.
+8C:1F:64:0C:F0:00/36	R2Vision GmbH
 8C:1F:64:0D:00:00/36	Lumiplan-Duhamel
 8C:1F:64:0D:20:00/36	biosilver .co.,ltd
 8C:1F:64:0D:30:00/36	erfi Ernst Fischer GmbH+Co.KG
@@ -49592,6 +49593,7 @@ C0:4D:F7		Serelec
 C0:4E:30		Espressif Inc.
 C0:4E:8A		Huawei Technologies Co.,Ltd
 C0:50:64		Shennan Circuits Co.,Ltd
+C0:50:97		EG4 Electronics
 C0:51:5C		zte corporation
 C0:51:7E		Hangzhou Hikvision Digital Technology Co.,Ltd.
 C0:51:F3		Cig Shanghai Co Ltd
