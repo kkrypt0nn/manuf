@@ -21317,7 +21317,7 @@
 20:0B:CF		Nintendo Co.,Ltd
 20:0C:86		GX India Pvt Ltd
 20:0C:C8		Netgear
-20:0D:3D		Quectel Wireless Solutions Co., Ltd.
+20:0D:3D		Quectel Wireless Solutions Co.,Ltd.
 20:0D:B0		Shenzhen Four Seas Global Link Network Technology Co., Ltd.
 20:0E:0F		Panasonic Marketing Middle East & Africa FZE
 20:0E:2B		Apple, Inc.
@@ -23616,6 +23616,7 @@
 30:61:12		PAV GmbH
 30:61:18		Paradom Inc.
 30:61:A2		Huawei Technologies Co.,Ltd
+30:62:22		Samsung Electronics Co.,Ltd
 30:63:6B		Apple, Inc.
 30:63:71		Shenzhenshi Xinzhongxin Technology Co.Ltd
 30:63:CF		Zhejiang Cainiao Supply Chain Management Co., Ltd
@@ -25100,7 +25101,7 @@
 3C:20:93		GD Midea Air-Conditioning Equipment Co.,Ltd.
 3C:20:F6		Samsung Electronics Co.,Ltd
 3C:21:9C		Intel Corporate
-3C:22:7F		Quectel Wireless Solutions Co., Ltd.
+3C:22:7F		Quectel Wireless Solutions Co.,Ltd.
 3C:22:FB		Apple, Inc.
 3C:24:0A		Huawei Device Co., Ltd.
 3C:24:F0		IEEE Registration Authority
@@ -28206,7 +28207,7 @@
 50:32:75		Samsung Electronics Co.,Ltd
 50:33:8B		Texas Instruments
 50:33:F0		Yichen (Shenzhen) Technology Co.Ltd
-50:37:CD		Quectel Wireless Solutions Co., Ltd.
+50:37:CD		Quectel Wireless Solutions Co.,Ltd.
 50:38:2F		ASE Group Chung-Li
 50:38:AB		Prove
 50:39:2F		Ingram Micro Services
@@ -30020,7 +30021,7 @@
 5C:B9:01		Hewlett Packard
 5C:BA:2C		Hewlett Packard Enterprise
 5C:BA:37		Microsoft Corporation
-5C:BA:75		Quectel Wireless Solutions Co., Ltd.
+5C:BA:75		Quectel Wireless Solutions Co.,Ltd.
 5C:BA:EF		Chongqing Fugui Electronics Co.,Ltd.
 5C:BB:EE		zte corporation
 5C:BD:9A		Huawei Device Co., Ltd.
@@ -37059,6 +37060,7 @@
 74:8A:0D		Commscope
 74:8A:28		HMD Global Oy
 74:8A:69		Korea Image Technology Co., Ltd
+74:8B:23		Samsung Electronics Co.,Ltd
 74:8B:29		Micobiomed
 74:8B:34		Shanghai Smart System Technology Co., Ltd
 74:8D:08		Apple, Inc.
