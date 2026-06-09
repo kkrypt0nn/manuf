@@ -24577,6 +24577,7 @@
 38:30:F9		LG Electronics (Mobile Communications)
 38:31:5A		Rinnai
 38:31:AC		Weg
+38:32:7A		Routerboard.com
 38:33:C5		Microsoft Corporation
 38:35:FB		Sagemcom Broadband SAS
 38:37:8B		Huawei Technologies Co.,Ltd
@@ -39374,6 +39375,7 @@
 84:BB:69		Commscope
 84:BE:52		Huawei Technologies Co.,Ltd
 84:BE:8B		Chengdu Geeker Technology Co., Ltd.
+84:C0:65		Nintendo Co.,Ltd
 84:C0:EF		Samsung Electronics Co.,Ltd
 84:C1:C1		Juniper Networks
 84:C2:E4		Jiangsu Qinheng Co., Ltd.
@@ -42822,6 +42824,7 @@
 8C:1F:64:FB:90:00/36	IWS Global Pty Ltd
 8C:1F:64:FB:A0:00/36	Onto Innovation
 8C:1F:64:FB:B0:00/36	Telica
+8C:1F:64:FB:C0:00/36	Immersive Audio Technologies
 8C:1F:64:FB:D0:00/36	SAN-AI Electronic Industries Co.,Ltd.
 8C:1F:64:FC:10:00/36	Nidec asi spa
 8C:1F:64:FC:20:00/36	I/O Controls
