@@ -17957,6 +17957,7 @@
 04:F9:F8		Tp-Link Technologies Co.,Ltd.
 04:FA:3F		OptiCore Inc.
 04:FA:83		Qingdao Haier Technology Co.,Ltd
+04:FB:66		Ericsson AB
 04:FD:E8		Technoalpin
 04:FE:31		Samsung Electronics Co.,Ltd
 04:FE:7F		Cisco Systems, Inc
@@ -22587,6 +22588,7 @@
 28:B2:BD		Intel Corporate
 28:B3:71		Ruckus Wireless
 28:B3:AB		Genmark Automation
+28:B3:AF		Qualynxus Inc
 28:B4:46		Shenzhen Chuangwei-Rgb Electronics Co.,Ltd
 28:B4:48		Huawei Technologies Co.,Ltd
 28:B4:FB		Sprocomm Technologies CO.,LTD.
@@ -27817,6 +27819,7 @@
 4C:80:4F		Armstrong Monitoring Corp
 4C:80:93		Intel Corporate
 4C:80:BA		Wuhan Tianyu Information Industry Co., Ltd.
+4C:80:FB		Google, Inc.
 4C:81:20		Taicang T&W Electronics
 4C:81:25		ZOWEE TECHNOLOGY(HEYUAN)Co.,Ltd
 4C:82:0C		Apple, Inc.
@@ -29328,6 +29331,7 @@
 58:6A:B1		Hangzhou H3C Technologies Co., Limited
 58:6B:14		Apple, Inc.
 58:6C:25		Intel Corporate
+58:6D:0C		Hewlett Packard Enterprise
 58:6D:67		Intel Corporate
 58:6D:8F		Cisco-Linksys, LLC
 58:6E:D6		Private
@@ -40826,6 +40830,7 @@
 8C:1F:64:40:D0:00/36	PROFITT Ltd
 8C:1F:64:40:E0:00/36	Baker Hughes EMEA
 8C:1F:64:41:00:00/36	Roboteq
+8C:1F:64:41:10:00/36	Pioneer Century Infocomm Pte Ltd
 8C:1F:64:41:20:00/36	Comercial Electronica Studio-2 s.l.
 8C:1F:64:41:40:00/36	INSEVIS GmbH
 8C:1F:64:41:50:00/36	OnAsset Intelligence
@@ -41753,6 +41758,7 @@
 8C:1F:64:96:80:00/36	Iav Engineering Sarl
 8C:1F:64:96:A0:00/36	EA Elektro-Automatik GmbH
 8C:1F:64:96:B0:00/36	Vantageo Private Limited
+8C:1F:64:96:D0:00/36	Sörgel Elektronik
 8C:1F:64:96:E0:00/36	inomatic GmbH
 8C:1F:64:96:F0:00/36	Vortix Networks
 8C:1F:64:97:00:00/36	Potter Electric Signal Co. LLC
@@ -42614,6 +42620,7 @@
 8C:1F:64:E6:40:00/36	Indefac company
 8C:1F:64:E6:60:00/36	Enless Wireless
 8C:1F:64:E6:80:00/36	LHA Systems (Pty) Ltd
+8C:1F:64:E6:90:00/36	FullohmKD
 8C:1F:64:E6:B0:00/36	Terratel Technology s.r.o.
 8C:1F:64:E6:E0:00/36	Human Dgm. Co., Ltd.
 8C:1F:64:E6:F0:00/36	Vision Systems Safety Tech
@@ -42643,6 +42650,7 @@
 8C:1F:64:E9:10:00/36	RADIC Technologies, Inc.
 8C:1F:64:E9:20:00/36	EA Elektro-Automatik GmbH
 8C:1F:64:E9:40:00/36	Zin Technologies
+8C:1F:64:E9:70:00/36	Lucint Systems, Inc.
 8C:1F:64:E9:80:00/36	Luxshare Electronic Technology (Kunshan) LTD
 8C:1F:64:E9:90:00/36	Pantherun Technologies Pvt Ltd
 8C:1F:64:E9:A0:00/36	SiFive Inc
@@ -45580,7 +45588,9 @@ A0:24:90:20:00:00/28	nodor international
 A0:24:90:30:00:00/28	Bosch Rexroth AG
 A0:24:90:40:00:00/28	Nefence Inc.
 A0:24:90:50:00:00/28	Nektar Inc.
+A0:24:90:60:00:00/28	Siame
 A0:24:90:70:00:00/28	Velvu Technologies Private Limited
+A0:24:90:80:00:00/28	Elisity, Inc.
 A0:24:90:90:00:00/28	Sansha Electric Manufacturing Co., Ltd.
 A0:24:90:A0:00:00/28	Briggs & Stratton LLC
 A0:24:90:B0:00:00/28	Tauro Technologies
@@ -45853,6 +45863,7 @@ A0:B0:45		Halong Mining
 A0:B0:86		Hirschmann Automation and Control GmbH
 A0:B0:BD		Samsung Electronics Co.,Ltd
 A0:B1:00		ShenZhen Cando Electronics Co.,Ltd
+A0:B1:5C		Google, Inc.
 A0:B3:39		Intel Corporate
 A0:B3:CC		Hewlett Packard
 A0:B4:0F		Apple, Inc.
@@ -45920,6 +45931,7 @@ A0:C6:EC		ShenZhen ANYK Technology Co.,LTD
 A0:C7:D2		Cisco Systems, Inc
 A0:C9:8B		Nokia Solutions and Networks GmbH & Co. KG
 A0:C9:A0		Murata Manufacturing Co., Ltd.
+A0:CA:4A		AltoBeam Inc.
 A0:CA:A5		Intelligence Technology Of Cec Co., Ltd
 A0:CB:FD		Samsung Electronics Co.,Ltd
 A0:CC:2B		Murata Manufacturing Co., Ltd.
@@ -57251,6 +57263,7 @@ FA:63:E1		Samsung Electronics (UK) Ltd
 FA:66:73		Nells Electronic Systems (Nes)
 FA:7A:CB		Ultra Ethernet Consortium
 FA:7D:04		Salience Labs
+FA:8D:93		Runione Tech Co., Ltd
 FA:93:05		Panasonic Automotive Systems Co., Ltd.
 FA:94:F1		IEEE 802.1 Chair
 FA:BA:85		APAT Optoelectronics Components Co., Ltd.
@@ -57515,6 +57528,7 @@ FC:91:89		Sichuan Tianyi Comheart Telecom Co.,LTD
 FC:92:3B		Nokia Corporation
 FC:92:57		Renesas Electronics (Penang) Sdn. Bhd.
 FC:93:1D		Huawei Technologies Co.,Ltd
+FC:93:4E		Realtek Semiconductor Corp.
 FC:93:6B		Samsung Electronics Co.,Ltd
 FC:94:2E		Cisco Meraki
 FC:94:35		Huawei Technologies Co.,Ltd
