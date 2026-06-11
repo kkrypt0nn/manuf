@@ -25739,6 +25739,7 @@
 40:56:62		GuoTengShengHua Electronics LTD.
 40:58:46		vivo Mobile Communication Co., Ltd.
 40:58:99		Logitech Far East
+40:59:25		Kaon Broadband CO., LTD.
 40:5A:9B		Anovo
 40:5A:DD		Actions Microelectronics
 40:5B:7F		Broadcom Limited
@@ -26714,6 +26715,7 @@
 44:5B:ED		Hewlett Packard Enterprise
 44:5C:E9		Samsung Electronics Co.,Ltd
 44:5D:5E		SHENZHEN Coolkit Technology CO.,LTD
+44:5E:82		Zyxel Communications Corporation
 44:5E:CD		Razer Inc
 44:5E:F3		Tonalite Holding B.V.
 44:5F:7A		Shihlin Electric & Engineering Corp.
@@ -37112,6 +37114,8 @@
 74:9E:F5		Samsung Electronics Co.,Ltd
 74:A0:2F		Cisco Systems, Inc
 74:A0:63		Huawei Technologies Co.,Ltd
+74:A2:35		IEEE Registration Authority
+74:A2:35:70:00:00/28	Bots Unlimited LLC
 74:A2:E6		Cisco Systems, Inc
 74:A3:4A		Zimi Corporation
 74:A4:A7		QRS Music Technologies, Inc.
@@ -39905,6 +39909,7 @@
 88:C0:93		Gigamedia
 88:C1:74		zte corporation
 88:C2:27		Huawei Technologies Co.,Ltd
+88:C2:2D		Buffalo.Inc
 88:C2:42		Poynt Co.
 88:C2:55		Texas Instruments
 88:C3:44		Google, Inc.
@@ -41336,6 +41341,7 @@
 8C:1F:64:6E:E0:00/36	Cortical Labs Pte Ltd
 8C:1F:64:6F:00:00/36	Right Time Sports LLC
 8C:1F:64:6F:40:00/36	Elsist Srl
+8C:1F:64:6F:50:00/36	Logic Fruit Technologies Pvt. Ltd.
 8C:1F:64:6F:70:00/36	EddyWorks Co.,Ltd
 8C:1F:64:6F:80:00/36	Proiker Technology Sl
 8C:1F:64:6F:90:00/36	Anddoro Llc
@@ -45596,6 +45602,7 @@ A0:24:90:A0:00:00/28	Briggs & Stratton LLC
 A0:24:90:B0:00:00/28	Tauro Technologies
 A0:24:90:C0:00:00/28	WiE GmbH - Werk für industrielle Elektronik
 A0:24:90:D0:00:00/28	Jkin
+A0:24:90:E0:00:00/28	Mini Motor Spa
 A0:24:F9		Chengdu InnovaTest Technology Co., Ltd
 A0:25:D7		Hewlett Packard Enterprise
 A0:26:05		Belden Hirschmann industries (Suzhou) Limited
@@ -52818,6 +52825,7 @@ D8:25:22		Commscope
 D8:25:B0		Rockeetech Systems Co.,Ltd.
 D8:25:DF		Came Uk
 D8:26:B9		Guangdong Coagent Electronics S&T Co.,Ltd.
+D8:26:D3		eero inc.
 D8:26:FA		Jiangxi Zhentian Technology CO.,LTD
 D8:27:0C		MaxTronic International Co., Ltd.
 D8:28:C9		General Electric Consumer and Industrial
@@ -56896,6 +56904,7 @@ F8:5E:A0		Intel Corporate
 F8:5F:2A		Nokia Corporation
 F8:60:F0		Hewlett Packard Enterprise
 F8:62:14		Apple, Inc.
+F8:62:2A		eero inc.
 F8:62:AA		xn systems
 F8:63:3F		Intel Corporate
 F8:63:47		Sichuan AI-Link Technology Co., Ltd.
