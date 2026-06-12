@@ -20821,6 +20821,7 @@
 1C:48:CE		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 1C:48:F9		GN Netcom A/S
 1C:49:7B		Gemtek Technology Co., Ltd.
+1C:4A:3B		Accton Technology Corporation
 1C:4A:F7		Amon Inc
 1C:4B:B9		Smg Enterprise, Llc
 1C:4B:D6		AzureWave Technology Inc.
@@ -29753,6 +29754,7 @@
 5C:3E:1B		Apple, Inc.
 5C:40:58		Jefferson Audio Video Systems, Inc.
 5C:40:71		Xiaomi Communications Co Ltd
+5C:40:97		Accton Technology Corporation
 5C:40:E3		Novaon
 5C:41:5A		Amazon.com, LLC
 5C:41:E7		Wiatec International Ltd.
