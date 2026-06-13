@@ -21737,7 +21737,7 @@
 20:F3:07		zte corporation
 20:F3:75		Commscope
 20:F3:A3		Huawei Technologies Co.,Ltd
-20:F4:1B		Shenzhen Bilian electronic CO.,LTD
+20:F4:1B		Shenzhen Bilian Electronic Co.，Ltd
 20:F4:4F		Nokia
 20:F4:52		Shanghai IUV Software Development Co. Ltd
 20:F4:78		Xiaomi Communications Co Ltd
@@ -22730,7 +22730,7 @@
 28:F0:76		Apple, Inc.
 28:F1:0E		Dell Inc.
 28:F3:58		2C - Trifonov & Co
-28:F3:66		Shenzhen Bilian electronic CO.,LTD
+28:F3:66		Shenzhen Bilian Electronic Co.，Ltd
 28:F4:9B		Leetek
 28:F5:2B		FN-LINK TECHNOLOGY Ltd.
 28:F5:32		ADD-Engineering BV
@@ -25151,7 +25151,7 @@
 3C:31:78		Qolsys Inc.
 3C:31:8A		Samsung Electronics Co.,Ltd
 3C:32:B9		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
-3C:33:00		Shenzhen Bilian electronic CO.,LTD
+3C:33:00		Shenzhen Bilian Electronic Co.，Ltd
 3C:33:32		D-Link Corporation
 3C:34:64		Apple, Inc.
 3C:35:56		Cognitec Systems GmbH
@@ -26640,7 +26640,7 @@
 44:32:62		zte corporation
 44:32:C2		GOAL Co., Ltd.
 44:32:C8		Vantiva USA LLC
-44:33:4C		Shenzhen Bilian electronic CO.,LTD
+44:33:4C		Shenzhen Bilian Electronic Co.，Ltd
 44:34:8F		Mxt Industrial Ltda
 44:34:A7		Commscope
 44:35:6F		Neterix Ltd
@@ -28043,6 +28043,7 @@
 4C:E1:BB		Zhuhai HiFocus Technology Co., Ltd.
 4C:E2:0F		Xiaomi Communications Co Ltd
 4C:E2:F1		Udino srl
+4C:E4:B6		Motorola Mobility LLC, a Lenovo Company
 4C:E5:AE		Tianjin Beebox Intelligent Technology Co.,Ltd.
 4C:E6:50		Apple, Inc.
 4C:E6:5E		Huawei Technologies Co.,Ltd
@@ -28237,6 +28238,7 @@
 50:3F:50		Huawei Device Co., Ltd.
 50:3F:56		Syncmold Enterprise Corp
 50:3F:98		Cmitech
+50:40:35		Vantiva USA LLC
 50:40:61		Nokia
 50:40:74		Alarm.com
 50:41:1C		AMPAK Technology,Inc.
@@ -37117,6 +37119,7 @@
 74:A0:2F		Cisco Systems, Inc
 74:A0:63		Huawei Technologies Co.,Ltd
 74:A2:35		IEEE Registration Authority
+74:A2:35:00:00:00/28	Flextronics Technologies India Private Limited
 74:A2:35:70:00:00/28	Bots Unlimited LLC
 74:A2:E6		Cisco Systems, Inc
 74:A3:4A		Zimi Corporation
@@ -39172,6 +39175,7 @@
 84:56:9C		Coho Data, Inc.,
 84:57:33		Microsoft Corporation
 84:57:87		DVR C&C Co., Ltd.
+84:57:EB		Motorola Mobility LLC, a Lenovo Company
 84:57:F7		Meta Platforms, Inc.
 84:5A:3E		Cisco Systems, Inc
 84:5A:81		ffly4u
@@ -41350,6 +41354,7 @@
 8C:1F:64:6F:B0:00/36	Exatron Servers Manufacturing Pvt Ltd
 8C:1F:64:6F:C0:00/36	HM Systems A/S
 8C:1F:64:70:00:00/36	Quantaflow
+8C:1F:64:70:10:00/36	Wilton Arthur Poth
 8C:1F:64:70:20:00/36	AIDirections
 8C:1F:64:70:30:00/36	Calnex Solutions plc
 8C:1F:64:70:70:00/36	Oas Ag
@@ -47117,6 +47122,7 @@ AC:29:3A		Apple, Inc.
 AC:2A:0C		Csr Zhuzhou Institute Co.,Ltd.
 AC:2A:A1		Cisco Systems, Inc
 AC:2B:6E		Intel Corporate
+AC:2B:A2		The Chamberlain Group, Inc
 AC:2D:A3		TXTR GmbH
 AC:2D:A9		Tecno Mobile Limited
 AC:2F:A8		Humannix Co.,Ltd.
@@ -47353,7 +47359,7 @@ AC:9E:17		ASUSTek COMPUTER INC.
 AC:9F:C3		Ring LLC
 AC:A0:16		Cisco Systems, Inc
 AC:A0:9D		Juniper Networks
-AC:A2:13		Shenzhen Bilian electronic CO.,LTD
+AC:A2:13		Shenzhen Bilian Electronic Co.，Ltd
 AC:A2:2C		Baycity Technologies Ltd
 AC:A3:1E		Hewlett Packard Enterprise
 AC:A3:2F		Solidigm Technology
