@@ -24884,7 +24884,7 @@
 38:BC:1A		MEIZU Technology Co., Ltd.
 38:BC:61		Starkoff Co., Ltd.
 38:BD:7A		Hewlett Packard Enterprise
-38:BE:AB		AltoBeam (China) Inc.
+38:BE:AB		AltoBeam Inc.
 38:BF:2F		Espec Corp.
 38:BF:33		NEC CASIO Mobile Communications
 38:C0:96		Alpsalpine Co,.Ltd
@@ -26627,7 +26627,7 @@
 44:27:45		LG Innotek
 44:27:F3		70mai Co.,Ltd.
 44:28:A3		Jiangsu fulian  Communication Technology Co., Ltd.
-44:29:1E		AltoBeam (China) Inc.
+44:29:1E		AltoBeam Inc.
 44:29:38		NietZsche enterprise Co.Ltd.
 44:2A:60		Apple, Inc.
 44:2A:FF		E3 Technology, Inc.
@@ -39225,7 +39225,7 @@
 84:79:33		profichip GmbH
 84:79:73		Shanghai Baud Data Communication Co.,Ltd.
 84:7A:88		HTC Corporation
-84:7A:B6		AltoBeam (China) Inc.
+84:7A:B6		AltoBeam Inc.
 84:7A:DF		Fujian Star-Net Communication Co.,Ltd
 84:7B:57		Intel Corporate
 84:7B:EB		Dell Inc.
@@ -39578,7 +39578,7 @@
 88:25:2C		Arcadyan Corporation
 88:25:93		Tp-Link Technologies Co.,Ltd.
 88:26:3F		Zhejiang Uniview Technologies Co.,Ltd.
-88:28:7D		AltoBeam (China) Inc.
+88:28:7D		AltoBeam Inc.
 88:28:B3		Huawei Technologies Co.,Ltd
 88:28:FB		Juniper Networks
 88:29:49		Renesas Electronics (Penang) Sdn. Bhd.
@@ -40956,6 +40956,7 @@
 8C:1F:64:4B:20:00/36	GV Technology Co.,Ltd.
 8C:1F:64:4B:30:00/36	XYZ Digital Private Limited
 8C:1F:64:4B:40:00/36	Point One Navigation
+8C:1F:64:4B:70:00/36	Atte Power
 8C:1F:64:4B:80:00/36	astTECS Communications Private Limited
 8C:1F:64:4B:B0:00/36	IWS Global Pty Ltd
 8C:1F:64:4B:D0:00/36	ZTZ Services International
@@ -41307,6 +41308,7 @@
 8C:1F:64:6B:80:00/36	Larraioz Elektronika
 8C:1F:64:6B:90:00/36	GS Industrie-Elektronik GmbH
 8C:1F:64:6B:B0:00/36	Season Electronics Ltd
+8C:1F:64:6B:C0:00/36	Harik Tech
 8C:1F:64:6B:D0:00/36	IoT Water Analytics S.L.
 8C:1F:64:6B:F0:00/36	Automata GmbH & Co. KG
 8C:1F:64:6C:10:00/36	Gogo BA
@@ -41455,6 +41457,7 @@
 8C:1F:64:78:B0:00/36	Senso2Me Nv
 8C:1F:64:78:F0:00/36	Connection Systems
 8C:1F:64:79:10:00/36	Otis Technology and Development(Shanghai) Co., Ltd.
+8C:1F:64:79:20:00/36	Mds Tech
 8C:1F:64:79:30:00/36	Aditec GmbH
 8C:1F:64:79:70:00/36	Alban Giacomo S.p.a.
 8C:1F:64:79:B0:00/36	Foerster-Technik GmbH
@@ -45033,7 +45036,7 @@
 9C:19:C2		Dongguan Liesheng Electronic Co., Ltd.
 9C:1A:25		Apple, Inc.
 9C:1C:12		Hewlett Packard Enterprise
-9C:1C:37		AltoBeam (China) Inc.
+9C:1C:37		AltoBeam Inc.
 9C:1C:6D		Hefei Datang Storage Technology Co.,Ltd
 9C:1D:36		Huawei Technologies Co.,Ltd
 9C:1D:58		Texas Instruments
@@ -46577,7 +46580,7 @@ A4:ED:43:D0:00:00/28	Brand New Brand Nordic AB
 A4:ED:43:E0:00:00/28	Toec Technology Co.，Ltd.
 A4:ED:4E		Commscope
 A4:EE:57		Seiko Epson Corporation
-A4:EF:15		AltoBeam (China) Inc.
+A4:EF:15		AltoBeam Inc.
 A4:EF:52		Telewave Co., Ltd.
 A4:F0:0F		Espressif Inc.
 A4:F0:1F		Canon Inc.
@@ -48510,7 +48513,7 @@ B4:F8:1E		Kinova
 B4:F9:49		optilink networks pvt ltd
 B4:F9:5D		Juniper Networks
 B4:FA:48		Apple, Inc.
-B4:FB:E3		AltoBeam (China) Inc.
+B4:FB:E3		AltoBeam Inc.
 B4:FB:E4		Ubiquiti Inc
 B4:FB:F9		Huawei Technologies Co.,Ltd
 B4:FC:75		SEMA Electronics(HK) CO.,LTD
@@ -48868,6 +48871,7 @@ B8:D0:6F		Guangzhou Hkust Fok Ying Tung Research Institute
 B8:D0:8F		Quectel Wireless Solutions Co.,Ltd.
 B8:D0:F0		Fcnt Llc
 B8:D3:09		Cox Communications, Inc
+B8:D3:EF		Unisem (M) Berhad
 B8:D4:3E		vivo Mobile Communication Co., Ltd.
 B8:D4:9D		M Seven System Ltd.
 B8:D4:BC		zte corporation
@@ -53276,7 +53280,7 @@ DC:22:6F		HangZhou Nano IC Technologies Co., Ltd
 DC:23:3B		Extreme Networks Headquarters
 DC:27:27		Huawei Device Co., Ltd.
 DC:28:34		HAKKO Corporation
-DC:29:19		AltoBeam (Xiamen) Technology Ltd, Co.
+DC:29:19		AltoBeam(Xiamen)Technology Co., Ltd.
 DC:29:3A		Shenzhen Nuoshi Technology Co., LTD.
 DC:2A:14		Shanghai Longjing Technology Co.
 DC:2A:A1		MedHab LLC
@@ -56548,7 +56552,7 @@ F4:AC:C1		Cisco Systems, Inc
 F4:AF:E7		Apple, Inc.
 F4:B0:FF		Shanghai Baud Data Communication Co.,Ltd.
 F4:B1:64		Lightning Telecommunications Technology Co. Ltd
-F4:B1:9C		AltoBeam (China) Inc.
+F4:B1:9C		AltoBeam Inc.
 F4:B1:C2		Zhejiang Dahua Technology Co., Ltd.
 F4:B3:01		Intel Corporate
 F4:B3:81		WindowMaster A/S
