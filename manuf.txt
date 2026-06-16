@@ -22509,6 +22509,7 @@
 28:7E:80		Hui Zhou Gaoshengda Technology Co.,LTD
 28:7F:CF		Intel Corporate
 28:80:23		Hewlett Packard
+28:80:6E		Pirelli Tyre S.p.A.
 28:80:88		Netgear
 28:80:8A		Huawei Technologies Co.,Ltd
 28:80:A2		Inseego Wireless, Inc
@@ -22969,6 +22970,7 @@
 2C:3F:0B		Cisco Meraki
 2C:3F:38		Cisco Systems, Inc
 2C:3F:3E		Alge-Timing GmbH
+2C:3F:87		Private
 2C:40:2B		Smart iBlue Technology Limited
 2C:40:53		Samsung Electronics Co.,Ltd
 2C:41:38		Hewlett Packard
@@ -27285,6 +27287,7 @@
 48:7B:6B		Huawei Technologies Co.,Ltd
 48:7D:2E		Tp-Link Technologies Co.,Ltd.
 48:7E:48		Earda Technologies co Ltd
+48:7F:80		FRITZ! Technology GmbH
 48:80:02		Cisco Systems, Inc
 48:81:4E		E&M SOLUTION CO,.Ltd
 48:81:D4		Ruijie Networks Co.,LTD
@@ -27659,6 +27662,7 @@
 4C:43:41		Calix Inc.
 4C:43:F6		Sz Dji Technology Co.,Ltd
 4C:44:5B		Intel Corporate
+4C:45:53		Silicon Laboratories
 4C:45:76		China Mobile(Hangzhou) Information Technology Co.,Ltd.
 4C:46:D1		Guangzhou V-Solution Telecommunication Technology Co.,Ltd.
 4C:48:DA		Beijing Autelan Technology Co.,Ltd
@@ -30106,7 +30110,7 @@
 5C:E5:0C		Beijing Xiaomi Mobile Software Co., Ltd
 5C:E6:88		VECOS Europe B.V.
 5C:E7:47		Huawei Technologies Co.,Ltd
-5C:E7:53		Private
+5C:E7:53		Shenzhen Intellirocks Tech. Co. Ltd.
 5C:E7:A0		Nokia
 5C:E7:BF		New Singularity International Technical Development Co.,Ltd
 5C:E8:83		Huawei Technologies Co.,Ltd
@@ -40956,6 +40960,7 @@
 8C:1F:64:4B:20:00/36	GV Technology Co.,Ltd.
 8C:1F:64:4B:30:00/36	XYZ Digital Private Limited
 8C:1F:64:4B:40:00/36	Point One Navigation
+8C:1F:64:4B:60:00/36	Pantherun Technologies Pvt Ltd
 8C:1F:64:4B:70:00/36	Atte Power
 8C:1F:64:4B:80:00/36	astTECS Communications Private Limited
 8C:1F:64:4B:B0:00/36	IWS Global Pty Ltd
@@ -44563,6 +44568,7 @@
 98:29:3F		Fujian Start Computer Equipment Co.,Ltd
 98:29:A6		Compal Information (Kunshan) Co., Ltd.
 98:2A:0A		Intelbras
+98:2A:C3		Silicon Laboratories
 98:2A:FD		Huawei Technologies Co.,Ltd
 98:2B:A6		Motorola Mobility LLC, a Lenovo Company
 98:2C:BC		Intel Corporate
@@ -45338,6 +45344,7 @@
 9C:B8:B4		AMPAK Technology,Inc.
 9C:BA:C9		Telit Communication s.p.a
 9C:BB:98		Shen Zhen RND Electronic Co.,LTD
+9C:BC:A6		Hewlett Packard Enterprise
 9C:BC:F0		Xiaomi Communications Co Ltd
 9C:BD:6E		DERA Co., Ltd
 9C:BD:9D		SkyDisk, Inc.
@@ -54142,6 +54149,7 @@ E0:DC:FF		Xiaomi Communications Co Ltd
 E0:DD:C0		vivo Mobile Communication Co., Ltd.
 E0:DE:F2		Texas Instruments
 E0:DF:13		Hangzhou Hikvision Digital Technology Co.,Ltd.
+E0:DF:B7		Zeica Labs Pte Ltd
 E0:E0:C2		China Mobile Group Device Co.,Ltd.
 E0:E0:FC		Huawei Device Co., Ltd.
 E0:E1:A9		Shenzhen Four Seas Global Link Network Technology Co., Ltd.
