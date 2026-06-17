@@ -17479,6 +17479,7 @@
 04:22:34		Wireless Standard Extensions
 04:22:E7		Fiberhome Telecommunication Technologies Co.,LTD
 04:23:22		Texas Instruments
+04:23:A3		Mellanox Technologies, Inc.
 04:24:05		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 04:25:C5		Huawei Technologies Co.,Ltd
 04:25:E0		Taicang T&W Electronics
@@ -18653,6 +18654,7 @@
 0C:15:39		Apple, Inc.
 0C:15:63		Apple, Inc.
 0C:15:C5		SDTEC Co., Ltd.
+0C:16:6E		WirelessMobility Engineering Centre SDN. BHD
 0C:17:73		Huawei Device Co., Ltd.
 0C:17:F1		Telecsys
 0C:18:4E		Huawei Technologies Co.,Ltd
@@ -19296,6 +19298,7 @@
 10:30:25		Apple, Inc.
 10:30:34		Cara Systems
 10:30:47		Samsung Electronics Co.,Ltd
+10:30:89		Resideo
 10:32:1D		Huawei Technologies Co.,Ltd
 10:32:2C		Murata Manufacturing Co., Ltd.
 10:32:7E		Huawei Device Co., Ltd.
@@ -20583,6 +20586,7 @@
 18:CF:5E		Liteon Technology Corporation
 18:D0:71		Dasan Co., Ltd.
 18:D0:C5		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
+18:D0:E1		Mellanox Technologies, Inc.
 18:D2:25		Fiberhome Telecommunication Technologies Co.,LTD
 18:D2:76		Huawei Technologies Co.,Ltd
 18:D5:B6		SMG Holdings LLC
@@ -23333,6 +23337,7 @@
 2C:E3:10		Stratacache
 2C:E3:8E		Cisco Systems, Inc
 2C:E4:12		Sagemcom Broadband SAS
+2C:E5:BD		Ubiquiti Inc
 2C:E6:4D		GD Midea Air-Conditioning Equipment Co.,Ltd.
 2C:E6:CC		Ruckus Wireless
 2C:E8:71		Alert Metalguard ApS
@@ -24515,6 +24520,7 @@
 38:14:A1		LG Innotek
 38:16:5A		zte corporation
 38:16:72		Shenzhen SuperElectron Technology Co.,Ltd.
+38:16:B3		HP Inc.
 38:16:D1		Samsung Electronics Co.,Ltd
 38:17:30		Ulrich Lippert GmbH & Co KG
 38:17:66		Promzakaz Ltd.
@@ -24891,6 +24897,7 @@
 38:BF:33		NEC CASIO Mobile Communications
 38:C0:96		Alpsalpine Co,.Ltd
 38:C0:EA		Fortinet, Inc.
+38:C2:2D		Mellanox Technologies, Inc.
 38:C2:BA		Cctv Neotech
 38:C4:3A		Apple, Inc.
 38:C4:E8		NSS Sp. z o.o.
@@ -29407,6 +29414,7 @@
 58:8D:39		Mitsubishi Electric Automation (China) Ltd.
 58:8D:64		Xi'an Clevbee Technology Co.,Ltd
 58:8E:81		Silicon Laboratories
+58:8F:A7		LG Innotek
 58:8F:CF		Hangzhou Ezviz Software Co.,Ltd.
 58:90:43		Sagemcom Broadband SAS
 58:91:53		China Mobile IOT Company Limited
@@ -31243,6 +31251,7 @@
 68:2C:7B		Cisco Systems, Inc
 68:2D:83		Shenzhen Dinghe Communication Company
 68:2D:DC		Wuhan Changjiang Electro-Communication Equipment CO.,LTD
+68:2E:3C		Ubiquiti Inc
 68:2F:67		Apple, Inc.
 68:30:36		Apple, Inc.
 68:30:45		Huawei Technologies Co.,Ltd
@@ -37124,7 +37133,12 @@
 74:A0:63		Huawei Technologies Co.,Ltd
 74:A2:35		IEEE Registration Authority
 74:A2:35:00:00:00/28	Flextronics Technologies India Private Limited
+74:A2:35:10:00:00/28	Efference
+74:A2:35:20:00:00/28	DeepSea Technologies
+74:A2:35:30:00:00/28	SEE Telecom
+74:A2:35:40:00:00/28	Zeroport LTD
 74:A2:35:70:00:00/28	Bots Unlimited LLC
+74:A2:35:B0:00:00/28	Enterprise Software Solutions Lab Pvt Ltd
 74:A2:E6		Cisco Systems, Inc
 74:A3:4A		Zimi Corporation
 74:A4:A7		QRS Music Technologies, Inc.
@@ -40771,12 +40785,14 @@
 8C:1F:64:39:80:00/36	Software Systems Plus
 8C:1F:64:39:A0:00/36	Golding Audio Ltd
 8C:1F:64:39:B0:00/36	Deviceworx Technologies Inc.
+8C:1F:64:39:C0:00/36	Hbtech
 8C:1F:64:39:E0:00/36	Abbott Diagnostics Technologies AS
 8C:1F:64:39:F0:00/36	Guangzhou Beizeng Information Technology Co.,Ltd
 8C:1F:64:3A:20:00/36	Kron Medidores
 8C:1F:64:3A:30:00/36	Lumentum
 8C:1F:64:3A:40:00/36	QLM Technology Ltd
 8C:1F:64:3A:50:00/36	Techmovers Systems India Limited
+8C:1F:64:3A:70:00/36	FormFactor
 8C:1F:64:3A:C0:00/36	Benison Tech
 8C:1F:64:3A:D0:00/36	TowerIQ
 8C:1F:64:3A:F0:00/36	PSA Technology Ltda.
@@ -41450,6 +41466,7 @@
 8C:1F:64:77:A0:00/36	Datacomm Networks
 8C:1F:64:77:B0:00/36	Db Sas
 8C:1F:64:77:C0:00/36	Orange Tree Technologies Ltd
+8C:1F:64:77:D0:00/36	Event Acoustics B.V.
 8C:1F:64:77:E0:00/36	Institute of geophysics, China earthquake administration
 8C:1F:64:77:F0:00/36	TargaSystem S.r.L.
 8C:1F:64:78:00:00/36	HME Co.,ltd
@@ -41809,6 +41826,7 @@
 8C:1F:64:99:10:00/36	DB Systel GmbH
 8C:1F:64:99:30:00/36	Applied Electro Magnetics Pvt. Ltd.
 8C:1F:64:99:40:00/36	uHave Control, Inc
+8C:1F:64:99:70:00/36	Daifuku CO., Ltd.
 8C:1F:64:99:80:00/36	EVLO Stockage Énergie
 8C:1F:64:99:90:00/36	Advanced Techne
 8C:1F:64:99:B0:00/36	Grossenbacher Systeme AG
@@ -47555,6 +47573,7 @@ B0:00:B4		Cisco Systems, Inc
 B0:02:47		AMPAK Technology, Inc.
 B0:02:7E		Muller Services
 B0:05:94		Liteon Technology Corporation
+B0:06:EC		Nexquome Pte Limited
 B0:08:75		Huawei Technologies Co.,Ltd
 B0:08:BF		Vital Connect, Inc.
 B0:09:D3		Avizia
@@ -53121,6 +53140,7 @@ D8:BF:C0		Espressif Inc.
 D8:C0:68		Netgenetech.co.,ltd.
 D8:C0:6A		Hunantv.com Interactive Entertainment Media Co.,Ltd.
 D8:C0:A6		AzureWave Technology Inc.
+D8:C2:62		Ubiquiti Inc
 D8:C3:FB		Detracom
 D8:C4:6A		Murata Manufacturing Co., Ltd.
 D8:C4:97		Quanta Computer Inc.
@@ -53210,6 +53230,7 @@ D8:F7:60		EM Microelectronic
 D8:F8:83		Intel Corporate
 D8:F8:AF		Daontec
 D8:FB:11		Axacore
+D8:FB:58		Mellanox Technologies, Inc.
 D8:FB:5E		Askey Computer Corp
 D8:FB:68		Cloud Corner Ltd.
 D8:FB:D6		Amazon Technologies Inc.
