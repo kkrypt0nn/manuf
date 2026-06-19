@@ -23840,7 +23840,7 @@
 30:EB:15		Huawei Device Co., Ltd.
 30:EB:1F		Skylab M&C Technology Co.,Ltd
 30:EB:25		Intek Digital
-30:EB:5A		Landis + Gyr
+30:EB:5A		Landis+Gyr S.A.
 30:EC:7C		Shenzhen Along Electronics Co., Ltd
 30:EC:A3		Alfatron Electronics INC
 30:ED:96		LS Mecapion
@@ -37368,7 +37368,7 @@
 78:04:73		Texas Instruments
 78:04:7A		Edge Networks LLC
 78:04:E3		Huawei Device Co., Ltd.
-78:05:41		Queclink Wireless Solutions Co., Ltd
+78:05:41		Queclink Wireless Solutions Co., Ltd.
 78:05:5F		Shenzhen WYC Technology Co., Ltd.
 78:05:8C		mMax Communications, Inc.
 78:06:C9		Huawei Device Co., Ltd.
@@ -40375,6 +40375,7 @@
 8C:1F:64:10:F0:00/36	Scenario Automation
 8C:1F:64:11:00:00/36	Xian Linking Backhaul Telecom Technology Co.,Ltd
 8C:1F:64:11:10:00/36	Isac Srl
+8C:1F:64:11:20:00/36	Isac Srl
 8C:1F:64:11:30:00/36	Timberline Manufacturing
 8C:1F:64:11:40:00/36	Sanmina SCI Medical
 8C:1F:64:11:50:00/36	Neuralog LP
@@ -40521,6 +40522,7 @@
 8C:1F:64:1E:E0:00/36	Kneron (Taiwan) Co., Ltd.
 8C:1F:64:1E:F0:00/36	Tantronic AG
 8C:1F:64:1F:00:00/36	AVCOMM Technologies Inc
+8C:1F:64:1F:20:00/36	Spyder Controls Corp.
 8C:1F:64:1F:40:00/36	Eiffage Energie Electronique
 8C:1F:64:1F:50:00/36	NanoThings Inc.
 8C:1F:64:1F:70:00/36	Sicon srl
@@ -44890,7 +44892,7 @@
 98:AF:65		Intel Corporate
 98:B0:39		Nokia
 98:B0:8B		Samsung Electronics Co.,Ltd
-98:B1:77		Landis + Gyr
+98:B1:77		Landis+Gyr S.A.
 98:B3:79		Apple, Inc.
 98:B3:EF		Huawei Device Co., Ltd.
 98:B6:E9		Nintendo Co.,Ltd
