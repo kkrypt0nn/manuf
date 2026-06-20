@@ -42045,7 +42045,7 @@
 8C:1F:64:AB:50:00/36	Justmorph Pte. Ltd.
 8C:1F:64:AB:60:00/36	EMIT GmbH
 8C:1F:64:AB:70:00/36	MClavis Co.,Ltd.
-8C:1F:64:AB:80:00/36	Private
+8C:1F:64:AB:80:00/36	Charles Industries
 8C:1F:64:AB:A0:00/36	FLUGCOM GmbH
 8C:1F:64:AB:E0:00/36	TAIYO DENON Corporation
 8C:1F:64:AB:F0:00/36	Stackiot Technologies Private Limited
@@ -55461,7 +55461,7 @@ EC:83:50		Microsoft Corporation
 EC:83:6C		RM Tech Co., Ltd.
 EC:83:B7		Puwell Cloud Tech Limited
 EC:83:D5		GIRD Systems Inc
-EC:84:39		Private
+EC:84:39		Bitmain Development Pte. Ltd.
 EC:84:B4		Cig Shanghai Co Ltd
 EC:85:2F		Apple, Inc.
 EC:86:C4		Mellanox Technologies, Inc.
