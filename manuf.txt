@@ -18270,6 +18270,7 @@
 08:51:04		Huawei Device Co., Ltd.
 08:51:14		Qingdao Topscomm Communication Co., Ltd
 08:51:2E		Orion Diagnostica Oy
+08:51:F2		Sagemcom Broadband SAS
 08:52:40		EbV Elektronikbau- und Vertriebs GmbH
 08:52:4E		Shenzhen Fangcheng Baiyi Technology Co., Ltd.
 08:54:11		Hangzhou Hikvision Digital Technology Co.,Ltd.
@@ -29185,6 +29186,7 @@
 58:0A:20		Cisco Systems, Inc
 58:0A:D4		Apple, Inc.
 58:0D:0D		Gree Electric Appliances, Inc. Of Zhuhai
+58:0E:85		Sagemcom Broadband SAS
 58:0F:A5		Apple, Inc.
 58:10:31		Hon Hai Precision IND.CO.,LTD
 58:10:8C		Intelbras
@@ -37174,6 +37176,7 @@
 74:A2:35:70:00:00/28	Bots Unlimited LLC
 74:A2:35:80:00:00/28	Procode Technology Litd
 74:A2:35:90:00:00/28	Rebel Systems
+74:A2:35:A0:00:00/28	CPSpeed co., ltd.
 74:A2:35:B0:00:00/28	Enterprise Software Solutions Lab Pvt Ltd
 74:A2:35:C0:00:00/28	Yew Enterprises
 74:A2:35:D0:00:00/28	Neuromod Devices Ltd.
@@ -42632,6 +42635,7 @@
 8C:1F:64:DE:D0:00/36	PhotonPath
 8C:1F:64:DF:00:00/36	Cyberkar Systems inc.
 8C:1F:64:DF:20:00/36	Lomar Srl
+8C:1F:64:DF:40:00/36	Anglian Water Business (National) Limited
 8C:1F:64:DF:50:00/36	Concept Pro Surveillance
 8C:1F:64:DF:60:00/36	Micronova srl
 8C:1F:64:DF:80:00/36	Wittra Networks AB
@@ -42792,6 +42796,7 @@
 8C:1F:64:EE:30:00/36	Sichuan Huacun Zhigu Technology Co.,Ltd
 8C:1F:64:EE:60:00/36	Lynkx
 8C:1F:64:EE:80:00/36	Global Organ Group B.V.
+8C:1F:64:EE:90:00/36	Intect AG
 8C:1F:64:EE:A0:00/36	Amess
 8C:1F:64:EE:D0:00/36	Viziontech UK
 8C:1F:64:EE:F0:00/36	AiUnion Co.,Ltd
