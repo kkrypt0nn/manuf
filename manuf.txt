@@ -19488,6 +19488,7 @@
 10:91:A8		Espressif Inc.
 10:91:D1		Intel Corporate
 10:92:66		Samsung Electronics Co.,Ltd
+10:93:27		GIGA-BYTE TECHNOLOGY CO. , Ltd.
 10:93:97		Commscope
 10:93:C9		Kingsignal Technology Co., Ltd.
 10:93:E9		Apple, Inc.
@@ -20163,6 +20164,7 @@
 18:0F:76		D-Link International
 18:10:4E		Cedint-Upm
 18:11:71		Guangzhou Doctorpai Education & Technology Co.,Ltd
+18:12:0C		Zhouhai Intelligence(Shenzhen).,Ltd
 18:12:12		Cepton Technologies
 18:13:2D		zte corporation
 18:14:20		Teb Sas
@@ -27344,6 +27346,7 @@
 48:8F:4C		shenzhen trolink  Technology Co.,Ltd
 48:8F:5A		Routerboard.com
 48:90:2F		LG Electronics (Mobile Communications)
+48:90:F0		Dell Inc.
 48:91:53		Weinmann Geräte für Medizin GmbH + Co. KG
 48:91:D5		Cisco Systems, Inc
 48:91:F6		Shenzhen Reach software technology CO.,LTD
@@ -37167,9 +37170,12 @@
 74:A2:35:30:00:00/28	SEE Telecom
 74:A2:35:40:00:00/28	Zeroport LTD
 74:A2:35:50:00:00/28	Shenzhen Xhorse3D Technology Co.,LTD.
+74:A2:35:60:00:00/28	Skylight
 74:A2:35:70:00:00/28	Bots Unlimited LLC
 74:A2:35:80:00:00/28	Procode Technology Litd
+74:A2:35:90:00:00/28	Rebel Systems
 74:A2:35:B0:00:00/28	Enterprise Software Solutions Lab Pvt Ltd
+74:A2:35:C0:00:00/28	Yew Enterprises
 74:A2:35:D0:00:00/28	Neuromod Devices Ltd.
 74:A2:E6		Cisco Systems, Inc
 74:A3:4A		Zimi Corporation
@@ -45684,7 +45690,6 @@ A0:24:90:60:00:00/28	Siame
 A0:24:90:70:00:00/28	Velvu Technologies Private Limited
 A0:24:90:80:00:00/28	Elisity, Inc.
 A0:24:90:90:00:00/28	Sansha Electric Manufacturing Co., Ltd.
-A0:24:90:A0:00:00/28	Briggs & Stratton LLC
 A0:24:90:B0:00:00/28	Tauro Technologies
 A0:24:90:C0:00:00/28	WiE GmbH - Werk für industrielle Elektronik
 A0:24:90:D0:00:00/28	Jkin
