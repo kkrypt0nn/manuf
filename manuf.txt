@@ -18264,6 +18264,7 @@
 08:4E:1C		H2A Systems, LLC
 08:4E:BF		Sumitomo Electric Industries, Ltd
 08:4F:0A		Huawei Technologies Co.,Ltd
+08:4F:44		GEW (EC) Ltd
 08:4F:66		Shenzhen Skyworth Digital  Technology  CO., Ltd
 08:4F:A9		Cisco Systems, Inc
 08:4F:F9		Cisco Systems, Inc
@@ -23352,6 +23353,7 @@
 2C:E5:BD		Ubiquiti Inc
 2C:E6:4D		GD Midea Air-Conditioning Equipment Co.,Ltd.
 2C:E6:CC		Ruckus Wireless
+2C:E7:A7		SJIT Co., Ltd.
 2C:E8:71		Alert Metalguard ApS
 2C:EA:7F		Dell Inc.
 2C:EA:DA		ICC Intelligent Platforms GmbH
@@ -28197,6 +28199,7 @@
 50:16:F4		Motorola Mobility LLC, a Lenovo Company
 50:17:FF		Cisco Systems, Inc
 50:18:4C		Platina Systems Inc.
+50:19:11		IEEE Registration Authority
 50:19:11:10:00:00/28	Shenzhen Chino-E Communication Co,Ltd
 50:19:11:40:00:00/28	Stavecho Intelligence Technology (Beijing) Co., Ltd
 50:19:11:70:00:00/28	Guanghe Zhida Technology (Beijing) Co., Ltd
@@ -42408,6 +42411,7 @@
 8C:1F:64:C8:30:00/36	Power Electronics Espana, S.L.
 8C:1F:64:C8:40:00/36	Luceor
 8C:1F:64:C8:50:00/36	Potter Electric Signal Co. LLC
+8C:1F:64:C8:90:00/36	MB connect line GmbH
 8C:1F:64:C8:D0:00/36	Aeronautics Ltd.
 8C:1F:64:C8:F0:00/36	JW Froehlich Maschinenfabrik GmbH
 8C:1F:64:C9:10:00/36	Soehnle Industrial Solutions GmbH
@@ -56642,6 +56646,7 @@ F4:97:9D:D0:00:00/28	Huitec printer solution co.,
 F4:97:9D:E0:00:00/28	Teenage Engineering AB
 F4:97:C2		Nebulon Inc
 F4:99:AC		WEBER Schraubautomaten GmbH
+F4:9A:7C		Hangzhou Supranett Network Technology Co.,Ltd.
 F4:9A:B1		Hewlett Packard Enterprise
 F4:9C:12		Structab AB
 F4:9D:8A		Fantasia Trading LLC
