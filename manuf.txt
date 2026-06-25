@@ -28197,6 +28197,11 @@
 50:16:F4		Motorola Mobility LLC, a Lenovo Company
 50:17:FF		Cisco Systems, Inc
 50:18:4C		Platina Systems Inc.
+50:19:11:10:00:00/28	Shenzhen Chino-E Communication Co,Ltd
+50:19:11:40:00:00/28	Stavecho Intelligence Technology (Beijing) Co., Ltd
+50:19:11:70:00:00/28	Guanghe Zhida Technology (Beijing) Co., Ltd
+50:19:11:A0:00:00/28	Shanghai Sigen New Energy Technology Co., Ltd
+50:19:11:B0:00:00/28	Sichuan Wanwu Zongheng Technology Co., Ltd.
 50:1A:A5		GN Netcom A/S
 50:1A:C5		Microsoft
 50:1B:32		Taicang T&W Electronics
@@ -30714,6 +30719,7 @@
 60:F8:1D		Apple, Inc.
 60:F8:F2		Synaptec
 60:FA:9D		Huawei Technologies Co.,Ltd
+60:FA:A7		Shenzhen Mtc Co Ltd
 60:FA:B1		Kempower Oyj
 60:FA:CD		Apple, Inc.
 60:FB:00		Shenzhen Bilian Electronic Co.，Ltd
@@ -31121,6 +31127,7 @@
 64:D4:DA		Intel Corporate
 64:D4:F0		Netvue，Inc.
 64:D5:62		Huawei Device Co., Ltd.
+64:D6:67		Shanghai Ikotek Technology Co.,Ltd
 64:D6:9A		Intel Corporate
 64:D7:C0		Huawei Device Co., Ltd.
 64:D8:14		Cisco Systems, Inc
@@ -32263,6 +32270,7 @@
 70:21:7F		Xiaomi Communications Co Ltd
 70:22:FE		Apple, Inc.
 70:23:93		Polytech A/S
+70:24:6E		Zhejiang Laibao Display Technology Co., Ltd.
 70:25:26		Nokia
 70:25:59		CyberTAN Technology Inc.
 70:26:05		SONY Visual Products Inc.
@@ -36999,6 +37007,7 @@
 74:4D:79		Arrive Systems Inc.
 74:4D:BD		Espressif Inc.
 74:4D:DC		Sonim Technologies, Inc
+74:4F:80		shenzhen Amos Electronics Co.,Ltd
 74:50:4E		New H3C Technologies Co., Ltd
 74:50:CD		Huawei Technologies Co.,Ltd
 74:51:BA		Xiaomi Communications Co Ltd
@@ -37180,6 +37189,7 @@
 74:A2:35:B0:00:00/28	Enterprise Software Solutions Lab Pvt Ltd
 74:A2:35:C0:00:00/28	Yew Enterprises
 74:A2:35:D0:00:00/28	Neuromod Devices Ltd.
+74:A2:35:E0:00:00/28	Shenzhen Jointelli Technologies Co.,Ltd
 74:A2:E6		Cisco Systems, Inc
 74:A3:4A		Zimi Corporation
 74:A4:A7		QRS Music Technologies, Inc.
@@ -39537,6 +39547,7 @@
 84:E5:D8		Guangdong UNIPOE IoT Technology Co.,Ltd.
 84:E6:29		Bluwan SA
 84:E6:57		Sony Interactive Entertainment Inc.
+84:E6:B3		Tiinlab Corporation
 84:E7:14		Liang Herng Enterprise,Co.Ltd.
 84:E8:92		Actiontec Electronics, Inc
 84:E8:CB		Buffalo.Inc
@@ -39842,6 +39853,7 @@
 88:7F:D5		zte corporation
 88:81:87		Umeox Innovations Co.,Ltd
 88:81:B9		Huawei Device Co., Ltd.
+88:82:25		Telink Micro LLC
 88:82:79		Shenzhen RB-LINK Intelligent Technology Co.Ltd
 88:83:22		Samsung Electronics Co.,Ltd
 88:83:5D		Fn-Link Technology Limited
@@ -40837,7 +40849,6 @@
 8C:1F:64:39:80:00/36	Software Systems Plus
 8C:1F:64:39:A0:00/36	Golding Audio Ltd
 8C:1F:64:39:B0:00/36	Deviceworx Technologies Inc.
-8C:1F:64:39:C0:00/36	Hbtech
 8C:1F:64:39:E0:00/36	Abbott Diagnostics Technologies AS
 8C:1F:64:39:F0:00/36	Guangzhou Beizeng Information Technology Co.,Ltd
 8C:1F:64:3A:20:00/36	Kron Medidores
@@ -41564,6 +41575,7 @@
 8C:1F:64:7B:E0:00/36	inomatic GmbH
 8C:1F:64:7C:10:00/36	Rail Telematics Corp
 8C:1F:64:7C:20:00/36	CTI Intl Solutions
+8C:1F:64:7C:30:00/36	The Blue Box Biomedical Solutions, SL
 8C:1F:64:7C:40:00/36	MB connect line GmbH
 8C:1F:64:7C:60:00/36	Flextronics International Kft
 8C:1F:64:7C:70:00/36	Ascon Tecnologic S.r.l.
@@ -45695,6 +45707,7 @@ A0:24:90:60:00:00/28	Siame
 A0:24:90:70:00:00/28	Velvu Technologies Private Limited
 A0:24:90:80:00:00/28	Elisity, Inc.
 A0:24:90:90:00:00/28	Sansha Electric Manufacturing Co., Ltd.
+A0:24:90:A0:00:00/28	Shenzhen Jooan Technology  Co., Ltd
 A0:24:90:B0:00:00/28	Tauro Technologies
 A0:24:90:C0:00:00/28	WiE GmbH - Werk für industrielle Elektronik
 A0:24:90:D0:00:00/28	Jkin
@@ -50296,6 +50309,7 @@ C4:78:A2		Huawei Device Co., Ltd.
 C4:79:05		Zhejiang Uniview Technologies Co.,Ltd.
 C4:79:81		Ehya LTD
 C4:79:9F		Haiguang Smart Device Co.,Ltd.
+C4:7A:5D		Panmnesia Inc.
 C4:7B:2F		Beijing JoinHope Image Technology Ltd.
 C4:7B:80		Protempis, LLC
 C4:7B:A3		NAVIS Inc.
@@ -51078,6 +51092,7 @@ C8:C7:50		Motorola Mobility LLC, a Lenovo Company
 C8:C7:91		Zero1.tv GmbH
 C8:C8:3F		Texas Instruments
 C8:C8:73		Chipsen Inc.
+C8:C9:92		Beijing Roborock Technology Co., Ltd.
 C8:C9:A3		Espressif Inc.
 C8:CA:63		Huawei Device Co., Ltd.
 C8:CA:79		Ciena Corporation
@@ -55873,6 +55888,7 @@ F0:2B:7C		Extreme Networks Headquarters
 F0:2C:59		Chipsea Technologies (Shenzhen) Crop.
 F0:2E:51		Casa Systems
 F0:2F:4B		Apple, Inc.
+F0:2F:50		Shenzhen SEI Robotics Co.,Ltd
 F0:2F:74		ASUSTek COMPUTER INC.
 F0:2F:9E		Amazon Technologies Inc.
 F0:2F:A7		Huawei Technologies Co.,Ltd
