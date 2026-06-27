@@ -2008,7 +2008,7 @@
 00:07:C9		Technol Seven Co., Ltd.
 00:07:CA		Creatix Polymedia Ges Fur Kommunikaitonssysteme
 00:07:CB		Freebox Sas
-00:07:CC		Kaba Benzing GmbH
+00:07:CC		dormakaba Deutschland GmbH
 00:07:CD		Kumoh Electronic Co, Ltd
 00:07:CE		Cabletime Limited
 00:07:CF		Anoto AB
@@ -3015,7 +3015,7 @@
 00:0B:D4		Beijing Wise Technology & Science Development Co.Ltd
 00:0B:D5		Nvergence, Inc.
 00:0B:D6		Paxton Access Ltd
-00:0B:D7		DORMA Time + Access GmbH
+00:0B:D7		dormakaba Deutschland GmbH
 00:0B:D8		Industrial Scientific Corp.
 00:0B:D9		General Hydrogen
 00:0B:DA		EyeCross Co.,Inc.
@@ -23770,6 +23770,7 @@
 30:B6:4F		Juniper Networks
 30:B7:D4		Hitron Technologies. Inc
 30:B8:51		Siemens AG
+30:B8:9A		Kryon Technology Private Limited
 30:B9:30		zte corporation
 30:B9:B0		Intracom Asia Co., Ltd
 30:BB:43		Sixi Networks Co., Ltd
@@ -28202,6 +28203,7 @@
 50:19:11		IEEE Registration Authority
 50:19:11:10:00:00/28	Shenzhen Chino-E Communication Co,Ltd
 50:19:11:40:00:00/28	Stavecho Intelligence Technology (Beijing) Co., Ltd
+50:19:11:50:00:00/28	Shenzhen COI Technology Co.,LTD
 50:19:11:70:00:00/28	Guanghe Zhida Technology (Beijing) Co., Ltd
 50:19:11:80:00:00/28	Art Llc
 50:19:11:A0:00:00/28	Shanghai Sigen New Energy Technology Co., Ltd
@@ -32164,6 +32166,7 @@
 6C:E2:0C		Hangzhou SDIC Microelectronics Inc.
 6C:E2:D3		New H3C Technologies Co., Ltd
 6C:E3:B6		Nera Telecommunications Ltd.
+6C:E4:0D		Raisecom Technology CO., LTD
 6C:E4:A4		Silicon Laboratories
 6C:E4:CE		Villiger Security Solutions AG
 6C:E4:DA		NEC Platforms, Ltd.
@@ -42774,6 +42777,7 @@
 8C:1F:64:E9:B0:00/36	Discover Energy Systems Corp.
 8C:1F:64:E9:D0:00/36	Zhuhai Lonl electric Co., Ltd.
 8C:1F:64:E9:F0:00/36	Lumiplan Duhamel
+8C:1F:64:EA:20:00/36	Vision Systems Safety Tech
 8C:1F:64:EA:60:00/36	Dial Plan Limited
 8C:1F:64:EA:80:00/36	Zumbach Electronic AG
 8C:1F:64:EA:A0:00/36	"KB "Modul", LLC
@@ -43449,6 +43453,7 @@
 8C:E7:48		Hangzhou Hikvision Digital Technology Co.,Ltd.
 8C:E7:8C		DK Networks
 8C:E7:B3		Sonardyne International Ltd
+8C:E8:07		Bouffalo Lab (Nanjing) Co., Ltd.
 8C:E9:B4		Zhejiang Dahua Technology Co., Ltd.
 8C:E9:EE		Intel Corporate
 8C:E9:FF		Dell Inc.
