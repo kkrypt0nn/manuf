@@ -28201,7 +28201,9 @@
 50:17:FF		Cisco Systems, Inc
 50:18:4C		Platina Systems Inc.
 50:19:11		IEEE Registration Authority
+50:19:11:00:00:00/28	Ayduo Elektronik San. Dan. Ve Tic. A.S.
 50:19:11:10:00:00/28	Shenzhen Chino-E Communication Co,Ltd
+50:19:11:20:00:00/28	Hbtech
 50:19:11:40:00:00/28	Stavecho Intelligence Technology (Beijing) Co., Ltd
 50:19:11:50:00:00/28	Shenzhen COI Technology Co.,LTD
 50:19:11:70:00:00/28	Guanghe Zhida Technology (Beijing) Co., Ltd
@@ -40269,6 +40271,7 @@
 8C:1F:64:03:50:00/36	RealWear
 8C:1F:64:03:60:00/36	Photon Counting Systems LLC
 8C:1F:64:03:70:00/36	Enless Wireless
+8C:1F:64:03:90:00/36	Breas Medical AB
 8C:1F:64:03:A0:00/36	Orion Computers
 8C:1F:64:03:B0:00/36	Orion Power Systems, Inc.
 8C:1F:64:03:C0:00/36	Sona Business B.V.
@@ -40361,6 +40364,7 @@
 8C:1F:64:0A:E0:00/36	Gogo BA
 8C:1F:64:0A:F0:00/36	Forsee Power
 8C:1F:64:0B:00:00/36	Bunka Shutter Co., Ltd.
+8C:1F:64:0B:30:00/36	NetSense CyberSecurity Private Limited
 8C:1F:64:0B:50:00/36	SMC Gateway
 8C:1F:64:0B:60:00/36	Luke Granger-Brown
 8C:1F:64:0B:70:00/36	Tiama
@@ -40417,6 +40421,7 @@
 8C:1F:64:10:50:00/36	AixControl GmbH
 8C:1F:64:10:60:00/36	Wuhan Xingtuxinke ELectronic Co.,Ltd
 8C:1F:64:10:70:00/36	SCI Technology, Inc.
+8C:1F:64:10:90:00/36	TESCAN GROUP, a.s.
 8C:1F:64:10:A0:00/36	Sicon srl
 8C:1F:64:10:B0:00/36	Red Lion Europe GmbH
 8C:1F:64:10:F0:00/36	Scenario Automation
@@ -40589,6 +40594,7 @@
 8C:1F:64:20:D0:00/36	Grossenbacher Systeme AG
 8C:1F:64:20:E0:00/36	Alpha Bridge Technologies Private Limited
 8C:1F:64:21:10:00/36	Bipom Electronics, Inc.
+8C:1F:64:21:20:00/36	Svms
 8C:1F:64:21:50:00/36	XLOGIC srl
 8C:1F:64:21:60:00/36	Hiwin Mikrosystem Corp.
 8C:1F:64:21:90:00/36	Guangzhou Desam Audio Co.,Ltd
@@ -41213,6 +41219,7 @@
 8C:1F:64:5A:40:00/36	Dave Srl
 8C:1F:64:5A:60:00/36	Kinney Industries, Inc
 8C:1F:64:5A:70:00/36	Rch Spa
+8C:1F:64:5A:80:00/36	Versabyte Data Systems Pvt Ltd
 8C:1F:64:5A:90:00/36	Aktiebolag Solask Energi
 8C:1F:64:5A:A0:00/36	Landis+Gyr Equipamentos de Medição Ltda
 8C:1F:64:5A:C0:00/36	YUYAMA MFG Co.,Ltd
@@ -42861,6 +42868,7 @@
 8C:1F:64:F2:50:00/36	Misaka Network, Inc.
 8C:1F:64:F2:70:00/36	Tesat-Spacecom GmbH & Co. KG
 8C:1F:64:F2:80:00/36	DEUTA Werke GmbH
+8C:1F:64:F2:90:00/36	Horizon.Inc
 8C:1F:64:F2:C0:00/36	Tunstall A/S
 8C:1F:64:F2:D0:00/36	HUERNER Schweisstechnik GmbH
 8C:1F:64:F2:F0:00/36	Quantum Technologies Inc
