@@ -18168,6 +18168,7 @@
 08:25:22		Advansee
 08:25:25		Xiaomi Communications Co Ltd
 08:25:32		IEEE Registration Authority
+08:25:32:00:00:00/28	Warner Electronics (I) Pvt. Ltd.
 08:25:32:50:00:00/28	Max Co.,Ltd.
 08:25:32:80:00:00/28	Shanghai Xinyuzhou Intelligent Technology Co., Ltd.
 08:25:73		Apple, Inc.
@@ -41332,6 +41333,7 @@
 8C:1F:64:61:90:00/36	Labtrino AB
 8C:1F:64:61:C0:00/36	Automata GmbH & Co. KG
 8C:1F:64:61:D0:00/36	Lewitt GmbH
+8C:1F:64:61:E0:00/36	Hedian Digital Integration Technology Ltd.
 8C:1F:64:61:F0:00/36	Lightworks GmbH
 8C:1F:64:62:00:00/36	Solace Systems Inc.
 8C:1F:64:62:10:00/36	JTL Systems Ltd.
@@ -43557,6 +43559,7 @@
 90:0A:75		New H3C Technologies Co., Ltd
 90:0A:84		Mellanox Technologies, Inc.
 90:0B:C1		Sprocomm Technologies CO.,Ltd
+90:0C:0F		Flume-io, Inc.
 90:0C:B4		Alinket Electronic Technology Co., Ltd
 90:0C:C8		Google, Inc.
 90:0D:66		Digimore Electronics Co., Ltd
@@ -53981,6 +53984,7 @@ E0:28:61		Huawei Technologies Co.,Ltd
 E0:28:6D		AVM Audiovisuelles Marketing und Computersysteme GmbH
 E0:28:B1		Shenzhen Skyworth Digital  Technology  CO., Ltd
 E0:29:67		HMD Global Oy
+E0:2A:25		Shenzhen Intellirocks Tech. Co. Ltd.
 E0:2A:66		Cisco Systems, Inc
 E0:2A:82		Universal Global Scientific Industrial., Ltd
 E0:2A:E6		Fiberhome Telecommunication Technologies Co.,LTD
