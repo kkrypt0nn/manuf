@@ -18169,8 +18169,14 @@
 08:25:25		Xiaomi Communications Co Ltd
 08:25:32		IEEE Registration Authority
 08:25:32:00:00:00/28	Warner Electronics (I) Pvt. Ltd.
+08:25:32:10:00:00/28	Sercomm Philippines Inc
+08:25:32:20:00:00/28	Shenzhen Mengfeng Zhanqi Technology Co., Ltd
+08:25:32:30:00:00/28	Becklar, LLC
+08:25:32:40:00:00/28	Mega Phase
 08:25:32:50:00:00/28	Max Co.,Ltd.
+08:25:32:70:00:00/28	Embedded Systems SIA
 08:25:32:80:00:00/28	Shanghai Xinyuzhou Intelligent Technology Co., Ltd.
+08:25:32:90:00:00/28	Shenzhen Yirun Technology Co., Ltd.
 08:25:73		Apple, Inc.
 08:26:97		Zyxel Communications Corporation
 08:26:AE		IEEE Registration Authority
@@ -18670,6 +18676,7 @@
 0C:19:F8		Apple, Inc.
 0C:1A:10		Acoustic Stream
 0C:1A:61		Neox FZCO
+0C:1B:7B		Microsoft Corporation
 0C:1B:CC		Iflytek Co.,Ltd.
 0C:1C:19		Longconn Electronics(Shenzhen) Co.,Ltd
 0C:1C:1A		eero inc.
@@ -21630,6 +21637,7 @@
 20:AA:4B		Cisco-Linksys, LLC
 20:AB:37		Apple, Inc.
 20:AB:48		Huawei Technologies Co.,Ltd
+20:AB:53		Motorola Mobility LLC, a Lenovo Company
 20:AC:9C		China Telecom Corporation Limited
 20:AD:56		AUMOVIO Systems, Inc.
 20:AE:B6		Huawei Device Co., Ltd.
@@ -30077,6 +30085,7 @@
 5C:A8:6A		Huawei Technologies Co.,Ltd
 5C:A9:31		Ubee Interactive Co., Limited
 5C:A9:33		Luma Home
+5C:AA:A2		Celestica Inc.
 5C:AA:FD		Sonos, Inc.
 5C:AC:3D		Samsung Electronics Co.,Ltd
 5C:AC:4C		Hon Hai Precision Ind. Co.,Ltd.
@@ -30125,6 +30134,7 @@
 5C:C5:D4		Intel Corporate
 5C:C6:D0		Skyworth Digital Technology(Shenzhen) Co.,Ltd
 5C:C6:E9		Edifier International
+5C:C7:86		ShenZhen Tengxin Electronics Manufacturing Co.,Ltd.
 5C:C7:87		Huawei Device Co., Ltd.
 5C:C7:C1		Silicon Laboratories
 5C:C7:D7		Azroad Technology Company Limited
@@ -31132,6 +31142,7 @@
 64:C9:01		INVENTEC Corporation
 64:C9:05		Apple, Inc.
 64:C9:44		LARK Technologies, Inc
+64:C9:F1		Amazon Technologies Inc.
 64:CA:80		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 64:CB:5D		SIA "TeleSet"
 64:CB:9F		Tecno Mobile Limited
@@ -41501,8 +41512,10 @@
 8C:1F:64:70:A0:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:70:B0:00/36	Onicon
 8C:1F:64:70:C0:00/36	Broyce Control Ltd
+8C:1F:64:70:D0:00/36	Solace Systems Inc.
 8C:1F:64:70:E0:00/36	OvercomTech
 8C:1F:64:71:00:00/36	Zengar Institute Inc
+8C:1F:64:71:10:00/36	Jiangsu Ruichi Broadcom Communications Technoligy Co., Ltd.
 8C:1F:64:71:20:00/36	Nexion Data Systems P/L
 8C:1F:64:71:30:00/36	Nstek Co., Ltd.
 8C:1F:64:71:50:00/36	Internet Protocolo Logica Sl
@@ -42260,6 +42273,7 @@
 8C:1F:64:B6:F0:00/36	Prosecure Fzco
 8C:1F:64:B7:10:00/36	Sichuan Youke Communication Technology Co., Ltd
 8C:1F:64:B7:30:00/36	Comm-ence, Inc.
+8C:1F:64:B7:60:00/36	Bavaria Digital Technik GmbH
 8C:1F:64:B7:70:00/36	Carestream Dental LLC
 8C:1F:64:B7:90:00/36	AddSecure Smart Grids
 8C:1F:64:B7:A0:00/36	MG s.r.l.
@@ -43376,6 +43390,7 @@
 8C:A9:6D		Huawei Technologies Co.,Ltd
 8C:A9:6F		D&M Holdings Inc.
 8C:A9:82		Intel Corporate
+8C:A9:FD		Copper Mountain Technologies
 8C:AA:B5		Espressif Inc.
 8C:AA:CE		Xiaomi Communications Co Ltd
 8C:AB:8E		Shanghai Feixun Communication Co.,Ltd.
@@ -43917,6 +43932,7 @@
 90:B0:ED		Apple, Inc.
 90:B1:1C		Dell Inc.
 90:B1:34		Commscope
+90:B1:41		Motorola Mobility LLC, a Lenovo Company
 90:B1:44		Samsung Electronics Co.,Ltd
 90:B1:76		Intel Corporate
 90:B1:E0		Beijing Nebula Link Technology Co., Ltd
@@ -49140,6 +49156,7 @@ B8:FC:28		Valeo Vision Systems
 B8:FC:9A		Le Shi Zhi Xin Electronic Technology (Tianjin) Limited
 B8:FD:32		Zhejiang ROICX Microelectronics
 B8:FE:90		Cisco Systems, Inc
+B8:FE:96		Amazon Technologies Inc.
 B8:FF:61		Apple, Inc.
 B8:FF:6F		Shanghai Typrotech Technology Co.Ltd
 B8:FF:B3		MitraStar Technology Corp.
@@ -49561,6 +49578,7 @@ BC:C6:DB		Nokia Corporation
 BC:C7:46		Hon Hai Precision IND.CO.,LTD
 BC:C7:DA		Earda Technologies co Ltd
 BC:C8:10		Cisco SPVTG
+BC:C8:CC		Seiko Epson Corporation
 BC:CA:B5		Commscope
 BC:CD:45		Voismart
 BC:CD:7F		Huawei Device Co., Ltd.
@@ -53257,6 +53275,7 @@ D8:A0:E6		Chongqing Yipingfang Technology Co., Ltd.
 D8:A0:E8		zte corporation
 D8:A1:05		Syslane, Co., Ltd.
 D8:A2:5E		Apple, Inc.
+D8:A3:12		Taicang T&W Electronics
 D8:A3:15		vivo Mobile Communication Co., Ltd.
 D8:A3:5C		Samsung Electronics Co.,Ltd
 D8:A4:69		Sonova AG
@@ -56794,6 +56813,7 @@ F4:BC:97		Shenzhen Crave Communication Co., LTD
 F4:BC:DA		Shenzhen Jingxun Software Telecommunication Technology Co.,Ltd
 F4:BD:7C		Chengdu jinshi communication Co., LTD
 F4:BD:9E		Cisco Systems, Inc
+F4:BD:AE		Shenzhen V-Link Technology CO., LTD.
 F4:BD:B9		Ubiqcom India Pvt Ltd
 F4:BE:EC		Apple, Inc.
 F4:BF:80		Huawei Technologies Co.,Ltd
