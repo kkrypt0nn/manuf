@@ -18174,9 +18174,12 @@
 08:25:32:30:00:00/28	Becklar, LLC
 08:25:32:40:00:00/28	Mega Phase
 08:25:32:50:00:00/28	Max Co.,Ltd.
+08:25:32:60:00:00/28	Shenzhen Deyi Communication Technology Co., Ltd
 08:25:32:70:00:00/28	Embedded Systems SIA
 08:25:32:80:00:00/28	Shanghai Xinyuzhou Intelligent Technology Co., Ltd.
 08:25:32:90:00:00/28	Shenzhen Yirun Technology Co., Ltd.
+08:25:32:B0:00:00/28	Shenzhen Shuanghe Electric Co., Ltd.
+08:25:32:D0:00:00/28	Dream Solution Inc.
 08:25:73		Apple, Inc.
 08:26:97		Zyxel Communications Corporation
 08:26:AE		IEEE Registration Authority
@@ -19279,6 +19282,7 @@
 10:1D:6E		Hewlett Packard Enterprise
 10:1D:C0		Samsung Electronics Co.,Ltd
 10:1E:DA		Ingenico Terminals Sas
+10:1E:F4		kiwimoore (Quzhou) Semiconductor Co.,Ltd
 10:1F:74		Hewlett Packard
 10:20:BA		Espressif Inc.
 10:22:79		ZeroDesktop, Inc.
@@ -21919,6 +21923,7 @@
 24:46:C8		Motorola Mobility LLC, a Lenovo Company
 24:46:E4		Huawei Technologies Co.,Ltd
 24:47:0E		PentronicAB
+24:47:50		Sagemcom Broadband SAS
 24:48:45		Hangzhou Hikvision Digital Technology Co.,Ltd.
 24:48:85		Huawei Device Co., Ltd.
 24:49:7B		Innovative Converged Devices Inc
@@ -27888,6 +27893,7 @@
 4C:82:A9		Cloud Network Technology Singapore Pte. Ltd.
 4C:82:CF		Dish Technologies Corp
 4C:83:DE		Cisco SPVTG
+4C:83:FE		Shenzhen Mercury Communication Technologies Co.,Ltd.
 4C:85:8A		Buffalo.Inc
 4C:87:5D		Bose Corporation
 4C:88:9E		Huawei Device Co., Ltd.
@@ -28697,6 +28703,7 @@
 50:F7:22		Cisco Systems, Inc
 50:F7:ED		Huawei Device Co., Ltd.
 50:F8:A5		eWBM Co., Ltd.
+50:F8:AD		Nanjing Qinheng Microelectronics Co., Ltd.
 50:F9:08		Wizardlab Co., Ltd.
 50:F9:58		Huawei Device Co., Ltd.
 50:FA:84		Tp-Link Technologies Co.,Ltd.
@@ -38358,6 +38365,7 @@
 7C:89:31		Huawei Device Co., Ltd.
 7C:89:56		Samsung Electronics Co.,Ltd
 7C:89:C1		Palo Alto Networks
+7C:8A:3C		Qingdao Intelligent&Precise Electronics Co.,Ltd.
 7C:8A:E1		Compal Information (Kunshan) Co., Ltd.
 7C:8B:B5		Samsung Electronics Co.,Ltd
 7C:8B:C1		Infinix mobility limited
@@ -38412,7 +38420,7 @@
 7C:AD:4F		Cisco Systems, Inc
 7C:AD:74		Cisco Systems, Inc
 7C:AF:77		Nokia
-7C:B0:3E		OSRAM GmbH
+7C:B0:3E		Inventronics GmbH
 7C:B0:73		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 7C:B0:C2		Intel Corporate
 7C:B1:5D		Huawei Technologies Co.,Ltd
@@ -38770,6 +38778,7 @@
 80:41:4E		Bbk Educational Electronics Corp.,Ltd.
 80:42:7C		Adolf Tedsen GmbH & Co. KG
 80:43:3F		Juniper Networks
+80:43:5E		Luminys Systems Corporation
 80:44:FD		China Mobile (Hangzhou) Information Technology Co., Ltd.
 80:45:6B		Espressif Inc.
 80:45:DD		Intel Corporate
@@ -39200,6 +39209,7 @@
 84:1B:77		Intel Corporate
 84:1C:70		zte corporation
 84:1D:E8		CJ intelligent technology LTD.
+84:1E:1A		Sanya Muyu Technology Co., Ltd
 84:1E:26		KERNEL-I Co.,LTD
 84:1E:A3		Sagemcom Broadband SAS
 84:1F:E8		Espressif Inc.
@@ -39547,6 +39557,7 @@
 84:D0:DB		Guangdong Juan Intelligent Technology Joint Stock Co., Ltd.
 84:D1:5A		TCT mobile ltd
 84:D1:C1		Intel Corporate
+84:D3:03		Chipsea Technologies (Shenzhen) Crop.
 84:D3:28		Apple, Inc.
 84:D3:2A		Ieee 1905.1
 84:D3:43		Calix Inc.
@@ -45454,6 +45465,7 @@
 9C:95:6E		Microchip Technology Inc.
 9C:95:F8		SmartDoor Systems, LLC
 9C:96:13		Lenovo Future Communication Technology (Chongqing) Company Limited
+9C:96:1B		IFTER Jerzy Taczalski
 9C:97:1B		Intel Corporate
 9C:97:26		Vantiva Technologies Belgium
 9C:97:74		Huawei Technologies Co.,Ltd
@@ -55736,6 +55748,7 @@ EC:AF:F9		Hailo Technologies Ltd.
 EC:B0:D2		EM Microelectronic
 EC:B0:E1		Ciena Corporation
 EC:B1:06		Acuro Networks, Inc
+EC:B1:57		Sagemcom Broadband SAS
 EC:B1:D7		Hewlett Packard
 EC:B1:E0		Eltex Enterprise LTD
 EC:B2:93		Hewlett Packard Enterprise
