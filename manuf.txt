@@ -18179,6 +18179,7 @@
 08:25:32:80:00:00/28	Shanghai Xinyuzhou Intelligent Technology Co., Ltd.
 08:25:32:90:00:00/28	Shenzhen Yirun Technology Co., Ltd.
 08:25:32:B0:00:00/28	Shenzhen Shuanghe Electric Co., Ltd.
+08:25:32:C0:00:00/28	Cloud Technology Group, Llc
 08:25:32:D0:00:00/28	Dream Solution Inc.
 08:25:73		Apple, Inc.
 08:26:97		Zyxel Communications Corporation
@@ -19683,6 +19684,7 @@
 10:E7:C6		Hewlett Packard
 10:E8:3A		Fiberx Distribuidora De Produtos De Telecomunicacao Ltda
 10:E8:40		Zowee Technology(Heyuan) Co., Ltd.
+10:E8:64		Nucode Co., Ltd.
 10:E8:78		Nokia
 10:E8:A7		WNC Corporation
 10:E8:EE		PhaseSpace
@@ -19942,6 +19944,7 @@
 14:75:E5		ELMAX Srl
 14:77:40		Huawei Device Co., Ltd.
 14:78:0B		Varex Imaging Deutschland AG
+14:78:30		NVIDIA Corporation
 14:79:F3		China Mobile Group Device Co.,Ltd.
 14:7A:E4		Apple, Inc.
 14:7B:AC		Nokia
@@ -20615,6 +20618,7 @@
 18:D0:E1		Mellanox Technologies, Inc.
 18:D2:25		Fiberhome Telecommunication Technologies Co.,LTD
 18:D2:76		Huawei Technologies Co.,Ltd
+18:D3:CF		Hewlett Packard Enterprise
 18:D5:B6		SMG Holdings LLC
 18:D6:1C		Shenzhen TINNO Mobile Technology Corp.
 18:D6:6A		Inmarsat
@@ -22792,6 +22796,7 @@
 28:F5:37:E0:00:00/28	Performance Motion Devices
 28:F5:D1		Commscope
 28:F6:06		Syes srl
+28:F7:9A		LX Semicon co.,Ltd.
 28:F7:D6		Fiberhome Telecommunication Technologies Co.,LTD
 28:F8:C6		IEEE Registration Authority
 28:F8:C6:00:00:00/28	2iC-Care Ltd
@@ -29636,6 +29641,7 @@
 58:D3:12		zte corporation
 58:D3:49		Apple, Inc.
 58:D3:91		Quectel Wireless Solutions Co.,Ltd.
+58:D4:69		Arista Networks
 58:D5:0A		Murata Manufacturing Co., Ltd.
 58:D5:33		Huaqin Technology Co.,Ltd
 58:D5:6E		D-Link International
@@ -32159,6 +32165,7 @@
 6C:C7:EC		Samsung Electro-Mechanics(Thailand)
 6C:C8:40		Espressif Inc.
 6C:CA:08		Commscope
+6C:CB:7F		GD Midea Air-Conditioning Equipment Co.,Ltd.
 6C:CD:D6		Netgear
 6C:CE:44		1More
 6C:CF:39		Shanghai StarFive Semiconductor Co., Ltd.
@@ -40510,6 +40517,7 @@
 8C:1F:64:13:80:00/36	Vissavi sp. z o.o.
 8C:1F:64:13:B0:00/36	SDELcc
 8C:1F:64:13:C0:00/36	SiFive Inc
+8C:1F:64:13:D0:00/36	Inaba Techno Evolution Co.,Ltd
 8C:1F:64:13:E0:00/36	Btec Industrial Instrument Sdn. Bhd.
 8C:1F:64:13:F0:00/36	Elsist Srl
 8C:1F:64:14:00:00/36	RF-Tuote Oy
@@ -40648,6 +40656,7 @@
 8C:1F:64:20:C0:00/36	Shanghai Stairmed Technology Co.,ltd
 8C:1F:64:20:D0:00/36	Grossenbacher Systeme AG
 8C:1F:64:20:E0:00/36	Alpha Bridge Technologies Private Limited
+8C:1F:64:21:00:00/36	Trunexa Inc
 8C:1F:64:21:10:00/36	Bipom Electronics, Inc.
 8C:1F:64:21:20:00/36	Svms
 8C:1F:64:21:50:00/36	XLOGIC srl
@@ -54165,6 +54174,7 @@ E0:69:3A		Innophase Inc.
 E0:69:95		Pegatron Corporation
 E0:69:BA		Cisco Systems, Inc
 E0:6A:05		Shenzhen YOUHUA Technology Co., Ltd
+E0:6A:1B		Shenzhen Zidoo Technology Co., Ltd.
 E0:6C:4E		Shenzhen TINNO Mobile Technology Corp.
 E0:6C:A6		Creotech Quantum SA
 E0:6C:C5		Huawei Device Co., Ltd.
@@ -54270,6 +54280,7 @@ E0:B2:60		Teno Network Technologies Company Limited
 E0:B2:F1		Fn-Link Technology Limited
 E0:B5:2D		Apple, Inc.
 E0:B5:5F		Apple, Inc.
+E0:B6:13		Arista Networks
 E0:B6:55		Beijing Xiaomi Electronics Co., Ltd.
 E0:B6:68		zte corporation
 E0:B6:F5		IEEE Registration Authority
