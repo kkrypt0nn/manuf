@@ -30472,6 +30472,7 @@
 60:60:1F		Sz Dji Technology Co.,Ltd
 60:61:34		Arcade Communications Ltd.
 60:61:DF		Z-meta Research LLC
+60:62:9A		Juniper Networks
 60:63:4C		D-Link International
 60:63:F9		Ciholas, Inc.
 60:63:FD		Transcend Communication Beijing Co.,Ltd.
@@ -45687,6 +45688,7 @@
 9C:F8:B8		Shenzhen Skyworth Digital  Technology  CO., Ltd
 9C:F8:DB		shenzhen eyunmei technology co,.ltd
 9C:F9:38		AREVA NP GmbH
+9C:F9:A1		Juniper Networks
 9C:FA:3C		Daeyoung Electronics
 9C:FA:76		Apple, Inc.
 9C:FA:96		T3 Technology Co., Ltd.
