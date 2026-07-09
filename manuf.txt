@@ -18182,6 +18182,7 @@
 08:25:32:B0:00:00/28	Shenzhen Shuanghe Electric Co., Ltd.
 08:25:32:C0:00:00/28	Cloud Technology Group, Llc
 08:25:32:D0:00:00/28	Dream Solution Inc.
+08:25:32:E0:00:00/28	Shenzhen Rubo Microelectronics Co.,Ltd
 08:25:73		Apple, Inc.
 08:26:97		Zyxel Communications Corporation
 08:26:AE		IEEE Registration Authority
@@ -24830,6 +24831,7 @@
 38:9E:4C		Hewlett Packard Enterprise
 38:9E:80		zte corporation
 38:9F:5A		C-Kur TV Inc.
+38:9F:77		Suzhou Retronic Interconnect  Technologies Co.,Ltd
 38:9F:83		OTN Systems N.V.
 38:A0:67		Nokia Solutions and Networks GmbH & Co. KG
 38:A2:8C		Shenzhen Rf-Link Technology Co.,Ltd.
@@ -38706,6 +38708,7 @@
 80:19:67		Shanghai Reallytek Information Technology  Co.,Ltd
 80:19:70		Samsung Electronics Co.,Ltd
 80:19:FE		JianLing Technology CO., LTD
+80:1A:23		AltoBeam Inc.
 80:1D:0D		IEEE Registration Authority
 80:1D:0D:00:00:00/28	KbDevice,Inc.
 80:1D:0D:10:00:00/28	Hörmann Warnsysteme GmbH
@@ -39397,6 +39400,7 @@
 84:86:87		weiyuantechnology
 84:86:F3		Greenvity Communications
 84:87:FF		Shenzhen Skyworth Digital  Technology  CO., Ltd
+84:88:32		Guangzhou Shiyuan Electronic Technology Company Limited
 84:88:E1		Apple, Inc.
 84:89:AD		Apple, Inc.
 84:89:EC		IEEE Registration Authority
@@ -53010,6 +53014,7 @@ D8:00:4D		Apple, Inc.
 D8:00:93		Aurender Inc.
 D8:01:D0		Huawei Technologies Co.,Ltd
 D8:01:EB		Infinity Electronics Ltd
+D8:02:5F		Guangzhou Shiyuan Electronic Technology Company Limited
 D8:02:8A		Shenzhen YOUHUA Technology Co., Ltd
 D8:02:C0		Extreme Networks, Inc.
 D8:03:1A		Ezurio, LLC
