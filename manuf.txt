@@ -42675,6 +42675,7 @@
 8C:1F:64:D8:70:00/36	Experio Tech Private Limited
 8C:1F:64:D8:80:00/36	University of Geneva - Department of Particle Physics
 8C:1F:64:D8:A0:00/36	Boon Arthur Engineering Pte Ltd
+8C:1F:64:D8:B0:00/36	I/O Controls
 8C:1F:64:D8:C0:00/36	Smri
 8C:1F:64:D8:D0:00/36	Wi-Tronix, LLC
 8C:1F:64:D8:E0:00/36	Potter Electric Signal Co. LLC
@@ -46724,6 +46725,7 @@ A4:D8:CA		Hong Kong Water World Technology Co. Limited
 A4:D9:31		Apple, Inc.
 A4:D9:90		Samsung Electronics Co.,Ltd
 A4:D9:A4		neXus ID Solutions AB
+A4:D9:C6		Airpro Technology Ltd
 A4:DA:22		IEEE Registration Authority
 A4:DA:22:00:00:00/28	General Electric Company
 A4:DA:22:10:00:00/28	T2T System
