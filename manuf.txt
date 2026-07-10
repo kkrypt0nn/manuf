@@ -18174,7 +18174,7 @@
 08:25:32:30:00:00/28	Becklar, LLC
 08:25:32:40:00:00/28	Mega Phase
 08:25:32:50:00:00/28	Max Co.,Ltd.
-08:25:32:60:00:00/28	Shenzhen Deyi Communication Technology Co., Ltd
+08:25:32:60:00:00/28	Digital Enhancement (Shenzhen) Co., Ltd.
 08:25:32:70:00:00/28	Embedded Systems SIA
 08:25:32:80:00:00/28	Shanghai Xinyuzhou Intelligent Technology Co., Ltd.
 08:25:32:90:00:00/28	Shenzhen Yirun Technology Co., Ltd.
@@ -20687,6 +20687,7 @@
 18:F1:D8		Apple, Inc.
 18:F2:2C		Tp-Link Technologies Co.,Ltd.
 18:F2:92		Shannon Systems
+18:F3:C2		Ebot Digital Technoloy Co., Limited
 18:F4:6A		Hon Hai Precision Ind. Co.,Ltd.
 18:F4:6B		Telenor Connexion AB
 18:F5:8B		GlobalReach Technology EMEA Ltd
@@ -25921,6 +25922,7 @@
 40:9F:C7		BAEKCHUN I&C Co., Ltd.
 40:A1:08		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
 40:A2:DB		Amazon Technologies Inc.
+40:A2:E5		3onedata Technology Co. Ltd.
 40:A3:6B:00:00:00/28	Fin Robotics Inc
 40:A3:6B:10:00:00/28	TW-TeamWare
 40:A3:6B:20:00:00/28	TOPROOTTechnology Corp. Ltd.
@@ -45441,6 +45443,7 @@
 9C:7A:03		Ciena Corporation
 9C:7B:D2		NEOLAB Convergence
 9C:7B:EF		Hewlett Packard
+9C:7C:1E		Cloud Network Technology Singapore Pte. Ltd.
 9C:7D:A3		Huawei Technologies Co.,Ltd
 9C:7D:C0		Tech4home, Lda
 9C:7F:57		UNIC Memory Technology Co Ltd
@@ -51479,6 +51482,10 @@ CC:36:CF		Cisco Systems, Inc
 CC:37:AB		Edgecore Networks Corporation
 CC:38:D0		Palo Alto Networks
 CC:38:E1		Huawei Technologies Co.,Ltd
+CC:39:53		IEEE Registration Authority
+CC:39:53:40:00:00/28	Xuancheng Luxshare Precision Industry Co., Ltd.
+CC:39:53:60:00:00/28	Sky Wing Communication Electronics Co., Ltd.
+CC:39:53:D0:00:00/28	Guang zhou Xradio Technology Co., Ltd
 CC:39:8C		Shiningtek
 CC:3A:61		Samsung Electro Mechanics Co., Ltd.
 CC:3A:DF		Neptune Technology Group Inc.
@@ -57161,6 +57168,7 @@ F8:51:28		SimpliSafe
 F8:51:6D		Denwa Technology Corp.
 F8:52:DF		VNL Europe AB
 F8:53:29		Huawei Technologies Co.,Ltd
+F8:53:33		Tashang Semiconductor(Shanghai) Co., Ltd.
 F8:54:AF		ECI Telecom Ltd.
 F8:54:B8		Amazon Technologies Inc.
 F8:54:F6		AzureWave Technology Inc.
