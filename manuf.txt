@@ -19015,6 +19015,7 @@
 0C:B9:12		JM-DATA GmbH
 0C:B9:37		Ubee Interactive Co., Limited
 0C:B9:83		Honor Device Co., Ltd.
+0C:BC:35		Netis Technology Co., Ltd.
 0C:BC:9F		Apple, Inc.
 0C:BD:51		TCT mobile ltd
 0C:BD:75		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
@@ -27630,7 +27631,7 @@
 4A:C0:3F		Wuhan Hikstorage Technology Co.,Ltd
 4A:CA:3E		Zeus
 4A:DA:10		Emotiva Audio Corp
-4A:E0:3F		Chengdu Superxon communication Technology Co. Ltd.
+4A:E0:3F		Chengdu Superxon Communication Technology Co., Ltd.
 4A:E5:68		leapio
 4A:ED:1D		Astera Labs Inc
 4A:F5:7D		ASAM e.V.
@@ -30756,6 +30757,7 @@
 60:E9:AA		Cloud Network Technology Singapore Pte. Ltd.
 60:EB:5A		Asterfusion Data Technologies Co.,Ltd
 60:EB:69		Quanta Computer Inc.
+60:EB:B4		Guangdong Genius Technology Co., Ltd.
 60:EE:5C		Shenzhen Fast Technologies Co.,Ltd
 60:EF:AB		Silicon Laboratories
 60:EF:C6		Shenzhen Chima Technologies Co Limited
@@ -31121,6 +31123,7 @@
 64:B0:E8		Huawei Device Co., Ltd.
 64:B2:1D		Chengdu Phycom Tech Co., Ltd.
 64:B2:B4		Fiberhome Telecommunication Technologies Co.,LTD
+64:B2:E4		Shenzhen Skyworth Digital  Technology  CO., Ltd
 64:B3:10		Samsung Electronics Co.,Ltd
 64:B3:70		PowerComm Solutions LLC
 64:B3:79		Jiangsu Viscore Technologies Co.,Ltd
@@ -39624,6 +39627,7 @@
 84:E3:42		Tuya Smart Inc.
 84:E4:D9		Shenzhen NEED technology Ltd.
 84:E5:85		EM Microelectronic
+84:E5:9E		Shenzhen YOUHUA Technology Co., Ltd
 84:E5:D8		Guangdong UNIPOE IoT Technology Co.,Ltd.
 84:E6:29		Bluwan SA
 84:E6:57		Sony Interactive Entertainment Inc.
@@ -39720,6 +39724,7 @@
 88:1D:FC		Cisco Systems, Inc
 88:1E:59		Onion Corporation
 88:1E:5A		Apple, Inc.
+88:1E:C8		Bouffalo Lab (Nanjing) Co., Ltd.
 88:1F:A1		Apple, Inc.
 88:20:0D		Apple, Inc.
 88:20:12		LMI Technologies
@@ -51487,6 +51492,7 @@ CC:38:E1		Huawei Technologies Co.,Ltd
 CC:39:53		IEEE Registration Authority
 CC:39:53:40:00:00/28	Xuancheng Luxshare Precision Industry Co., Ltd.
 CC:39:53:60:00:00/28	Sky Wing Communication Electronics Co., Ltd.
+CC:39:53:70:00:00/28	Chengdu Superxon Communication Technology Co., Ltd.
 CC:39:53:D0:00:00/28	Guang zhou Xradio Technology Co., Ltd
 CC:39:8C		Shiningtek
 CC:3A:61		Samsung Electro Mechanics Co., Ltd.
