@@ -32412,6 +32412,7 @@
 70:4C:A2		Apple, Inc.
 70:4C:A5		Fortinet, Inc.
 70:4C:B6		Shenzhen SuperElectron Technology Co.,Ltd.
+70:4C:C1		Tokyo Electron Miyagi Limited
 70:4C:ED		TMRG, Inc.
 70:4D:7B		ASUSTek COMPUTER INC.
 70:4D:E7		Tecno Mobile Limited
@@ -37636,6 +37637,7 @@
 78:47:E3		Sichuan Tianyi Comheart Telecom Co.,LTD
 78:48:2C		Start Usa, Inc.
 78:48:59		Hewlett Packard
+78:48:FC		System Loco Ltd
 78:49:1D		The Will-Burt Company
 78:49:46		Cambridge Mobile Telematics, Inc.
 78:4B:08		f.robotics acquisitions ltd
@@ -37866,6 +37868,7 @@
 78:AE:0C		Far South Networks
 78:AF:08		Intel Corporate
 78:AF:58		Gimasi Sa
+78:AF:B8		Shenzhen SDMC Technology CP,.LTD
 78:AF:E4		Comau S.p.A
 78:B2:13		DWnet Technologies(Suzhou) Corporation
 78:B2:8D		Beijing Tengling Technology CO.Ltd
@@ -38137,6 +38140,7 @@
 7C:16:89		Sagemcom Broadband SAS
 7C:17:79		EM Microelectronic
 7C:18:CD		E-TRON Co.,Ltd.
+7C:19:E3		Google, Inc.
 7C:1A:03		8Locations Co., Ltd.
 7C:1A:C0		Huawei Technologies Co.,Ltd
 7C:1A:FC		Dalian Co-Edifice Video Technology Co., Ltd
@@ -42129,6 +42133,7 @@
 8C:1F:64:A5:F0:00/36	Wattson Audio SA
 8C:1F:64:A6:00:00/36	Active Optical Systems, LLC
 8C:1F:64:A6:10:00/36	Breas Medical AB
+8C:1F:64:A6:20:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:A6:40:00/36	Vigor Electric Corp.
 8C:1F:64:A6:60:00/36	vtt systems Inc.
 8C:1F:64:A6:70:00/36	Electrovymir LLC
@@ -45484,6 +45489,7 @@
 9C:8E:9C		Huawei Device Co., Ltd.
 9C:8E:CD		Amcrest Technologies
 9C:8E:DC		Teracom Limited
+9C:8F:A9		Genexis B.V.
 9C:90:19		Beyless
 9C:92:4F		Apple, Inc.
 9C:93:4E		Xerox Corporation
@@ -49726,6 +49732,7 @@ C0:06:0C		Huawei Technologies Co.,Ltd
 C0:06:C3		TP-Link Systems Inc
 C0:07:4A		Brita GmbH
 C0:09:25		FN-LINK TECHNOLOGY Ltd.
+C0:0A:CA		SafeSquare GmbH
 C0:0D:7E		Additech, Inc.
 C0:10:B1		HMD Global Oy
 C0:11:73		Samsung Electronics Co.,Ltd
@@ -51493,6 +51500,7 @@ CC:39:53		IEEE Registration Authority
 CC:39:53:40:00:00/28	Xuancheng Luxshare Precision Industry Co., Ltd.
 CC:39:53:60:00:00/28	Sky Wing Communication Electronics Co., Ltd.
 CC:39:53:70:00:00/28	Chengdu Superxon Communication Technology Co., Ltd.
+CC:39:53:C0:00:00/28	Broadband Net Inc
 CC:39:53:D0:00:00/28	Guang zhou Xradio Technology Co., Ltd
 CC:39:8C		Shiningtek
 CC:3A:61		Samsung Electro Mechanics Co., Ltd.
@@ -56407,6 +56415,7 @@ F0:F7:55		Cisco Systems, Inc
 F0:F7:B3		Phorm
 F0:F7:E7		Huawei Technologies Co.,Ltd
 F0:F7:FC		Huawei Technologies Co.,Ltd
+F0:F8:32		Google, Inc.
 F0:F8:42		KEEBOX, Inc.
 F0:F8:4A		Buffalo.Inc
 F0:F8:F2		Texas Instruments
