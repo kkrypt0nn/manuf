@@ -28227,6 +28227,7 @@
 50:0B:91:C0:00:00/28	Diamond Traffic Products, Inc
 50:0B:91:D0:00:00/28	Shenzhen Lucky Sonics Co .,Ltd
 50:0B:91:E0:00:00/28	Shenzhen zhong ju  Fiber optical Co.Ltd
+50:0E:5B		Quectel Wireless Solutions Co.,Ltd.
 50:0E:6D		TrafficCast International
 50:0F:59		STMicrolectronics International NV
 50:0F:80		Cisco Systems, Inc
@@ -28636,6 +28637,7 @@
 50:CF:56		China Mobile Group Device Co.,Ltd.
 50:D0:65		ESYLUX GmbH
 50:D0:6D		Bird Buddy
+50:D1:D7		ALL Winner (Hong Kong) Limited
 50:D2:13		CviLux Corporation
 50:D2:74		Steffes Corporation
 50:D2:F5		Beijing Xiaomi Mobile Software Co., Ltd
@@ -38989,6 +38991,7 @@
 80:99:CF		Texas Instruments
 80:99:E7		Sony Corporation
 80:9B:20		Intel Corporate
+80:9B:31		Xin Link Internaitonal Co Limited
 80:9D:65		FN-LINK TECHNOLOGY Ltd.
 80:9F:9B		Sichuan AI-Link Technology Co., Ltd.
 80:9F:AB		Fiberhome Telecommunication Technologies Co.,LTD
