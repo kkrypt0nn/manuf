@@ -24106,6 +24106,7 @@
 34:46:63:E0:00:00/28	Shenzhen ELECQ Technology Co.,Ltd
 34:46:6F		HiTEM Engineering
 34:46:EC		Huawei Device Co., Ltd.
+34:47:63		Comtrend Corporation
 34:47:9A		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 34:47:D4		Chengdu Quanjing Intelligent Technology Co.,Ltd
 34:48:ED		Dell Inc.
@@ -24136,7 +24137,7 @@
 34:55:06		Guangdong Genius Technology Co., Ltd.
 34:55:94		Fujian Star-Net Communication Co.,Ltd
 34:55:E5		SJIT Co., Ltd.
-34:56:ED		Goerdyna Group Co., Ltd
+34:56:ED		Goerdyna Group Co., Ltd.
 34:56:FE		Cisco Meraki
 34:57:60		MitraStar Technology Corp.
 34:58:40		Huawei Technologies Co.,Ltd
@@ -43148,6 +43149,7 @@
 8C:35:92		Guangzhou Shiyuan Electronic Technology Company Limited
 8C:36:7A		Palo Alto Networks
 8C:37:B7		Hosin Global Electronics Co.,Ltd
+8C:39:57		Telink Micro LLC
 8C:39:5C		Bit4id Srl
 8C:3A:7E		Universal Electronics, Inc.
 8C:3A:E3		LG Electronics (Mobile Communications)
@@ -57577,6 +57579,7 @@ F8:F4:64		Rawe Electonic GmbH
 F8:F5:19		Rulogic Inc.
 F8:F5:32		Commscope
 F8:F5:8C		Apple, Inc.
+F8:F6:B7		Shenzhen Bilian Electronic Co.，Ltd
 F8:F7:B9		Huawei Technologies Co.,Ltd
 F8:F7:D2		Equal Optics, LLC
 F8:F7:D3		International Communications Corporation
