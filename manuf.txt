@@ -40487,6 +40487,7 @@
 8C:1F:64:0D:E0:00/36	Ace Tech
 8C:1F:64:0D:F0:00/36	Leidos
 8C:1F:64:0E:00:00/36	Autopharma
+8C:1F:64:0E:10:00/36	Riverloop Co., Ltd.
 8C:1F:64:0E:30:00/36	JISEONGENG Co,.LTD
 8C:1F:64:0E:50:00/36	Rugged Science
 8C:1F:64:0E:60:00/36	Cleanwatts Digital, S.A.
@@ -41548,6 +41549,7 @@
 8C:1F:64:6E:D0:00/36	Elbit Systems of America
 8C:1F:64:6E:E0:00/36	Cortical Labs Pte Ltd
 8C:1F:64:6F:00:00/36	Right Time Sports LLC
+8C:1F:64:6F:10:00/36	alfamation spa
 8C:1F:64:6F:40:00/36	Elsist Srl
 8C:1F:64:6F:50:00/36	Logic Fruit Technologies Pvt. Ltd.
 8C:1F:64:6F:70:00/36	EddyWorks Co.,Ltd
@@ -51281,6 +51283,7 @@ C8:D8:84		Universal Electronics, Inc.
 C8:D9:59		Motorola Mobility LLC, a Lenovo Company
 C8:D9:95		Juniper Networks
 C8:D9:D2		Hewlett Packard
+C8:DA:29		Espressif Systems (Singapore) Pte. Ltd
 C8:DB:26		Logitech
 C8:DD:6A		Ohsung
 C8:DD:C9		Lenovo Mobile Communication Technology Ltd.
@@ -51522,6 +51525,7 @@ CC:39:53:40:00:00/28	Xuancheng Luxshare Precision Industry Co., Ltd.
 CC:39:53:50:00:00/28	Shenzhen Junli Technology Co., Ltd
 CC:39:53:60:00:00/28	Sky Wing Communication Electronics Co., Ltd.
 CC:39:53:70:00:00/28	Chengdu Superxon Communication Technology Co., Ltd.
+CC:39:53:90:00:00/28	Mt-Link Technologies Co
 CC:39:53:A0:00:00/28	InTallyCon Development FZCO
 CC:39:53:C0:00:00/28	Broadband Net Inc
 CC:39:53:D0:00:00/28	Guang zhou Xradio Technology Co., Ltd
