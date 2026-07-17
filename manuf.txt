@@ -20133,6 +20133,7 @@
 14:DD:E5		Mpmkvvcl
 14:DE:39		Huawei Device Co., Ltd.
 14:E0:1D		Samsung Electronics Co.,Ltd
+14:E1:C9		Silicon Laboratories
 14:E2:2A		Cisco Systems, Inc
 14:E2:89		Abietec Inc.
 14:E4:EC		mLogic LLC
@@ -21936,6 +21937,7 @@
 24:48:45		Hangzhou Hikvision Digital Technology Co.,Ltd.
 24:48:85		Huawei Device Co., Ltd.
 24:49:7B		Innovative Converged Devices Inc
+24:4A:F8		Silicon Laboratories
 24:4B:03		Samsung Electronics Co.,Ltd
 24:4B:81		Samsung Electronics Co.,Ltd
 24:4B:F1		Huawei Technologies Co.,Ltd
@@ -28779,6 +28781,7 @@
 54:04:A6		ASUSTek COMPUTER INC.
 54:05:36		Vivago Oy
 54:05:5F		Alcatel Lucent
+54:05:83		Itel Mobile Limited
 54:05:93		WOORI ELEC Co.,Ltd
 54:05:DB		LCFC(Hefei) Electronics Technology co., ltd
 54:06:8B		Ningbo Deli Kebei Technology Co.LTD
@@ -42232,6 +42235,7 @@
 8C:1F:64:AD:A0:00/36	Ability Intelligent Corp.
 8C:1F:64:AD:B0:00/36	Hebei Weiji Electric Co.,Ltd
 8C:1F:64:AD:C0:00/36	Motor Protection Electronics
+8C:1F:64:AE:00:00/36	Aster Pro-Audio Inc.
 8C:1F:64:AE:10:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:AE:20:00/36	Jiangsu Yi Rong Mstar Technology Ltd.
 8C:1F:64:AE:30:00/36	Private
@@ -43690,6 +43694,7 @@
 90:1D:27		zte corporation
 90:1E:DD		Great Computer Corporation
 90:1F:09		Silicon Laboratories
+90:1F:94		TP-Link Systems Inc.
 90:20:3A		BYD Precision Manufacture Co.,Ltd
 90:20:83		General Engine Management Systems Ltd.
 90:20:C2		Hewlett Packard Enterprise
@@ -50702,6 +50707,7 @@ C4:C9:EC		Gugaoo   HK Limited
 C4:CA:2B		Arista Networks
 C4:CA:67		Chongqing ZQZER Technology Co., LTD
 C4:CA:D9		Hangzhou H3C Technologies Co., Limited
+C4:CB:33		Garmin International
 C4:CB:54		Fibocom Auto Inc.
 C4:CB:6B		Airista Flow, Inc.
 C4:CB:76		Microsoft Corporation
@@ -51520,6 +51526,7 @@ CC:38:D0		Palo Alto Networks
 CC:38:E1		Huawei Technologies Co.,Ltd
 CC:39:53		IEEE Registration Authority
 CC:39:53:00:00:00/28	Qingdao Sanshun Smart Electric Appliance Co.,Ltd.
+CC:39:53:10:00:00/28	Viatek
 CC:39:53:20:00:00/28	Esys Srl
 CC:39:53:40:00:00/28	Xuancheng Luxshare Precision Industry Co., Ltd.
 CC:39:53:50:00:00/28	Shenzhen Junli Technology Co., Ltd
@@ -54606,6 +54613,7 @@ E4:41:E6		Ottec Technology GmbH
 E4:42:A6		Intel Corporate
 E4:43:4B		Dell Inc.
 E4:43:89		Apple, Inc.
+E4:43:CF		TP-Link Systems Inc.
 E4:44:E5		Extreme Networks, Inc.
 E4:45:19		Beijing Xiaomi Electronics Co.,Ltd
 E4:46:B0		Fujitsu Client Computing Limited
