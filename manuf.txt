@@ -20802,6 +20802,7 @@
 1C:23:A2		FRITZ! Technology GmbH
 1C:24:CD		Askey Computer Corp
 1C:24:EB		Burlywood
+1C:25:75		Xiaomi Communications Co Ltd
 1C:25:E1		China Mobile IOT Company Limited
 1C:27:04		zte corporation
 1C:27:DD		Datang Gohighsec(zhejiang)Information Technology Co.,Ltd.
@@ -32118,6 +32119,7 @@
 6C:A1:00		Intel Corporate
 6C:A3:1E		Itel Mobile Limited
 6C:A3:67		Avlinkpro
+6C:A3:D3		Peplink International Ltd.
 6C:A4:01		essensys plc
 6C:A4:D1		Fiberhome Telecommunication Technologies Co.,LTD
 6C:A6:04		Commscope
@@ -38309,6 +38311,7 @@
 7C:6A:8A		SINOBONDER Technology Co., Ltd.
 7C:6A:B3		Ibc Technologies Inc.
 7C:6A:C3		GatesAir, Inc
+7C:6A:D7		New H3C Technologies Co., Ltd
 7C:6A:DB		SafeTone Technology Co.,Ltd
 7C:6A:F3		Integrated Device Technology (Malaysia) Sdn. Bhd.
 7C:6B:33		Tenyu Tech Co. Ltd.
@@ -44735,6 +44738,7 @@
 98:07:09		Huawei Device Co., Ltd.
 98:07:2D		Texas Instruments
 98:08:02		Orbis Bv
+98:08:18		AltoBeam Inc.
 98:09:CF		OnePlus Technology (Shenzhen) Co., Ltd
 98:0A:4B		Nokia Solutions and Networks GmbH & Co. KG
 98:0C:33		Silicon Laboratories
@@ -44947,6 +44951,7 @@
 98:74:3D		Shenzhen Jun Kai Hengye Technology Co. Ltd
 98:74:DA		Infinix mobility limited
 98:75:1A		Huawei Device Co., Ltd.
+98:75:52		Xiaomi Communications Co Ltd
 98:75:96		EM Microelectronic
 98:76:B6		Adafruit
 98:77:70		Pep Digital Technology (Guangzhou) Co., Ltd
@@ -45245,6 +45250,7 @@
 98:FF:D0		Lenovo Mobile Communication Technology Ltd.
 9A:1B:22		InfoCore Co.,Ltd.
 9A:56:4B		Cubix Corporation
+9A:5C:C3		NuCOMM International Ltd.
 9A:AD:CA		Credo
 9A:B2:F8		SFF Committee
 9A:D2:63		FirmTek, LLC
@@ -49307,6 +49313,7 @@ BC:22:47		New H3C Technologies Co., Ltd
 BC:22:FB		RF Industries
 BC:23:92		BYD Precision Manufacture Company Ltd.
 BC:24:11		Proxmox Server Solutions GmbH
+BC:24:92		New H3C Technologies Co., Ltd
 BC:25:E0		Huawei Technologies Co.,Ltd
 BC:25:F0		3D Display Technologies Co., Ltd.
 BC:26:1D		Hong Kong Tecon Technology
@@ -51528,10 +51535,12 @@ CC:39:53		IEEE Registration Authority
 CC:39:53:00:00:00/28	Qingdao Sanshun Smart Electric Appliance Co.,Ltd.
 CC:39:53:10:00:00/28	Viatek
 CC:39:53:20:00:00/28	Esys Srl
+CC:39:53:30:00:00/28	Ningbo AllianStream Photonics Technology Co., Ltd.
 CC:39:53:40:00:00/28	Xuancheng Luxshare Precision Industry Co., Ltd.
 CC:39:53:50:00:00/28	Shenzhen Junli Technology Co., Ltd
 CC:39:53:60:00:00/28	Sky Wing Communication Electronics Co., Ltd.
 CC:39:53:70:00:00/28	Chengdu Superxon Communication Technology Co., Ltd.
+CC:39:53:80:00:00/28	Hangzhou Elite Digital Technology co., Ltd
 CC:39:53:90:00:00/28	Mt-Link Technologies Co
 CC:39:53:A0:00:00/28	InTallyCon Development FZCO
 CC:39:53:C0:00:00/28	Broadband Net Inc
@@ -53493,6 +53502,7 @@ D8:EB:97		TRENDnet, Inc.
 D8:EC:5E		Belkin International Inc.
 D8:EC:E5		Zyxel Communications Corporation
 D8:ED:1C		Magna Technology SL
+D8:ED:A8		Xiaomi Communications Co Ltd
 D8:EE:42		Sichuan Tianyi Comheart Telecom Co.,LTD
 D8:EE:78		Moog Protokraft
 D8:EF:42		Huawei Device Co., Ltd.
