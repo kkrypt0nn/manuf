@@ -20796,6 +20796,7 @@
 1C:21:D1:D0:00:00/28	Liscotech System Co., Ltd.
 1C:21:D1:E0:00:00/28	p2-plus inc.
 1C:21:D1:F0:00:00/28	Private
+1C:22:26		Cisco Meraki
 1C:22:85		Serrature Meroni SpA
 1C:23:2C		Samsung Electronics Co.,Ltd
 1C:23:4F		EDMI  Europe Ltd
@@ -20999,6 +21000,7 @@
 1C:83:B0		Linked IP GmbH
 1C:83:EC		Ubee Interactive co, Limited.
 1C:84:64		Formosa Wireless Communication Corp.
+1C:84:A6		Cisco Meraki
 1C:86:0B		Guangdong Taiying Technology Co.,Ltd
 1C:86:82		Apple, Inc.
 1C:86:9A		Samsung Electronics Co.,Ltd
@@ -27044,6 +27046,7 @@
 44:D6:E1		Snuza International Pty. Ltd.
 44:D7:7E		Robert Bosch GmbH
 44:D7:91		Huawei Technologies Co.,Ltd
+44:D7:B7		eero inc.
 44:D8:32		AzureWave Technology Inc.
 44:D8:78		Hui Zhou Gaoshengda Technology Co.,LTD
 44:D8:84		Apple, Inc.
@@ -29084,6 +29087,7 @@
 54:A2:45		Digisol Systems Limited
 54:A2:74		Cisco Systems, Inc
 54:A3:1B		Shenzhen Linkworld Technology Co,.LTD
+54:A3:56		Annapurna labs
 54:A3:FA		BQT Solutions (Australia)Pty Ltd
 54:A4:93		IEEE Registration Authority
 54:A4:93:00:00:00/28	Intelligent Surveillance Corp
@@ -31436,6 +31440,7 @@
 68:55:D4		Seiko Epson Corporation
 68:57:2D		Tuya Smart Inc.
 68:58:11		Fiberhome Telecommunication Technologies Co.,LTD
+68:58:92		NXP Semiconductors Taiwan Ltd.
 68:58:A0		Honor Device Co., Ltd.
 68:58:C5		ZF TRW Automotive
 68:59:32		Sunitec Enterprise Co.,Ltd
@@ -39409,6 +39414,7 @@
 84:7C:9B		GD Midea Air-Conditioning Equipment Co.,Ltd.
 84:7C:EE		Cisco Systems, Inc
 84:7D:50		Holley Metering Limited
+84:7D:7E		Cisco Meraki
 84:7E:40		Texas Instruments
 84:7F:3D		Integrated Device Technology (Malaysia) Sdn. Bhd.
 84:80:2D		Cisco Systems, Inc
@@ -40088,6 +40094,7 @@
 88:B8:D0		Dongguan Koppo Electronic Co.,Ltd
 88:B9:45		Apple, Inc.
 88:B9:51		Xiaomi Communications Co Ltd
+88:B9:B8		NXP Semiconductors Taiwan Ltd.
 88:BA:74		Silicon Laboratories
 88:BA:7F		Qfiednet Co., Ltd.
 88:BC:AC		Zebra Technologies Inc.
@@ -40737,6 +40744,7 @@
 8C:1F:64:25:90:00/36	SHODEN Co., Ltd.
 8C:1F:64:25:A0:00/36	Wuhan Xingtuxinke ELectronic Co.,Ltd
 8C:1F:64:25:C0:00/36	TimeMachines Inc.
+8C:1F:64:25:D0:00/36	mpsonic
 8C:1F:64:25:E0:00/36	R2Sonic, LLC
 8C:1F:64:25:F0:00/36	Acuris Inc
 8C:1F:64:26:00:00/36	E-alarms
@@ -41113,7 +41121,7 @@
 8C:1F:64:47:40:00/36	Audiobyte S.R.L.
 8C:1F:64:47:50:00/36	Alpine Quantum Technologies GmbH
 8C:1F:64:47:60:00/36	Clair Global Corporation
-8C:1F:64:47:70:00/36	Blaucomm Ltd
+8C:1F:64:47:70:00/36	Syndora Alto Technology Limited
 8C:1F:64:47:90:00/36	AKSE srl
 8C:1F:64:47:A0:00/36	Missing Link Electronics, Inc.
 8C:1F:64:47:B0:00/36	Fluid Components Intl
@@ -42166,6 +42174,7 @@
 8C:1F:64:A7:00:00/36	V-teknik Elektronik AB
 8C:1F:64:A7:10:00/36	Martec S.p.A.
 8C:1F:64:A7:20:00/36	First Design System Inc.
+8C:1F:64:A7:30:00/36	ITK Precisioning GmbH
 8C:1F:64:A7:40:00/36	Hiwin Mikrosystem Corp.
 8C:1F:64:A7:50:00/36	Procon Electronics Pty Ltd
 8C:1F:64:A7:60:00/36	DEUTA-WERKE GmbH
@@ -42559,6 +42568,7 @@
 8C:1F:64:CA:40:00/36	Bit Part LLC
 8C:1F:64:CA:60:00/36	ReliaSpeak Information Technology Co., Ltd.
 8C:1F:64:CA:70:00/36	eumig industrie-TV GmbH.
+8C:1F:64:CA:80:00/36	Optiemus Electronics Limited
 8C:1F:64:CA:90:00/36	Avant Technologies
 8C:1F:64:CA:B0:00/36	Spyder Controls Corp.
 8C:1F:64:CA:D0:00/36	General Motors
@@ -45378,6 +45388,7 @@
 9C:4A:7B		Nokia Corporation
 9C:4B:6B		iFlight Technology Company Limited
 9C:4C:AE		Mesa Labs
+9C:4D:C2		Cisco Meraki
 9C:4E:20		Cisco Systems, Inc
 9C:4E:36		Intel Corporate
 9C:4E:8E		ALT Systems Ltd
@@ -50362,6 +50373,7 @@ C4:39:3A		SMC Networks Inc
 C4:39:60		GD Midea Air-Conditioning Equipment Co.,Ltd.
 C4:3A:35		Fn-Link Technology Limited
 C4:3A:9F		Siconix Inc.
+C4:3A:A5		AzureWave Technology Inc.
 C4:3A:BE		Sony Corporation
 C4:3C:3C		Cybelec Sa
 C4:3C:B0		Shenzhen Bilian Electronic Co.，Ltd
@@ -51543,6 +51555,7 @@ CC:39:53:70:00:00/28	Chengdu Superxon Communication Technology Co., Ltd.
 CC:39:53:80:00:00/28	Hangzhou Elite Digital Technology co., Ltd
 CC:39:53:90:00:00/28	Mt-Link Technologies Co
 CC:39:53:A0:00:00/28	InTallyCon Development FZCO
+CC:39:53:B0:00:00/28	Dat-Con d.o.o.
 CC:39:53:C0:00:00/28	Broadband Net Inc
 CC:39:53:D0:00:00/28	Guang zhou Xradio Technology Co., Ltd
 CC:39:8C		Shiningtek
@@ -56898,6 +56911,7 @@ F4:B2:4E		Huawei Device Co., Ltd.
 F4:B3:01		Intel Corporate
 F4:B3:81		WindowMaster A/S
 F4:B3:B1		Silicon Laboratories
+F4:B4:9E		eero inc.
 F4:B5:20		Biostar Microtech international corp.
 F4:B5:2F		Juniper Networks
 F4:B5:49		Xiamen Yeastar Digital Technology Co., Ltd
