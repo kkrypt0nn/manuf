@@ -51558,6 +51558,7 @@ CC:39:53:A0:00:00/28	InTallyCon Development FZCO
 CC:39:53:B0:00:00/28	Dat-Con d.o.o.
 CC:39:53:C0:00:00/28	Broadband Net Inc
 CC:39:53:D0:00:00/28	Guang zhou Xradio Technology Co., Ltd
+CC:39:53:E0:00:00/28	Ningbo Xiaojiang IoT Technology Co., Ltd.
 CC:39:8C		Shiningtek
 CC:3A:61		Samsung Electro Mechanics Co., Ltd.
 CC:3A:DF		Neptune Technology Group Inc.
