@@ -27211,6 +27211,7 @@
 48:2E:72		Cisco Systems, Inc
 48:2F:6B		Hewlett Packard Enterprise
 48:2F:D7		Huawei Technologies Co.,Ltd
+48:31:06		NVIDIA Corporation
 48:31:33		Robert Bosch Elektronika Kft.
 48:31:77		Nintendo Co.,Ltd
 48:31:B7		Espressif Inc.
@@ -41796,6 +41797,7 @@
 8C:1F:64:82:C0:00/36	Power Electronics Espana, S.L.
 8C:1F:64:82:F0:00/36	AnySignal
 8C:1F:64:83:00:00/36	Vtron Pty Ltd
+8C:1F:64:83:10:00/36	Audio Plus
 8C:1F:64:83:50:00/36	Adetec Sas
 8C:1F:64:83:70:00/36	runZero, Inc
 8C:1F:64:83:80:00/36	Drimaes Inc.
@@ -56495,6 +56497,7 @@ F0:F8:42		KEEBOX, Inc.
 F0:F8:4A		Buffalo.Inc
 F0:F8:F2		Texas Instruments
 F0:F9:F7		IES GmbH & Co. KG
+F0:FA:BA		NVIDIA Corporation
 F0:FA:C7		Huawei Device Co., Ltd.
 F0:FB:7F		Mellanox Technologies, Inc.
 F0:FC:65		SynaXG Technologies Pte. Ltd.
