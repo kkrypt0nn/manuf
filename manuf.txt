@@ -38621,7 +38621,9 @@
 7C:E2:CA		Juniper Networks
 7C:E4:A1		IEEE Registration Authority
 7C:E4:A1:20:00:00/28	De Haardt bv
+7C:E4:A1:70:00:00/28	Keenfinity S.A.
 7C:E4:A1:90:00:00/28	Annapurna labs
+7C:E4:A1:D0:00:00/28	Harogic Technologies Pte. Ltd.
 7C:E4:AA		Private
 7C:E5:24		Quirky, Inc.
 7C:E5:3F		Huawei Technologies Co.,Ltd
@@ -46429,6 +46431,7 @@ A4:35:23		Guangdong Donyan Network Technologies Co.,Ltd.
 A4:35:2D		TRIZ Networks corp.
 A4:36:C7		LG Innotek
 A4:37:3E		Huawei Device Co., Ltd.
+A4:37:E6		Murata Manufacturing Co., Ltd.
 A4:38:31		RF elements s.r.o.
 A4:38:CC		Nintendo Co.,Ltd
 A4:38:FC		Plastic Logic
@@ -56448,7 +56451,7 @@ F0:D8:05		Cisco Systems, Inc
 F0:D9:B2		Exo S.A.
 F0:DA:7C		Rlh Industries,Inc.
 F0:DB:2A		Lanner Electronics, Inc.
-F0:DB:30		Yottabyte
+F0:DB:30		Verge.io
 F0:DB:E2		Apple, Inc.
 F0:DB:F8		Apple, Inc.
 F0:DC:E2		Apple, Inc.
