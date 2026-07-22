@@ -19946,6 +19946,7 @@
 14:75:5B		Intel Corporate
 14:75:90		Tp-Link Technologies Co.,Ltd.
 14:75:E5		ELMAX Srl
+14:76:49		Hewlett Packard Enterprise
 14:77:40		Huawei Device Co., Ltd.
 14:78:0B		Varex Imaging Deutschland AG
 14:78:30		NVIDIA Corporation
@@ -23958,7 +23959,7 @@
 34:04:9E:10:00:00/28	Connected IO
 34:04:9E:20:00:00/28	EFD Induction
 34:04:9E:30:00:00/28	Nanjing Mythware Information Technology Co., Ltd.
-34:04:9E:40:00:00/28	Harbin Yantuo Science and Technology Development Co., Ltd
+34:04:9E:40:00:00/28	Harbin Xilu Technology Co., Ltd
 34:04:9E:50:00:00/28	Seeiner Technology Co.,LTD
 34:04:9E:60:00:00/28	Life Interface Co., Ltd.
 34:04:9E:70:00:00/28	Pebble Technology
@@ -38617,6 +38618,8 @@
 7C:E1:FF		Computer Performance, Inc. DBA Digital Loggers, Inc.
 7C:E2:69		Texas Instruments
 7C:E2:CA		Juniper Networks
+7C:E4:A1		IEEE Registration Authority
+7C:E4:A1:20:00:00/28	De Haardt bv
 7C:E4:A1:90:00:00/28	Annapurna labs
 7C:E4:AA		Private
 7C:E5:24		Quirky, Inc.
@@ -40906,6 +40909,7 @@
 8C:1F:64:33:F0:00/36	Lotec Teknoloji Limited Sirketi
 8C:1F:64:34:00:00/36	BRS Sistemas Eletrônicos
 8C:1F:64:34:20:00/36	TimeMachines Inc.
+8C:1F:64:34:30:00/36	Syscom Instruments SA
 8C:1F:64:34:50:00/36	Kreafeuer AG, Swiss finsh
 8C:1F:64:34:70:00/36	Plut d.o.o.
 8C:1F:64:34:80:00/36	Breas Medical AB
@@ -43012,6 +43016,7 @@
 8C:1F:64:F3:20:00/36	Shenzhen INVT Electric Co.,Ltd
 8C:1F:64:F3:30:00/36	Sicon srl
 8C:1F:64:F3:70:00/36	Polarity Inc
+8C:1F:64:F3:80:00/36	AKSE srl
 8C:1F:64:F3:90:00/36	Weinan Wins Future Technology Co.,Ltd
 8C:1F:64:F3:A0:00/36	intersaar GmbH
 8C:1F:64:F3:B0:00/36	Beijing REMANG Technology Co., Ltd.
@@ -44178,6 +44183,7 @@
 90:F4:21:D0:00:00/28	Taichitel Technology Shanghai Co.,Ltd.
 90:F4:21:E0:00:00/28	Velan Studios Inc.
 90:F4:C1		Rand McNally
+90:F5:10		Technologie Optic.ca Inc.
 90:F6:44		Huawei Device Co., Ltd.
 90:F6:52		Tp-Link Technologies Co.,Ltd.
 90:F7:21		IndiNatus (IndiNatus India Private Limited)
