@@ -14210,7 +14210,7 @@
 00:50:C2:CA:20:00/36	The Logical Company
 00:50:C2:CA:30:00/36	CT Company
 00:50:C2:CA:40:00/36	Vox Technologies
-00:50:C2:CA:50:00/36	Yokowo Co.,Ltd
+00:50:C2:CA:50:00/36	Yokowo Co., Ltd.
 00:50:C2:CA:60:00/36	Vidisys GmbH
 00:50:C2:CA:70:00/36	Thermo Fisher Scientific
 00:50:C2:CA:80:00/36	Systems With Intelligence Inc.
@@ -41717,6 +41717,7 @@
 8C:1F:64:7B:70:00/36	James G. Biddle dba Megger
 8C:1F:64:7B:80:00/36	TimeMachines Inc.
 8C:1F:64:7B:90:00/36	Deviceroy
+8C:1F:64:7B:A0:00/36	NATIXON Sp. z o.o.
 8C:1F:64:7B:B0:00/36	Kotsu Dengyosha Co., Ltd.
 8C:1F:64:7B:C0:00/36	GO development GmbH
 8C:1F:64:7B:E0:00/36	inomatic GmbH
@@ -41815,6 +41816,7 @@
 8C:1F:64:84:00:00/36	InfoMac Sp. z o.o. Sp.k.
 8C:1F:64:84:20:00/36	Potter Electric Signal Co. LLC
 8C:1F:64:84:30:00/36	Image Soft Oy
+8C:1F:64:84:40:00/36	Deimos Controls LLC
 8C:1F:64:84:60:00/36	Fo Xie Optoelectronics Technology Co., Ltd
 8C:1F:64:84:70:00/36	Slat
 8C:1F:64:84:80:00/36	Jena-Optronik GmbH
@@ -43137,6 +43139,7 @@
 8C:1F:64:FD:A0:00/36	Arkham Technology
 8C:1F:64:FD:B0:00/36	DeepSenXe International ltd.
 8C:1F:64:FD:C0:00/36	Nuphoton Technologies
+8C:1F:64:FD:D0:00/36	Atik Cameras Unipessoal, Lda
 8C:1F:64:FD:F0:00/36	Potter Electric Signal Co. LLC
 8C:1F:64:FE:00:00/36	Potter Electric Signal Co. LLC
 8C:1F:64:FE:10:00/36	SOREL GmbH
