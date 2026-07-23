@@ -38621,8 +38621,11 @@
 7C:E2:CA		Juniper Networks
 7C:E4:A1		IEEE Registration Authority
 7C:E4:A1:20:00:00/28	De Haardt bv
+7C:E4:A1:60:00:00/28	ISR Technologies Israel Ltd
 7C:E4:A1:70:00:00/28	Keenfinity S.A.
+7C:E4:A1:80:00:00/28	Shenzhen Liandian Communication Technology Co.LTD
 7C:E4:A1:90:00:00/28	Annapurna labs
+7C:E4:A1:B0:00:00/28	Cummins Inc
 7C:E4:A1:D0:00:00/28	Harogic Technologies Pte. Ltd.
 7C:E4:AA		Private
 7C:E5:24		Quirky, Inc.
@@ -51507,6 +51510,7 @@ CC:20:8C		Huawei Technologies Co.,Ltd
 CC:20:AC		Samsung Electronics Co.,Ltd
 CC:20:E8		Apple, Inc.
 CC:21:19		Samsung Electronics Co.,Ltd
+CC:21:9D		Shenzhen Wangliantong Intelligent Technology Co.,Lte
 CC:22:18		InnoDigital Co., Ltd.
 CC:22:37		IEEE Registration Authority
 CC:22:37:00:00:00/28	MEDCOM sp. z o.o.
@@ -55860,6 +55864,7 @@ EC:A7:B1:C0:00:00/28	Hiromokuten Co.,Ltd.
 EC:A7:B1:D0:00:00/28	Usu Telecom India Private Limited
 EC:A7:B1:E0:00:00/28	Artisight, Inc.
 EC:A8:1F		Vantiva USA LLC
+EC:A8:54		EFOCE Technology Co., Ltd.
 EC:A8:6B		Elitegroup Computer Systems Co.,Ltd.
 EC:A9:07		Apple, Inc.
 EC:A9:40		Commscope
