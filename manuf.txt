@@ -21436,6 +21436,7 @@
 20:2B:DA:C0:00:00/28	EV4 Limited
 20:2B:DA:D0:00:00/28	Transit Solutions, LLC.
 20:2B:DA:E0:00:00/28	ZhuoYu Technology
+20:2C:05		Zhejiang Dahua Zhilian Co.,Ltd
 20:2C:B7		Kong Yue Electronics & Information Industry (Xinhui) Ltd.
 20:2D:07		Samsung Electronics Co.,Ltd
 20:2D:23		Collinear Networks Inc.
@@ -38633,8 +38634,10 @@
 7C:E2:69		Texas Instruments
 7C:E2:CA		Juniper Networks
 7C:E4:A1		IEEE Registration Authority
+7C:E4:A1:10:00:00/28	Truly Electronics Mfg.,Ltd
 7C:E4:A1:20:00:00/28	De Haardt bv
 7C:E4:A1:40:00:00/28	Weihai Idencoder Electronic Technology Co.,Ltd
+7C:E4:A1:50:00:00/28	HI Tecnologia Industria e Comercio Ltda
 7C:E4:A1:60:00:00/28	ISR Technologies Israel Ltd
 7C:E4:A1:70:00:00/28	Keenfinity S.A.
 7C:E4:A1:80:00:00/28	Shenzhen Liandian Communication Technology Co.LTD
@@ -40144,6 +40147,7 @@
 88:C3:44		Google, Inc.
 88:C3:6E		Beijing Ereneben lnformation Technology Limited
 88:C3:97		Beijing Xiaomi Mobile Software Co., Ltd
+88:C3:B2		Rotek Llc
 88:C3:B3		Sovico
 88:C3:E5		Betop Techonologies
 88:C4:8E		Uneeviu Technologies India Private Limited
@@ -44421,6 +44425,7 @@
 94:5A:FC		Amazon Technologies Inc.
 94:5B:7E		Trilobit Ltda.
 94:5C:9A		Apple, Inc.
+94:5D:BF		Nokia Solutions and Networks India Private Limited
 94:5F:34		Renesas Electronics (Penang) Sdn. Bhd.
 94:60:10		Huawei Device Co., Ltd.
 94:60:D5		Hewlett Packard Enterprise
@@ -45550,6 +45555,7 @@
 9C:7F:57		UNIC Memory Technology Co Ltd
 9C:7F:64		Nanjing Qinheng Microelectronics Co., Ltd.
 9C:7F:81		Shenzhen Fast Technologies Co.,Ltd
+9C:80:3D		TCT mobile ltd
 9C:80:7D		SYSCABLE Korea Inc.
 9C:80:DF		Arcadyan Corporation
 9C:82:3F		Huawei Device Co., Ltd.
