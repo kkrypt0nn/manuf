@@ -20799,7 +20799,7 @@
 1C:21:D1:D0:00:00/28	Liscotech System Co., Ltd.
 1C:21:D1:E0:00:00/28	p2-plus inc.
 1C:21:D1:F0:00:00/28	Private
-1C:22:26		Cisco Meraki
+1C:22:26		Cisco Systems, Inc
 1C:22:85		Serrature Meroni SpA
 1C:23:2C		Samsung Electronics Co.,Ltd
 1C:23:4F		EDMI  Europe Ltd
@@ -21003,7 +21003,7 @@
 1C:83:B0		Linked IP GmbH
 1C:83:EC		Ubee Interactive co, Limited.
 1C:84:64		Formosa Wireless Communication Corp.
-1C:84:A6		Cisco Meraki
+1C:84:A6		Cisco Systems, Inc
 1C:86:0B		Guangdong Taiying Technology Co.,Ltd
 1C:86:82		Apple, Inc.
 1C:86:9A		Samsung Electronics Co.,Ltd
@@ -39445,7 +39445,7 @@
 84:7C:9B		GD Midea Air-Conditioning Equipment Co.,Ltd.
 84:7C:EE		Cisco Systems, Inc
 84:7D:50		Holley Metering Limited
-84:7D:7E		Cisco Meraki
+84:7D:7E		Cisco Systems, Inc
 84:7E:40		Texas Instruments
 84:7F:3D		Integrated Device Technology (Malaysia) Sdn. Bhd.
 84:80:2D		Cisco Systems, Inc
@@ -45440,7 +45440,7 @@
 9C:4A:7B		Nokia Corporation
 9C:4B:6B		iFlight Technology Company Limited
 9C:4C:AE		Mesa Labs
-9C:4D:C2		Cisco Meraki
+9C:4D:C2		Cisco Systems, Inc
 9C:4E:20		Cisco Systems, Inc
 9C:4E:36		Intel Corporate
 9C:4E:8E		ALT Systems Ltd
