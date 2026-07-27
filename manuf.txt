@@ -20811,6 +20811,7 @@
 1C:27:04		zte corporation
 1C:27:DD		Datang Gohighsec(zhejiang)Information Technology Co.,Ltd.
 1C:28:AF		Hewlett Packard Enterprise
+1C:29:04		Espressif Inc.
 1C:2A:8B		Nokia
 1C:2A:A3		Shenzhen HongRui Optical Technology Co., Ltd.
 1C:2A:B0		Beijing Xiaomi Electronics Co.,Ltd
@@ -21410,6 +21411,7 @@
 20:21:A5		LG Electronics (Mobile Communications)
 20:23:51		TP-Link Systems Inc
 20:25:64		Pegatron Corporation
+20:25:65		Espressif Inc.
 20:25:98		Teleview
 20:25:CC		Xiaomi Communications Co Ltd
 20:25:D2		Fiberhome Telecommunication Technologies Co.,LTD
@@ -38634,8 +38636,10 @@
 7C:E2:69		Texas Instruments
 7C:E2:CA		Juniper Networks
 7C:E4:A1		IEEE Registration Authority
+7C:E4:A1:00:00:00/28	Altos Computing (India) Private Limited
 7C:E4:A1:10:00:00/28	Truly Electronics Mfg.,Ltd
 7C:E4:A1:20:00:00/28	De Haardt bv
+7C:E4:A1:30:00:00/28	Vybe Audio LLC
 7C:E4:A1:40:00:00/28	Weihai Idencoder Electronic Technology Co.,Ltd
 7C:E4:A1:50:00:00/28	HI Tecnologia Industria e Comercio Ltda
 7C:E4:A1:60:00:00/28	ISR Technologies Israel Ltd
@@ -38875,6 +38879,7 @@
 80:50:1B		Nokia Corporation
 80:50:67		W & D Technology Corporation
 80:50:F6		Itel Mobile Limited
+80:53:E0		Espressif Inc.
 80:54:2D		Samsung Electronics Co.,Ltd
 80:54:6A		Shenzhen Gongjin Electronics Co.,Lt
 80:54:9C		Samsung Electronics Co.,Ltd
@@ -40735,6 +40740,7 @@
 8C:1F:64:20:C0:00/36	Shanghai Stairmed Technology Co.,ltd
 8C:1F:64:20:D0:00/36	Grossenbacher Systeme AG
 8C:1F:64:20:E0:00/36	Alpha Bridge Technologies Private Limited
+8C:1F:64:20:F0:00/36	Dave Srl
 8C:1F:64:21:00:00/36	Trunexa Inc
 8C:1F:64:21:10:00/36	Bipom Electronics, Inc.
 8C:1F:64:21:20:00/36	Svms
@@ -44797,6 +44803,7 @@
 98:06:37:E0:00:00/28	Shanghai Jinnian information technology Co. Ltd
 98:06:3A		Home Control Singapore Pte Ltd
 98:06:3C		Samsung Electronics Co.,Ltd
+98:06:A3		Gsd Viet Nam Technology Company Limited
 98:07:09		Huawei Device Co., Ltd.
 98:07:2D		Texas Instruments
 98:08:02		Orbis Bv
@@ -47857,6 +47864,7 @@ AC:F6:F7		LG Electronics (Mobile Communications)
 AC:F7:0D		China Mobile Group Device Co.,Ltd.
 AC:F7:F3		Xiaomi Communications Co Ltd
 AC:F8:5C		Chengdu Higon Integrated Circuit Design Co,. Ltd.
+AC:F8:96		eero inc.
 AC:F8:CC		Commscope
 AC:F9:32		NXP Semiconductor (Tianjin) LTD.
 AC:F9:70		Huawei Technologies Co.,Ltd
@@ -48773,6 +48781,7 @@ B4:CD:F5		Cub Elecparts Inc.
 B4:CE:40		Samsung Electronics Co.,Ltd
 B4:CE:F6		HTC Corporation
 B4:CE:FE		James Czekaj
+B4:CF:49		WNC Corporation
 B4:CF:DB		Shenzhen Jiuzhou Electric Co.,LTD
 B4:CF:E0		Sichuan tianyi kanghe communications co., LTD
 B4:D0:A9		China Mobile Group Device Co.,Ltd.
@@ -49167,6 +49176,7 @@ B8:B9:4E		Shenzhen iBaby Labs, Inc.
 B8:BA:66		Microsoft Corporation
 B8:BA:68		Xi'an Jizhong Digital Communication Co.,Ltd
 B8:BA:72		Cynove
+B8:BB:11		Espressif Systems (Singapore) Pte. Ltd
 B8:BB:23		Guangdong Nufront CSC Co., Ltd
 B8:BB:6D		ENERES Co.,Ltd.
 B8:BB:AF		Samsung Electronics Co.,Ltd
@@ -51389,6 +51399,7 @@ C8:E7:13		Bouffalo Lab (Nanjing) Co., Ltd.
 C8:E7:76		PTCOM Technology
 C8:E7:D8		Mercury Communication Technologies Co.,Ltd.
 C8:E7:F0		Juniper Networks
+C8:E8:AF		eero inc.
 C8:EA:F8		zte corporation
 C8:EB:EC		Shenzhen YOUHUA Technology Co., Ltd
 C8:ED:FC		Shenzhen Ideaform Industrial Product Design Co., Ltd
@@ -51758,6 +51769,7 @@ CC:7B:61		Nikkiso Co., Ltd.
 CC:7D:37		Commscope
 CC:7D:5B		Telink Semiconductor (Shanghai) Co., Ltd.
 CC:7E:0F		Theben AG
+CC:7E:1F		Espressif Inc.
 CC:7E:E7		Panasonic Corporation AVC Networks Company
 CC:7F:75		Cisco Systems, Inc
 CC:7F:76		Cisco Systems, Inc
