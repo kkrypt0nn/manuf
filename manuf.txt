@@ -17838,6 +17838,7 @@
 04:CE:09		Shenzhen Skyworth Digital  Technology  CO., Ltd
 04:CE:14		Wilocity LTD.
 04:CE:7E		NXP France Semiconductors France
+04:CE:D8		NXP Semiconductors Germany GmbH
 04:CF:25		Manycolors, Inc.
 04:CF:4B		Intel Corporate
 04:CF:8C		XIAOMI Electronics,CO.,LTD
@@ -24278,6 +24279,7 @@
 34:9F:7B		Canon Inc.
 34:A1:37		Huawei Technologies Co.,Ltd
 34:A1:83		AWare, Inc
+34:A2:7D		Unisyue Technologies Co;LTD
 34:A2:A2		Huawei Technologies Co.,Ltd
 34:A3:4E		NevadaNano
 34:A3:95		Apple, Inc.
@@ -30810,6 +30812,7 @@
 60:F4:94		Hon Hai Precision Ind. Co.,Ltd.
 60:F5:49		Apple, Inc.
 60:F5:9C		CRU-Dataport
+60:F6:20		Sonos Inc.
 60:F6:73		Terumo Corporation
 60:F6:77		Intel Corporate
 60:F7:23		Beijing Xiaomi Mobile Software Co., Ltd
@@ -38653,6 +38656,7 @@
 7C:E4:A1:B0:00:00/28	Cummins Inc
 7C:E4:A1:C0:00:00/28	Annapurna labs
 7C:E4:A1:D0:00:00/28	Harogic Technologies Pte. Ltd.
+7C:E4:A1:E0:00:00/28	Dongguan City Boqun Electronic Technology Co., Ltd.
 7C:E4:AA		Private
 7C:E5:24		Quirky, Inc.
 7C:E5:3F		Huawei Technologies Co.,Ltd
@@ -41931,6 +41935,7 @@
 8C:1F:64:8B:70:00/36	DA-Design Oy
 8C:1F:64:8B:80:00/36	Wien Energie GmbH
 8C:1F:64:8B:90:00/36	Zynex Monitoring Solutions
+8C:1F:64:8B:A0:00/36	Code Blue Corporation
 8C:1F:64:8B:B0:00/36	swiss electronic creation GmbH
 8C:1F:64:8B:C0:00/36	Peter Huber Kaeltemaschinenbau SE
 8C:1F:64:8B:E0:00/36	YUYAMA MFG Co.,Ltd
@@ -42485,6 +42490,7 @@
 8C:1F:64:BD:60:00/36	NOVA Products GmbH
 8C:1F:64:BD:70:00/36	Union Electronic.
 8C:1F:64:BD:90:00/36	Watts
+8C:1F:64:BD:A0:00/36	Skip Innovations, Inc
 8C:1F:64:BD:B0:00/36	Cardinal Scales Manufacturing Co
 8C:1F:64:BD:F0:00/36	Mas Technology
 8C:1F:64:BE:10:00/36	Geolux
