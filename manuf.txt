@@ -25387,6 +25387,7 @@
 3C:71:BF		Espressif Inc.
 3C:74:37		Rim
 3C:75:4A		Commscope
+3C:75:DE		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 3C:76:25		zte corporation
 3C:77:87		Huawei Device Co., Ltd.
 3C:77:E6		Hon Hai Precision Ind. Co.,Ltd.
@@ -30814,6 +30815,7 @@
 60:F7:23		Beijing Xiaomi Mobile Software Co., Ltd
 60:F8:1D		Apple, Inc.
 60:F8:F2		Synaptec
+60:F9:1C		China Dragon Technology Limited
 60:FA:9D		Huawei Technologies Co.,Ltd
 60:FA:A7		Shenzhen Mtc Co Ltd
 60:FA:B1		Kempower Oyj
@@ -30961,6 +30963,7 @@
 64:41:E6		Apple, Inc.
 64:42:12		Shenzhen Water World Information Co.,Ltd.
 64:42:14		Swisscom Energy Solutions AG
+64:42:C2		Mellanox Technologies, Inc.
 64:43:46		GuangDong Quick Network Computer CO.,LTD
 64:44:7B		vivo Mobile Communication Co., Ltd.
 64:44:D5		TD Tech
@@ -38993,6 +38996,7 @@
 80:7D:1B		Neosystem Co. Ltd.
 80:7D:3A		Espressif Inc.
 80:7D:E3		Chongqing Sichuan Instrument Microcircuit Co.LTD.
+80:7D:F9		Mellanox Technologies, Inc.
 80:7E:B4		Shenzhen SuperElectron Technology Co.,Ltd.
 80:7F:F8		Juniper Networks
 80:80:2C		Fortinet, Inc.
@@ -39231,6 +39235,7 @@
 84:00:2D		Pegatron Corporation
 84:00:55		VusionGroup
 84:00:D2		Sony Corporation
+84:00:EC		Shelly Europe LTD
 84:01:12		Kaon Group Co., Ltd.
 84:01:6E		Honor Device Co., Ltd.
 84:01:A7		Greyware Automation Products, Inc
@@ -40746,6 +40751,7 @@
 8C:1F:64:21:20:00/36	Svms
 8C:1F:64:21:50:00/36	XLOGIC srl
 8C:1F:64:21:60:00/36	Hiwin Mikrosystem Corp.
+8C:1F:64:21:80:00/36	Symphony Interactive Inc
 8C:1F:64:21:90:00/36	Guangzhou Desam Audio Co.,Ltd
 8C:1F:64:21:A0:00/36	Exicom Technologies India Pvt. Ltd.
 8C:1F:64:21:C0:00/36	LLC "EMS-Expert"
@@ -42321,6 +42327,7 @@
 8C:1F:64:B0:00:00/36	Gets MSS
 8C:1F:64:B0:10:00/36	Terranova Industries UG (haftungsbeschränkt)
 8C:1F:64:B0:30:00/36	Shenzhen Pisoftware Technology Co.,Ltd.
+8C:1F:64:B0:70:00/36	AeroVironment
 8C:1F:64:B0:80:00/36	Cronus Electronics
 8C:1F:64:B0:C0:00/36	Barkodes Bilgisayar Sistemleri Bilgi Iletisim ve Y
 8C:1F:64:B0:D0:00/36	ProbeFox GmbH
@@ -48207,6 +48214,7 @@ B0:BC:8E		SkyMirr
 B0:BD:1B		Dongguan Liesheng Electronic Co., Ltd.
 B0:BD:6D		Echostreams Innovative Solutions
 B0:BD:A1		Zaklad Elektroniczny Sims
+B0:BE:45		Mellanox Technologies, Inc.
 B0:BE:76		Tp-Link Technologies Co.,Ltd.
 B0:BE:83		Apple, Inc.
 B0:BF:99		Wizitdongdo
@@ -51811,6 +51819,7 @@ CC:96:A2		China Mobile Group Device Co.,Ltd.
 CC:96:E5		Dell Inc.
 CC:98:8B		SONY Visual Products Inc.
 CC:98:91		Cisco Systems, Inc
+CC:98:EF		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 CC:99:16		Integrated Device Technology (Malaysia) Sdn. Bhd.
 CC:9C:3E		Cisco Meraki
 CC:9D:A2		Eltex Enterprise Ltd.
@@ -53115,6 +53124,7 @@ D4:DD:0B		Wavetel Technology Limited
 D4:DF:57		Alpinion Medical Systems
 D4:E0:53		Hewlett Packard Enterprise
 D4:E0:8E		ValueHD Corporation
+D4:E1:3C		Mellanox Technologies, Inc.
 D4:E2:2F		Roku, Inc
 D4:E2:CB		Vantiva USA LLC
 D4:E3:2C		S. Siedle & Sohne
