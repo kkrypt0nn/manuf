@@ -27920,6 +27920,7 @@
 4C:79:75		Apple, Inc.
 4C:79:BA		Intel Corporate
 4C:7A:48		Nippon Seiki (Europe) B.V.
+4C:7A:88		Cisco Systems, Inc
 4C:7B:35		Unionman Technology Co.,Ltd
 4C:7C:5F		Apple, Inc.
 4C:7C:D9		Apple, Inc.
@@ -29808,6 +29809,7 @@
 5C:07:A6		Huawei Technologies Co.,Ltd
 5C:09:47		Apple, Inc.
 5C:09:79		Huawei Technologies Co.,Ltd
+5C:0A:11		Dongguan Liesheng Electronic Co., Ltd.
 5C:0A:5B		Samsung Electro Mechanics Co., Ltd.
 5C:0B:3B		Huawei Technologies Co.,Ltd
 5C:0B:CA		Tunstall Nordic AB
@@ -30728,6 +30730,7 @@
 60:D0:2C		Ruckus Wireless
 60:D0:39		Apple, Inc.
 60:D0:A9		Samsung Electronics Co.,Ltd
+60:D1:78		Cisco Systems, Inc
 60:D1:AA		Vishal Telecommunications Pvt Ltd
 60:D1:D8		Silicon Laboratories
 60:D2:1C		Sunnovo International Limited
@@ -31358,6 +31361,7 @@
 68:1A:A4		Shenzhen Skyworth Digital  Technology  CO., Ltd
 68:1A:B2		zte corporation
 68:1B:EF		Huawei Technologies Co.,Ltd
+68:1C:52		Cisco Systems, Inc
 68:1C:A2		Rosewill Inc.
 68:1D:4C		Kontron eSystems GmbH
 68:1D:64		Sunwave Communications Co., Ltd
@@ -47922,6 +47926,7 @@ B0:19:C6		Apple, Inc.
 B0:1B:4B		Invisible Fun Studio Limited
 B0:1B:7C		Ontrol A.S.
 B0:1B:D2		Le Shi Zhi Xin Electronic Technology (Tianjin) Limited
+B0:1B:FC		Cisco Systems, Inc
 B0:1C:0C		Shenzhen Chuangwei-Rgb Electronics Co.,Ltd
 B0:1C:91		Elim Co
 B0:1F:29		Helvetia INC.
