@@ -48063,6 +48063,7 @@ B0:5D:D4		Commscope
 B0:60:88		Intel Corporate
 B0:61:A9		Yealink(Xiamen) Network Technology Co.,Ltd.
 B0:61:C7		Ericsson-LG Enterprise
+B0:61:EB		Silicon Laboratories
 B0:64:E0		Samsung Electronics Co.,Ltd
 B0:65:3A		Murata Manufacturing Co., Ltd.
 B0:65:63		Shanghai Railway Communication Factory
@@ -48823,6 +48824,7 @@ B4:DE:31		Cisco Systems, Inc
 B4:DE:DF		zte corporation
 B4:DF:09		Flux::
 B4:DF:3B		Chromlech
+B4:DF:43:C0:00:00/28	Raven Resonance Inc.
 B4:DF:91		Cisco Meraki
 B4:DF:FA		Litemax Electronics Inc.
 B4:E0:1D		Conception Electronique
@@ -57600,6 +57602,7 @@ F8:C1:16		Juniper Networks
 F8:C1:20		Xi'an Link-Science Technology Co.,Ltd
 F8:C2:49		Ampere Computing Llc
 F8:C2:88		Cisco Systems, Inc
+F8:C3:62		Silicon Laboratories
 F8:C3:72		Tsuzuki Denki
 F8:C3:97		NZXT Corp. Ltd.
 F8:C3:9E		Huawei Technologies Co.,Ltd
