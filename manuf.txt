@@ -20555,6 +20555,7 @@
 18:B6:F7		New Pos Technology Limited
 18:B7:9E		Invoxia
 18:B8:1F		Commscope
+18:B8:3D		Samsung Electronics Co.,Ltd
 18:B8:42		Apple, Inc.
 18:B9:05		Hong Kong Bouffalo Lab Limited
 18:B9:6E		Dongguan Liesheng Electronic Co., Ltd.
@@ -26796,6 +26797,7 @@
 44:4F:8E		WiZ
 44:51:DB		Raytheon BBN Technologies
 44:54:C0		Thompson Aerospace
+44:55:2B		Samsung Electronics Co.,Ltd
 44:55:B1		Huawei Technologies Co.,Ltd
 44:55:C4		Huawei Device Co., Ltd.
 44:56:8D		PNC Technologies  Co., Ltd.
@@ -27247,6 +27249,7 @@
 48:3C:0C		Huawei Technologies Co.,Ltd
 48:3D:32		Syscor Controls & Automation
 48:3E:5E		Sernet (Suzhou) Technologies Corporation
+48:3F:72		Samsung Electronics Co.,Ltd
 48:3F:DA		Espressif Inc.
 48:3F:E9		Huawei Technologies Co.,Ltd
 48:40:D5		Intel Corporate
@@ -27428,6 +27431,7 @@
 48:98:AB		Wistron InfoComm(Chongqing)Co.,Ltd.
 48:98:CA		Sichuan AI-Link Technology Co., Ltd.
 48:9A:42		Technomate Ltd
+48:9A:58		Samsung Electronics Co.,Ltd
 48:9A:5B		Shenzhen iComm Semiconductor CO.,LTD
 48:9B:D5		Extreme Networks, Inc.
 48:9B:E0		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
@@ -31001,6 +31005,7 @@
 64:55:7F		NSFOCUS Information Technology Co., Ltd.
 64:55:B1		Commscope
 64:56:01		Tp-Link Technologies Co.,Ltd.
+64:56:B5		Samsung Electronics Co.,Ltd
 64:57:25		Hui Zhou Gaoshengda Technology Co.,LTD
 64:57:BA		Intel Corporate
 64:57:E5		Beijing Royaltech Co.,Ltd
@@ -37689,6 +37694,7 @@
 78:48:FC		System Loco Ltd
 78:49:1D		The Will-Burt Company
 78:49:46		Cambridge Mobile Telematics, Inc.
+78:49:D7		Samsung Electronics Co.,Ltd
 78:4B:08		f.robotics acquisitions ltd
 78:4B:87		Murata Manufacturing Co., Ltd.
 78:4F:24		Taicang T&W Electronics
@@ -39022,6 +39028,7 @@
 80:86:F2		Intel Corporate
 80:88:00		zte corporation
 80:89:17		Tp-Link Technologies Co.,Ltd.
+80:89:43		Samsung Electronics Co.,Ltd
 80:8A:8B		vivo Mobile Communication Co., Ltd.
 80:8A:BD		Samsung Electronics Co.,Ltd
 80:8A:F7		Nanoleaf
@@ -44248,6 +44255,7 @@
 90:F7:21		IndiNatus (IndiNatus India Private Limited)
 90:F7:2F		Phillips Machine & Welding Co., Inc.
 90:F7:B2		New H3C Technologies Co., Ltd
+90:F8:0C		Samsung Electronics Co.,Ltd
 90:F8:2E		Amazon Technologies Inc.
 90:F8:61		u-blox AG
 90:F8:91		Kaon Group Co., Ltd.
@@ -48824,6 +48832,10 @@ B4:DE:31		Cisco Systems, Inc
 B4:DE:DF		zte corporation
 B4:DF:09		Flux::
 B4:DF:3B		Chromlech
+B4:DF:43		IEEE Registration Authority
+B4:DF:43:30:00:00/28	Hangzhou Huasu Technology CO., LTD.
+B4:DF:43:40:00:00/28	Shenzhen Huizhen Fishery Co., Ltd.
+B4:DF:43:90:00:00/28	Epilady 2000
 B4:DF:43:C0:00:00/28	Raven Resonance Inc.
 B4:DF:91		Cisco Meraki
 B4:DF:FA		Litemax Electronics Inc.
@@ -52753,6 +52765,7 @@ D4:2C:0F		Commscope
 D4:2C:3D		Sky Light Digital Limited
 D4:2C:44		Cisco Systems, Inc
 D4:2C:46		Buffalo.Inc
+D4:2C:A6		Samsung Electronics Co.,Ltd
 D4:2D:C5		i-PRO Co., Ltd.
 D4:2D:CC		Apple, Inc.
 D4:2F:23		Akenori PTE Ltd
@@ -58223,6 +58236,7 @@ FC:E4:98:C0:00:00/28	Siretta Ltd
 FC:E4:98:D0:00:00/28	Infinity Electronics Ltd
 FC:E4:98:E0:00:00/28	TIH Microelectronics Technology Co. Ltd.
 FC:E5:57		Nokia Corporation
+FC:E5:F0		Samsung Electronics Co.,Ltd
 FC:E6:6A		Industrial Software Co
 FC:E6:C6		China Mobile Group Device Co.,Ltd.
 FC:E8:06		Edifier International
