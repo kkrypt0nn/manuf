@@ -18360,6 +18360,7 @@
 08:75:72		Obelux Oy
 08:76:18		ViTrox Technologies Sdn. Bhd
 08:76:71		Juniper Networks
+08:76:83		AltoBeam Inc.
 08:76:95		Auto Industrial Co., Ltd.
 08:76:FF		Thomson Telecom Belgium
 08:78:08		Samsung Electronics Co.,Ltd
@@ -20549,6 +20550,7 @@
 18:B2:09		Torrey Pines Logic, Inc
 18:B3:BA		Netlogic AB
 18:B4:30		Nest Labs Inc.
+18:B4:FE		Tozed Kangwei Tech Co., Ltd
 18:B5:91		I-Storm
 18:B6:57		Huawei Technologies Co.,Ltd
 18:B6:CC		We Corporation Inc.
@@ -26803,6 +26805,7 @@
 44:56:8D		PNC Technologies  Co., Ltd.
 44:56:B7		Spawn Labs, Inc
 44:56:E2		Sichuan Tianyi Comheart Telecom Co.,LTD
+44:57:9F		Beijing Xiaomi Mobile Software Co., Ltd
 44:58:29		Cisco SPVTG
 44:59:25		Square Inc.
 44:59:43		zte corporation
@@ -27080,6 +27083,7 @@
 44:DF:65		Beijing Xiaomi Mobile Software Co., Ltd
 44:E0:8E		Cisco SPVTG
 44:E1:37		Commscope
+44:E2:13		Beijing Xiaomi Mobile Software Co., Ltd
 44:E2:F1		NewRadio Technologies Co. , Ltd.
 44:E2:F8		Silicon Laboratories
 44:E4:9A		Omnitronics Pty Ltd
@@ -27661,6 +27665,7 @@
 4A:72:06		CAIRE, Inc.
 4A:7F:74		INTEC Inc.
 4A:AD:CE		Codan Argus Ag
+4A:B4:7B		faytech Tech. Co., Ltd.
 4A:C0:3F		Wuhan Hikstorage Technology Co.,Ltd
 4A:CA:3E		Zeus
 4A:DA:10		Emotiva Audio Corp
@@ -31210,6 +31215,7 @@
 64:C6:AF		AXERRA Networks Ltd
 64:C6:D2		Seiko Epson Corporation
 64:C7:53		Apple, Inc.
+64:C7:F1		Premier-D LLC
 64:C9:01		INVENTEC Corporation
 64:C9:05		Apple, Inc.
 64:C9:44		LARK Technologies, Inc
@@ -39100,6 +39106,7 @@
 80:AD:67		Kasda Networks Inc
 80:AE:3C		Taicang T&W Electronics
 80:AE:54		Tp-Link Technologies Co.,Ltd.
+80:AE:AD		Beijing Langren Technology co., Ltd.
 80:AF:19		Apple, Inc.
 80:AF:9F		eero inc.
 80:AF:CA		Shenzhen Cudy Technology Co., Ltd.
@@ -47679,6 +47686,7 @@ AC:86:D1:B0:00:00/28	shenzhen ceita communications technology co.,ltd
 AC:86:D1:C0:00:00/28	MOTUSTECHS(Wuhan)Co.,Ltd.
 AC:86:D1:D0:00:00/28	Krixe Pte. Ltd.
 AC:86:D1:E0:00:00/28	Retina Development B.V.
+AC:87:3F		Bouffalo Lab (Nanjing) Co., Ltd.
 AC:87:46		Huizhou BYD Electronic Co., Ltd.
 AC:87:A3		Apple, Inc.
 AC:88:66		Shenzhen Skyworth Digital  Technology  CO., Ltd
@@ -48833,10 +48841,18 @@ B4:DE:DF		zte corporation
 B4:DF:09		Flux::
 B4:DF:3B		Chromlech
 B4:DF:43		IEEE Registration Authority
+B4:DF:43:10:00:00/28	Uta  Wireless S.R.L.
+B4:DF:43:20:00:00/28	Wenzel Associates
 B4:DF:43:30:00:00/28	Hangzhou Huasu Technology CO., LTD.
 B4:DF:43:40:00:00/28	Shenzhen Huizhen Fishery Co., Ltd.
+B4:DF:43:50:00:00/28	Guangdong Enok Communication CO.,Ltd.
+B4:DF:43:60:00:00/28	Vi Lab
+B4:DF:43:70:00:00/28	RDP Innovation
+B4:DF:43:80:00:00/28	Qizhi Innovation (shenzhen) Conmmunication Technology Co., Ltd
 B4:DF:43:90:00:00/28	Epilady 2000
+B4:DF:43:B0:00:00/28	Huaten International Technology Limited
 B4:DF:43:C0:00:00/28	Raven Resonance Inc.
+B4:DF:43:D0:00:00/28	Leica Biosystems Shanghai
 B4:DF:91		Cisco Meraki
 B4:DF:FA		Litemax Electronics Inc.
 B4:E0:1D		Conception Electronique
@@ -56556,6 +56572,7 @@ F0:E7:7E		Samsung Electronics Co.,Ltd
 F0:EA:E1		Nanjing RISC-V Institute Co., Ltd.
 F0:EB:D0		Shanghai Feixun Communication Co.,Ltd.
 F0:EC:39		Essec
+F0:EC:80		Zero Boundary Singularity Technology(Shenzhen)
 F0:ED:19		zte corporation
 F0:ED:1E		Bilkon Bilgisayar Kontrollu Cih. Im.Ltd.
 F0:ED:51		Qingdao Intelligent&Precise Electronics Co.,Ltd.
@@ -56840,6 +56857,7 @@ F4:64:5D		Toshiba
 F4:64:B6		Sercomm Corporation.
 F4:65:0B		Espressif Inc.
 F4:65:A6		Apple, Inc.
+F4:66:39		GD Midea Air-Conditioning Equipment Co.,Ltd.
 F4:67:2D		ShenZhen Topstar Technology Company
 F4:68:02		Huawei Technologies Co.,Ltd
 F4:69:42		Askey Computer Corp
