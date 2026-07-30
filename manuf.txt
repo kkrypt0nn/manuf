@@ -19615,6 +19615,7 @@
 10:C4:CA		HUMAX Co., Ltd.
 10:C5:86		Bio Sound Lab Co., Ltd.
 10:C5:95		Lenovo
+10:C5:FA		Zyxel Communications Corporation
 10:C6:0C		Domino UK Ltd
 10:C6:1F		Huawei Technologies Co.,Ltd
 10:C6:5E		Adapt-IP
@@ -48841,6 +48842,7 @@ B4:DE:DF		zte corporation
 B4:DF:09		Flux::
 B4:DF:3B		Chromlech
 B4:DF:43		IEEE Registration Authority
+B4:DF:43:00:00:00/28	Metatronix srl
 B4:DF:43:10:00:00/28	Uta  Wireless S.R.L.
 B4:DF:43:20:00:00/28	Wenzel Associates
 B4:DF:43:30:00:00/28	Hangzhou Huasu Technology CO., LTD.
@@ -52699,6 +52701,7 @@ D4:0A:A9		Commscope
 D4:0A:DC		Qingdao Intelligent&Precise Electronics Co.,Ltd.
 D4:0B:1A		HTC Corporation
 D4:0B:B9		Solid Semecs bv.
+D4:0C:9D		SiFly Aviation, Inc
 D4:0D:AB		Shenzhen Cudy Technology Co., Ltd.
 D4:0E:60		Nanjing phx-gctech Information Technology Co., Ltd
 D4:0F:9E		Apple, Inc.
@@ -56770,7 +56773,7 @@ F4:3A:7B		zte corporation
 F4:3A:FA		IEEE Registration Authority
 F4:3A:FA:00:00:00/28	AugustDevices India Private limited
 F4:3A:FA:10:00:00/28	Dspread Technology (Beijing) Inc.
-F4:3A:FA:20:00:00/28	Private
+F4:3A:FA:20:00:00/28	Ruijie Networks Co.,LTD
 F4:3A:FA:30:00:00/28	Jiaxing Haishijiaan Smartcity Technology CO., LTD.
 F4:3A:FA:40:00:00/28	Aifrutech Co.,LTD
 F4:3A:FA:50:00:00/28	Grayeye IT Systems Private Limited
