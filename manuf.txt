@@ -16105,6 +16105,7 @@
 00:9B:08		Quectel Wireless Solutions Co.,Ltd.
 00:9C:02		Hewlett Packard
 00:9C:17		Quectel Wireless Solutions Co.,Ltd.
+00:9C:57		Hextronics
 00:9C:C0		vivo Mobile Communication Co., Ltd.
 00:9D:6B		Murata Manufacturing Co., Ltd.
 00:9D:85		Sigmastar Technology Ltd.
@@ -39114,7 +39115,6 @@
 80:AD:67		Kasda Networks Inc
 80:AE:3C		Taicang T&W Electronics
 80:AE:54		Tp-Link Technologies Co.,Ltd.
-80:AE:AD		Beijing Langren Technology co., Ltd.
 80:AF:19		Apple, Inc.
 80:AF:9F		eero inc.
 80:AF:CA		Shenzhen Cudy Technology Co., Ltd.
@@ -42708,6 +42708,7 @@
 8C:1F:64:CE:E0:00/36	Displax S.A.
 8C:1F:64:CE:F0:00/36	Goertek Robotics Co.,Ltd.
 8C:1F:64:CF:10:00/36	ROBOfiber, Inc.
+8C:1F:64:CF:20:00/36	Potter Electric Signal Company
 8C:1F:64:CF:30:00/36	ABB S.p.A.
 8C:1F:64:CF:40:00/36	Nt
 8C:1F:64:CF:60:00/36	NYBSYS Inc
@@ -45222,6 +45223,7 @@
 98:C0:EB		Global Regency Ltd
 98:C3:77		Espressif Inc.
 98:C3:D2		Ningbo Sanxing Medical Electric Co.,Ltd
+98:C5:B3		New H3C Technologies Co., Ltd
 98:C5:DB		Ericsson AB
 98:C7:A4		Shenzhen HS Fiber Communication Equipment CO., LTD
 98:C8:1C		Baytec Limited
@@ -47341,6 +47343,7 @@ A8:D4:09		USA 111 Inc
 A8:D4:98		Avira Operations GmbH & Co. KG
 A8:D4:E0		Huawei Technologies Co.,Ltd
 A8:D5:79		Beijing Chushang Science and Technology Co.,Ltd
+A8:D6:D9		Cloud Network Technology Singapore Pte. Ltd.
 A8:D8:28		Ascensia Diabetes Care
 A8:D8:61		Itel Mobile Limited
 A8:D8:8A		Wyconn
@@ -55148,6 +55151,7 @@ E8:13:67		AIRSOUND Inc.
 E8:13:6E		Huawei Technologies Co.,Ltd
 E8:14:99		Yoqu Technology(Shenzhen)Co.,Ltd.
 E8:15:0E		Nokia Corporation
+E8:15:FE		New H3C Technologies Co., Ltd
 E8:16:2B		IDEO Security Co., Ltd.
 E8:16:56		Hangzhou BroadLink Technology Co.,Ltd
 E8:17:11		Shenzhen Vipstech Co., Ltd
