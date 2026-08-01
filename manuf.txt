@@ -27108,6 +27108,7 @@
 44:E9:DD		Sagemcom Broadband SAS
 44:EA:30		Samsung Electronics Co.,Ltd
 44:EA:4B		Actlas Inc.
+44:EA:54		Udisense Dba Nanit
 44:EA:D8		Texas Instruments
 44:EB:2E		Alpsalpine Co,.Ltd
 44:EC:CE		Juniper Networks
@@ -38318,6 +38319,7 @@
 7C:4B:78		Red Sun Synthesis Pte Ltd
 7C:4C:58		Scale Computing, Inc.
 7C:4C:A5		Sky Uk Limited
+7C:4D:4A		Zhiyue Xingchen(shanghai) Intelligent Terminal Co.,Ltd.
 7C:4D:8F		HP Inc.
 7C:4E:09		Shenzhen Skyworth Wireless Technology Co.,Ltd
 7C:4F:7D		Sawwave
@@ -48419,6 +48421,7 @@ B0:FD:0B:D0:00:00/28	Habana Labs LTD.
 B0:FD:0B:E0:00:00/28	Shenzhen FEIBIT Electronic Technology Co.,LTD
 B0:FE:BD		Private
 B0:FE:E5		Huawei Device Co., Ltd.
+B0:FF:0D		Hangzhou Hikvision Digital Technology Co.,Ltd.
 B0:FF:72		IEEE Registration Authority
 B0:FF:72:00:00:00/28	ShenYang LeShun Technology Co.,Ltd
 B0:FF:72:10:00:00/28	Guangzhou Senguang Communication Technology Co., Ltd
@@ -52653,6 +52656,7 @@ D0:D9:4F:D0:00:00/28	Duksanmecasys Co., Ltd.
 D0:D9:4F:E0:00:00/28	Appotronics Co., Ltd
 D0:DA:24		IEEE Registration Authority
 D0:DA:24:10:00:00/28	Witstek Hongkong Limited
+D0:DA:24:80:00:00/28	Shanghai Yunsilicon Technology Co., Ltd.
 D0:DA:D7		Apple, Inc.
 D0:DB:32		Nokia Corporation
 D0:DB:B7		Casa Systems
@@ -54856,6 +54860,7 @@ E4:60:59		Pingtek Co., Ltd.
 E4:61:F4		shenzhen worldelite electronics co., LTD
 E4:62:51		Hao Cheng Group Limited
 E4:62:C4		Cisco Systems, Inc
+E4:63:FE		Fujian Star-Net Communication Co.,Ltd
 E4:64:47		EM Microelectronic
 E4:64:49		Commscope
 E4:65:64		Shenzhen Ktc Technology Co.,Ltd
@@ -57343,6 +57348,7 @@ F8:2F:6A		Itel Mobile Limited
 F8:2F:A8		Hon Hai Precision Ind. Co.,Ltd.
 F8:30:02		Texas Instruments
 F8:30:94		Alcatel-Lucent Telecom Limited
+F8:31:25		Xiamen uink Technology Co., Ltd
 F8:31:3E		endeavour GmbH
 F8:32:BA		VusionGroup
 F8:32:E4		ASUSTek COMPUTER INC.
