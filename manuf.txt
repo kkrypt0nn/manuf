@@ -31254,6 +31254,7 @@
 64:D4:DA		Intel Corporate
 64:D4:F0		Netvue，Inc.
 64:D5:62		Huawei Device Co., Ltd.
+64:D6:08		Shenzhen Ailyworld Technology Co.,Ltd.
 64:D6:67		Shanghai Ikotek Technology Co.,Ltd
 64:D6:9A		Intel Corporate
 64:D7:C0		Huawei Device Co., Ltd.
@@ -37187,6 +37188,7 @@
 74:5D:43		BSH Hausgeräte GmbH
 74:5D:68		Fiberhome Telecommunication Technologies Co.,LTD
 74:5E:1C		Pioneer Corporation
+74:5E:B4		Yokowo Co., Ltd.
 74:5F:00		Samsung Semiconductor Inc.
 74:5F:90		LAM Technologies
 74:5F:AE		Tsl Ppl
@@ -48149,6 +48151,7 @@ B0:80:8C		Laser Light Engines
 B0:81:01		Honor Device Co., Ltd.
 B0:81:84		Espressif Inc.
 B0:81:D8		I-sys Corp
+B0:82:AB		Guangdong Welland Technology Co.,Ltd
 B0:82:E2		ASUSTek COMPUTER INC.
 B0:83:D6		Commscope
 B0:83:FE		Dell Inc.
@@ -49148,6 +49151,7 @@ B8:80:35		Shenzhen Qihu Intelligent Technology Company Limited
 B8:80:4F		Texas Instruments
 B8:81:98		Intel Corporate
 B8:81:FA		Apple, Inc.
+B8:82:68		Shenzhen Hopestar Technology Co.,Ltd.
 B8:82:F2		WNC Corporation
 B8:83:03		Hewlett Packard Enterprise
 B8:84:11		Shenzhen Shokz Co., Ltd.
@@ -52661,6 +52665,7 @@ D0:D9:4F:E0:00:00/28	Appotronics Co., Ltd
 D0:DA:24		IEEE Registration Authority
 D0:DA:24:10:00:00/28	Witstek Hongkong Limited
 D0:DA:24:80:00:00/28	Shanghai Yunsilicon Technology Co., Ltd.
+D0:DA:24:B0:00:00/28	Cjms Llc
 D0:DA:D7		Apple, Inc.
 D0:DB:32		Nokia Corporation
 D0:DB:B7		Casa Systems
@@ -52682,6 +52687,7 @@ D0:E8:28		Radiant Industries Incorporated
 D0:EA:11		Routerboard.com
 D0:EA:30		NXP Semiconductors Taiwan Ltd.
 D0:EB:03		Zhehua technology limited
+D0:EB:1A		Siemens AG
 D0:EB:9E		Seowoo Inc.
 D0:EC:35		Cisco Systems, Inc
 D0:ED:FF		Zf Cvcs
@@ -56672,6 +56678,7 @@ F4:06:69		Intel Corporate
 F4:06:8D		devolo AG
 F4:06:A3		Huawei Device Co., Ltd.
 F4:06:A5		Hangzhou Bianfeng Networking Technology Co., Ltd.
+F4:08:55		Qingdao Haier Technology Co.Ltd
 F4:09:D8		Samsung Electro-Mechanics(Thailand)
 F4:0A:2E		Shenzhen Skyworth Digital  Technology  CO., Ltd
 F4:0A:4A		INDUSNET Communication Technology Co.,LTD
