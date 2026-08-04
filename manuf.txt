@@ -7711,7 +7711,7 @@
 00:1D:63		Miele & Cie. KG
 00:1D:64		Adam Communications Systems Int Ltd
 00:1D:65		Microwave Radio Communications
-00:1D:66		Hyundai Telecom
+00:1D:66		HYUNDAI HT Co., Ltd.
 00:1D:67		Amec
 00:1D:68		Thomson Telecom Belgium
 00:1D:69		Knorr-Bremse IT-Services GmbH
@@ -31802,6 +31802,7 @@
 6A:1F:6C		iPass, Inc.
 6A:40:65		Open Connectivity Foundation
 6A:5C:35		Secrétariat général de la défense et de la sécurité nationale
+6A:61:EE		Nanjing Etlchips Microelectronics Technology Co., LTD
 6A:62:1E		DIFI Consortium
 6A:71:E6		FuelCloud
 6A:73:7D		25G Ethernet Consortium
@@ -38172,6 +38173,7 @@
 7A:84:F0		McDowell Signal Processing, LLC (dba McDSP)
 7A:8D:D1		TePS'EG
 7A:AB:77		Orange
+7A:B2:30		European Telecommunications Standards Institute
 7A:F9:55		Relay, Inc.
 7A:FD:44		Rosenberger Hochfrequenztechnik GmbH & Co. KG
 7C:00:4D		Huawei Technologies Co.,Ltd
@@ -44044,6 +44046,7 @@
 90:90:3C		Trison Technology Corporation
 90:90:60		Rsi Video Technologies
 90:91:64		ChongQing Lavid Technology Co., Ltd.
+90:91:6E		nFore Technology Co., Ltd.
 90:92:2C		Changzhi City Zhouyi Hengtong Information Security Co.,Ltd.
 90:92:B4		Diehl BGT Defence GmbH & Co. KG
 90:93:5A		Commscope
@@ -47548,6 +47551,7 @@ AC:3D:FA		Hangzhou Huacheng Network Technology Co.,Ltd
 AC:3E:B1		Google, Inc.
 AC:3F:A4		Taiyo Yuden Co.,Ltd
 AC:40:1E		vivo Mobile Communication Co., Ltd.
+AC:40:B5		Lumiva Inc.
 AC:40:EA		C&T Solution Inc.
 AC:41:22		Eclipse Electronic Systems Inc.
 AC:41:6A		Amazon Technologies Inc.
@@ -52664,6 +52668,7 @@ D0:D9:4F:D0:00:00/28	Duksanmecasys Co., Ltd.
 D0:D9:4F:E0:00:00/28	Appotronics Co., Ltd
 D0:DA:24		IEEE Registration Authority
 D0:DA:24:10:00:00/28	Witstek Hongkong Limited
+D0:DA:24:70:00:00/28	Canlab Co., Ltd.
 D0:DA:24:80:00:00/28	Shanghai Yunsilicon Technology Co., Ltd.
 D0:DA:24:B0:00:00/28	Cjms Llc
 D0:DA:D7		Apple, Inc.
