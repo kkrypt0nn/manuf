@@ -24321,6 +24321,7 @@
 34:B2:0A		Huawei Device Co., Ltd.
 34:B3:54		Huawei Technologies Co.,Ltd
 34:B4:72		Espressif Inc.
+34:B4:F0		Hasselblad (Shenzhen) Trading CompanyLimited
 34:B5:71		Plds
 34:B5:A3		Cig Shanghai Co Ltd
 34:B5:F3		IEEE Registration Authority
@@ -24927,7 +24928,6 @@
 38:B1:4E:B0:00:00/28	Huizhou GYXX Technology Co., Ltd
 38:B1:4E:C0:00:00/28	Guangzhou Sunrise Technology Co., Ltd.
 38:B1:4E:D0:00:00/28	Private
-38:B1:4E:E0:00:00/28	Knit Sound Company
 38:B1:9E		IEEE Registration Authority
 38:B1:9E:00:00:00/28	Triple Jump Medical
 38:B1:9E:10:00:00/28	Freedompro Srl
@@ -29933,6 +29933,7 @@
 5C:4D:BF		zte corporation
 5C:4E:EE		AltoBeam Inc.
 5C:50:15		Cisco Systems, Inc
+5C:50:D3		Knit Sound Company
 5C:50:D9		Apple, Inc.
 5C:51:36		Samsung Electronics Co.,Ltd
 5C:51:4F		Intel Corporate
@@ -40581,6 +40582,7 @@
 8C:1F:64:0D:F0:00/36	Leidos
 8C:1F:64:0E:00:00/36	Autopharma
 8C:1F:64:0E:10:00/36	Riverloop Co., Ltd.
+8C:1F:64:0E:20:00/36	Cardinal Scales Manufacturing Co
 8C:1F:64:0E:30:00/36	JISEONGENG Co,.LTD
 8C:1F:64:0E:50:00/36	Rugged Science
 8C:1F:64:0E:60:00/36	Cleanwatts Digital, S.A.
@@ -41002,6 +41004,7 @@
 8C:1F:64:35:40:00/36	Paul Tagliamonte
 8C:1F:64:35:70:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:35:80:00/36	Denso Manufacturing Tennessee
+8C:1F:64:35:90:00/36	Dongguan Ritian Communication Technology Co., Ltd.
 8C:1F:64:35:A0:00/36	Korea Electric Vehicle Infra Technology
 8C:1F:64:35:C0:00/36	Opgal Optronic Industries ltd
 8C:1F:64:35:D0:00/36	Security&Best
@@ -52668,9 +52671,15 @@ D0:D9:4F:D0:00:00/28	Duksanmecasys Co., Ltd.
 D0:D9:4F:E0:00:00/28	Appotronics Co., Ltd
 D0:DA:24		IEEE Registration Authority
 D0:DA:24:10:00:00/28	Witstek Hongkong Limited
+D0:DA:24:40:00:00/28	National Security Technology JSC
+D0:DA:24:50:00:00/28	Shenzhen Zhangyue Technology Co.,Ltd
+D0:DA:24:60:00:00/28	Aheesa Digital Innovations Private Limited
 D0:DA:24:70:00:00/28	Canlab Co., Ltd.
 D0:DA:24:80:00:00/28	Shanghai Yunsilicon Technology Co., Ltd.
+D0:DA:24:90:00:00/28	Teradyne Robotics A/S
 D0:DA:24:B0:00:00/28	Cjms Llc
+D0:DA:24:C0:00:00/28	Alloop（Hong kong）Limited
+D0:DA:24:D0:00:00/28	AmenTech Inc.
 D0:DA:D7		Apple, Inc.
 D0:DB:32		Nokia Corporation
 D0:DB:B7		Casa Systems
