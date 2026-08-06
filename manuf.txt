@@ -41373,6 +41373,7 @@
 8C:1F:64:55:E0:00/36	Hanateksystem
 8C:1F:64:56:00:00/36	Dexter Laundry Inc.
 8C:1F:64:56:10:00/36	Deep Detection / ESB01736990
+8C:1F:64:56:20:00/36	WOLF Advanced Technology
 8C:1F:64:56:60:00/36	Ultiroam
 8C:1F:64:56:80:00/36	Integer.pl S.A.
 8C:1F:64:56:A0:00/36	Radaz Indústria e Comércio de Produtos Eletronicos S/A
@@ -42821,6 +42822,7 @@
 8C:1F:64:D8:00:00/36	Aztek Sa
 8C:1F:64:D8:10:00/36	Mitsubishi Electric India Pvt. Ltd.
 8C:1F:64:D8:20:00/36	Shanghai Jarue Microsystem.CO.,Ltd.
+8C:1F:64:D8:40:00/36	OES Inc.
 8C:1F:64:D8:70:00/36	Experio Tech Private Limited
 8C:1F:64:D8:80:00/36	University of Geneva - Department of Particle Physics
 8C:1F:64:D8:A0:00/36	Boon Arthur Engineering Pte Ltd
@@ -43041,6 +43043,7 @@
 8C:1F:64:EC:30:00/36	Scenario Automation
 8C:1F:64:EC:50:00/36	Stanley Black & Decker Engineered Fastening (Nantong) Co., Ltd.
 8C:1F:64:EC:C0:00/36	Baldwin Jimek AB
+8C:1F:64:EC:D0:00/36	Beijing BITMC Technology co.Ltd
 8C:1F:64:EC:F0:00/36	Monnit Corporation
 8C:1F:64:ED:00:00/36	Shanghai Jupper Technology Co.Ltd
 8C:1F:64:ED:10:00/36	Smart Solution Inc.
@@ -47440,6 +47443,7 @@ AC:04:0B		Peloton Interactive, Inc
 AC:04:25		ball-b GmbH Co KG
 AC:04:81		Jiangsu Huaxing Electronics Co., Ltd.
 AC:04:AA		GoPro
+AC:04:E6		NTX Electronics YangZhou co.,LTD
 AC:05:C7		Intel Corporate
 AC:06:13		Senselogix Ltd
 AC:06:50		Shanghai Baosight Software Co., Ltd
@@ -52417,6 +52421,7 @@ D0:77:14		Motorola Mobility LLC, a Lenovo Company
 D0:77:CE		Edgecore Networks Corporation
 D0:78:80		Fiberhome Telecommunication Technologies Co.,LTD
 D0:78:9A		Vantiva - Connected Home
+D0:79:2F		New H3C Intelligence Terminal Co., Ltd.
 D0:7A:B5		Huawei Technologies Co.,Ltd
 D0:7B:6F		Zhuhai Yunmai Technology Co.,Ltd
 D0:7C:2D		Leie IOT technology Co., Ltd
@@ -52496,6 +52501,7 @@ D0:97:FE		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 D0:98:9C		ConMet
 D0:98:B1		GScoolink Microelectronics (Beijing) Co.,LTD
 D0:99:D5		Alcatel-Lucent
+D0:9A:AF		Espressif Systems (Singapore) Pte. Ltd
 D0:9B:05		Emtronix
 D0:9C:30		Foster Electric Company, Limited
 D0:9C:7A		Xiaomi Communications Co Ltd
@@ -52671,6 +52677,7 @@ D0:D9:4F:C0:00:00/28	Arrowave Technologies Limited
 D0:D9:4F:D0:00:00/28	Duksanmecasys Co., Ltd.
 D0:D9:4F:E0:00:00/28	Appotronics Co., Ltd
 D0:DA:24		IEEE Registration Authority
+D0:DA:24:00:00:00/28	Beijing Deeprift Technologies Co., Ltd.
 D0:DA:24:10:00:00/28	Witstek Hongkong Limited
 D0:DA:24:40:00:00/28	National Security Technology JSC
 D0:DA:24:50:00:00/28	Shenzhen Zhangyue Technology Co.,Ltd
@@ -54180,6 +54187,7 @@ DC:E9:94		Cloud Network Technology Singapore Pte. Ltd.
 DC:EA:E7		D-Link Corporation
 DC:EB:4D		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
 DC:EB:53		Wuhan QianXiao Elecronic Technology CO.,LTD
+DC:EB:5D		Shandong Sinochip Semiconductors Co.,Ltd.
 DC:EB:69		Vantiva USA LLC
 DC:EB:94		Cisco Systems, Inc
 DC:EC:06		Heimi Network Technology Co., Ltd.
