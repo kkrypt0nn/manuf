@@ -52684,6 +52684,7 @@ D0:DA:24		IEEE Registration Authority
 D0:DA:24:00:00:00/28	Beijing Deeprift Technologies Co., Ltd.
 D0:DA:24:10:00:00/28	Witstek Hongkong Limited
 D0:DA:24:20:00:00/28	acemetro electronics india private limited
+D0:DA:24:30:00:00/28	Hangzhou Arcvideo Technology Co., Ltd.
 D0:DA:24:40:00:00/28	National Security Technology JSC
 D0:DA:24:50:00:00/28	Shenzhen Zhangyue Technology Co.,Ltd
 D0:DA:24:60:00:00/28	Aheesa Digital Innovations Private Limited
