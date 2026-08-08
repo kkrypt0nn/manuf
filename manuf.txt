@@ -20146,6 +20146,7 @@
 14:E2:2A		Cisco Systems, Inc
 14:E2:89		Abietec Inc.
 14:E4:EC		mLogic LLC
+14:E6:02		Shenzhen EMTEK Storage Technology Co.,Ltd
 14:E6:E4		Tp-Link Technologies Co.,Ltd.
 14:E7:C8		Integrated Device Technology (Malaysia) Sdn. Bhd.
 14:E9:B2		Fiberhome Telecommunication Technologies Co.,LTD
@@ -22134,6 +22135,7 @@
 24:9E:7D		Beijing Roborock Technology Co., Ltd.
 24:9E:AB		Huawei Technologies Co.,Ltd
 24:9F:89		Texas Instruments
+24:A0:2D		shenzhen worldelite electronics co., LTD
 24:A0:74		Apple, Inc.
 24:A1:0D		IEEE Registration Authority
 24:A1:0D:00:00:00/28	Lobaro GmbH
@@ -22183,7 +22185,7 @@
 24:A7:99		Huawei Device Co., Ltd.
 24:A7:DC		Sky Uk Limited
 24:A8:7D		Panasonic Automotive Systems Asia Pacific(Thailand)Co.,Ltd.
-24:A9:37		PURE Storage
+24:A9:37		Everpure, Inc.
 24:AB:81		Apple, Inc.
 24:AC:AC		Polar Electro Oy
 24:AE:CC		Honor Device Co., Ltd.
@@ -31964,6 +31966,7 @@
 6C:3C:53		SoundHawk Corp
 6C:3C:7C		Canon Inc.
 6C:3C:8C		Dell Inc.
+6C:3D:7D		Vantiva USA LLC
 6C:3D:D8		Espressif Systems (Singapore) Pte. Ltd
 6C:3E:51		Mindray North America
 6C:3E:6D		Apple, Inc.
@@ -38389,6 +38392,7 @@
 7C:6D:62		Apple, Inc.
 7C:6D:A6		Superwave Group LLC
 7C:6D:F8		Apple, Inc.
+7C:6E:47		Huizhou Guangshijia Communication Technology Co., Ltd.
 7C:6F:06		Caterpillar Trimble Control Technologies
 7C:6F:F8		ShenZhen ACTO Digital Video Technology Co.,Ltd.
 7C:70:BC		IEEE Registration Authority
@@ -53494,6 +53498,7 @@ D8:74:95		zte corporation
 D8:74:DF		Huawei Technologies Co.,Ltd
 D8:74:EF		Guangzhou Shiyuan Electronic Technology Company Limited
 D8:75:33		Nokia Corporation
+D8:76:02		Nxj Inc.
 D8:76:0A		Escort, Inc.
 D8:76:AE		Huawei Technologies Co.,Ltd
 D8:77:66		Nurivoice Co., Ltd
@@ -55774,6 +55779,7 @@ EC:31:11		Sichuan AI-Link Technology Co., Ltd.
 EC:31:4A		Chengdu Quanjing Intelligent Technology Co.,Ltd
 EC:31:5F		Amazon Technologies Inc.
 EC:31:6D		Hansgrohe
+EC:33:CC		Hewlett Packard Enterprise
 EC:34:E2		Yasmina Labs Trading FZE
 EC:35:32		Tactrix Inc.
 EC:35:4D		Wingtech Mobile Communications Co.,Ltd
