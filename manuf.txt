@@ -23828,6 +23828,7 @@
 30:B8:9A		Kryon Technology Private Limited
 30:B9:30		zte corporation
 30:B9:B0		Intracom Asia Co., Ltd
+30:BB:28		IEEE Registration Authority
 30:BB:28:C0:00:00/28	TAIRA(Lasersan Advanced Teknoloji Sistemleri A.Ş.)
 30:BB:43		Sixi Networks Co., Ltd
 30:BB:7D		OnePlus Technology (Shenzhen) Co., Ltd
