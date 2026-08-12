@@ -23832,6 +23832,8 @@
 30:B9:B0		Intracom Asia Co., Ltd
 30:BB:28		IEEE Registration Authority
 30:BB:28:00:00:00/28	Digital Reach Pvt Ltd
+30:BB:28:10:00:00/28	FairPhone B.V.
+30:BB:28:A0:00:00/28	Bull Creek Technologies
 30:BB:28:B0:00:00/28	JiangSu Shenzhou Semiconductor Technology Co.,Ltd
 30:BB:28:C0:00:00/28	TAIRA(Lasersan Advanced Teknoloji Sistemleri A.Ş.)
 30:BB:28:D0:00:00/28	IndiaVP Semiconductor Pvt Ltd
@@ -26734,6 +26736,7 @@
 44:20:63		AUMOVIO Germany GmbH
 44:22:7C		Huawei Technologies Co.,Ltd
 44:22:95		China Mobile Iot Limited company
+44:22:BE		rescuetrack GmbH
 44:22:F1		S.Fac, Inc
 44:23:7C		Beijing Xiaomi Mobile Software Co., Ltd
 44:23:AA		Farmage Co., Ltd.
@@ -40602,6 +40605,7 @@
 8C:1F:64:0E:10:00/36	Riverloop Co., Ltd.
 8C:1F:64:0E:20:00/36	Cardinal Scales Manufacturing Co
 8C:1F:64:0E:30:00/36	JISEONGENG Co,.LTD
+8C:1F:64:0E:40:00/36	Modern Server Solutions LLP
 8C:1F:64:0E:50:00/36	Rugged Science
 8C:1F:64:0E:60:00/36	Cleanwatts Digital, S.A.
 8C:1F:64:0E:A0:00/36	SmartSky Networks LLC
