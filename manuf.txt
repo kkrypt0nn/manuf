@@ -17873,6 +17873,7 @@
 04:D4:C4		ASUSTek COMPUTER INC.
 04:D5:90		Fortinet, Inc.
 04:D6:0E		Funai Electric Co., Ltd.
+04:D6:34		Nanjing RISC-V Institute Co., Ltd.
 04:D6:88		Cig Shanghai Co Ltd
 04:D6:AA		Samsung Electro-Mechanics(Thailand)
 04:D6:F4		GD Midea Air-Conditioning Equipment Co.,Ltd.
@@ -23833,6 +23834,9 @@
 30:BB:28		IEEE Registration Authority
 30:BB:28:00:00:00/28	Digital Reach Pvt Ltd
 30:BB:28:10:00:00/28	FairPhone B.V.
+30:BB:28:30:00:00/28	Cellslink Intelligence Technology Co,Ltd
+30:BB:28:40:00:00/28	Huizhou Hengdu Electronics Co.,Ltd.
+30:BB:28:60:00:00/28	Sunwoda Mobility Energy Technology Co., Ltd.
 30:BB:28:A0:00:00/28	Bull Creek Technologies
 30:BB:28:B0:00:00/28	JiangSu Shenzhou Semiconductor Technology Co.,Ltd
 30:BB:28:C0:00:00/28	TAIRA(Lasersan Advanced Teknoloji Sistemleri A.Ş.)
@@ -26932,6 +26936,7 @@
 44:8C:00		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 44:8C:52		KTIS CO., Ltd
 44:8C:AB		Beijing Flitlink Vientiane Technology Co., LTD
+44:8C:EC		Anhui Sunchip semiconductor technology Co;Ltd
 44:8D:BF		Rhino Mobility LLC
 44:8D:D5		Cisco Systems, Inc
 44:8E:12		DT Research, Inc.
@@ -28973,6 +28978,7 @@
 54:46:17		zte corporation
 54:46:6B		Shenzhen CZTIC Electronic Technology Co., Ltd
 54:47:41		Xcheng Holding
+54:47:81		Quectel Wireless Solutions Co.,Ltd.
 54:47:CC		Sagemcom Broadband SAS
 54:47:D3		Tsat As
 54:47:E8		Syrotech Networks. Ltd.
@@ -37171,6 +37177,7 @@
 74:4F:80		shenzhen Amos Electronics Co.,Ltd
 74:50:4E		New H3C Technologies Co., Ltd
 74:50:CD		Huawei Technologies Co.,Ltd
+74:51:8F		Jiangsu Hetai Intelligent Control Technology Co., Ltd
 74:51:BA		Xiaomi Communications Co Ltd
 74:52:CE		Hengtai Intelligent Technology (Zhongshan) Co., LTD
 74:53:27		Commsen Co., Limited
