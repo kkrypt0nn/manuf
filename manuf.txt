@@ -15499,6 +15499,7 @@
 00:71:C2		Pegatron Corporation
 00:71:CC		Hon Hai Precision Ind. Co.,Ltd.
 00:72:04		Samsung Electronics Co., Ltd. ARTIK
+00:72:30		Nordic Semiconductor ASA
 00:72:63		Netis Technology Co., Ltd.
 00:72:78		Cisco Systems, Inc
 00:72:EE		Intel Corporate
@@ -22950,6 +22951,7 @@
 2C:1A:05		Cisco Systems, Inc
 2C:1A:31		Electronics Company Limited
 2C:1B:3A		Hui Zhou Gaoshengda Technology Co.,LTD
+2C:1B:8E		BYD Semiconductor Co，Ltd
 2C:1B:C8		Hunan Topview Network System CO.,LTD
 2C:1C:F6		Alien Green LLC
 2C:1C:F7		Apple, Inc.
@@ -26592,6 +26594,7 @@
 40:E2:30		AzureWave Technology Inc.
 40:E3:17		Extreme Networks, Inc.
 40:E3:D6		Hewlett Packard Enterprise
+40:E4:C6		Nokia
 40:E6:4B		Apple, Inc.
 40:E7:30		DEY Storage Systems, Inc.
 40:E7:62		Calix Inc.
@@ -37005,6 +37008,7 @@
 74:0E:A4		Apple, Inc.
 74:0E:DB		Optowiz Co., Ltd
 74:10:E0		Broadcom Limited
+74:11:A0		Nokia
 74:11:B2		Cisco Systems, Inc
 74:12:13		Linksys USA, Inc
 74:12:B3		Chongqing Fugui Electronics Co.,Ltd.
@@ -42588,6 +42592,7 @@
 8C:1F:64:BF:60:00/36	Panoramic Power
 8C:1F:64:BF:70:00/36	Intellicon Private Limited
 8C:1F:64:BF:80:00/36	Cdsi
+8C:1F:64:BF:90:00/36	Hitachi energy India ltd
 8C:1F:64:BF:B0:00/36	TechArgos
 8C:1F:64:BF:C0:00/36	ASiS Technologies Pte Ltd
 8C:1F:64:BF:D0:00/36	Innos Technologies
@@ -42616,6 +42621,7 @@
 8C:1F:64:C1:C0:00/36	Vektrex Electronics Systems, Inc.
 8C:1F:64:C1:E0:00/36	Va Syd
 8C:1F:64:C1:F0:00/36	Esys Srl
+8C:1F:64:C2:10:00/36	SPECIM, Spectral Imaging Oy Ltd
 8C:1F:64:C2:20:00/36	Pulcro.io LLC
 8C:1F:64:C2:40:00/36	Alifax S.r.l.
 8C:1F:64:C2:60:00/36	Ironwood Electronics
@@ -43858,6 +43864,7 @@
 90:1B:0E		Fujitsu Technology Solutions GmbH
 90:1C:9E		Alcatel-Lucent Enterprise
 90:1D:27		zte corporation
+90:1D:FF		ZOWEE TECHNOLOGY(HEYUAN)Co.,Ltd
 90:1E:DD		Great Computer Corporation
 90:1F:09		Silicon Laboratories
 90:1F:94		TP-Link Systems Inc.
