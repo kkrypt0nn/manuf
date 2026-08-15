@@ -20698,6 +20698,7 @@
 18:EF:3A		Sichuan AI-Link Technology Co., Ltd.
 18:EF:63		Cisco Systems, Inc
 18:EF:C0		Sercomm Japan Corporation
+18:F0:55		Nanjing Qinheng Microelectronics Co., Ltd.
 18:F0:E4		Xiaomi Communications Co Ltd
 18:F1:45		NetComm Wireless Limited
 18:F1:8E		ChipER Technology co. ltd
@@ -23839,9 +23840,11 @@
 30:BB:28:20:00:00/28	Roomio Limited
 30:BB:28:30:00:00/28	Cellslink Intelligence Technology Co,Ltd
 30:BB:28:40:00:00/28	Huizhou Hengdu Electronics Co.,Ltd.
+30:BB:28:50:00:00/28	WuHan Glory Road Precision Technology Co.,Ltd
 30:BB:28:60:00:00/28	Sunwoda Mobility Energy Technology Co., Ltd.
 30:BB:28:70:00:00/28	Msgq Technologies Services Private Limited
 30:BB:28:80:00:00/28	Kahf Software Limited
+30:BB:28:90:00:00/28	Shenzhen Shuangyunhe Technology Co.,Ltd.
 30:BB:28:A0:00:00/28	Bull Creek Technologies
 30:BB:28:B0:00:00/28	JiangSu Shenzhou Semiconductor Technology Co.,Ltd
 30:BB:28:C0:00:00/28	TAIRA(Lasersan Advanced Teknoloji Sistemleri A.Ş.)
@@ -25079,6 +25082,7 @@
 38:F1:95		Huawei Technologies Co.,Ltd
 38:F2:0D		Juniper Networks
 38:F2:3E		Microsoft Mobile Oy
+38:F2:5D		Hangzhou Ezviz Software Co.,Ltd.
 38:F3:2E		Skullcandy
 38:F3:3F		Tatsuno Corporation
 38:F3:AB		LCFC(Hefei) Electronics Technology co., ltd
@@ -50636,6 +50640,7 @@ C4:57:46		Texas Instruments
 C4:57:6E		Samsung Electronics Co.,Ltd
 C4:57:81		Wingtech Group (HongKong) Limited
 C4:57:CD		Huawei Technologies Co.,Ltd
+C4:58:78		AltoBeam Inc.
 C4:58:C2		Shenzhen TATFOOK Technology Co., Ltd.
 C4:59:76		Fugoo Coorporation
 C4:5A:86		Huawei Device Co., Ltd.
@@ -55977,6 +55982,7 @@ EC:81:52		Huawei Technologies Co.,Ltd
 EC:81:93		Logitech, Inc
 EC:81:9C		Huawei Technologies Co.,Ltd
 EC:82:63		zte corporation
+EC:83:06		GooWi Wireless Technology Co., Limited
 EC:83:50		Microsoft Corporation
 EC:83:6C		RM Tech Co., Ltd.
 EC:83:B7		Puwell Cloud Tech Limited
@@ -58367,6 +58373,7 @@ FC:E1:FB		Array Networks
 FC:E2:3F		Clay Paky Spa
 FC:E2:6C		Apple, Inc.
 FC:E3:3C		Huawei Technologies Co.,Ltd
+FC:E3:3D		Cloud Network Technology Singapore Pte. Ltd.
 FC:E4:21		zhejiang Dusun Electron Co.,Ltd
 FC:E4:98		IEEE Registration Authority
 FC:E4:98:00:00:00/28	Ntcsoft
