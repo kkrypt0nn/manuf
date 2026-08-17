@@ -18420,6 +18420,7 @@
 08:97:34		Hewlett Packard Enterprise
 08:97:58		Shenzhen Strong Rising Electronics Co.,Ltd DongGuan Subsidiary
 08:97:98		Compal Information (Kunshan) Co., Ltd.
+08:98:EF		Shenzhen Taichi Technology Limited
 08:99:E8		KEMAS GmbH
 08:9A:C7		zte corporation
 08:9B:27		Gsd Viet Nam Technology Company Limited
@@ -24843,6 +24844,7 @@
 38:83:45		Tp-Link Technologies Co.,Ltd.
 38:83:9A		Shenzhen Rf-Link Technology Co.,Ltd.
 38:84:79		Cisco Meraki
+38:85:BB		Commodore International Corporation
 38:86:02		Flexoptix GmbH
 38:86:F7		Google, Inc.
 38:87:9C		Ei Electronics
@@ -25454,6 +25456,7 @@
 3C:86:9A		Huawei Technologies Co.,Ltd
 3C:86:A8		Sangshin elecom .co,, LTD
 3C:86:D1		vivo Mobile Communication Co., Ltd.
+3C:87:CF		Quanta Computer Inc.
 3C:89:4D		Dr. Ing. h.c. F. Porsche AG
 3C:89:70		Neosfar
 3C:89:94		Sky Uk Limited
@@ -25687,6 +25690,7 @@
 3C:FD:FE		Intel Corporate
 3C:FE:AC		Cisco Systems, Inc
 3C:FF:D8		Huawei Technologies Co.,Ltd
+3C:FF:E4		Siemens AG
 40:00:E0		Derek(Shaoguan)Limited
 40:01:07		Arista Corp
 40:01:7A		Cisco Systems, Inc
@@ -27044,6 +27048,7 @@
 44:BD:C8		Xiaomi Communications Co Ltd
 44:BD:DE		BHTC GmbH
 44:BE:0B		Huawei Technologies Co.,Ltd
+44:BE:23		Pegatron Corporation
 44:BF:E3		Shenzhen Longtech Electronics Co.,Ltd
 44:C1:5C		Texas Instruments
 44:C2:0C		Cisco Systems, Inc
@@ -41567,6 +41572,7 @@
 8C:1F:64:63:30:00/36	Gyros Protein Technologies AB
 8C:1F:64:63:40:00/36	Aml
 8C:1F:64:63:60:00/36	Europe Trade
+8C:1F:64:63:70:00/36	HwaCom Systems Inc.
 8C:1F:64:63:80:00/36	Thunder Data Taiwan Co., Ltd.
 8C:1F:64:63:90:00/36	TRD Systems Pte Ltd
 8C:1F:64:63:B0:00/36	Tiama
@@ -42164,6 +42170,7 @@
 8C:1F:64:98:D0:00/36	Aksel sp. z o.o.
 8C:1F:64:98:E0:00/36	Rational Production srl Unipersonale
 8C:1F:64:98:F0:00/36	Breas Medical AB
+8C:1F:64:99:00:00/36	Traxara Robotics
 8C:1F:64:99:10:00/36	DB Systel GmbH
 8C:1F:64:99:30:00/36	Applied Electro Magnetics Pvt. Ltd.
 8C:1F:64:99:40:00/36	uHave Control, Inc
@@ -43145,6 +43152,7 @@
 8C:1F:64:F1:C0:00/36	Rigel Engineering, LLC
 8C:1F:64:F1:D0:00/36	MB connect line GmbH Fernwartungssysteme
 8C:1F:64:F1:E0:00/36	Engage Technologies
+8C:1F:64:F1:F0:00/36	Areta AI Inc.
 8C:1F:64:F2:00:00/36	Thermaco Incorporated
 8C:1F:64:F2:10:00/36	nanoTRONIX Computing Inc.
 8C:1F:64:F2:20:00/36	Voyage Audio LLC
