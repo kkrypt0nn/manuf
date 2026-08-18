@@ -45626,6 +45626,7 @@
 9C:63:ED		zte corporation
 9C:64:5E		Harman Consumer Group
 9C:64:8B		Apple, Inc.
+9C:64:A1		Silicon Laboratories
 9C:65:B0		Samsung Electronics Co.,Ltd
 9C:65:EB		Intel Corporate
 9C:65:EE		Zhone Technologies, Inc.
@@ -51992,6 +51993,7 @@ CC:A4:62		Commscope
 CC:A4:AF		Shenzhen Sowell Technology Co., LTD
 CC:A6:14		Aifa Technology Corp.
 CC:A7:C1		Google, Inc.
+CC:A8:23		Silicon Laboratories
 CC:AA:00		Microsoft Corporation
 CC:AB:2C		HUMAX Co., Ltd.
 CC:AC:FE		Telink Semiconductor (Shanghai) Co., Ltd.
