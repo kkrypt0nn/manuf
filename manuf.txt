@@ -28890,6 +28890,7 @@
 54:08:3B:E0:00:00/28	Sinclair Technologies
 54:08:53		Qingdao Haier Technology Co.,Ltd
 54:08:D3		Tianyi Telecom Terminals Company Limited
+54:08:F1		Shenzhenlingdechuangtechnology Co.,Ltd
 54:09:10		Apple, Inc.
 54:09:29		Inventus Power Eletronica do Brasil LTDA
 54:09:55		zte corporation
