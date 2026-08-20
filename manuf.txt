@@ -17918,7 +17918,9 @@
 04:EA:56		Intel Corporate
 04:EB:40		Cisco Systems, Inc
 04:EC:A9		IEEE Registration Authority
+04:EC:A9:40:00:00/28	Shanghai Vic Lab Intelligent Technology Co.,Ltd.
 04:EC:A9:A0:00:00/28	Leegiot Intelligent Technology Co., Ltd.
+04:EC:A9:D0:00:00/28	Spectronite
 04:EC:BB		Fiberhome Telecommunication Technologies Co.,LTD
 04:EC:D8		Intel Corporate
 04:ED:33		Intel Corporate
@@ -22548,7 +22550,6 @@
 28:68:47		Silicon Laboratories
 28:68:D2		Huawei Technologies Co.,Ltd
 28:69:26		OPTOKON, a.s.
-28:69:DA		Moultrie Mobile
 28:6A:B8		Apple, Inc.
 28:6A:BA		Apple, Inc.
 28:6B:35		Intel Corporate
@@ -22756,6 +22757,7 @@
 28:D3:EA		Huawei Device Co., Ltd.
 28:D4:1E		Barrot Technology Co.,Ltd.
 28:D4:36		Jiangsu dewosi electric co., LTD
+28:D5:55		vivo Mobile Communication Co., Ltd.
 28:D5:76		Premier Wireless, Inc.
 28:D5:B1		Apple, Inc.
 28:D6:EC		Huawei Technologies Co.,Ltd
@@ -22788,6 +22790,7 @@
 28:E7:1D		Arista Networks
 28:E7:94		Microtime Computer Inc.
 28:E7:CF		Apple, Inc.
+28:E8:88		Lingban Technology (Hangzhou) Co., Ltd
 28:E9:71		EM Microelectronic
 28:E9:8E		Mitsubishi Electric Corporation
 28:EA:0B		Microsoft Corporation
@@ -42131,6 +42134,7 @@
 8C:1F:64:94:C0:00/36	Bcmtech
 8C:1F:64:94:E0:00/36	Monnit Corporation
 8C:1F:64:94:F0:00/36	Förster Technik GmbH
+8C:1F:64:95:10:00/36	Mitsubishi Electric India Pvt. Ltd.
 8C:1F:64:95:30:00/36	VAF Instruments BV
 8C:1F:64:95:50:00/36	Talleres de Escoriaza SAU
 8C:1F:64:95:60:00/36	Paulmann Licht GmbH
@@ -43233,6 +43237,7 @@
 8C:1F:64:F8:60:00/36	INFOSTECH Co., Ltd.
 8C:1F:64:F8:70:00/36	Fly Electronic (Shang Hai) Technology Co.,Ltd
 8C:1F:64:F8:80:00/36	LAMTEC Mess- und Regeltechnik für Feuerungen GmbH & Co. KG
+8C:1F:64:F8:90:00/36	Digitalwan
 8C:1F:64:F8:C0:00/36	Bk Lab
 8C:1F:64:F8:E0:00/36	Chengdu Aplux Inteligence Technology Ltd.
 8C:1F:64:F8:F0:00/36	Dovideq Medical Systems BV
@@ -45249,6 +45254,7 @@
 98:A1:4A		Quectel Wireless Solutions Co.,Ltd.
 98:A2:C0		Cisco Systems, Inc
 98:A3:16		Espressif Inc.
+98:A3:3C		Shenzhen Cultraview Digital Technology Co., Ltd
 98:A3:75		Huawei Device Co., Ltd.
 98:A4:04		Ericsson AB
 98:A4:0E		Snap, Inc.
@@ -48292,6 +48298,7 @@ B0:A3:F2		Huaqin Technology Co. LTD
 B0:A4:54		Tripwire Inc.
 B0:A4:60		Intel Corporate
 B0:A4:F0		Huawei Technologies Co.,Ltd
+B0:A5:B3		Hewlett Packard Enterprise
 B0:A6:04		Espressif Inc.
 B0:A6:51		Cisco Systems, Inc
 B0:A6:F5		Xaptum, Inc.
@@ -57478,6 +57485,7 @@ F8:33:76		Good Mind Innovation Co., Ltd.
 F8:34:41		Intel Corporate
 F8:34:51		Comcast-SRL
 F8:34:5A		Hitron Technologies. Inc
+F8:34:E5		vivo Mobile Communication Co., Ltd.
 F8:35:53		Magenta Research Ltd.
 F8:35:DD		Gemtek Technology Co., Ltd.
 F8:36:9B		Texas Instruments
