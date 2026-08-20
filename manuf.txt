@@ -20216,6 +20216,7 @@
 18:14:56		Nokia Corporation
 18:14:6C		Zhejiang Tmall Technology Co., Ltd.
 18:14:AE		Nokia
+18:14:F4		Texas Instruments
 18:16:28		SharkNinja Operating LLC
 18:16:C9		Samsung Electronics Co.,Ltd
 18:16:E8		Siliconware Precision Industries Co., Ltd.
@@ -28798,6 +28799,7 @@
 50:EE:32		Hon Hai Precision Industry Co.,LTD
 50:EE:87		Hpro
 50:EE:9B		AltoBeam Inc.
+50:EE:B5		Texas Instruments
 50:F0:03		Open Stack, Inc.
 50:F0:D3		Samsung Electronics Co.,Ltd
 50:F1:4A		Texas Instruments
@@ -30194,6 +30196,7 @@
 5C:A1:76		Sichuan Tianyi Comheart Telecom Co.,LTD
 5C:A1:78		TableTop Media (dba Ziosk)
 5C:A1:E0		EmbedWay Technologies
+5C:A2:A2		Texas Instruments
 5C:A3:9D		Samsung Electro Mechanics Co., Ltd.
 5C:A3:EB		SKODA DIGITAL s.r.o.
 5C:A4:36		Shenzhen G-world Technology Incorporated Company
@@ -44470,6 +44473,7 @@
 94:29:8D		Shanghai AdaptComm Technology Co., Ltd.
 94:2A:3F		Diversey Inc
 94:2A:6F		Ubiquiti Inc
+94:2A:D6		Texas Instruments
 94:2B:68		Apple, Inc.
 94:2C:B3		HUMAX Co., Ltd.
 94:2D:3A		Prizor Viztech Limited
@@ -47831,6 +47835,7 @@ AC:97:38		Apple, Inc.
 AC:97:6C		Greenliant
 AC:99:29		Huawei Technologies Co.,Ltd
 AC:9A:22		NXP Semiconductors
+AC:9A:3F		Texas Instruments
 AC:9A:96		Maxlinear, Inc
 AC:9B:0A		Sony Corporation
 AC:9B:84		Smak Tecnologia e Automacao
@@ -53413,6 +53418,7 @@ D8:19:09		Wiwynn Technology Service Malaysia
 D8:19:7A		Nuheara Ltd
 D8:19:CE		Telesquare
 D8:1B:B5		Huawei Technologies Co.,Ltd
+D8:1B:F4		Texas Instruments
 D8:1B:FE		Twinlinx Corporation
 D8:1C:14		Compacta International, Ltd.
 D8:1C:79		Apple, Inc.
@@ -53793,6 +53799,7 @@ D8:EE:42		Sichuan Tianyi Comheart Telecom Co.,LTD
 D8:EE:78		Moog Protokraft
 D8:EF:42		Huawei Device Co., Ltd.
 D8:EF:CD		Nokia Solutions and Networks GmbH & Co. KG
+D8:F0:2F		Texas Instruments
 D8:F0:F2		Zeebo Inc
 D8:F1:2E		TP-Link Systems Inc.
 D8:F1:5B		Espressif Inc.
@@ -54600,6 +54607,7 @@ E0:92:A7		Feitian Technologies Co., Ltd
 E0:94:67		Intel Corporate
 E0:95:59		Arcadyan Corporation
 E0:95:79		ORTHOsoft inc, d/b/a Zimmer CAS
+E0:95:B3		Texas Instruments
 E0:95:FF		Infinix mobility limited
 E0:96:E8		Fiberhome Telecommunication Technologies Co.,LTD
 E0:97:96		Huawei Technologies Co.,Ltd
