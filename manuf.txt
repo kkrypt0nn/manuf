@@ -17923,6 +17923,7 @@
 04:EC:A9:60:00:00/28	Shanghai Chenzhu Instrument Co., Ltd.
 04:EC:A9:70:00:00/28	CORETEC Inc.
 04:EC:A9:80:00:00/28	Guangzhou Xinhong Communication Technology Co.,Ltd
+04:EC:A9:90:00:00/28	Private
 04:EC:A9:A0:00:00/28	Leegiot Intelligent Technology Co., Ltd.
 04:EC:A9:C0:00:00/28	Broadcom Corporation
 04:EC:A9:D0:00:00/28	Spectronite
@@ -27696,6 +27697,7 @@
 48:F3:F3		Baidu Online Network Technology (Beijing) Co., Ltd
 48:F4:7D		TechVision Holding  Internation Limited
 48:F6:EE		Espressif Inc.
+48:F7:3C		Elecom Co.,Ltd
 48:F7:BC		Huawei Technologies Co.,Ltd
 48:F7:C0		Vantiva USA LLC
 48:F7:F1		Nokia
@@ -28953,6 +28955,7 @@
 54:22:59		Huawei Technologies Co.,Ltd
 54:22:E0		Adtran Inc
 54:22:F8		zte corporation
+54:23:E3		Ruijie Networks Co.,LTD
 54:25:EA		Huawei Technologies Co.,Ltd
 54:26:18		Huawei Technologies Co.,Ltd
 54:26:3D		Sony Corporation
@@ -41258,6 +41261,7 @@
 8C:1F:64:44:E0:00/36	GVA Lighting, Inc.
 8C:1F:64:44:F0:00/36	RealD, Inc.
 8C:1F:64:45:10:00/36	Guan Show Technologe Co., Ltd.
+8C:1F:64:45:20:00/36	Beijing Yong'an Xintong Technology Co.,LTD
 8C:1F:64:45:40:00/36	KJ Klimateknik A/S
 8C:1F:64:45:50:00/36	Weigl GmbH & Co KG
 8C:1F:64:45:70:00/36	Shanghai Angwei Information Technology Co.,Ltd.
@@ -47470,6 +47474,7 @@ A8:DA:0C		Servercom (India) Private Limited
 A8:DB:03		Samsung Electro-Mechanics(Thailand)
 A8:DC:5A		Digital Watchdog
 A8:DD:9F		Quectel Wireless Solutions Co.,Ltd.
+A8:DD:BC		Tuya Smart Inc.
 A8:DD:EC		Hangzhou BroadLink Technology Co., Ltd
 A8:DE:68		Beijing Wide Technology Co.,Ltd
 A8:E0:18		Nokia Corporation
@@ -48034,6 +48039,7 @@ AC:F6:F7		LG Electronics (Mobile Communications)
 AC:F7:0D		China Mobile Group Device Co.,Ltd.
 AC:F7:F3		Xiaomi Communications Co Ltd
 AC:F8:5C		Chengdu Higon Integrated Circuit Design Co,. Ltd.
+AC:F8:78		Tuya Smart Inc.
 AC:F8:96		eero inc.
 AC:F8:CC		Commscope
 AC:F9:32		NXP Semiconductor (Tianjin) LTD.
@@ -48343,6 +48349,7 @@ B0:AC:FA		Fujitsu Limited
 B0:AD:AA		Avaya Inc
 B0:AE:25		Varikorea
 B0:AF:F7		Shenzhen Yipingfang Network Technology Co., Ltd.
+B0:B0:A1		Hon Hai Precision Industry Co.,LTD
 B0:B1:13		Texas Instruments
 B0:B1:94		zte corporation
 B0:B2:1C		Espressif Inc.
