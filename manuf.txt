@@ -17918,6 +17918,7 @@
 04:EA:56		Intel Corporate
 04:EB:40		Cisco Systems, Inc
 04:EC:A9		IEEE Registration Authority
+04:EC:A9:00:00:00/28	Moultrie Mobile
 04:EC:A9:10:00:00/28	Studds Accessories LTD
 04:EC:A9:40:00:00/28	Shanghai Vic Lab Intelligent Technology Co.,Ltd.
 04:EC:A9:60:00:00/28	Shanghai Chenzhu Instrument Co., Ltd.
@@ -17925,6 +17926,7 @@
 04:EC:A9:80:00:00/28	Guangzhou Xinhong Communication Technology Co.,Ltd
 04:EC:A9:90:00:00/28	Private
 04:EC:A9:A0:00:00/28	Leegiot Intelligent Technology Co., Ltd.
+04:EC:A9:B0:00:00/28	Maple Jet Limited
 04:EC:A9:C0:00:00/28	Broadcom Corporation
 04:EC:A9:D0:00:00/28	Spectronite
 04:EC:BB		Fiberhome Telecommunication Technologies Co.,LTD
@@ -21097,6 +21099,7 @@
 1C:88:79:D0:00:00/28	Beijing Raycores Technology Co.,Ltd
 1C:88:79:E0:00:00/28	Orion Labs inc
 1C:8B:76		Calix Inc.
+1C:8B:84		Espressif Systems (Singapore) Pte. Ltd
 1C:8B:EF		Beijing Xiaomi Electronics Co.,Ltd
 1C:8C:6E		Arista Networks
 1C:8E:2A		Apple, Inc.
@@ -25216,6 +25219,7 @@
 3C:10:E6		PHAZR Inc.
 3C:11:B2		Fraunhofer FIT
 3C:13:5A		Xiaomi Communications Co Ltd
+3C:13:67		CxTEK Innovations India Pvt Ltd
 3C:13:BB		Huawei Technologies Co.,Ltd
 3C:13:CC		Cisco Systems, Inc
 3C:15:12		Shenzhen Huanhu Technology Co.,Ltd
@@ -38008,6 +38012,7 @@
 78:AC:44		Dell Inc.
 78:AC:BF		Igneous Systems
 78:AC:C0		Hewlett Packard
+78:AD:DA		Sonova Consumer Hearing GmbH
 78:AE:0C		Far South Networks
 78:AF:08		Intel Corporate
 78:AF:58		Gimasi Sa
@@ -41142,6 +41147,7 @@
 8C:1F:64:39:B0:00/36	Deviceworx Technologies Inc.
 8C:1F:64:39:E0:00/36	Abbott Diagnostics Technologies AS
 8C:1F:64:39:F0:00/36	Guangzhou Beizeng Information Technology Co.,Ltd
+8C:1F:64:3A:00:00/36	Faraday4T
 8C:1F:64:3A:20:00/36	Kron Medidores
 8C:1F:64:3A:30:00/36	Lumentum
 8C:1F:64:3A:40:00/36	QLM Technology Ltd
@@ -42549,6 +42555,7 @@
 8C:1F:64:B8:50:00/36	Candela Technologies Inc
 8C:1F:64:B8:60:00/36	Elektronik & Modellprodukter Gävle AB
 8C:1F:64:B8:80:00/36	INTRONIK GmbH
+8C:1F:64:B8:90:00/36	Aineas
 8C:1F:64:B8:B0:00/36	DogWatch Inc
 8C:1F:64:B8:C0:00/36	Chipset Communication Co.,Ltd.
 8C:1F:64:B8:D0:00/36	Tongye lnnovation Science and Technology (Shenzhen) Co.,Ltd
@@ -42762,6 +42769,7 @@
 8C:1F:64:CA:70:00/36	eumig industrie-TV GmbH.
 8C:1F:64:CA:80:00/36	Optiemus Electronics Limited
 8C:1F:64:CA:90:00/36	Avant Technologies
+8C:1F:64:CA:A0:00/36	Energom Electronic Kft.
 8C:1F:64:CA:B0:00/36	Spyder Controls Corp.
 8C:1F:64:CA:D0:00/36	General Motors
 8C:1F:64:CA:E0:00/36	Ophir Manufacturing Solutions Pte Ltd
@@ -43062,6 +43070,7 @@
 8C:1F:64:E5:C0:00/36	Scientific Lightning Solutions
 8C:1F:64:E5:D0:00/36	JinYuan International Corporation
 8C:1F:64:E5:E0:00/36	BRICKMAKERS GmbH
+8C:1F:64:E5:F0:00/36	INVENTIA Sp. z o.o.
 8C:1F:64:E6:10:00/36	Stange Elektronik GmbH
 8C:1F:64:E6:20:00/36	Axcend
 8C:1F:64:E6:30:00/36	Infosoft Digital Design and Services P L
@@ -45771,6 +45780,7 @@
 9C:95:F8		SmartDoor Systems, LLC
 9C:96:13		Lenovo Future Communication Technology (Chongqing) Company Limited
 9C:96:1B		IFTER Jerzy Taczalski
+9C:96:D5		Espressif Systems (Singapore) Pte. Ltd
 9C:97:1B		Intel Corporate
 9C:97:26		Vantiva Technologies Belgium
 9C:97:74		Huawei Technologies Co.,Ltd
@@ -50040,6 +50050,7 @@ BC:FF:4D		Espressif Inc.
 BC:FF:54		zte corporation
 BC:FF:AC		Topcon Corporation
 BC:FF:EB		Motorola Mobility LLC, a Lenovo Company
+C0:01:95		Amazon Technologies Inc.
 C0:02:8D		WINSTAR Display CO.,Ltd
 C0:03:80		Juniper Networks
 C0:05:C2		Commscope
@@ -51179,6 +51190,7 @@ C8:16:BD		Qingdao Hisense Communications Co.,Ltd.
 C8:16:DA		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 C8:17:39		Itel Mobile Limited
 C8:17:F5		Nanjing Qinheng Microelectronics Co., Ltd.
+C8:19:D8		Blink by Amazon
 C8:19:F7		Samsung Electronics Co.,Ltd
 C8:1A:FE		DLOGIC GmbH
 C8:1B:5C		BCTech
@@ -51553,6 +51565,7 @@ C8:C8:3F		Texas Instruments
 C8:C8:73		Chipsen Inc.
 C8:C9:92		Beijing Roborock Technology Co., Ltd.
 C8:C9:A3		Espressif Inc.
+C8:C9:B2		Amazon Technologies Inc.
 C8:CA:63		Huawei Device Co., Ltd.
 C8:CA:79		Ciena Corporation
 C8:CB:9E		Intel Corporate
