@@ -17921,7 +17921,10 @@
 04:EC:A9		IEEE Registration Authority
 04:EC:A9:00:00:00/28	Moultrie Mobile
 04:EC:A9:10:00:00/28	Studds Accessories LTD
+04:EC:A9:20:00:00/28	Xiamen CamThink Technology Co ., Ltd
+04:EC:A9:30:00:00/28	Hunan Zetian Zhihang Electronic Technology Co., Ltd.
 04:EC:A9:40:00:00/28	Shanghai Vic Lab Intelligent Technology Co.,Ltd.
+04:EC:A9:50:00:00/28	CCH Technology & intelligence Co., Ltd.
 04:EC:A9:60:00:00/28	Shanghai Chenzhu Instrument Co., Ltd.
 04:EC:A9:70:00:00/28	CORETEC Inc.
 04:EC:A9:80:00:00/28	Guangzhou Xinhong Communication Technology Co.,Ltd
@@ -19031,6 +19034,7 @@
 0C:B7:87		Huawei Technologies Co.,Ltd
 0C:B7:89		Honor Device Co., Ltd.
 0C:B7:8E		Huawei Device Co., Ltd.
+0C:B7:EC		Huawei Technologies Co.,Ltd
 0C:B8:15		Espressif Inc.
 0C:B8:E8		Renesas Electronics (Penang) Sdn. Bhd.
 0C:B9:12		JM-DATA GmbH
@@ -22316,6 +22320,7 @@
 24:E9:B3		Cisco Systems, Inc
 24:E9:CA		Huawei Device Co., Ltd.
 24:EA:40		Helmholz GmbH & Co. KG
+24:EA:9B		Huawei Technologies Co.,Ltd
 24:EB:16		Intel Corporate
 24:EB:65		SAET I.S. S.r.l.
 24:EB:ED		Huawei Technologies Co.,Ltd
@@ -22662,6 +22667,7 @@
 28:A6:AC		seca gmbh & co. kg
 28:A6:DB		Huawei Technologies Co.,Ltd
 28:A9:15		Servercom (India) Private Limited
+28:A9:AE		Huawei Technologies Co.,Ltd
 28:AC:67		Mach Power, Rappresentanze Internazionali s.r.l.
 28:AC:9E		Cisco Systems, Inc
 28:AD:18		Hui Zhou Gaoshengda Technology Co.,LTD
@@ -26652,6 +26658,7 @@
 40:ED:98:E0:00:00/28	Borda Technology
 40:ED:CF		Apple, Inc.
 40:EE:15		Zioncom Electronics (Shenzhen) Ltd.
+40:EE:6D		Huawei Technologies Co.,Ltd
 40:EE:BE		NXP Semiconductor (Tianjin) LTD.
 40:EE:DD		Huawei Technologies Co.,Ltd
 40:EF:4C		Fihonest communication co.,Ltd
@@ -28961,6 +28968,7 @@
 54:22:59		Huawei Technologies Co.,Ltd
 54:22:E0		Adtran Inc
 54:22:F8		zte corporation
+54:23:69		Huawei Technologies Co.,Ltd
 54:23:E3		Ruijie Networks Co.,LTD
 54:25:EA		Huawei Technologies Co.,Ltd
 54:26:18		Huawei Technologies Co.,Ltd
@@ -31191,6 +31199,7 @@
 64:84:34		BEMER Int. AG
 64:85:05		zte corporation
 64:86:24		Beijing Global Safety Technology Co., LTD.
+64:87:6C		Huawei Technologies Co.,Ltd
 64:87:88		Juniper Networks
 64:87:D7		ADB Broadband Italia
 64:88:FF		Sichuan Changhong Electric Ltd.
@@ -31885,6 +31894,7 @@
 6A:E7:32		UNIS-WDC Storage Co.,Ltd
 6C:00:6B		Samsung Electronics Co.,Ltd
 6C:02:73		Shenzhen Jin Yun Video Equipment Co., Ltd.
+6C:02:8C		Huawei Technologies Co.,Ltd
 6C:02:E0		HP Inc.
 6C:03:09		Cisco Systems, Inc
 6C:03:70		Extreme Networks, Inc.
@@ -38216,6 +38226,7 @@
 78:EE:4C		Espressif Inc.
 78:EF:4C		Unetconvergence Co., Ltd.
 78:F0:9B		Huawei Device Co., Ltd.
+78:F1:3B		AltoBeam Inc.
 78:F1:C6		Cisco Systems, Inc
 78:F2:35		Sichuan AI-Link Technology Co., Ltd.
 78:F2:38		Samsung Electronics Co.,Ltd
@@ -38292,6 +38303,7 @@
 7C:16:89		Sagemcom Broadband SAS
 7C:17:79		EM Microelectronic
 7C:18:CD		E-TRON Co.,Ltd.
+7C:19:60		Huawei Technologies Co.,Ltd
 7C:19:E3		Google, Inc.
 7C:1A:03		8Locations Co., Ltd.
 7C:1A:C0		Huawei Technologies Co.,Ltd
@@ -38559,6 +38571,7 @@
 7C:94:B2		Philips Healthcare PCCI
 7C:95:B1		Extreme Networks, Inc.
 7C:95:F3		Cisco Systems, Inc
+7C:96:A0		Ningbo Shunyun Electronics Co.,Ltd.
 7C:96:D2		Fihonest communication co.,Ltd
 7C:97:63		Openmatics s.r.o.
 7C:97:E1		Huawei Device Co., Ltd.
@@ -46658,6 +46671,7 @@ A4:35:2D		TRIZ Networks corp.
 A4:36:C7		LG Innotek
 A4:37:3E		Huawei Device Co., Ltd.
 A4:37:E6		Murata Manufacturing Co., Ltd.
+A4:38:28		Huawei Technologies Co.,Ltd
 A4:38:31		RF elements s.r.o.
 A4:38:CC		Nintendo Co.,Ltd
 A4:38:FC		Plastic Logic
@@ -53686,6 +53700,7 @@ D8:90:E8		Samsung Electronics Co.,Ltd
 D8:91:1D		Jiangsu Yuwell POCTech Biotechnology Co.,Ltd
 D8:91:2A		Zyxel Communications Corporation
 D8:91:36		Dover Fueling Solutions
+D8:93:33		Huawei Technologies Co.,Ltd
 D8:93:41		General Electric Global Research
 D8:93:D4		Xiaomi Communications Co Ltd
 D8:94:03		Hewlett Packard Enterprise
