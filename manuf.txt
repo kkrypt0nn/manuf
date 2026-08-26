@@ -17933,6 +17933,7 @@
 04:EC:A9:B0:00:00/28	Maple Jet Limited
 04:EC:A9:C0:00:00/28	Broadcom Corporation
 04:EC:A9:D0:00:00/28	Spectronite
+04:EC:A9:E0:00:00/28	Shanghai Heartcare Medical Technology Co.,Ltd.
 04:EC:BB		Fiberhome Telecommunication Technologies Co.,LTD
 04:EC:D8		Intel Corporate
 04:ED:33		Intel Corporate
@@ -19631,6 +19632,7 @@
 10:C1:97		Xiaomi Communications Co Ltd
 10:C2:2F		China Entropy Co., Ltd.
 10:C2:5A		Vantiva USA LLC
+10:C2:83		Suzhou Pairlink Network Technology
 10:C2:BA		UTT Co., Ltd.
 10:C3:4D		Shenzhen Water World Co.,Ltd.
 10:C3:7B		ASUSTek COMPUTER INC.
@@ -47176,6 +47178,7 @@ A8:1B:18		Xts Corp
 A8:1B:5A		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 A8:1B:5D		Foxtel Management Pty Ltd
 A8:1B:6A		Texas Instruments
+A8:1C:36		SmartSens Technology (Shanghai) Co., Ltd.
 A8:1D:16		AzureWave Technology Inc.
 A8:1E:84		Quanta Computer Inc.
 A8:1F:79		Yingling Innovations Pte. Ltd.
@@ -56229,6 +56232,8 @@ EC:B9:07		CloudGenix Inc
 EC:B9:31		TP-Link Systems Inc.
 EC:B9:70		Ruijie Networks Co.,LTD
 EC:B9:A5		Huawei Device Co., Ltd.
+EC:BA:34		IEEE Registration Authority
+EC:BA:34:20:00:00/28	Safety electronic technology(huizhou) Co.,Ltd
 EC:BA:FE		Giroptic
 EC:BB:78		Cisco Systems, Inc
 EC:BB:AE		Digivoice Tecnologia em Eletronica Ltda
