@@ -41703,6 +41703,7 @@
 8C:1F:64:69:F0:00/36	Insightec
 8C:1F:64:6A:00:00/36	Avionica
 8C:1F:64:6A:10:00/36	Ocarina
+8C:1F:64:6A:20:00/36	Exatron Servers Manufacturing Pvt Ltd
 8C:1F:64:6A:30:00/36	Becton Dickinson
 8C:1F:64:6A:40:00/36	Automata Spa
 8C:1F:64:6A:60:00/36	Q (Cue), Inc.
@@ -43310,6 +43311,7 @@
 8C:1F:64:F9:C0:00/36	Beijing Tong Cybsec Technology Co.,LTD
 8C:1F:64:F9:E0:00/36	DREAMSWELL Technology CO.,Ltd
 8C:1F:64:FA:00:00/36	Pneumax Spa
+8C:1F:64:FA:10:00/36	M/S Milind Ramachandra Rajwade
 8C:1F:64:FA:20:00/36	AZD Praha s.r.o., ZOZ Olomouc
 8C:1F:64:FA:40:00/36	China Information Technology Designing &Consulting Institute Co.,Ltd.
 8C:1F:64:FA:50:00/36	Frazer-Nash Consultancy
