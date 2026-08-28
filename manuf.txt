@@ -31066,6 +31066,7 @@
 64:3E:8C		Huawei Technologies Co.,Ltd
 64:3F:5F		Exablaze
 64:41:E6		Apple, Inc.
+64:41:FF		Shenzhen Wolf Technology Co., Ltd.
 64:42:12		Shenzhen Water World Information Co.,Ltd.
 64:42:14		Swisscom Energy Solutions AG
 64:42:C2		Mellanox Technologies, Inc.
@@ -41682,6 +41683,7 @@
 8C:1F:64:67:F0:00/36	Hamamatsu Photonics K.K.
 8C:1F:64:68:00:00/36	Mitrol S.R.L.
 8C:1F:64:68:10:00/36	wayfiwireless.com
+8C:1F:64:68:20:00/36	MB connect line GmbH
 8C:1F:64:68:30:00/36	Slat
 8C:1F:64:68:40:00/36	Potter Electric Signal Co. LLC
 8C:1F:64:68:50:00/36	Sanchar Wireless Communications Ltd
@@ -42016,6 +42018,7 @@
 8C:1F:64:84:C0:00/36	AvMap srlu
 8C:1F:64:84:D0:00/36	Dave Srl
 8C:1F:64:84:E0:00/36	West Pharmaceutical Services, Inc.
+8C:1F:64:85:00:00/36	Tokyo Denki Gijutsu Kogyo
 8C:1F:64:85:20:00/36	Abb
 8C:1F:64:85:50:00/36	e.kundenservice Netz GmbH
 8C:1F:64:85:60:00/36	Garten Automation
@@ -44548,6 +44551,7 @@
 94:34:69		Silicon Laboratories
 94:35:0A		Samsung Electronics Co.,Ltd
 94:35:89		Huawei Technologies Co.,Ltd
+94:36:8B		GD Midea Air-Conditioning Equipment Co.,Ltd.
 94:36:E0		Sichuan Bihong Broadcast & Television New Technologies Co.,Ltd
 94:37:F7		Huawei Device Co., Ltd.
 94:38:AA		Technology Innovation Institute
@@ -55321,6 +55325,7 @@ E4:FD:45		Intel Corporate
 E4:FD:8C		Extreme Networks, Inc.
 E4:FD:A1		Huawei Technologies Co.,Ltd
 E4:FE:43		Beijing Xiaomi Mobile Software Co., Ltd
+E4:FE:D4		Microsoft Corporation
 E4:FE:D9		EDMI Europe Ltd
 E4:FE:E4		Ciena Corporation
 E4:FF:69		Holiday Robotics
@@ -56238,7 +56243,9 @@ EC:B9:31		TP-Link Systems Inc.
 EC:B9:70		Ruijie Networks Co.,LTD
 EC:B9:A5		Huawei Device Co., Ltd.
 EC:BA:34		IEEE Registration Authority
+EC:BA:34:10:00:00/28	Heizomat Gerätebau GmbH
 EC:BA:34:20:00:00/28	Safety electronic technology(huizhou) Co.,Ltd
+EC:BA:34:70:00:00/28	Meva Avi̇yoni̇k Si̇stemler Teknoloji̇ Sanayi̇ Ve Ti̇caret A.Ş.
 EC:BA:34:D0:00:00/28	Scenario Automation
 EC:BA:FE		Giroptic
 EC:BB:78		Cisco Systems, Inc
@@ -57822,6 +57829,7 @@ F8:A7:3A		Cisco Systems, Inc
 F8:A7:63		Zhejiang Tmall Technology Co., Ltd.
 F8:A9:1F		ZVISION Technologies Co., Ltd
 F8:A9:63		Compal Information (Kunshan) Co., Ltd.
+F8:A9:86		Microsoft Corporation
 F8:A9:D0		LG Electronics (Mobile Communications)
 F8:A9:DE		Puissance Plus
 F8:AA:3F		DWnet Technologies(Suzhou) Corporation
