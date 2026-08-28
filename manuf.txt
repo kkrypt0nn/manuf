@@ -56245,6 +56245,7 @@ EC:B9:A5		Huawei Device Co., Ltd.
 EC:BA:34		IEEE Registration Authority
 EC:BA:34:10:00:00/28	Heizomat Gerätebau GmbH
 EC:BA:34:20:00:00/28	Safety electronic technology(huizhou) Co.,Ltd
+EC:BA:34:50:00:00/28	Aeon Super Ai Inc.
 EC:BA:34:70:00:00/28	Meva Avi̇yoni̇k Si̇stemler Teknoloji̇ Sanayi̇ Ve Ti̇caret A.Ş.
 EC:BA:34:D0:00:00/28	Scenario Automation
 EC:BA:FE		Giroptic
