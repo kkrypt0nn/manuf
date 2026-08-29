@@ -22371,6 +22371,7 @@
 28:02:44		Apple, Inc.
 28:02:45		Konze System Technology Co.,Ltd.
 28:02:D8		Samsung Electronics Co.,Ltd
+28:03:E6		Nokia
 28:04:7A		WNC Corporation
 28:04:C6		Wanan Hongsheng Electronic Co.Ltd
 28:04:E0		Fermax Electronica S.A.U.
@@ -35197,7 +35198,7 @@
 70:B3:D5:94:90:00/36	National Radio & Telecommunication Corporation - NRTC
 70:B3:D5:94:A0:00/36	Shenzhen Wisewing Internet Technology Co.,Ltd
 70:B3:D5:94:B0:00/36	RF Code
-70:B3:D5:94:C0:00/36	Honeywell/Intelligrated
+70:B3:D5:94:C0:00/36	Intelligrated System LLC
 70:B3:D5:94:D0:00/36	Season Design Technology
 70:B3:D5:94:E0:00/36	BP Lubricants USA, Inc.
 70:B3:D5:94:F0:00/36	Mart Network Solutions Ltd
@@ -46479,6 +46480,7 @@ A0:C5:F2:D0:00:00/28	UnaliWear, Inc.
 A0:C5:F2:E0:00:00/28	Synapsys Solutions Ltd.
 A0:C6:A5		Lierda Science & Technology Group Co., Ltd
 A0:C6:EC		ShenZhen ANYK Technology Co.,LTD
+A0:C7:73		Chipsea Technologies (Shenzhen) Corp.
 A0:C7:D2		Cisco Systems, Inc
 A0:C9:26		Huawei Device Co., Ltd.
 A0:C9:8B		Nokia Solutions and Networks GmbH & Co. KG
@@ -50968,6 +50970,7 @@ C4:A1:0E:E0:00:00/28	Alio, Inc
 C4:A1:51		Sichuan Tianyi Comheart Telecom Co.,LTD
 C4:A1:AE		Huawei Device Co., Ltd.
 C4:A3:66		zte corporation
+C4:A3:EF		UEI Electronics Private Ltd.
 C4:A4:02		Huawei Technologies Co.,Ltd
 C4:A4:51		Tecno Mobile Limited
 C4:A5:59		IEEE Registration Authority
@@ -54704,6 +54707,7 @@ E0:9D:31		Intel Corporate
 E0:9D:73		Mellanox Technologies, Inc.
 E0:9D:B8		Planex Communications Inc.
 E0:9D:FA		Wanan Hongsheng Electronic Co.Ltd
+E0:9E:2D		Nokia
 E0:9E:C1		Silicon Innovation Microelectronics Co.,Ltd.
 E0:9F:2A		Iton Technology Corp.
 E0:A1:29		Extreme Networks, Inc.
@@ -56243,6 +56247,7 @@ EC:B9:31		TP-Link Systems Inc.
 EC:B9:70		Ruijie Networks Co.,LTD
 EC:B9:A5		Huawei Device Co., Ltd.
 EC:BA:34		IEEE Registration Authority
+EC:BA:34:00:00:00/28	femrice
 EC:BA:34:10:00:00/28	Heizomat Gerätebau GmbH
 EC:BA:34:20:00:00/28	Safety electronic technology(huizhou) Co.,Ltd
 EC:BA:34:50:00:00/28	Aeon Super Ai Inc.
