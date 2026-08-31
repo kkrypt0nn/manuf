@@ -19838,6 +19838,7 @@
 14:23:F2		Broadcom Limited
 14:23:F3		Broadcom Limited
 14:24:75		4DReplay, Inc
+14:27:20		Bosch Rexroth (Changzhou) Co. Ltd.
 14:28:76		Apple, Inc.
 14:28:82		Midicom Electronics Co.Ltd
 14:29:71		Nemoa Electronics (Hk) Co. Ltd
@@ -21309,6 +21310,7 @@
 1C:E1:92		Qisda Corporation
 1C:E2:09		Apple, Inc.
 1C:E2:CC		Texas Instruments
+1C:E4:CB		Espressif Systems (Singapore) Pte. Ltd
 1C:E4:DD		Technicolor (China) Technology Co., Ltd.
 1C:E5:04		Huawei Technologies Co.,Ltd
 1C:E5:7F		Samsung Electronics Co.,Ltd
@@ -25221,6 +25223,7 @@
 3C:0C:48		Servergy, Inc.
 3C:0C:7D		Tiny Mesh AS
 3C:0C:DB		Union Man Technology Co.,Ltd
+3C:0D:0D		Espressif Systems (Singapore) Pte. Ltd
 3C:0D:2C		Liquid-Markets GmbH
 3C:0E:23		Cisco Systems, Inc
 3C:0F:02		Espressif Inc.
@@ -27285,6 +27288,7 @@
 48:21:6C		China Mobile IOT Company Limited
 48:21:B8		Guangzhou V-Solution Telecommunication Technology Co.,Ltd.
 48:22:18		Shenzhen Yipingfang Network Technology Co., Ltd.
+48:22:1D		Bose Corporation
 48:22:54		TP-Link Systems Inc
 48:23:35		Dialog Semiconductor Hellas SA
 48:25:67		Poly
@@ -29260,6 +29264,7 @@
 54:BD:79		Samsung Electronics Co.,Ltd
 54:BE:53		zte corporation
 54:BE:F7		Pegatron Corporation
+54:BF:55		Juniper Networks
 54:BF:64		Dell Inc.
 54:C0:78		Infinix mobility limited
 54:C1:D3		Guangzhou TR Intelligent Manufacturing Technology Co., Ltd
@@ -37198,6 +37203,7 @@
 74:34:91		Shenzhen Kings IoT Co., Ltd
 74:34:AE		this is engineering Inc.
 74:36:6D		Vodafone Italia S.p.A.
+74:36:75		Juniper Networks
 74:37:2F		Tongfang Shenzhen Cloudcomputing Technology Co.,Ltd
 74:37:3B		UNINET Co.,Ltd.
 74:37:5F		Sercomm Philippines Inc
@@ -42569,6 +42575,7 @@
 8C:1F:64:B7:30:00/36	Comm-ence, Inc.
 8C:1F:64:B7:60:00/36	Bavaria Digital Technik GmbH
 8C:1F:64:B7:70:00/36	Carestream Dental LLC
+8C:1F:64:B7:80:00/36	Power Electronics Espana, S.L.
 8C:1F:64:B7:90:00/36	AddSecure Smart Grids
 8C:1F:64:B7:A0:00/36	MG s.r.l.
 8C:1F:64:B7:B0:00/36	Gateview Technologies
@@ -49610,6 +49617,7 @@ BC:0F:FE		Juniper Networks
 BC:10:2F		SJI Industry Company
 BC:10:7B		Samsung Electronics Co.,Ltd
 BC:12:1F		Accton Technology Corporation
+BC:12:2F		LCFC(Hefei) Electronics Technology co., ltd
 BC:12:5E		Beijing  WisVideo  INC.
 BC:13:A8		Shenzhen YOUHUA Technology Co., Ltd
 BC:14:01		Hitron Technologies. Inc
