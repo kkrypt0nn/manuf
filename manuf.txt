@@ -10513,6 +10513,7 @@
 00:3D:E1		Huawei Device Co., Ltd.
 00:3D:E8		LG Electronics (Mobile Communications)
 00:3E:73		Mist Systems, Inc.
+00:3E:C4		Huawei Device Co., Ltd.
 00:3E:E1		Apple, Inc.
 00:3F:10		Shenzhen GainStrong Technology Co., Ltd.
 00:40:00		Pci Componentes Da Amzonia Ltd
@@ -22098,6 +22099,7 @@
 24:76:56		Shanghai Net Miles Fiber Optics Technology Co., LTD.
 24:76:7D		Cisco SPVTG
 24:77:03		Intel Corporate
+24:77:55		Huawei Device Co., Ltd.
 24:78:23		Panasonic Entertainment & Communication Co., Ltd.
 24:78:EF		Nokia
 24:79:2A		Ruckus Wireless
@@ -27087,6 +27089,7 @@
 44:C1:5C		Texas Instruments
 44:C2:0C		Cisco Systems, Inc
 44:C2:33		Guangzhou Comet Technology Development Co.Ltd
+44:C2:77		Shenzhen Kingspec Electronics Technology Co., Ltd.
 44:C3:06		SIFROM Inc.
 44:C3:46		Huawei Technologies Co.,Ltd
 44:C3:9B		Ooo Rubezh Npo
@@ -28186,6 +28189,7 @@
 4C:C9:5E		Samsung Electronics Co.,Ltd
 4C:CA:53		Skyera, Inc.
 4C:CA:95		Huawei Device Co., Ltd.
+4C:CB:EA		Huawei Device Co., Ltd.
 4C:CB:F5		zte corporation
 4C:CC:34		Motorola Solutions Inc.
 4C:CC:6A		Micro-Star INTL CO., LTD.
@@ -29195,6 +29199,7 @@
 54:9B:49		NEC Platforms, Ltd.
 54:9B:72		Ericsson AB
 54:9C:27		Plasma Cloud Limited
+54:9C:6A		Shenzhen Bilian Electronic Co.,Ltd
 54:9D:85		EnerAccess inc
 54:9D:EA		Espressif Inc.
 54:9F:06		Nokia Shanghai Bell Co., Ltd.
@@ -29698,6 +29703,7 @@
 58:A8:39		Intel Corporate
 58:A8:7B		Fitbit, Inc.
 58:A8:E8		Amazon Technologies Inc.
+58:AB:FB		Huawei Device Co., Ltd.
 58:AC:78		Cisco Systems, Inc
 58:AD:08		IEEE Registration Authority
 58:AD:08:00:00:00/28	NEOiD
@@ -31265,6 +31271,7 @@
 64:A7:69		HTC Corporation
 64:A7:DD		Avaya Inc
 64:A8:37		Juni Korea Co., Ltd
+64:A9:63		Huawei Device Co., Ltd.
 64:A9:65		Linkflow Co., Ltd.
 64:AC:2B		Juniper Networks
 64:AC:E0		Samsung Electronics Co.,Ltd
@@ -37698,6 +37705,7 @@
 78:18:EC		Fortinet, Inc.
 78:19:2E		NASCENT Technology
 78:19:F7		Juniper Networks
+78:1A:32		Huawei Device Co., Ltd.
 78:1C:1E		Chongqing Yipingfang Technology Co., Ltd.
 78:1C:3C		Espressif Inc.
 78:1C:5A		SHARP Corporation
@@ -44823,6 +44831,7 @@
 94:C9:B7:C0:00:00/28	Jinjin Technology (Shenzhen) Co., Ltd
 94:C9:B7:D0:00:00/28	Dspread Technology (Beijing) Inc.
 94:C9:B7:E0:00:00/28	shenzhen UDD Technologies,co.,Ltd
+94:C9:F3		Bouffalo Lab (Nanjing) Co., Ltd.
 94:CA:0F		Honeywell Analytics
 94:CA:9A		Paul Vahle GmbH & Co. KG
 94:CB:CD		zte corporation
@@ -45156,6 +45165,7 @@
 98:4F:EE		Intel Corporate
 98:50:2E		Apple, Inc.
 98:50:A3		Signaltek Jsc
+98:51:FC		Huawei Device Co., Ltd.
 98:52:07		Huawei Technologies Co.,Ltd
 98:52:3D		Sunitec Enterprise Co.,Ltd
 98:52:4A		Vantiva USA LLC
@@ -45838,6 +45848,7 @@
 9C:9E:71		Huawei Device Co., Ltd.
 9C:9E:D5		Xiaomi Communications Co Ltd
 9C:A1:0A		Scle Sfe
+9C:A1:18		Huawei Device Co., Ltd.
 9C:A1:34		Nike, Inc.
 9C:A2:F4		TP-Link Systems Inc
 9C:A3:89		Nokia
@@ -49888,6 +49899,7 @@ BC:92:6B		Apple, Inc.
 BC:93:07		Samsung Electronics Co.,Ltd
 BC:93:25		Ningbo Joyson Preh Car Connect Co.,Ltd.
 BC:93:2A		Silicon Laboratories
+BC:93:88		Nokia Solutions (Shanghai) Co.,Ltd.
 BC:94:24		TCT mobile ltd
 BC:96:80		Shenzhen Gongjin Electronics Co.,Lt
 BC:96:E5		Sercomm Philippines Inc
@@ -50659,6 +50671,7 @@ C4:1C:07		Samsung Electronics Co.,Ltd
 C4:1C:9C		JiQiDao
 C4:1C:FF		Vizio, Inc
 C4:1E:CE		HMI Sources Ltd.
+C4:21:55		Huawei Device Co., Ltd.
 C4:21:B9		zte corporation
 C4:21:C8		Kyocera Corporation
 C4:22:4E		Telink Micro LLC
@@ -51749,6 +51762,7 @@ CA:44:3E		Allianz Technology SE
 CA:44:6C		Cypress Computer Systems, Inc.
 CA:7D:DD		EmOne (Thailand) Co.,Ltd.
 CA:8F:A5		Advanced TS Migrations, Co
+CA:A5:27		Bobi
 CA:C2:76		Saab Seaeye Ltd
 CA:C8:7E		Allen Organ Company
 CA:E5:05		Mobilitie
@@ -56260,6 +56274,7 @@ EC:BA:34:10:00:00/28	Heizomat Gerätebau GmbH
 EC:BA:34:20:00:00/28	Safety electronic technology(huizhou) Co.,Ltd
 EC:BA:34:50:00:00/28	Aeon Super Ai Inc.
 EC:BA:34:70:00:00/28	Meva Avi̇yoni̇k Si̇stemler Teknoloji̇ Sanayi̇ Ve Ti̇caret A.Ş.
+EC:BA:34:90:00:00/28	Digitus Biometrics, Inc.
 EC:BA:34:D0:00:00/28	Scenario Automation
 EC:BA:FE		Giroptic
 EC:BB:78		Cisco Systems, Inc
@@ -58438,6 +58453,7 @@ FC:C2:DE		Murata Manufacturing Co., Ltd.
 FC:C2:E5		Holowits Technologies Co.,Ltd
 FC:C7:34		Samsung Electronics Co.,Ltd
 FC:C7:37		Shaanxi Gangsion Electronic Technology Co., Ltd
+FC:C7:66		Huawei Device Co., Ltd.
 FC:C8:97		zte corporation
 FC:CA:10		Mercusys Technologies Co., Ltd.
 FC:CA:40		Sony Interactive Entertainment Inc.
