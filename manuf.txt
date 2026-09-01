@@ -25044,6 +25044,7 @@
 38:BF:33		NEC CASIO Mobile Communications
 38:C0:96		Alpsalpine Co,.Ltd
 38:C0:EA		Fortinet, Inc.
+38:C1:ED		Xiaomi Communications Co Ltd
 38:C2:2D		Mellanox Technologies, Inc.
 38:C2:BA		Cctv Neotech
 38:C4:3A		Apple, Inc.
@@ -30690,6 +30691,7 @@
 60:83:F8		Sichuan Huakun Zhenyu Intelligent Technology Co.,Ltd
 60:84:3B		Soladigm, Inc.
 60:84:BD		Buffalo.Inc
+60:86:25		FN-LINK TECHNOLOGY Ltd.
 60:86:45		Avery Weigh-Tronix, LLC
 60:89:3C		Thermo Fisher Scientific P.O.A.
 60:89:B1		Key Digital Systems
@@ -31441,6 +31443,7 @@
 64:FB:81:E0:00:00/28	ChengDu KeChuang LongXin Sci-tech Co.,Ltd
 64:FB:81:F0:00:00/28	Private
 64:FB:92		PPC Broadband Inc.
+64:FB:CE		Amplitech Group, Inc.
 64:FC:8C		Zonar Systems
 64:FD:29		Zhejiang Dahua Technology Co., Ltd.
 64:FD:96		Sagemcom Broadband SAS
@@ -41257,6 +41260,7 @@
 8C:1F:64:40:C0:00/36	Sichuan Aiyijan Technology Company Ltd.
 8C:1F:64:40:D0:00/36	PROFITT Ltd
 8C:1F:64:40:E0:00/36	Baker Hughes EMEA
+8C:1F:64:40:F0:00/36	Fuzhou Tucsen Photonics Co.,Ltd
 8C:1F:64:41:00:00/36	Roboteq
 8C:1F:64:41:10:00/36	Pioneer Century Infocomm Pte Ltd
 8C:1F:64:41:20:00/36	Comercial Electronica Studio-2 s.l.
@@ -41465,6 +41469,7 @@
 8C:1F:64:53:40:00/36	Surya Electronics
 8C:1F:64:53:50:00/36	Columbus McKinnon
 8C:1F:64:53:60:00/36	Beijing Lxtv Technology Co.,Ltd
+8C:1F:64:53:80:00/36	InstruVU
 8C:1F:64:53:A0:00/36	TPVision Europe B.V
 8C:1F:64:53:B0:00/36	REFU Storage System GmbH
 8C:1F:64:53:C0:00/36	Filgis Elektronik
@@ -41925,6 +41930,7 @@
 8C:1F:64:7B:B0:00/36	Kotsu Dengyosha Co., Ltd.
 8C:1F:64:7B:C0:00/36	GO development GmbH
 8C:1F:64:7B:E0:00/36	inomatic GmbH
+8C:1F:64:7B:F0:00/36	Drs RADA Technologies
 8C:1F:64:7C:10:00/36	Rail Telematics Corp
 8C:1F:64:7C:20:00/36	CTI Intl Solutions
 8C:1F:64:7C:30:00/36	The Blue Box Biomedical Solutions, SL
@@ -42956,6 +42962,7 @@
 8C:1F:64:D7:10:00/36	Computech International
 8C:1F:64:D7:30:00/36	BRS Sistemas Eletrônicos
 8C:1F:64:D7:40:00/36	Tex Computer Srl
+8C:1F:64:D7:50:00/36	Falling Edge Technology Ltd
 8C:1F:64:D7:70:00/36	Private
 8C:1F:64:D7:80:00/36	Hunan Oushi Electronic Technology Co.,Ltd
 8C:1F:64:D7:B0:00/36	Global Design Solutions Korea
@@ -55288,6 +55295,7 @@ E4:CE:8F		Apple, Inc.
 E4:D1:24		Mojo Networks, Inc.
 E4:D3:32		Tp-Link Technologies Co.,Ltd.
 E4:D3:73		Huawei Technologies Co.,Ltd
+E4:D3:98		Xiaomi Communications Co Ltd
 E4:D3:AA		Fcnt Llc
 E4:D3:F1		Cisco Systems, Inc
 E4:D4:36		Nokia Solutions and Networks India Private Limited
@@ -56273,8 +56281,10 @@ EC:BA:34:00:00:00/28	femrice
 EC:BA:34:10:00:00/28	Heizomat Gerätebau GmbH
 EC:BA:34:20:00:00/28	Safety electronic technology(huizhou) Co.,Ltd
 EC:BA:34:50:00:00/28	Aeon Super Ai Inc.
+EC:BA:34:60:00:00/28	Zhejiang Wanyou Intelligent Technology Co.,Ltd.
 EC:BA:34:70:00:00/28	Meva Avi̇yoni̇k Si̇stemler Teknoloji̇ Sanayi̇ Ve Ti̇caret A.Ş.
 EC:BA:34:90:00:00/28	Digitus Biometrics, Inc.
+EC:BA:34:B0:00:00/28	Qasky Technology Co.,Ltd.
 EC:BA:34:D0:00:00/28	Scenario Automation
 EC:BA:FE		Giroptic
 EC:BB:78		Cisco Systems, Inc
@@ -58447,6 +58457,7 @@ FC:BC:D1		Huawei Technologies Co.,Ltd
 FC:BD:67		Arista Networks
 FC:BE:7B		vivo Mobile Communication Co., Ltd.
 FC:C0:CC		Yunke China Information Technology Limited
+FC:C1:7D		Xiaomi Communications Co Ltd
 FC:C2:33		ASUSTek COMPUTER INC.
 FC:C2:3D		Atmel Corporation
 FC:C2:DE		Murata Manufacturing Co., Ltd.
