@@ -19157,6 +19157,7 @@
 0C:E9:36		ELIMOS srl
 0C:E9:9A		Atls Altec
 0C:EA:14		Ubiquiti Inc
+0C:EA:BF		Mellanox Technologies, Inc.
 0C:EA:C9		Commscope
 0C:EB:25		Power Plus Communications AG
 0C:EC:80		Texas Instruments
@@ -27453,6 +27454,7 @@
 48:6F:D2		StorSimple Inc
 48:70:1E		Texas Instruments
 48:70:6F		Huawei Technologies Co.,Ltd
+48:70:D4		Cisco Meraki
 48:71:19		Sgb Group Ltd.
 48:73:10		Juniper Networks
 48:73:97		New H3C Technologies Co., Ltd
@@ -29397,6 +29399,7 @@
 58:0A:D4		Apple, Inc.
 58:0D:0D		Gree Electric Appliances, Inc. Of Zhuhai
 58:0E:85		Sagemcom Broadband SAS
+58:0E:E6		Mellanox Technologies, Inc.
 58:0F:A5		Apple, Inc.
 58:10:31		Hon Hai Precision IND.CO.,LTD
 58:10:8C		Intelbras
@@ -47160,6 +47163,7 @@ A4:ED:43:D0:00:00/28	Brand New Brand Nordic AB
 A4:ED:43:E0:00:00/28	Toec Technology Co.，Ltd.
 A4:ED:4E		Commscope
 A4:EE:57		Seiko Epson Corporation
+A4:EF:0C		Mellanox Technologies, Inc.
 A4:EF:15		AltoBeam Inc.
 A4:EF:52		Telewave Co., Ltd.
 A4:F0:0F		Espressif Inc.
@@ -54311,6 +54315,7 @@ DC:B8:08		Extreme Networks, Inc.
 DC:B8:7D		Hewlett Packard Enterprise
 DC:BB:3D		Extreme Networks, Inc.
 DC:BB:96		Full Solution Telecom
+DC:BB:FA		Cisco Meraki
 DC:BD:7A		Guangzhou Shiyuan Electronic Technology Company Limited
 DC:BD:CC		Quectel Wireless Solutions Co.,Ltd.
 DC:BE:04		Texas Instruments
@@ -54768,6 +54773,7 @@ E0:A8:B8		Le Shi Zhi Xin Electronic Technology (Tianjin) Limited
 E0:AA:96		Samsung Electronics Co.,Ltd
 E0:AA:B0		Suntaili Enterprise Co. Ltd,
 E0:AA:DB		Nanjing PANENG Technology Development Co.,Ltd
+E0:AB:C3		Mellanox Technologies, Inc.
 E0:AB:FE		Orb Networks, Inc.
 E0:AC:CB		Apple, Inc.
 E0:AC:F1		Cisco Systems, Inc
