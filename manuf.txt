@@ -17680,6 +17680,7 @@
 04:88:5F		Huawei Technologies Co.,Ltd
 04:88:8C		Eifelwerk Butler Systeme GmbH
 04:88:E2		Beats Electronics LLC
+04:89:6D		New H3C Technologies Co., Ltd
 04:8A:15		Avaya Inc
 04:8A:E1		Flextronics Manufacturing(Zhuhai)Co.,Ltd.
 04:8B:42		Skspruce Technologies
@@ -24910,6 +24911,7 @@
 38:90:52		Huawei Technologies Co.,Ltd
 38:90:A5		Cisco Systems, Inc
 38:90:AF		zte corporation
+38:90:FE		New H3C Technologies Co., Ltd
 38:91:48		zte corporation
 38:91:B7		Cisco Systems, Inc
 38:91:D5		Hangzhou H3C Technologies Co., Limited
@@ -37145,6 +37147,7 @@
 74:1A:E0:C0:00:00/28	bistos.co.ltd
 74:1A:E0:D0:00:00/28	Voltaware Services Limited
 74:1A:E0:E0:00:00/28	ITS Partner (O.B.S) S.L.
+74:1B:13		New H3C Technologies Co., Ltd
 74:1B:39		Convey India Private Limited
 74:1B:B2		Apple, Inc.
 74:1C:27		Itel Mobile Limited
@@ -38345,6 +38348,7 @@
 7C:16:2A		Huawei Device Co., Ltd.
 7C:16:89		Sagemcom Broadband SAS
 7C:17:79		EM Microelectronic
+7C:17:95		New H3C Technologies Co., Ltd
 7C:18:CD		E-TRON Co.,Ltd.
 7C:19:60		Huawei Technologies Co.,Ltd
 7C:19:E3		Google, Inc.
@@ -48302,6 +48306,7 @@ B0:4F:C3		Shenzhen NVC Cloud Technology Co., Ltd.
 B0:50:BC		Shenzhen Basicom Electronic Co.,Ltd.
 B0:51:8E		Holl technology CO.Ltd.
 B0:52:16		Hon Hai Precision Ind. Co.,Ltd.
+B0:52:1F		Dyson Limited
 B0:52:46		NXP Semiconductor (Tianjin) LTD.
 B0:53:65		China Mobile IOT Company Limited
 B0:54:76		Samsung Electronics Co.,Ltd
