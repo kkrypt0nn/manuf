@@ -15828,6 +15828,7 @@
 00:8D:F4:C0:00:00/28	Creative Security Technology Inc.
 00:8D:F4:D0:00:00/28	Id Tech Solutions Pvt Ltd
 00:8D:F4:E0:00:00/28	Relay, Inc.
+00:8E:16		Milwaukee Tool
 00:8E:73		Cisco Systems, Inc
 00:8E:F2		Netgear
 00:90:00		Diamond Multimedia
@@ -19682,6 +19683,7 @@
 10:DA:43		Netgear
 10:DA:49		Huawei Device Co., Ltd.
 10:DA:63		Apple, Inc.
+10:DB:A2		Texas Instruments
 10:DC:4A		Fiberhome Telecommunication Technologies Co.,LTD
 10:DC:B6		IEEE Registration Authority
 10:DC:B6:00:00:00/28	Apex Supply Chain Technologies
@@ -20062,6 +20064,7 @@
 14:A4:54		Mist Systems, Inc.
 14:A5:1A		Huawei Technologies Co.,Ltd
 14:A6:2C		S.M. Dezac S.A.
+14:A6:B9		Samsung Electronics Co.,Ltd
 14:A7:2B		currentoptronics Pvt.Ltd
 14:A7:8B		Zhejiang Dahua Technology Co., Ltd.
 14:A8:6B		ShenZhen Telacom Science&Technology Co., Ltd
@@ -20111,6 +20114,7 @@
 14:BA:88		Zhejiang Uniview Technologies Co.,Ltd.
 14:BA:AF		BKS GmbH
 14:BB:6E		Samsung Electronics Co.,Ltd
+14:BB:CC		Texas Instruments
 14:BC:68		Cisco Systems, Inc
 14:BD:61		Apple, Inc.
 14:BE:FC		Nanjing Jiahao Technology Co., Ltd.
@@ -20867,6 +20871,7 @@
 1C:34:77		Innovation Wireless
 1C:34:DA		Mellanox Technologies, Inc.
 1C:34:F1		Silicon Laboratories
+1C:35:76		Samsung Electronics Co.,Ltd
 1C:35:F1		NEW Lift Neue Elektronische Wege Steuerungsbau GmbH
 1C:36:BB		Apple, Inc.
 1C:37:BF		Cloudium Systems Ltd.
@@ -21925,6 +21930,7 @@
 24:1E:2B		Zhejiang Cainiao Supply Chain Management Co., Ltd
 24:1E:EB		Apple, Inc.
 24:1F:2C		Calsys, Inc.
+24:1F:3A		Silicon Laboratories
 24:1F:49		NXP Semiconductors Taiwan Ltd.
 24:1F:A0		Huawei Technologies Co.,Ltd
 24:1F:BD		Extreme Networks, Inc.
@@ -30595,6 +30601,7 @@
 60:45:E8		Arcadyan Corporation
 60:46:16		Xiamen Vann Intelligent Co., Ltd
 60:46:4C		Ligent Tech,Inc
+60:46:D4		Texas Instruments
 60:47:0A		Shenzhen Zenith Intelligent Technology Co., Ltd.
 60:47:62		Beijing Sensoro Technology Co.,Ltd.
 60:47:D4		FORICS Electronic Technology Co., Ltd.
@@ -31262,6 +31269,7 @@
 64:9D:99		Fs Com Inc
 64:9E:31		Beijing Xiaomi Mobile Software Co., Ltd
 64:9E:58		MM Devices Pty. Ltd.
+64:9E:F1		Texas Instruments
 64:9E:F3		Cisco Systems, Inc
 64:9F:F7		Kone OYj
 64:A0:AC		Adtran Inc
@@ -42538,6 +42546,7 @@
 8C:1F:64:B0:E0:00/36	Watthour Engineering Co., Inc.
 8C:1F:64:B0:F0:00/36	HKC Security Ltd.
 8C:1F:64:B1:00:00/36	MTU Aero Engines AG
+8C:1F:64:B1:20:00/36	Hongtai Intelligent Technology
 8C:1F:64:B1:30:00/36	Abode Systems Inc
 8C:1F:64:B1:40:00/36	Murata Manufacturing CO., Ltd.
 8C:1F:64:B1:50:00/36	Pneumax Spa
@@ -49207,6 +49216,7 @@ B8:20:8E		Panasonic Connect Co., Ltd.
 B8:20:E7		Guangzhou Horizontal Information & Network Integration Co. Ltd
 B8:21:1C		Apple, Inc.
 B8:22:0C		Apple, Inc.
+B8:22:27		Texas Instruments
 B8:22:4F		Sichuan Tianyi Comheart Telecom Co.,LTD
 B8:24:10		Magneti Marelli Slovakia s.r.o.
 B8:24:1A		Sweda Informatica Ltda
@@ -49672,6 +49682,7 @@ BC:16:95		zte corporation
 BC:16:F5		Cisco Systems, Inc
 BC:17:B8		Intel Corporate
 BC:18:96		Huawei Technologies Co.,Ltd
+BC:19:2F		Texas Instruments
 BC:1A:67		YF Technology Co., Ltd
 BC:1A:E4		Huawei Device Co., Ltd.
 BC:1C:81		Sichuan iLink Technology Co., Ltd.
@@ -50486,6 +50497,7 @@ C0:B4:7D		Huawei Device Co., Ltd.
 C0:B5:50		Broadcom Limited
 C0:B5:CD		Huawei Device Co., Ltd.
 C0:B5:D7		Chongqing Fugui Electronics Co.,Ltd.
+C0:B5:DD		Silicon Laboratories
 C0:B6:58		Apple, Inc.
 C0:B6:F9		Intel Corporate
 C0:B7:13		Beijing Xiaoyuer Technology Co. Ltd.
@@ -50776,6 +50788,7 @@ C4:4B:44		Omniprint Inc.
 C4:4B:D1		Wallys Communications  Teachnologies Co.,Ltd.
 C4:4D:84		Cisco Systems, Inc
 C4:4E:1F		BlueN
+C4:4E:5D		Texas Instruments
 C4:4E:AC		Shenzhen Shiningworth Technology Co., Ltd.
 C4:4F:33		Espressif Inc.
 C4:4F:5F		Huawei Device Co., Ltd.
@@ -50811,6 +50824,7 @@ C4:60:0A		Huaqin Technology Co.LTD
 C4:60:26		Sky Uk Limited
 C4:60:44		Everex Electronics Limited
 C4:61:8B		Apple, Inc.
+C4:61:9A		Texas Instruments
 C4:61:C7		Microsoft Corporation
 C4:62:37		sunweit industrial limited
 C4:62:6B		ZPT Vigantice
@@ -55794,6 +55808,7 @@ E8:D5:A1		Earda Technologies co Ltd
 E8:D7:65		Huawei Technologies Co.,Ltd
 E8:D7:75		Huawei Technologies Co.,Ltd
 E8:D8:19		AzureWave Technology Inc.
+E8:D8:1C		Quectel Wireless Solutions Co.,Ltd.
 E8:D8:7E		Amazon Technologies Inc.
 E8:D8:D1		HP Inc.
 E8:DA:00		Kivo Technology, Inc.
@@ -56307,6 +56322,7 @@ EC:BA:34:00:00:00/28	femrice
 EC:BA:34:10:00:00/28	Heizomat Gerätebau GmbH
 EC:BA:34:20:00:00/28	Safety electronic technology(huizhou) Co.,Ltd
 EC:BA:34:30:00:00/28	Sterlite Technologies Limited
+EC:BA:34:40:00:00/28	Citizen T.I.C. Co., Ltd.
 EC:BA:34:50:00:00/28	Aeon Super Ai Inc.
 EC:BA:34:60:00:00/28	Zhejiang Wanyou Intelligent Technology Co.,Ltd.
 EC:BA:34:70:00:00/28	Meva Avi̇yoni̇k Si̇stemler Teknoloji̇ Sanayi̇ Ve Ti̇caret A.Ş.
@@ -56316,6 +56332,7 @@ EC:BA:34:A0:00:00/28	Shenzhen Yidao Intelligent Technology Co.,Ltd.
 EC:BA:34:B0:00:00/28	Qasky Technology Co.,Ltd.
 EC:BA:34:C0:00:00/28	Newtech Synergy Systems Pvt Ltd
 EC:BA:34:D0:00:00/28	Scenario Automation
+EC:BA:34:E0:00:00/28	Green ACS Sp. z o.o.
 EC:BA:FE		Giroptic
 EC:BB:78		Cisco Systems, Inc
 EC:BB:AE		Digivoice Tecnologia em Eletronica Ltda
