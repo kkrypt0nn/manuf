@@ -17395,6 +17395,7 @@
 00:FA:3B		Cloos Electronic Gmbh
 00:FA:B6		Kontakt Micro-Location Sp z o.o.
 00:FA:DE		Motorola Mobility LLC, a Lenovo Company
+00:FB:4A		Espressif Inc.
 00:FB:F9		Axiado Corporation
 00:FC:58		WebSilicon Ltd.
 00:FC:70		Intrepid Control Systems, Inc.
@@ -45349,6 +45350,7 @@
 98:87:44		Wuxi Hongda Science and Technology Co.,LTD
 98:87:4C		Servercom (India) Private Limited
 98:87:6C		Huawei Device Co., Ltd.
+98:87:CC		AltoBeam Inc.
 98:88:6C		Huawei Device Co., Ltd.
 98:88:E0		Espressif Inc.
 98:89:24		Texas Instruments
@@ -47651,6 +47653,7 @@ A8:FA:D8		Apple, Inc.
 A8:FB:40		Nokia Solutions and Networks GmbH & Co. KG
 A8:FB:70		WiseSec L.t.d
 A8:FC:B7		Consolidated Resource Imaging
+A8:FD:07		Espressif Inc.
 A8:FE:9D		Apple, Inc.
 A8:FE:CE		Fiberhome Telecommunication Technologies Co.,LTD
 A8:FF:BA		Huawei Technologies Co.,Ltd
@@ -48905,6 +48908,7 @@ B4:63:6F		Nokia Solutions and Networks GmbH & Co. KG
 B4:64:15		Guangzhou V-Solution Telecommunication Technology Co.,Ltd.
 B4:65:DC		China Dragon Technology Limited
 B4:66:98		Zealabs srl
+B4:67:3F		Shenzhen Shokz Co., Ltd.
 B4:67:E9		Qingdao GoerTek Technology Co., Ltd.
 B4:69:21		Intel Corporate
 B4:69:5F		TCT mobile ltd
@@ -52137,6 +52141,7 @@ CC:81:DA		Phicomm (Shanghai) Co., Ltd.
 CC:82:7B		IEEE Registration Authority
 CC:82:7B:90:00:00/28	Ecotron Corporation
 CC:82:7B:A0:00:00/28	Converging Systems Inc.
+CC:82:7B:C0:00:00/28	RNL Technology(Shenzhen) Co., Ltd
 CC:82:7F		Advantech Technology (CHINA) Co., Ltd.
 CC:82:EB		Kyocera Corporation
 CC:85:6C		Shenzhen Mdk Digital Technology Co.,Ltd
@@ -56406,6 +56411,7 @@ EC:D0:40		GEA Farm Technologies GmbH
 EC:D0:9F		Xiaomi Communications Co Ltd
 EC:D1:9A		Zhuhai Liming Industries Co., Ltd
 EC:D5:08		Apple, Inc.
+EC:D6:1B		Espressif Inc.
 EC:D6:8A		Shenzhen JMicron Intelligent Technology Developmen
 EC:D9:09		Alpsalpine Co,.Ltd
 EC:D9:25		Rami
@@ -57728,6 +57734,7 @@ F8:3F:51		Samsung Electronics Co.,Ltd
 F8:40:68		SZ DJI Ronin Technology Co., Ltd.
 F8:42:88		Apple, Inc.
 F8:42:FB		Yasuda Joho Co.,ltd.
+F8:43:EE		Espressif Inc.
 F8:43:EF		Xiaomi Communications Co Ltd
 F8:44:77		Silicon Laboratories
 F8:44:E3		Taicang T&W Electronics
