@@ -49296,6 +49296,7 @@ B8:2F:CB		CMS Electracom
 B8:30:A8		Road-Track Telematics Development
 B8:31:B5		Microsoft Corporation
 B8:32:41		Wuhan Tianyu Information Industry Co., Ltd.
+B8:32:50		Suzhou Comay Information Technology Co., LTD
 B8:32:8F		eero inc.
 B8:34:46		Motorola Mobility LLC, a Lenovo Company
 B8:36:D8		Videoswitch
