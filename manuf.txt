@@ -25075,6 +25075,7 @@
 38:C2:BA		Cctv Neotech
 38:C4:3A		Apple, Inc.
 38:C4:E8		NSS Sp. z o.o.
+38:C6:12		Phytium Technology Co.,Ltd.
 38:C6:BD		Xiaomi Communications Co Ltd
 38:C6:CE		Nintendo Co.,Ltd
 38:C7:0A		WiFiSong
@@ -25127,6 +25128,7 @@
 38:E8:EE		Nanjing Youkuo Electric Technology Co., Ltd
 38:E9:8C		Reco S.p.A.
 38:EA:A7		Hewlett Packard
+38:EA:DD		Juniper Networks
 38:EB:47		Huawei Technologies Co.,Ltd
 38:EC:07		Motorola Mobility LLC, a Lenovo Company
 38:EC:0D		Apple, Inc.
@@ -28076,6 +28078,7 @@
 4C:8E:19		Xiaomi Communications Co Ltd
 4C:8E:CC		Silkan Sa
 4C:8F:A5		Jastec
+4C:90:2D		Fujian Star-Net Communication Co.,Ltd
 4C:90:DB		JL Audio
 4C:91:0C		Lanix Internacional, S.A. de C.V.
 4C:91:57		Fujian LANDI Commercial Equipment Co.,Ltd
@@ -29335,6 +29338,7 @@
 54:D1:7D		Samsung Electronics Co.,Ltd
 54:D1:B0		Universal Laser Systems, Inc
 54:D2:72		Nuki Home Solutions GmbH
+54:D2:99		TP-Link Systems Inc.
 54:D4:6F		Cisco SPVTG
 54:D6:0D		Hangzhou Ezviz Software Co.,Ltd.
 54:D7:51		Proximus
@@ -31697,6 +31701,7 @@
 68:79:DD		Omnipless Manufacturing (PTY) Ltd
 68:79:ED		SHARP Corporation
 68:7A:64		Intel Corporate
+68:7B:DC		Juniper Networks
 68:7C:C8		Measurement Systems S. de R.L.
 68:7C:D5		Y Soft Corporation, a.s.
 68:7D:00		Shenzhen YOUHUA Technology Co., Ltd
@@ -38128,6 +38133,7 @@
 78:BE:81		FN-LINK TECHNOLOGY Ltd.
 78:BE:B6		Enhanced Vision
 78:BE:BD		STULZ GmbH
+78:C0:5A		TP-Link Systems Inc.
 78:C1:1D		Samsung Electronics Co.,Ltd
 78:C1:A7		zte corporation
 78:C1:AE		Hangzhou Ezviz Software Co.,Ltd.
@@ -43074,6 +43080,7 @@
 8C:1F:64:D9:E0:00/36	Wagner Group GmbH
 8C:1F:64:DA:00:00/36	Sensata Technologies Inc.
 8C:1F:64:DA:10:00/36	Hangteng (HK) Technology Co., Limited
+8C:1F:64:DA:20:00/36	Ascon Tecnologic S.r.l.
 8C:1F:64:DA:40:00/36	Foenix Coding Ltd
 8C:1F:64:DA:50:00/36	Daom
 8C:1F:64:DA:60:00/36	Power Electronics Espana, S.L.
@@ -43393,6 +43400,7 @@
 8C:1F:64:F7:B0:00/36	Xps Eletronica Ltda
 8C:1F:64:F7:C0:00/36	General Dynamics IT
 8C:1F:64:F7:D0:00/36	Rpg Informatica, S.A.
+8C:1F:64:F7:E0:00/36	Suzhou Deyi Automotive Electronice Co., Ltd.
 8C:1F:64:F7:F0:00/36	Vision Systems Safety Tech
 8C:1F:64:F8:00:00/36	Vinfast Trading and Production JSC
 8C:1F:64:F8:20:00/36	Seorim Technology
@@ -45640,6 +45648,7 @@
 9A:D2:63		FirmTek, LLC
 9C:00:D3		SHENZHEN IK WORLD Technology Co., Ltd
 9C:01:11		Shenzhen Newabel Electronic Co., Ltd.
+9C:02:13		NXP Semiconductors Germany GmbH
 9C:02:98		Samsung Electronics Co.,Ltd
 9C:03:51		Huawei Technologies Co.,Ltd
 9C:03:9E		Beijing Winchannel Software Technology Co., Ltd
