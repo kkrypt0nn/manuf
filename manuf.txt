@@ -19517,6 +19517,7 @@
 10:7C:61		ASUSTek COMPUTER INC.
 10:7D:1A		Dell Inc.
 10:7D:C8		Apple, Inc.
+10:7E:59		Calix Inc.
 10:81:B4		Hunan Greatwall Galaxy Science and Technology Co.,Ltd.
 10:82:3D		Ruijie Networks Co.,LTD
 10:82:86		Luxshare Precision Industry Co.,Ltd
@@ -24154,6 +24155,7 @@
 34:2C:8E		Ufispace Co., LTD.
 34:2C:C4		Compal Broadband Networks, Inc.
 34:2D:0D		Samsung Electronics Co.,Ltd
+34:2D:0F		zte corporation
 34:2D:A3		Fiberhome Telecommunication Technologies Co.,LTD
 34:2E:B6		Huawei Technologies Co.,Ltd
 34:2E:B7		Intel Corporate
@@ -24441,6 +24443,7 @@
 34:C0:F9		Rockwell Automation
 34:C1:03		Hangzhou Huamu Technology Co.,Ltd.
 34:C1:E9		Ulak Communications Inc.
+34:C2:29		Calix Inc.
 34:C2:32		Samsung Electronics Co.,Ltd
 34:C3:86		Apple, Inc.
 34:C3:AC		Samsung Electronics Co.,Ltd
@@ -41262,6 +41265,7 @@
 8C:1F:64:3B:A0:00/36	Mitsubishi Electric India Pvt. Ltd.
 8C:1F:64:3B:B0:00/36	Clausal Computing Oy
 8C:1F:64:3B:D0:00/36	Oriux
+8C:1F:64:3B:E0:00/36	Adit Innovation Private Limited
 8C:1F:64:3C:00:00/36	Snek
 8C:1F:64:3C:10:00/36	Suzhou Lianshichuangzhi Technology Co., Ltd
 8C:1F:64:3C:20:00/36	Samuel Cosgrove
@@ -41313,6 +41317,7 @@
 8C:1F:64:40:70:00/36	broadtek
 8C:1F:64:40:80:00/36	techone system
 8C:1F:64:40:A0:00/36	Enki Multimedia
+8C:1F:64:40:B0:00/36	WHOI-AComms
 8C:1F:64:40:C0:00/36	Sichuan Aiyijan Technology Company Ltd.
 8C:1F:64:40:D0:00/36	PROFITT Ltd
 8C:1F:64:40:E0:00/36	Baker Hughes EMEA
@@ -47360,6 +47365,7 @@ A8:3F:A1:C0:00:00/28	Laonz Co.,Ltd
 A8:3F:A1:D0:00:00/28	Shenzhen BIO I/E Co.,Ltd
 A8:3F:A1:E0:00:00/28	Guangzhou Navigateworx Technologies Co., Limited
 A8:40:0B		Visteon Corporation
+A8:40:21		zte corporation
 A8:40:25		Oxide Computer Company
 A8:40:41		Dragino Technology Co., Limited
 A8:40:7D		GD Midea Air-Conditioning Equipment Co.,Ltd.
@@ -52161,10 +52167,14 @@ CC:81:30		Intelbras
 CC:81:7D		Apple, Inc.
 CC:81:DA		Phicomm (Shanghai) Co., Ltd.
 CC:82:7B		IEEE Registration Authority
+CC:82:7B:00:00:00/28	Tedee Sp. z o.o.
 CC:82:7B:20:00:00/28	ACS Motion Control
 CC:82:7B:50:00:00/28	Talentpros System Innovation Co., Ltd.
+CC:82:7B:60:00:00/28	Uniworld Vision Pvt Ltd
+CC:82:7B:70:00:00/28	Opsys Tech Inc
 CC:82:7B:90:00:00/28	Ecotron Corporation
 CC:82:7B:A0:00:00/28	Converging Systems Inc.
+CC:82:7B:B0:00:00/28	iGentAI Computing Technology(Shenzhen) Co., Ltd.
 CC:82:7B:C0:00:00/28	RNL Technology(Shenzhen) Co., Ltd
 CC:82:7F		Advantech Technology (CHINA) Co., Ltd.
 CC:82:EB		Kyocera Corporation
@@ -55618,6 +55628,7 @@ E8:54:97		Samsung Electronics Co.,Ltd
 E8:55:40		Wuxi Funide Digital Co.,Ltd
 E8:55:B4		SAI Technology Inc.
 E8:56:59		Advanced-Connectek Inc.
+E8:56:7A		zte corporation
 E8:56:D6		NCTech Ltd
 E8:5A:8B		Xiaomi Communications Co Ltd
 E8:5A:A7		LLC Emzior
