@@ -20031,6 +20031,7 @@
 14:90:90		KongTop industrial(shen zhen)CO.,LTD
 14:91:38		Amazon Technologies Inc.
 14:91:82		Belkin International Inc.
+14:92:AA		Earda Technologies co Ltd
 14:92:F9		Sichuan AI-Link Technology Co., Ltd.
 14:93:46		PNI sensor corporation
 14:94:2F		Usys Co.,Ltd.
@@ -21865,6 +21866,7 @@
 20:FE:00		Amazon Technologies Inc.
 20:FE:CD		System In Frontier Inc.
 20:FE:DB		M2M Solution S.A.S.
+20:FF:0C		Huawei Technologies Co.,Ltd
 20:FF:36		Iflytek Co.,Ltd.
 24:00:BA		Huawei Technologies Co.,Ltd
 24:00:FA		China Mobile (Hangzhou) Information Technology Co., Ltd
@@ -25292,6 +25294,7 @@
 3C:1E:04		D-Link International
 3C:1E:13		Hangzhou Sunrise Technology Co., Ltd
 3C:1E:B5		Apple, Inc.
+3C:1F:52		eero inc.
 3C:20:93		GD Midea Air-Conditioning Equipment Co.,Ltd.
 3C:20:F6		Samsung Electronics Co.,Ltd
 3C:21:9C		Intel Corporate
@@ -27962,6 +27965,7 @@
 4C:62:7B		SmartCow AI Technologies Taiwan Ltd.
 4C:62:CD		Nokia
 4C:62:DF		Hangzhou Hikvision Digital Technology Co.,Ltd.
+4C:63:1B		Huawei Technologies Co.,Ltd
 4C:63:71		Xiaomi Communications Co Ltd
 4C:63:AD		Huawei Device Co., Ltd.
 4C:63:EB		Application Solutions (Electronics and Vision) Ltd
@@ -29143,6 +29147,7 @@
 54:6D:52		Topview Optronics Corp.
 54:6F:71		uAvionix Corporation
 54:70:68		VTech Communications Limited
+54:70:AB		China Mobile Group Device Co.,Ltd.
 54:71:DD		Huawei Device Co., Ltd.
 54:72:4F		Apple, Inc.
 54:72:5E		Union Man Technology Co.,Ltd
@@ -30852,6 +30857,7 @@
 60:B9:C0		Cisco Systems, Inc
 60:BA:18		nextLAP GmbH
 60:BB:0C		Beijing HuaqinWorld Technology Co,Ltd
+60:BB:EB		Huawei Technologies Co.,Ltd
 60:BC:4C		EWM Hightec Welding GmbH
 60:BD:2C		Taicang T&W Electronics
 60:BD:83		Huawei Technologies Co.,Ltd
@@ -37726,6 +37732,7 @@
 78:0C:71		Inseego Wireless, Inc
 78:0C:B8		Intel Corporate
 78:0C:F0		Cisco Systems, Inc
+78:0E:3E		Huawei Technologies Co.,Ltd
 78:0E:D1		TRUMPF Werkzeugmaschinen GmbH+Co.KG
 78:0F:77		HangZhou Gubei Electronics Technology Co.,Ltd
 78:0F:81		Cisco Meraki
@@ -43375,6 +43382,7 @@
 8C:1F:64:F5:40:00/36	Rowan Tools Office
 8C:1F:64:F5:60:00/36	KC5 International Sdn Bhd
 8C:1F:64:F5:70:00/36	EA Elektro-Automatik GmbH
+8C:1F:64:F5:80:00/36	Mega Endustri Kontrol Sis.Tic.San.A.S
 8C:1F:64:F5:90:00/36	Inovonics Inc.
 8C:1F:64:F5:A0:00/36	Telco Antennas Pty Ltd
 8C:1F:64:F5:B0:00/36	SemaConnect, Inc
@@ -49842,6 +49850,7 @@ BC:34:CA		Inovance
 BC:34:D6		Extreme Networks, Inc.
 BC:35:1E		Tuya Smart Inc.
 BC:35:E5		Hydro Systems Company
+BC:36:F7		Huawei Technologies Co.,Ltd
 BC:37:D3		Apple, Inc.
 BC:38:65		Jwcnetworks
 BC:38:98		Intel Corporate
@@ -50874,6 +50883,7 @@ C4:51:8D		Shenzhen YOUHUA Technology Co., Ltd
 C4:52:4F		Apple, Inc.
 C4:53:79		Micronview Limited Liability Company
 C4:54:44		Quanta Computer Inc.
+C4:55:0D		Huawei Technologies Co.,Ltd
 C4:55:A6		Cadac Holdings Ltd
 C4:55:C2		Bach-Simpson
 C4:56:00		Galleon Embedded Computing
@@ -52185,6 +52195,7 @@ CC:82:7B:90:00:00/28	Ecotron Corporation
 CC:82:7B:A0:00:00/28	Converging Systems Inc.
 CC:82:7B:B0:00:00/28	iGentAI Computing Technology(Shenzhen) Co., Ltd.
 CC:82:7B:C0:00:00/28	RNL Technology(Shenzhen) Co., Ltd
+CC:82:7B:D0:00:00/28	Good Trend Technology Co.Ltd.(Shanghai).
 CC:82:7F		Advantech Technology (CHINA) Co., Ltd.
 CC:82:EB		Kyocera Corporation
 CC:85:6C		Shenzhen Mdk Digital Technology Co.,Ltd
@@ -54586,6 +54597,7 @@ E0:12:83		Shenzhen Fanzhuo Communication Technology Co., Lt
 E0:13:33		General Motors
 E0:13:B5		vivo Mobile Communication Co., Ltd.
 E0:14:3E		Modoosis Inc.
+E0:15:0B		Huawei Technologies Co.,Ltd
 E0:16:B1		Advanced Design Technology co.,ltd.
 E0:18:77		Fujitsu Limited
 E0:18:9F		EM Microelectronic
@@ -55056,6 +55068,7 @@ E4:05:F8		Bytedance
 E4:06:BF		Silicon Laboratories
 E4:06:E0		Huawei Technologies Co.,Ltd
 E4:07:2B		Huawei Device Co., Ltd.
+E4:07:B4		Huawei Technologies Co.,Ltd
 E4:08:E7		Quectel Wireless Solutions Co.,Ltd.
 E4:0A:16		Huawei Technologies Co.,Ltd
 E4:0A:75		Silicon Laboratories
@@ -56751,6 +56764,7 @@ F0:5C:0E		Huawei Device Co., Ltd.
 F0:5C:19		Hewlett Packard Enterprise
 F0:5C:77		Google, Inc.
 F0:5C:D5		Apple, Inc.
+F0:5D:88		Huawei Technologies Co.,Ltd
 F0:5D:89		Dycon Limited
 F0:5D:C8		Duracell Powermat
 F0:5E:CD		Texas Instruments
@@ -57713,6 +57727,7 @@ F8:27:2E		Mercku
 F8:27:93		Apple, Inc.
 F8:28:19		Liteon Technology Corporation
 F8:28:C9		Huawei Technologies Co.,Ltd
+F8:29:3A		Huawei Technologies Co.,Ltd
 F8:29:80		Dongguan Ruilian Xiangtong Technology Co., Ltd
 F8:29:C0		Availink, Inc.
 F8:2A:53		GD Midea Air-Conditioning Equipment Co.,Ltd.
