@@ -21273,6 +21273,7 @@
 1C:C1:1A		Wavetronix
 1C:C1:BC		Yichip Microelectronics (Hangzhou) Co.,Ltd
 1C:C1:DE		Hewlett Packard
+1C:C2:12		Fortinet, Inc.
 1C:C3:16		Xiamen Milesight IoT Co., Ltd.
 1C:C3:AB		Espressif Inc.
 1C:C3:EB		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
@@ -38416,6 +38417,7 @@
 7C:24:99		Apple, Inc.
 7C:25:86		Juniper Networks
 7C:25:87		chaowifi.com
+7C:25:A3		Fortinet, Inc.
 7C:25:DA		Fn-Link Technology Limited
 7C:26:34		Commscope
 7C:26:64		Sagemcom Broadband SAS
@@ -39934,6 +39936,7 @@
 84:EB:3E		Vivint Smart Home
 84:EB:3F		Vivint Inc
 84:EB:EF		Cisco Systems, Inc
+84:EC:14		Qingdao Goertek Horizons  Technology Co.,LTD
 84:ED:33		BBMC Co.,Ltd
 84:EE:7F		Huawei Technologies Co.,Ltd
 84:EE:E4		Samsung Electronics Co.,Ltd
@@ -43444,6 +43447,7 @@
 8C:1F:64:FA:A0:00/36	Massar Networks
 8C:1F:64:FA:B0:00/36	LIAN Corporation
 8C:1F:64:FA:C0:00/36	Showa Electric Laboratory co.,ltd.
+8C:1F:64:FA:F0:00/36	Goodtech Worldwide LTD ,,mobitel''
 8C:1F:64:FB:00:00/36	MARIAN GmbH
 8C:1F:64:FB:10:00/36	Abb
 8C:1F:64:FB:30:00/36	Camius
@@ -52187,10 +52191,13 @@ CC:81:7D		Apple, Inc.
 CC:81:DA		Phicomm (Shanghai) Co., Ltd.
 CC:82:7B		IEEE Registration Authority
 CC:82:7B:00:00:00/28	Tedee Sp. z o.o.
+CC:82:7B:10:00:00/28	Cron AI
 CC:82:7B:20:00:00/28	ACS Motion Control
+CC:82:7B:30:00:00/28	Shenzhen Fengruixiang Intelligent Technology Co., Ltd.
 CC:82:7B:50:00:00/28	Talentpros System Innovation Co., Ltd.
 CC:82:7B:60:00:00/28	Uniworld Vision Pvt Ltd
 CC:82:7B:70:00:00/28	Opsys Tech Inc
+CC:82:7B:80:00:00/28	UNILEAP Technology Inc.
 CC:82:7B:90:00:00/28	Ecotron Corporation
 CC:82:7B:A0:00:00/28	Converging Systems Inc.
 CC:82:7B:B0:00:00/28	iGentAI Computing Technology(Shenzhen) Co., Ltd.
