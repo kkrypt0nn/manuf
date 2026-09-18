@@ -29010,6 +29010,7 @@
 54:14:FD		Orbbec 3D Technology International
 54:15:89		MCS Logic Inc.
 54:16:51		Ruijie Networks Co.,LTD
+54:16:A5		Espressif Systems (Singapore) Pte. Ltd
 54:19:C8		vivo Mobile Communication Co., Ltd.
 54:1B:5D		Techno-Innov
 54:1D:61		YEESTOR Microelectronics Co., Ltd
@@ -48052,6 +48053,7 @@ AC:A0:16		Cisco Systems, Inc
 AC:A0:9D		Juniper Networks
 AC:A2:13		Shenzhen Bilian Electronic Co.，Ltd
 AC:A2:2C		Baycity Technologies Ltd
+AC:A2:6A		Espressif Systems (Singapore) Pte. Ltd
 AC:A3:1E		Hewlett Packard Enterprise
 AC:A3:2F		Solidigm Technology
 AC:A4:30		Peerless AV
