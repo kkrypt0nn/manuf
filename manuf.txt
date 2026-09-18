@@ -20053,6 +20053,7 @@
 14:9C:EF		Texas Instruments
 14:9D:09		Huawei Technologies Co.,Ltd
 14:9D:99		Apple, Inc.
+14:9D:B0		Cloud Network Technology Singapore Pte. Ltd.
 14:9E:5D		JSC "IB Reform"
 14:9E:CF		Dell Inc.
 14:9F:3C		Samsung Electronics Co.,Ltd
@@ -23919,6 +23920,7 @@
 30:C5:07		ECI Telecom Ltd.
 30:C5:0F		Huawei Technologies Co.,Ltd
 30:C5:99		ASUSTek COMPUTER INC.
+30:C6:95		Overview Corporation
 30:C6:AB		zte corporation
 30:C6:D7		New H3C Technologies Co., Ltd
 30:C6:F7		Espressif Inc.
@@ -29533,6 +29535,7 @@
 58:35:6B		Tecno Mobile Limited
 58:35:D9		Cisco Systems, Inc
 58:36:53		Apple, Inc.
+58:36:DE		HZC Skyverse(Chongqing)Microelectronics Co., Ltd
 58:38:79		Ricoh Company, Ltd.
 58:3B:C2		Silicon Laboratories
 58:3B:D9		Fiberhome Telecommunication Technologies Co.,LTD
@@ -40097,6 +40100,7 @@
 88:40:3B		Huawei Technologies Co.,Ltd
 88:40:67		infomark
 88:41:57		Shenzhen Atsmart Technology Co.,Ltd.
+88:41:5F		MitraStar Technology Corp.
 88:41:C1		Orbisat Da Amazonia Ind E Aerol Sa
 88:41:FC		AirTies Wireless Networks
 88:42:D0		Earda Technologies co Ltd
@@ -46453,6 +46457,7 @@ A0:77:9E		Chipsea Technologies (Shenzhen) Corp.
 A0:78:17		Apple, Inc.
 A0:78:2D		Apple, Inc.
 A0:78:BA		Pantech Co., Ltd.
+A0:7D:42		Compal Information (Kunshan) Co., Ltd.
 A0:7D:9C		Samsung Electronics Co.,Ltd
 A0:7E:16		EM Microelectronic
 A0:7F:8A		Sagemcom Broadband SAS
@@ -50809,6 +50814,7 @@ C4:22:4E		Telink Micro LLC
 C4:23:60		Intel Corporate
 C4:23:7A		WhizNets Inc.
 C4:23:A2		PT. Emsonic Indonesia
+C4:23:E2		WNC Corporation
 C4:24:2E		Galvanic Applied Sciences Inc
 C4:24:56		Palo Alto Networks
 C4:26:28		Airo Wireless
@@ -52022,6 +52028,7 @@ CC:35:5A		SecuGen Corporation
 CC:35:D9		Ubiquiti Inc
 CC:36:BB		Silicon Laboratories
 CC:36:CF		Cisco Systems, Inc
+CC:37:A9		Askey Computer Corp
 CC:37:AB		Edgecore Networks Corporation
 CC:38:D0		Palo Alto Networks
 CC:38:E1		Huawei Technologies Co.,Ltd
