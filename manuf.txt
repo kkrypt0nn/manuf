@@ -31376,6 +31376,7 @@
 64:C4:03		Quectel Wireless Solutions Co.,Ltd.
 64:C5:82		China Mobile Group Device Co.,Ltd.
 64:C5:AA		South African Broadcasting Corporation
+64:C5:F9		Shenzhen Tecno Technology
 64:C6:67		Barnes&Noble
 64:C6:AF		AXERRA Networks Ltd
 64:C6:D2		Seiko Epson Corporation
