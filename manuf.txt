@@ -25303,6 +25303,7 @@
 3C:21:9C		Intel Corporate
 3C:22:7F		Quectel Wireless Solutions Co.,Ltd.
 3C:22:FB		Apple, Inc.
+3C:23:19		final Inc.
 3C:24:0A		Huawei Device Co., Ltd.
 3C:24:F0		IEEE Registration Authority
 3C:24:F0:00:00:00/28	Shenzhen Pinsida Technology Co.,Ltd.
@@ -56764,6 +56765,7 @@ F0:4B:F2		JTECH Communications, Inc.
 F0:4C:D5		Maxlinear, Inc
 F0:4D:A2		Dell Inc.
 F0:4D:D4		Sagemcom Broadband SAS
+F0:4E:35		Pica8 Software Inc
 F0:4E:A4		HP Inc.
 F0:4F:7C		Amazon Technologies Inc.
 F0:4F:E0		Vizio, Inc
