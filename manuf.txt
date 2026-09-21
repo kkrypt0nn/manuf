@@ -51853,6 +51853,7 @@ C8:EE:D7		Lightspeed Technologies Inc.
 C8:EF:2E		Beijing Gefei Tech. Co., Ltd
 C8:EF:BC		Inspur Communication Technology Co.,Ltd.
 C8:F0:9E		Espressif Inc.
+C8:F1:0A:60:00:00/28	Nanjing Brome Communications Technology CO.,LTD
 C8:F2:25		EM Microelectronic
 C8:F2:30		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 C8:F2:B4		Guizhou Huaxin Information Technology Co., Ltd.
