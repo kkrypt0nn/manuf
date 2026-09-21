@@ -17964,6 +17964,7 @@
 04:EE:E8:D0:00:00/28	Shenzhen Topwell Technology Co., Ltd.
 04:EE:E8:E0:00:00/28	Best Integration Technology Co., Ltd.
 04:EE:EE		Laplace System Co., Ltd.
+04:EF:61		Dell Inc.
 04:F0:21		Compex Systems Pte Ltd
 04:F0:3E		Huawei Device Co., Ltd.
 04:F0:E4		ShenZhen Hosecom Electronic Technology Co.,LTD
@@ -19769,6 +19770,7 @@
 14:02:EC		Hewlett Packard Enterprise
 14:03:38		Huawei Technologies Co.,Ltd
 14:04:67		SNK Technologies Co.,Ltd.
+14:04:98		Apple, Inc.
 14:05:89		Motorola Mobility LLC, a Lenovo Company
 14:06:4C		Vogl Electronic GmbH
 14:06:A7		Cresyn
@@ -20112,6 +20114,7 @@
 14:B4:57		Silicon Laboratories
 14:B4:84		Samsung Electronics Co.,Ltd
 14:B5:CD		Liteon Technology Corporation
+14:B6:53		Apple, Inc.
 14:B6:EB		CJ intelligent technology LTD.
 14:B7:3D		ARCHEAN Technologies
 14:B7:F8		Vantiva USA LLC
@@ -20163,6 +20166,7 @@
 14:D4:24		AzureWave Technology Inc.
 14:D4:FE		Commscope
 14:D5:37		All Inspire Health Inc.
+14:D5:5C		Apple, Inc.
 14:D5:C6		slash dev slash agents, inc
 14:D6:4D		D-Link International
 14:D6:7C		Uncord Technologies Private Limited
@@ -20292,6 +20296,7 @@
 18:31:BF		ASUSTek COMPUTER INC.
 18:32:19		EM Microelectronic
 18:32:A2		Laon Technology Co., Ltd.
+18:32:DE		Apple, Inc.
 18:33:86		Huawei Technologies Co.,Ltd
 18:33:9D		Cisco Systems, Inc
 18:34:51		Apple, Inc.
@@ -21670,6 +21675,7 @@
 20:89:8A		Shenzhen Skyworth Digital  Technology  CO., Ltd
 20:8B:37		Skyworth Digital Technology(Shenzhen) Co.,Ltd
 20:8B:D1		NXP Semiconductor (Tianjin) LTD.
+20:8C:0A		Apple, Inc.
 20:8C:47		Tenstorrent Inc
 20:8C:86		Huawei Technologies Co.,Ltd
 20:90:6F		Shenzhen Tencent Computer System Co., Ltd.
@@ -23858,6 +23864,7 @@
 30:A4:52		Arrival Elements BV
 30:A6:12		ShenZhen Hugsun Technology Co.,Ltd.
 30:A7:71		Jiang Su Fulian Communication Technology Co.,Ltd
+30:A7:F5		Apple, Inc.
 30:A8:89		Decimator Design
 30:A8:DB		Sony Corporation
 30:A9:98		Huawei Device Co., Ltd.
@@ -24319,6 +24326,7 @@
 34:81:37		Unicard Sa
 34:81:C4		AVM GmbH
 34:81:F4		SST Taiwan Ltd.
+34:82:96		Apple, Inc.
 34:82:C5		Samsung Electronics Co.,Ltd
 34:82:DE		Kiio Inc
 34:83:02		iFORCOM Co., Ltd
@@ -25335,6 +25343,7 @@
 3C:2C:94		杭州德澜科技有限公司（HangZhou Delan Technology Co.,Ltd）
 3C:2C:99		Edgecore Networks Corporation
 3C:2C:A6		Beijing Xiaomi Electronics Co.,Ltd
+3C:2C:CD		Apple, Inc.
 3C:2D:9E		Vantiva - Connected Home
 3C:2D:B7		Texas Instruments
 3C:2E:F5		Silicon Laboratories
@@ -26835,6 +26844,7 @@
 44:23:AA		Farmage Co., Ltd.
 44:25:38		WNC Corporation
 44:25:BB		Bamboo Entertainment Corporation
+44:25:F4		Apple, Inc.
 44:27:2E		Huawei Device Co., Ltd.
 44:27:45		LG Innotek
 44:27:F3		70mai Co.,Ltd.
@@ -28659,6 +28669,7 @@
 50:7D:02		Biodit
 50:7E:5D		Arcadyan Corporation
 50:80:4A		Quectel Wireless Solutions Co.,Ltd.
+50:81:14		Apple, Inc.
 50:81:40		HP Inc.
 50:82:D5		Apple, Inc.
 50:84:92		Intel Corporate
@@ -29598,6 +29609,7 @@
 58:50:AB		TLS Corporation
 58:50:E6		Best Buy Corporation
 58:50:ED		Hangzhou Hikvision Digital Technology Co.,Ltd.
+58:51:A3		Apple, Inc.
 58:52:8A		Mitsubishi Electric Corporation
 58:53:C0		Beijing Guang Runtong Technology Development Company co.,Ltd
 58:55:95		Apple, Inc.
@@ -30256,6 +30268,7 @@
 5C:87:D8:E0:00:00/28	Beijing Townsky Technology Co.,Ltd
 5C:88:16		Rockwell Automation
 5C:89:9A		Tp-Link Technologies Co.,Ltd.
+5C:89:BC		Apple, Inc.
 5C:89:D4		Beijing Banner Electric Co.,Ltd
 5C:89:E6		Richard Wolf GmbH
 5C:8A:38		Hewlett Packard
@@ -30888,6 +30901,7 @@
 60:C7:BE		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 60:C9:80		Trymus
 60:C9:AA		Nokia
+60:CA:3A		Apple, Inc.
 60:CB:FB		AirScape Inc.
 60:CD:A9		Abloomy
 60:CD:C5		Taiwan Carol Electronics., Ltd
@@ -40053,6 +40067,7 @@
 88:2A:E1		Mrc Inc.
 88:2B:94		MADOKA SYSTEM Co.,Ltd.
 88:2B:D7		Addénergie  Technologies
+88:2C:31		Apple, Inc.
 88:2D:53		Baidu Online Network Technology (Beijing) Co., Ltd.
 88:2E:5A		storONE
 88:2F:64		BCOM Networks Limited
@@ -45144,6 +45159,7 @@
 98:06:A3		Gsd Viet Nam Technology Company Limited
 98:07:09		Huawei Device Co., Ltd.
 98:07:2D		Texas Instruments
+98:07:6A		Apple, Inc.
 98:08:02		Orbis Bv
 98:08:18		AltoBeam Inc.
 98:09:CF		OnePlus Technology (Shenzhen) Co., Ltd
@@ -45259,6 +45275,7 @@
 98:42:46		Sol Industry Pte., Ltd
 98:42:65		Sagemcom Broadband SAS
 98:42:AB		GN Hearing A/S
+98:42:F5		Apple, Inc.
 98:43:DA		Intertech
 98:43:FA		Intel Corporate
 98:44:B6		Infranor Sas
@@ -45530,6 +45547,7 @@
 98:C9:BE		Shenzhen SDMC Technology CO., LTD
 98:CA:20		Shanghai SIMCOM Ltd.
 98:CA:33		Apple, Inc.
+98:CA:B5		Apple, Inc.
 98:CB:27		Galore Networks Pvt. Ltd.
 98:CB:38		Boxin Communications Limited Liability Company
 98:CB:A4		Benchmark Electronics
@@ -47707,6 +47725,7 @@ A8:F8:C9		NXP Semiconductor (Tianjin) LTD.
 A8:F9:4B		Eltex Enterprise Ltd.
 A8:FA:D8		Apple, Inc.
 A8:FB:40		Nokia Solutions and Networks GmbH & Co. KG
+A8:FB:45		Google, Inc.
 A8:FB:70		WiseSec L.t.d
 A8:FC:B7		Consolidated Resource Imaging
 A8:FD:07		Espressif Inc.
@@ -49776,6 +49795,7 @@ BC:16:65		Cisco Systems, Inc
 BC:16:95		zte corporation
 BC:16:F5		Cisco Systems, Inc
 BC:17:B8		Intel Corporate
+BC:18:27		Apple, Inc.
 BC:18:96		Huawei Technologies Co.,Ltd
 BC:19:2F		Texas Instruments
 BC:1A:67		YF Technology Co., Ltd
@@ -51287,6 +51307,7 @@ C4:EB:41		Sagemcom Broadband SAS
 C4:EB:42		Sagemcom Broadband SAS
 C4:EB:43		Sagemcom Broadband SAS
 C4:EB:68		VusionGroup
+C4:EB:81		Apple, Inc.
 C4:EB:E3		Rrcn Sas
 C4:EB:FF		zte corporation
 C4:ED:BA		Texas Instruments
@@ -52217,6 +52238,7 @@ CC:82:7B:A0:00:00/28	Converging Systems Inc.
 CC:82:7B:B0:00:00/28	iGentAI Computing Technology(Shenzhen) Co., Ltd.
 CC:82:7B:C0:00:00/28	RNL Technology(Shenzhen) Co., Ltd
 CC:82:7B:D0:00:00/28	Good Trend Technology Co.Ltd.(Shanghai).
+CC:82:7B:E0:00:00/28	Applied Materials
 CC:82:7F		Advantech Technology (CHINA) Co., Ltd.
 CC:82:EB		Kyocera Corporation
 CC:85:6C		Shenzhen Mdk Digital Technology Co.,Ltd
@@ -55081,6 +55103,7 @@ E0:FA:5B		Arista Networks
 E0:FA:EC		Platan sp. z o.o. sp. k.
 E0:FF:F1		Texas Instruments
 E0:FF:F7		Softiron Inc.
+E4:01:3B		Apple, Inc.
 E4:01:77		SafeOwl, Inc.
 E4:02:74		FW Murphy Production Controls
 E4:02:9B		Intel Corporate
@@ -57392,6 +57415,7 @@ F4:7A:4E		Woojeon&Handan
 F4:7A:CC		SolidFire, Inc.
 F4:7B:09		Intel Corporate
 F4:7B:5E		Samsung Electronics Co.,Ltd
+F4:7D:8F		Google, Inc.
 F4:7D:EF		Samsung Electronics Co.,Ltd
 F4:7F:35		Cisco Systems, Inc
 F4:81:39		Canon Inc.
