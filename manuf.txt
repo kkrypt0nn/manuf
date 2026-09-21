@@ -7996,7 +7996,7 @@
 00:1E:80		Icotera A/S
 00:1E:81		CNB Technology Inc.
 00:1E:82		SanDisk Corporation
-00:1E:83		LAN/MAN Standards Association (LMSC)
+00:1E:83		IEEE 802.1 Working Group
 00:1E:84		Pika Technologies Inc.
 00:1E:85		Lagotek Corporation
 00:1E:86		MEL Co.,Ltd.
@@ -15723,7 +15723,7 @@
 00:80:BF		Takaoka Electric Mfg. Co. Ltd.
 00:80:C0		Penril Datacomm
 00:80:C1		Lanex Corporation
-00:80:C2		IEEE 802.1 Chair
+00:80:C2		IEEE 802.1 Working Group
 00:80:C3		Bicc Information Systems & Svc
 00:80:C4		Document Technologies, Inc.
 00:80:C5		Novellco De Mexico
@@ -25228,7 +25228,7 @@
 3A:76:5D		NewCoSemi(Beijing) Technology Co., Ltd
 3A:78:CA		SoundTalks NV
 3A:79:6E		LX Semicon co.,Ltd.
-3A:A3:F8		IEEE 802.1 Chair
+3A:A3:F8		IEEE 802.1 Working Group
 3A:BA:37		Cirrent
 3A:C6:CF		Parakey AB
 3A:CF:C5		Quickline AG
@@ -27780,7 +27780,7 @@
 48:FD:8E		Huawei Technologies Co.,Ltd
 48:FD:A3		Xiaomi Communications Co Ltd
 48:FE:EA		Homa B.V.
-4A:07:D6		IEEE 802.1 Chair
+4A:07:D6		IEEE 802.1 Working Group
 4A:15:40		sas de la Halle aux Fours
 4A:19:1B		ZigBee Alliance
 4A:59:09		Miwa Lock Co.,Ltd.
@@ -51899,7 +51899,7 @@ CA:12:5C		Microsoft Corporation
 CA:1E:45		ASMedia Technology Inc.
 CA:22:2B		Beijing Puma Gear Power Equipment Co.,Ltd
 CA:2B:5E		Suzhou Motor-comm Electronic Technology Co.,Ltd
-CA:30:BF		IEEE 802.1 Chair
+CA:30:BF		IEEE 802.1 Working Group
 CA:37:82		Storbyte, Inc.
 CA:3E:A6		Syng, Inc.
 CA:44:3E		Allianz Technology SE
@@ -58250,7 +58250,7 @@ FA:7A:CB		Ultra Ethernet Consortium
 FA:7D:04		Salience Labs
 FA:8D:93		Runione Tech Co., Ltd
 FA:93:05		Panasonic Automotive Systems Co., Ltd.
-FA:94:F1		IEEE 802.1 Chair
+FA:94:F1		IEEE 802.1 Working Group
 FA:BA:85		APAT Optoelectronics Components Co., Ltd.
 FA:D9:88		Momentum Data Systems
 FA:E1:90		In Win Development Inc.
