@@ -15447,6 +15447,7 @@
 00:67:62		Fiberhome Telecommunication Technologies Co.,LTD
 00:68:2B		Huawei Device Co., Ltd.
 00:68:EB		HP Inc.
+00:68:FE		UNINET Co.,Ltd.
 00:69:2D		Sunnovo International Limited
 00:69:67		IEEE Registration Authority
 00:69:67:00:00:00/28	Annapurna labs
@@ -40892,6 +40893,7 @@
 8C:1F:64:16:F0:00/36	Codasip s.r.o.
 8C:1F:64:17:00:00/36	Fracarro Radioindustrie Srl
 8C:1F:64:17:10:00/36	Maxphotoics GmbH
+8C:1F:64:17:30:00/36	iPronics
 8C:1F:64:17:40:00/36	KST technology
 8C:1F:64:17:50:00/36	Wuhan YiValley Opto-electric technology Co.,Ltd
 8C:1F:64:17:60:00/36	Leidos Inc
@@ -51853,6 +51855,7 @@ C8:EE:D7		Lightspeed Technologies Inc.
 C8:EF:2E		Beijing Gefei Tech. Co., Ltd
 C8:EF:BC		Inspur Communication Technology Co.,Ltd.
 C8:F0:9E		Espressif Inc.
+C8:F1:0A		IEEE Registration Authority
 C8:F1:0A:60:00:00/28	Nanjing Brome Communications Technology CO.,LTD
 C8:F2:25		EM Microelectronic
 C8:F2:30		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
@@ -53078,6 +53081,7 @@ D0:E1:40		Apple, Inc.
 D0:E3:47		Yoga
 D0:E4:0B		Wearable Inc.
 D0:E4:4A		Murata Manufacturing Co., Ltd.
+D0:E4:8C		WITS Co., Ltd
 D0:E5:4D		Commscope
 D0:E5:81		Apple, Inc.
 D0:E7:82		AzureWave Technology Inc.
