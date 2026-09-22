@@ -30426,6 +30426,7 @@
 5C:E3:B6		Fiberhome Telecommunication Technologies Co.,LTD
 5C:E4:2A		Intel Corporate
 5C:E5:0C		Beijing Xiaomi Mobile Software Co., Ltd
+5C:E6:74		NXP Semiconductors Taiwan Ltd.
 5C:E6:88		VECOS Europe B.V.
 5C:E7:47		Huawei Technologies Co.,Ltd
 5C:E7:53		Shenzhen Intellirocks Tech. Co. Ltd.
@@ -31750,6 +31751,7 @@
 68:85:6A		OuterLink Corporation
 68:85:A4		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 68:86:A7		Cisco Systems, Inc
+68:86:E0		NXP Semiconductors Taiwan Ltd.
 68:86:E7		Orbotix, Inc.
 68:87:1C		Motorola Mobility LLC, a Lenovo Company
 68:87:6B		INQ Mobile Limited
@@ -39844,7 +39846,7 @@
 84:B3:86:A0:00:00/28	Velocio Networks, Inc.
 84:B3:86:B0:00:00/28	Sineng electric CO., Ltd
 84:B3:86:C0:00:00/28	Palomar Products Inc
-84:B3:86:D0:00:00/28	Dongguan Amsamotion Automation Technology Co., Ltd
+84:B3:86:D0:00:00/28	Dongguan Amsamotion Automation Technology Co.,Ltd.
 84:B3:86:E0:00:00/28	Ningbo Xinsuan Technology Co.,Ltd
 84:B4:D2		Shenzhen iComm Semiconductor CO.,LTD
 84:B4:DB		Silicon Laboratories
@@ -44010,6 +44012,7 @@
 8C:F3:19		Siemens Industrial Automation Products Ltd., Chengdu
 8C:F3:E7		solidotech
 8C:F5:A3		Samsung Electro-Mechanics(Thailand)
+8C:F6:7D		Netgear
 8C:F6:81		Silicon Laboratories
 8C:F7:10		AMPAK Technology, Inc.
 8C:F7:73		Nokia
@@ -44862,6 +44865,7 @@
 94:94:26		Apple, Inc.
 94:94:4A		Particle Industries Inc.
 94:95:A0		Google, Inc.
+94:97:22		AzureWave Technology Inc.
 94:97:4F		Liteon Technology Corporation
 94:97:AE		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 94:98:69		zte corporation
@@ -46202,7 +46206,7 @@ A0:02:4A:10:00:00/28	Videndum Media Solutions Spa
 A0:02:4A:20:00:00/28	Danriver Technologies Corp.
 A0:02:4A:30:00:00/28	SomaDetect Inc
 A0:02:4A:40:00:00/28	Argos Solutions AS
-A0:02:4A:50:00:00/28	Dongguan Amsamotion Automation Technology Co., Ltd
+A0:02:4A:50:00:00/28	Dongguan Amsamotion Automation Technology Co.,Ltd.
 A0:02:4A:60:00:00/28	Xiaojie Technology (Shenzhen) Co., Ltd
 A0:02:4A:70:00:00/28	Ennebi Elettronica Srl
 A0:02:4A:80:00:00/28	Beijing Lyratone Technology Co., Ltd
@@ -51865,6 +51869,8 @@ C8:F0:9E		Espressif Inc.
 C8:F1:0A		IEEE Registration Authority
 C8:F1:0A:30:00:00/28	CiDi Inc.
 C8:F1:0A:60:00:00/28	Nanjing Brome Communications Technology CO.,LTD
+C8:F1:0A:B0:00:00/28	Vebo Genossenschaft
+C8:F1:0A:D0:00:00/28	I2V Systems Pvt. Ltd.
 C8:F2:25		EM Microelectronic
 C8:F2:30		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 C8:F2:B4		Guizhou Huaxin Information Technology Co., Ltd.
@@ -55440,6 +55446,7 @@ E4:AA:EC		Tianjin Hualai Technology Co., Ltd
 E4:AB:46		UAB Selteka
 E4:AB:89		MitraStar Technology Corp.
 E4:AD:7D		SCL Elements
+E4:AD:CA		Murata Manufacturing Co., Ltd.
 E4:AE:E4		Tuya Smart Inc.
 E4:AF:A1		Hes-So
 E4:B0:05		Beijing IQIYI Science & Technology Co., Ltd.
