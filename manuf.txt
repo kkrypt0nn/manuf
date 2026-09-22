@@ -25848,6 +25848,7 @@
 40:2B:50		Commscope
 40:2B:69		Kumho Electric Inc.
 40:2B:A1		Sony Corporation
+40:2B:D6		Espressif Inc.
 40:2C:76		IEEE Registration Authority
 40:2C:76:00:00:00/28	Lista AG
 40:2C:76:10:00:00/28	Shanghai Dahua Scale Factory
@@ -29531,6 +29532,7 @@
 58:2A:BD		Espressif Inc.
 58:2A:F7		Huawei Technologies Co.,Ltd
 58:2B:0A		Texas Instruments
+58:2B:D3		Espressif Inc.
 58:2B:DB		Pax AB
 58:2D:34		Qingping Electronics (Suzhou) Co., Ltd
 58:2E:FE		Lighting Science Group
@@ -37461,6 +37463,7 @@
 74:88:8B		ADB Broadband Italia
 74:88:A8		Bouffalo Lab (Nanjing) Co., Ltd.
 74:88:BB		Cisco Systems, Inc
+74:89:27		Espressif Inc.
 74:8A:0D		Commscope
 74:8A:28		HMD Global Oy
 74:8A:69		Korea Image Technology Co., Ltd
@@ -44342,6 +44345,7 @@
 90:92:B4		Diehl BGT Defence GmbH & Co. KG
 90:93:5A		Commscope
 90:94:0A		Analog Devices, Inc
+90:94:12		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 90:94:97		Huawei Technologies Co.,Ltd
 90:94:E4		D-Link International
 90:95:07		Huawei Technologies Co.,Ltd
@@ -46228,6 +46232,7 @@ A0:0E:98		Huawei Technologies Co.,Ltd
 A0:0F:37		Cisco Systems, Inc
 A0:10:77		zte corporation
 A0:10:81		Samsung Electronics Co.,Ltd
+A0:12:17		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 A0:12:90		Avaya Inc
 A0:12:DB		Tabuchi Electric Co.,Ltd
 A0:13:3B		HiTi Digital, Inc.
@@ -51847,6 +51852,7 @@ C8:E7:F0		Juniper Networks
 C8:E8:AF		eero inc.
 C8:EA:F8		zte corporation
 C8:EB:EC		Shenzhen YOUHUA Technology Co., Ltd
+C8:ED:8B		Espressif Inc.
 C8:ED:FC		Shenzhen Ideaform Industrial Product Design Co., Ltd
 C8:EE:08		Tangtop Technology Co.,Ltd
 C8:EE:75		Pishion International Co. Ltd
@@ -51856,6 +51862,7 @@ C8:EF:2E		Beijing Gefei Tech. Co., Ltd
 C8:EF:BC		Inspur Communication Technology Co.,Ltd.
 C8:F0:9E		Espressif Inc.
 C8:F1:0A		IEEE Registration Authority
+C8:F1:0A:30:00:00/28	CiDi Inc.
 C8:F1:0A:60:00:00/28	Nanjing Brome Communications Technology CO.,LTD
 C8:F2:25		EM Microelectronic
 C8:F2:30		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
