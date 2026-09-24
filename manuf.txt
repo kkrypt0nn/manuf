@@ -17649,6 +17649,7 @@
 04:71:4B:D0:00:00/28	Shenzhen BoClouds Technology Co.,Ltd.
 04:71:4B:E0:00:00/28	Gimso Mobile Ltd
 04:71:53		Sernet (Suzhou) Technologies Corporation
+04:71:79		Hewlett Packard Enterprise
 04:72:95		Apple, Inc.
 04:72:EF		Apple, Inc.
 04:74:9E		Huawei Technologies Co.,Ltd
@@ -25773,6 +25774,7 @@
 3C:FD:FE		Intel Corporate
 3C:FE:AC		Cisco Systems, Inc
 3C:FF:D8		Huawei Technologies Co.,Ltd
+3C:FF:DD		vivo Mobile Communication Co., Ltd.
 3C:FF:E4		Siemens AG
 40:00:E0		Derek(Shaoguan)Limited
 40:01:07		Arista Corp
@@ -40149,6 +40151,7 @@
 88:4B:39		Siemens AG, Healthcare Sector
 88:4C:CF		Pulzze Systems, Inc
 88:4D:7C		Apple, Inc.
+88:4D:DE		Nubia Technology Co.,Ltd.
 88:4F:59		Cisco Systems, Inc
 88:50:46		Lear
 88:50:DD		Infiniband Trade Association
@@ -42517,6 +42520,7 @@
 8C:1F:64:A4:D0:00/36	DEUTA-WERKE GmbH
 8C:1F:64:A4:E0:00/36	Syscom Instruments SA
 8C:1F:64:A4:F0:00/36	Ascon Tecnologic S.r.l.
+8C:1F:64:A5:00:00/36	Simply Embededded Inc
 8C:1F:64:A5:10:00/36	Babtel
 8C:1F:64:A5:20:00/36	Tiama
 8C:1F:64:A5:60:00/36	Flextronics International Kft
@@ -45122,6 +45126,7 @@
 94:FB:A7:D0:00:00/28	Rosenberger Technologies Co.,Ltd.
 94:FB:A7:E0:00:00/28	Skyring Smart Technologies(Shenzhen) Co., Ltd.
 94:FB:B2		Shenzhen Gongjin Electronics Co.,Lt
+94:FC:04		Dongguan Amsamotion Automation Technology Co.,Ltd.
 94:FC:87		Hirschmann Automation and Control GmbH
 94:FD:1D		WhereWhen Corp
 94:FD:2E		Shanghai Uniscope Technologies Co.,Ltd
@@ -48192,6 +48197,7 @@ AC:D2:0C		Chengdu SingCore Technology Co.,Ltd.
 AC:D3:1D		Cisco Meraki
 AC:D3:64		Abb Spa, Abb Sace Div.
 AC:D3:FB		Arycs Technologies Inc
+AC:D4:00		Cisco Systems, Inc
 AC:D5:64		Chongqing Fugui Electronics Co.,Ltd.
 AC:D6:18		OnePlus Technology (Shenzhen) Co., Ltd
 AC:D6:57		Shaanxi GuoLian Digital TV Technology Co.,Ltd.
@@ -49837,6 +49843,7 @@ BC:22:28		D-Link International
 BC:22:47		New H3C Technologies Co., Ltd
 BC:22:FB		RF Industries
 BC:23:92		BYD Precision Manufacture Company Ltd.
+BC:23:9F		vivo Mobile Communication Co., Ltd.
 BC:24:11		Proxmox Server Solutions GmbH
 BC:24:92		New H3C Technologies Co., Ltd
 BC:25:E0		Huawei Technologies Co.,Ltd
@@ -51883,8 +51890,12 @@ C8:EF:BC		Inspur Communication Technology Co.,Ltd.
 C8:F0:9E		Espressif Inc.
 C8:F1:0A		IEEE Registration Authority
 C8:F1:0A:00:00:00/28	Clever Logger Technologies Pty Ltd
+C8:F1:0A:10:00:00/28	Beijing Ubinexus Technology Development Co.,Ltd.
 C8:F1:0A:30:00:00/28	CiDi Inc.
+C8:F1:0A:40:00:00/28	Wislink Vision (Hongkong) Technologies Co., Limited
+C8:F1:0A:50:00:00/28	Shenzhen DO Intelligent Technology Co., Ltd
 C8:F1:0A:60:00:00/28	Nanjing Brome Communications Technology CO.,LTD
+C8:F1:0A:70:00:00/28	Moon Investment (Hong Kong) Limited
 C8:F1:0A:90:00:00/28	dss Co,. Ltd
 C8:F1:0A:B0:00:00/28	Vebo Genossenschaft
 C8:F1:0A:C0:00:00/28	Changzhou Siri Electric Technology Co.,Ltd.
@@ -55239,6 +55250,7 @@ E4:38:8C		Digital Products Limited
 E4:38:F2		Advantage Controls
 E4:3A:65		MofiNetwork Inc
 E4:3A:6E		Shenzhen Zeroone Technology CO.,LTD
+E4:3A:85		Cisco Systems, Inc
 E4:3B:C9		Hisense Visual Technology Co.,Ltd
 E4:3C:80		University of Oklahoma
 E4:3D:1A		Broadcom Limited
