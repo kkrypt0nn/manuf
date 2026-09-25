@@ -18709,7 +18709,7 @@
 0C:15:39		Apple, Inc.
 0C:15:63		Apple, Inc.
 0C:15:C5		SDTEC Co., Ltd.
-0C:16:6E		WirelessMobility Engineering Centre SDN. BHD
+0C:16:6E		Eagle Wireless Engineering Centre SDN BHD
 0C:17:73		Huawei Device Co., Ltd.
 0C:17:F1		Telecsys
 0C:18:4E		Huawei Technologies Co.,Ltd
@@ -30313,6 +30313,7 @@
 5C:99:77		Apple, Inc.
 5C:9A:A1		Huawei Device Co., Ltd.
 5C:9A:D8		Fujitsu Limited
+5C:9A:E1		Ericsson AB
 5C:9B:A6		Apple, Inc.
 5C:A0:6C		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 5C:A1:76		Sichuan Tianyi Comheart Telecom Co.,LTD
@@ -47224,6 +47225,7 @@ A4:C9:39		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 A4:CA:A0		Huawei Technologies Co.,Ltd
 A4:CB:8F		Espressif Inc.
 A4:CC:32		Inficomm Co., Ltd
+A4:CC:37		Silicon Laboratories
 A4:CC:B3		Xiaomi Communications Co Ltd
 A4:CC:B9		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 A4:CD:23		Shenzhenshi Xinzhongxin  Co., Ltd
@@ -55045,6 +55047,7 @@ E0:BB:9E		Seiko Epson Corporation
 E0:BC:43		C2 Microsystems, Inc.
 E0:BD:A0		Apple, Inc.
 E0:BE:03		Lite-On Network Communication (Dongguan) Limited
+E0:BF:0B		Silicon Laboratories
 E0:BF:B2		Apple, Inc.
 E0:C0:D1		CK Telecom (Shenzhen) Limited
 E0:C2:50		Netgear
@@ -57936,7 +57939,7 @@ F8:54:AF		ECI Telecom Ltd.
 F8:54:B8		Amazon Technologies Inc.
 F8:54:F6		AzureWave Technology Inc.
 F8:55:48		Texas Instruments
-F8:55:4B		WirelessMobility Engineering Centre SDN. BHD
+F8:55:4B		Eagle Wireless Engineering Centre SDN BHD
 F8:55:CD		Visteon Corporation
 F8:56:C3		zte corporation
 F8:57:2E		Core Brands, LLC
