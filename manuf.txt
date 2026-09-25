@@ -17490,6 +17490,7 @@
 04:22:34		Wireless Standard Extensions
 04:22:E7		Fiberhome Telecommunication Technologies Co.,LTD
 04:23:22		Texas Instruments
+04:23:36		Zyxel Communications Corporation
 04:23:A3		Mellanox Technologies, Inc.
 04:24:05		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 04:25:C5		Huawei Technologies Co.,Ltd
@@ -20447,6 +20448,7 @@
 18:6C:60		Jifeline Networks B.V.
 18:6D:99		Adanis Inc.
 18:6F:2D		Shenzhen Sundray Technologies company Limited
+18:6F:A7		Shen Zhen Tenda Technology Co.,Ltd
 18:70:3B		Huawei Device Co., Ltd.
 18:71:17		eta plus electronic gmbh
 18:71:D5		Hazens Automotive Electronics(SZ)Co.,Ltd.
@@ -21691,6 +21693,7 @@
 20:93:95		nVent
 20:96:8A		China Mobile (Hangzhou) Information Technology Co., Ltd.
 20:97:27		Teltonika Networks Uab
+20:97:71		Gsd Viet Nam Technology Company Limited
 20:98:8E		Shenzhen Feasycom Co., Ltd
 20:98:D8		Shenzhen Yingdakang Technology CO., LTD
 20:98:ED		AltoBeam Inc.
@@ -24325,7 +24328,7 @@
 34:7E:5C		Sonos, Inc.
 34:7E:CA		Nextwill
 34:7F:63		Concept Pro Surveillance
-34:80:0D		Cavium Inc
+34:80:0D		Marvell Semiconductors
 34:80:B3		Xiaomi Communications Co Ltd
 34:81:37		Unicard Sa
 34:81:C4		AVM GmbH
@@ -40827,6 +40830,7 @@
 8C:1F:64:0F:40:00/36	AW-SOM Technologies LLC
 8C:1F:64:0F:50:00/36	Vishay Nobel AB
 8C:1F:64:0F:70:00/36	Combilent
+8C:1F:64:0F:80:00/36	INVENTIS S.r.l.
 8C:1F:64:0F:90:00/36	ikan International LLC
 8C:1F:64:0F:A0:00/36	Nautel LTD
 8C:1F:64:0F:D0:00/36	CEI Ptd Ltd
@@ -45107,6 +45111,7 @@
 94:F7:BE		Sercomm Philippines Inc
 94:F8:27		Shanghai Imilab Technology Co.Ltd
 94:F9:29		Meta Platforms, Inc.
+94:FA:57		Equalizer Technologies
 94:FA:E8		Shenzhen Eycom Technology Co., Ltd
 94:FB:29		Zebra Technologies Inc.
 94:FB:A7		IEEE Registration Authority
@@ -47932,6 +47937,7 @@ AC:4D:16		Texas Instruments
 AC:4D:D9		Extreme Networks, Inc.
 AC:4E:2E		Shenzhen JingHanDa Electronics Co.Ltd
 AC:4E:65		Fiberhome Telecommunication Technologies Co.,LTD
+AC:4E:74		Shen Zhen Tenda Technology Co.,Ltd
 AC:4E:91		Huawei Technologies Co.,Ltd
 AC:4F:FC		SVS-VISTEK GmbH
 AC:50:36		Pi-Coral Inc
@@ -51896,6 +51902,7 @@ C8:F1:0A:40:00:00/28	Wislink Vision (Hongkong) Technologies Co., Limited
 C8:F1:0A:50:00:00/28	Shenzhen DO Intelligent Technology Co., Ltd
 C8:F1:0A:60:00:00/28	Nanjing Brome Communications Technology CO.,LTD
 C8:F1:0A:70:00:00/28	Moon Investment (Hong Kong) Limited
+C8:F1:0A:80:00:00/28	Bwell Technology International Limited
 C8:F1:0A:90:00:00/28	dss Co,. Ltd
 C8:F1:0A:B0:00:00/28	Vebo Genossenschaft
 C8:F1:0A:C0:00:00/28	Changzhou Siri Electric Technology Co.,Ltd.
@@ -55906,6 +55913,7 @@ E8:A6:CA		Huawei Device Co., Ltd.
 E8:A7:2F		Microsoft Corporation
 E8:A7:30		Apple, Inc.
 E8:A7:88		Xiamen Leelen Technology Co., Ltd
+E8:A7:B6		Bouffalo Lab (Nanjing) Co., Ltd.
 E8:A7:F2		sTraffic
 E8:A8:48		Wacom Co.,Ltd.
 E8:A9:27		Lear
