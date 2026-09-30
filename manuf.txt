@@ -31428,6 +31428,7 @@
 64:CA:80		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 64:CB:5D		SIA "TeleSet"
 64:CB:9F		Tecno Mobile Limited
+64:CB:A0		Extreme Networks, Inc.
 64:CB:A3		Pointmobile
 64:CB:E9		LG Innotek
 64:CC:22		Arcadyan Corporation
@@ -41287,6 +41288,7 @@
 8C:1F:64:37:60:00/36	DIAS Infrared GmbH
 8C:1F:64:37:70:00/36	Solotech
 8C:1F:64:37:80:00/36	spar Power Technologies Inc.
+8C:1F:64:37:90:00/36	Transducers Direct LLC
 8C:1F:64:37:A0:00/36	Getqcall
 8C:1F:64:37:B0:00/36	Mitsubishi Electric India Pvt. Ltd.
 8C:1F:64:37:C0:00/36	Moiz
@@ -41945,6 +41947,7 @@
 8C:1F:64:70:C0:00/36	Broyce Control Ltd
 8C:1F:64:70:D0:00/36	Solace Systems Inc.
 8C:1F:64:70:E0:00/36	OvercomTech
+8C:1F:64:70:F0:00/36	SUS Corporation
 8C:1F:64:71:00:00/36	Zengar Institute Inc
 8C:1F:64:71:10:00/36	Jiangsu Ruichi Broadcom Communications Technoligy Co., Ltd.
 8C:1F:64:71:20:00/36	Nexion Data Systems P/L
@@ -42869,6 +42872,7 @@
 8C:1F:64:C0:D0:00/36	Abbott Diagnostics Technologies AS
 8C:1F:64:C0:E0:00/36	Goodtech AS dep Fredrikstad
 8C:1F:64:C0:F0:00/36	Konax Bv
+8C:1F:64:C1:10:00/36	Private
 8C:1F:64:C1:20:00/36	PHYSEC GmbH
 8C:1F:64:C1:30:00/36	Glucoloop AG
 8C:1F:64:C1:60:00/36	Alisonic Srl
@@ -54315,6 +54319,7 @@ DC:37:D2		Hunan HKT Electronic Technology Co., Ltd
 DC:38:E1		Juniper Networks
 DC:39:6F		AVM Audiovisuelles Marketing und Computersysteme GmbH
 DC:39:79		Cisco Systems, Inc
+DC:39:FD		Extreme Networks, Inc.
 DC:3A:5E		Roku, Inc.
 DC:3C:2E		Manufacturing System Insights, Inc.
 DC:3C:84		Ticom Geomatics, Inc.
@@ -58080,6 +58085,7 @@ F8:7F:A5		Greatek
 F8:80:96		Elsys Equipamentos Eletrônicos Ltda
 F8:81:1A		Overkiz
 F8:82:00		CaptionCall
+F8:82:8A		Qingdao Haier Technology Co.Ltd
 F8:83:06		Beijing Xiaomi Mobile Software Co., Ltd
 F8:84:75		i5LED, LLC
 F8:84:79		Yaojin Technology(Shenzhen)Co.,Ltd
