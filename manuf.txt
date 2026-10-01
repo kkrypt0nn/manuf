@@ -17750,6 +17750,7 @@
 04:A8:5A		Sz Dji Technology Co.,Ltd
 04:A9:24		Mist Systems, Inc.
 04:A9:59		New H3C Technologies Co., Ltd
+04:AA:B1		Growatt Technology Co.,Limited.
 04:AA:E1		Beijing Microvision Technology Co.,Ltd
 04:AB:08		Shenzhen Skyworth Digital  Technology  CO., Ltd
 04:AB:18		Elecom Co.,Ltd.
@@ -28103,7 +28104,10 @@
 4C:81:25		ZOWEE TECHNOLOGY(HEYUAN)Co.,Ltd
 4C:81:BE		IEEE Registration Authority
 4C:81:BE:40:00:00/28	Suzhou APAQI Robotics Technology Co., Ltd.
+4C:81:BE:60:00:00/28	Shenzhen Ultra Meta Industrial Control Technology Co.,Ltd.
 4C:81:BE:70:00:00/28	Renson NV
+4C:81:BE:B0:00:00/28	Guangdong Lidun New Energy Technology Co., Ltd.
+4C:81:BE:C0:00:00/28	Shenzhen Huiqincai Network Communication Co., Ltd.
 4C:82:0C		Apple, Inc.
 4C:82:37		Telink Micro LLC
 4C:82:A9		Cloud Network Technology Singapore Pte. Ltd.
@@ -50193,6 +50197,7 @@ BC:A6:E7		Sichuan Odot Automation System Co., Ltd.
 BC:A8:A6		Intel Corporate
 BC:A9:20		Apple, Inc.
 BC:A9:93		Cambium Networks Limited
+BC:A9:D2		Quectel Wireless Solutions Co.,Ltd.
 BC:A9:D6		Cyber-Rain, Inc.
 BC:AA:82		Fiberhome Telecommunication Technologies Co.,LTD
 BC:AB:7C		TRnP KOREA Co Ltd
