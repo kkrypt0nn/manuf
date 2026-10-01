@@ -28103,6 +28103,7 @@
 4C:81:25		ZOWEE TECHNOLOGY(HEYUAN)Co.,Ltd
 4C:81:BE		IEEE Registration Authority
 4C:81:BE:40:00:00/28	Suzhou APAQI Robotics Technology Co., Ltd.
+4C:81:BE:70:00:00/28	Renson NV
 4C:82:0C		Apple, Inc.
 4C:82:37		Telink Micro LLC
 4C:82:A9		Cloud Network Technology Singapore Pte. Ltd.
@@ -29701,6 +29702,7 @@
 58:76:AC		Sernet (Suzhou) Technologies Corporation
 58:76:B3		Ubee Interactive Co., Limited
 58:76:C5		Digi I'S Ltd
+58:78:03		Unitek A/S
 58:79:61		Microsoft Corporation
 58:79:E0		Samsung Electronics Co.,Ltd
 58:7A:4D		Stonesoft Corporation
