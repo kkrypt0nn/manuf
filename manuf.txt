@@ -23540,6 +23540,7 @@
 30:07:4D		Samsung Electro-Mechanics(Thailand)
 30:07:5C		Netis Technology Co., Ltd.
 30:07:A3		Shenzhen Skyworth Digital  Technology  CO., Ltd
+30:07:EB		Xiaomi Communications Co Ltd
 30:08:4D		Trumpf Hüttinger
 30:09:16		Apple, Inc.
 30:09:C0		Motorola Mobility LLC, a Lenovo Company
@@ -24204,6 +24205,7 @@
 34:38:AF		Inlab Networks GmbH
 34:38:B7		HUMAX Co., Ltd.
 34:39:16		Google, Inc.
+34:39:32		Xiaomi Communications Co Ltd
 34:3A:20		Hewlett Packard Enterprise
 34:3C:30		NXP Semiconductor (Tianjin) LTD.
 34:3D:7F		Klipsch Group, Inc.
@@ -28104,7 +28106,9 @@
 4C:81:20		Taicang T&W Electronics
 4C:81:25		ZOWEE TECHNOLOGY(HEYUAN)Co.,Ltd
 4C:81:BE		IEEE Registration Authority
+4C:81:BE:20:00:00/28	Annapurna labs
 4C:81:BE:40:00:00/28	Suzhou APAQI Robotics Technology Co., Ltd.
+4C:81:BE:50:00:00/28	Pratap digital communications pvt ltd
 4C:81:BE:60:00:00/28	Shenzhen Ultra Meta Industrial Control Technology Co.,Ltd.
 4C:81:BE:70:00:00/28	Renson NV
 4C:81:BE:B0:00:00/28	Guangdong Lidun New Energy Technology Co., Ltd.
@@ -40257,6 +40261,7 @@
 88:66:5A		Apple, Inc.
 88:66:A5		Apple, Inc.
 88:67:46		eero inc.
+88:67:70		Huizhou Desay SV Automotive Co.,ltd
 88:67:DC		Huawei Technologies Co.,Ltd
 88:68:4B		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 88:68:5C		Shenzhen ChuangDao & Perpetual Eternal Technology Co.,Ltd
@@ -48353,6 +48358,7 @@ B0:09:D3		Avizia
 B0:09:DA		Ring Solutions
 B0:0A:D5		zte corporation
 B0:0B:22		Huawei Device Co., Ltd.
+B0:0B:E2		Xiaomi Communications Co Ltd
 B0:0C:9D		Quectel Wireless Solutions Co.,Ltd.
 B0:0C:D1		Hewlett Packard
 B0:10:41		Hon Hai Precision Ind. Co.,Ltd.
@@ -51801,6 +51807,7 @@ C8:9F:1A		Huawei Technologies Co.,Ltd
 C8:9F:1D		Shenzhen Communication Technologies Co.,Ltd
 C8:9F:42		VDII Innovation AB
 C8:A0:30		Texas Instruments
+C8:A1:62		Dji Baiwang Technology Co Ltd
 C8:A1:B6		Shenzhen Longway Technologies Co., Ltd
 C8:A1:BA		Neul Ltd
 C8:A1:DC		Motorola Mobility LLC, a Lenovo Company
