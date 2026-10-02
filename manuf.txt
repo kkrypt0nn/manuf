@@ -23306,6 +23306,7 @@
 2C:8D:B1		Intel Corporate
 2C:91:27		Eintechno Corporation
 2C:91:AB		AVM Audiovisuelles Marketing und Computersysteme GmbH
+2C:91:EF		Golmar Sistemas de Comunicacion SA
 2C:92:2C		Kishu Giken Kogyou Company Ltd,.
 2C:93:FB		Sercomm France Sarl
 2C:94:52		Huawei Technologies Co.,Ltd
