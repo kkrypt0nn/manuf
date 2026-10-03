@@ -23458,6 +23458,7 @@
 2C:D2:E7		Nokia Corporation
 2C:D3:AD		Texas Instruments
 2C:D4:44		Fujitsu Limited
+2C:D7:48		Itron Inc
 2C:D7:FF		LANCOM Systems GmbH
 2C:D8:AE		Shenzhen SEI Robotics Co.,Ltd
 2C:D8:DE		AltoBeam Inc.
@@ -28111,6 +28112,8 @@
 4C:81:BE:50:00:00/28	Pratap digital communications pvt ltd
 4C:81:BE:60:00:00/28	Shenzhen Ultra Meta Industrial Control Technology Co.,Ltd.
 4C:81:BE:70:00:00/28	Renson NV
+4C:81:BE:90:00:00/28	Shenzhen Jooan Technology  Co., Ltd
+4C:81:BE:A0:00:00/28	Shenzhen Sinevolt Technology Co., Ltd
 4C:81:BE:B0:00:00/28	Guangdong Lidun New Energy Technology Co., Ltd.
 4C:81:BE:C0:00:00/28	Shenzhen Huiqincai Network Communication Co., Ltd.
 4C:82:0C		Apple, Inc.
@@ -29916,6 +29919,7 @@
 58:DC:6D		Exceptional Innovation, Inc.
 58:DF:59		Cisco Systems, Inc
 58:DF:70		Private
+58:DF:A5		Ruiyi(Hk)Telecommunication Technologies Limited
 58:E0:2C		Micro Technic A/S
 58:E1:6C		Ying Hua Information Technology (Shanghai)Co., LTD
 58:E2:8F		Apple, Inc.
@@ -31112,6 +31116,7 @@
 64:1A:BA		Dryad Networks GmbH
 64:1B:2F		Samsung Electronics Co.,Ltd
 64:1B:85		Vantiva USA LLC
+64:1B:B7		Itel Mobile Limited
 64:1C:10		Texas Instruments
 64:1C:67		Digibras Industria Do Brasils/A
 64:1C:AE		Samsung Electronics Co.,Ltd
@@ -32473,6 +32478,7 @@
 6C:CB:7F		GD Midea Air-Conditioning Equipment Co.,Ltd.
 6C:CD:D6		Netgear
 6C:CE:44		1More
+6C:CF:36		Visionox Technology,Inc.
 6C:CF:39		Shanghai StarFive Semiconductor Co., Ltd.
 6C:D0:08		zte corporation
 6C:D0:32		LG Electronics
@@ -41079,6 +41085,7 @@
 8C:1F:64:23:50:00/36	Marson Technology Co., Ltd.
 8C:1F:64:23:70:00/36	MB connect line GmbH
 8C:1F:64:23:90:00/36	Shekel Scales 2008 Ltd
+8C:1F:64:23:C0:00/36	Weltek Technologies Co. Ltd.
 8C:1F:64:23:D0:00/36	Mokila Networks Pvt Ltd
 8C:1F:64:23:E0:00/36	Quantum Blockchains Sp. z o.o.
 8C:1F:64:24:00:00/36	HuiTong intelligence Company
