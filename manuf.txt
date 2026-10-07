@@ -15805,6 +15805,7 @@
 00:89:C9		Extreme Networks, Inc.
 00:8A:55		Huawei Device Co., Ltd.
 00:8A:76		Apple, Inc.
+00:8A:8F		Siemens Power Automation Ltd.
 00:8A:96		Cisco Systems, Inc
 00:8B:43		Rftech
 00:8B:FC		mixi,Inc.
@@ -18568,6 +18569,7 @@
 08:DF:CB		Systrome Networks
 08:E0:21		Honor Device Co., Ltd.
 08:E3:42		Cear, Inc.
+08:E4:91		Shenzhen Jingxun Technology Co., Ltd.
 08:E4:DF		Shenzhen Sande Dacom Electronics Co., Ltd
 08:E5:DA		Nanjing Fujitsu Computer Products Co.,Ltd.
 08:E6:3B		zte corporation
@@ -23106,6 +23108,7 @@
 2C:37:31		Shenzhen Yifang Digital Technology Co.,Ltd.
 2C:37:96		Cybo Co.,Ltd.
 2C:37:C5		Qingdao Haier Intelligent Home Appliance Technology Co.,Ltd
+2C:37:FB		Nanjing Qinheng Microelectronics Co., Ltd.
 2C:39:96		Sagemcom Broadband SAS
 2C:39:C1		Ciena Corporation
 2C:3A:28		Fagor Electrónica
@@ -28109,16 +28112,21 @@
 4C:81:20		Taicang T&W Electronics
 4C:81:25		ZOWEE TECHNOLOGY(HEYUAN)Co.,Ltd
 4C:81:BE		IEEE Registration Authority
+4C:81:BE:00:00:00/28	Polaris Elektronik
 4C:81:BE:10:00:00/28	EUROSONIC Ultraschall GmbH & Co. KG
 4C:81:BE:20:00:00/28	Annapurna labs
+4C:81:BE:30:00:00/28	Beijing REMANG Technology Co., Ltd.
 4C:81:BE:40:00:00/28	Suzhou APAQI Robotics Technology Co., Ltd.
 4C:81:BE:50:00:00/28	Pratap digital communications pvt ltd
 4C:81:BE:60:00:00/28	Shenzhen Ultra Meta Industrial Control Technology Co.,Ltd.
 4C:81:BE:70:00:00/28	Renson NV
+4C:81:BE:80:00:00/28	Port Of London Authority
 4C:81:BE:90:00:00/28	Shenzhen Jooan Technology  Co., Ltd
 4C:81:BE:A0:00:00/28	Shenzhen Sinevolt Technology Co., Ltd
 4C:81:BE:B0:00:00/28	Guangdong Lidun New Energy Technology Co., Ltd.
 4C:81:BE:C0:00:00/28	Shenzhen Huiqincai Network Communication Co., Ltd.
+4C:81:BE:D0:00:00/28	Beijing Cunyin Chengqi Technology Co., Ltd.
+4C:81:BE:E0:00:00/28	Nidec corporation
 4C:82:0C		Apple, Inc.
 4C:82:37		Telink Micro LLC
 4C:82:A9		Cloud Network Technology Singapore Pte. Ltd.
@@ -40364,6 +40372,7 @@
 88:9E:33		TCT mobile ltd
 88:9E:68		Vantiva USA LLC
 88:9E:96		zte corporation
+88:9E:9A		AltoBeam Inc.
 88:9F:6F		Samsung Electronics Co.,Ltd
 88:9F:AA		Hella Gutmann Solutions GmbH
 88:9F:FA		Hon Hai Precision Ind. Co.,Ltd.
@@ -40975,6 +40984,7 @@
 8C:1F:64:18:50:00/36	Biotage Gb Ltd
 8C:1F:64:18:60:00/36	Breas Medical AB
 8C:1F:64:18:70:00/36	Sicon srl
+8C:1F:64:18:90:00/36	Herutu Electronics Corporation
 8C:1F:64:18:A0:00/36	Network Rail
 8C:1F:64:18:B0:00/36	M-Pulse GmbH & Co.KG
 8C:1F:64:18:E0:00/36	J1-LED Intelligent Transport Systems Pty Ltd
@@ -41409,6 +41419,7 @@
 8C:1F:64:3E:90:00/36	Heitec Ag
 8C:1F:64:3E:A0:00/36	Chipscape Security Systems
 8C:1F:64:3E:B0:00/36	Samwell International Inc
+8C:1F:64:3E:C0:00/36	SPEKTRA Schwingungstechnik und Akustik GmbH Dresden
 8C:1F:64:3E:D0:00/36	The Exploration Company
 8C:1F:64:3E:E0:00/36	BnB Information Technology
 8C:1F:64:3F:20:00/36	Surya Electronics
@@ -43342,6 +43353,7 @@
 8C:1F:64:E7:B0:00/36	Dongguan Pengchen Earth Instrument CO. LT
 8C:1F:64:E7:C0:00/36	Ashinne Technology Co., Ltd
 8C:1F:64:E7:D0:00/36	Audio Visual Digital Systems
+8C:1F:64:E7:F0:00/36	Automata GmbH & Co. KG
 8C:1F:64:E8:00:00/36	Power Electronics Espana, S.L.
 8C:1F:64:E8:10:00/36	Sunair Electronics
 8C:1F:64:E8:20:00/36	SMITEC S.p.A.
@@ -48146,6 +48158,7 @@ AC:8B:A9		Ubiquiti Inc
 AC:8C:46		Beijing Xiaomi Mobile Software Co., Ltd
 AC:8D:14		Smartrove Inc
 AC:8D:34		Huawei Technologies Co.,Ltd
+AC:8E:63		China Dragon Technology Limited
 AC:8E:BD		Microsoft Corporation
 AC:8F:A9		Nokia Solutions and Networks GmbH & Co. KG
 AC:8F:F8		Nokia
@@ -52154,6 +52167,7 @@ CC:24:2E		Shenzhen SuperElectron Technology Co.,Ltd.
 CC:25:EF		Apple, Inc.
 CC:26:14		Sichuan Tianyi Comheart Telecom Co.,LTD
 CC:26:2D		Verifi, LLC
+CC:26:8F		Oraimo Technology Limited
 CC:27:46		Apple, Inc.
 CC:28:AA		ASUSTek COMPUTER INC.
 CC:29:BD		zte corporation
@@ -52616,6 +52630,7 @@ CC:F4:11		Google, Inc.
 CC:F5:38		3isysnetworks
 CC:F5:5F		E Focus Instruments India Private Limited
 CC:F6:7A		Ayecka Communication Systems LTD
+CC:F7:22:10:00:00/28	Lucky Tone Technology Co., Ltd.
 CC:F7:35		Amazon Technologies Inc.
 CC:F8:26		Samsung Electronics Co.,Ltd
 CC:F8:41		Lumewave
