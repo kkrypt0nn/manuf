@@ -16055,7 +16055,7 @@
 00:90:DA		Dynarc, Inc.
 00:90:DB		Next Level Communications
 00:90:DC		Teco Information Systems
-00:90:DD		MIHARU COMMUNICATIONS Inc
+00:90:DD		Furukawa Miharu Solutions Corporation
 00:90:DE		Cardkey Systems, Inc.
 00:90:DF		Mitsubishi Chemical America, Inc.
 00:90:E0		Systran Corp.
@@ -18626,6 +18626,7 @@
 08:F6:9C		Apple, Inc.
 08:F6:F8		GET Engineering
 08:F7:28		GLOBO Multimedia Sp. z o.o. Sp.k.
+08:F7:8C		Nintendo Co.,Ltd
 08:F7:E9		HRCP Research and Development Partnership
 08:F8:0D		IEEE Registration Authority
 08:F8:0D:00:00:00/28	Huizhou changfei Optoelectruonics Technology Co.,Ltd
@@ -52307,6 +52308,7 @@ CC:5D:57		Information  System Research Institute,Inc.
 CC:5D:78		JTD Consulting
 CC:5E:A5		Palo Alto Networks
 CC:5E:F8		Cloud Network Technology Singapore Pte. Ltd.
+CC:5E:FF		Nokia Solutions and Network India Private Limited
 CC:5F:BF		Topwise 3G Communication Co., Ltd.
 CC:60:23		Apple, Inc.
 CC:60:BB		Empower RF Systems
