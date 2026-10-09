@@ -41199,6 +41199,7 @@
 8C:1F:64:2B:10:00/36	U -Mei-Dah Int'L Enterprise Co.,Ltd.
 8C:1F:64:2B:20:00/36	Infosoft Digital Design and Services P L
 8C:1F:64:2B:40:00/36	Sonel S.A.
+8C:1F:64:2B:50:00/36	XTEC Industries Pte Ltd
 8C:1F:64:2B:60:00/36	Stercom Power Solutions GmbH
 8C:1F:64:2B:80:00/36	Veinland GmbH
 8C:1F:64:2B:90:00/36	Ultrasonic Engineering Co., Ltd.
@@ -41273,6 +41274,7 @@
 8C:1F:64:31:F0:00/36	STV Electronic GmbH
 8C:1F:64:32:00:00/36	VITREA Smart Home Technologies Ltd.
 8C:1F:64:32:40:00/36	Kinetic Technologies
+8C:1F:64:32:60:00/36	Famas System S.p.A. Unipersonale
 8C:1F:64:32:70:00/36	Deutescher Wetterdienst
 8C:1F:64:32:80:00/36	Com Video Security Systems Co., Ltd.
 8C:1F:64:32:90:00/36	YUYAMA MFG Co.,Ltd
@@ -42884,6 +42886,7 @@
 8C:1F:64:BD:50:00/36	Pro-Custom Group
 8C:1F:64:BD:60:00/36	NOVA Products GmbH
 8C:1F:64:BD:70:00/36	Union Electronic.
+8C:1F:64:BD:80:00/36	CCTEC - Codigo Ctecnologia Soc Unip Lda
 8C:1F:64:BD:90:00/36	Watts
 8C:1F:64:BD:A0:00/36	Skip Innovations, Inc
 8C:1F:64:BD:B0:00/36	Cardinal Scales Manufacturing Co
@@ -52645,6 +52648,7 @@ CC:F6:7A		Ayecka Communication Systems LTD
 CC:F7:22		IEEE Registration Authority
 CC:F7:22:10:00:00/28	Lucky Tone Technology Co., Ltd.
 CC:F7:22:50:00:00/28	Foritec GmbH
+CC:F7:22:80:00:00/28	75F Engineering Services India Private Ltd
 CC:F7:22:C0:00:00/28	Walnut Medical Private Limited
 CC:F7:35		Amazon Technologies Inc.
 CC:F8:26		Samsung Electronics Co.,Ltd
