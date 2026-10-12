@@ -38066,6 +38066,7 @@
 78:70:52		Welotec GmbH
 78:71:04		Sichuan Tianyi Comheart Telecom Co.,LTD
 78:71:9C		Commscope
+78:71:BA		Silicon Laboratories
 78:72:5D		Cisco Systems, Inc
 78:72:64		IEEE Registration Authority
 78:72:64:00:00:00/28	SmartMore Co.,ltd.
@@ -38754,7 +38755,7 @@
 7C:95:F3		Cisco Systems, Inc
 7C:96:A0		Ningbo Shunyun Electronics Co.,Ltd.
 7C:96:D2		Fihonest communication co.,Ltd
-7C:97:63		Openmatics s.r.o.
+7C:97:63		ZF Friedrichshafen AG
 7C:97:E1		Huawei Device Co., Ltd.
 7C:98:24		Sagemcom Broadband SAS
 7C:99:2E		Shanghai Notion lnformatio Technology Co.,Ltd.
@@ -43317,6 +43318,7 @@
 8C:1F:64:E3:50:00/36	Horcery LLC
 8C:1F:64:E3:60:00/36	Metabuild
 8C:1F:64:E3:70:00/36	RADA Electronics Industries Ltd.
+8C:1F:64:E3:90:00/36	Power Electronics Espana, S.L.
 8C:1F:64:E3:A0:00/36	AITEC Corporation
 8C:1F:64:E3:B0:00/36	Neways Technologies B.V.
 8C:1F:64:E3:C0:00/36	Finotex Electronic Solutions PVT LTD
@@ -43626,6 +43628,7 @@
 8C:1F:64:FE:D0:00/36	Televic Rail GmbH
 8C:1F:64:FE:E0:00/36	Leap Info Systems Pvt. Ltd.
 8C:1F:64:FE:F0:00/36	Kible
+8C:1F:64:FF:10:00/36	Kodenshi Corp.
 8C:1F:64:FF:20:00/36	Mitsubishi Electric India Pvt. Ltd.
 8C:1F:64:FF:30:00/36	Fuzhou Tucsen Photonics Co.,Ltd
 8C:1F:64:FF:40:00/36	SMS group GmbH
@@ -55633,6 +55636,7 @@ E4:C0:E2		Sagemcom Broadband SAS
 E4:C0:FE		Apple, Inc.
 E4:C1:46		Objetivos y Servicios de Valor A
 E4:C1:F1		SHENZHEN SPOTMAU INFORMATION TECHNOLIGY CO., Ltd
+E4:C2:18		Silicon Laboratories
 E4:C2:D1		Huawei Technologies Co.,Ltd
 E4:C3:2A		Tp-Link Technologies Co.,Ltd.
 E4:C4:83		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
