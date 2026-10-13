@@ -43580,6 +43580,7 @@
 8C:1F:64:FA:A0:00/36	Massar Networks
 8C:1F:64:FA:B0:00/36	LIAN Corporation
 8C:1F:64:FA:C0:00/36	Showa Electric Laboratory co.,ltd.
+8C:1F:64:FA:D0:00/36	Lookman Distribution Pvt.Ltd
 8C:1F:64:FA:F0:00/36	Goodtech Worldwide LTD ,,mobitel''
 8C:1F:64:FB:00:00/36	MARIAN GmbH
 8C:1F:64:FB:10:00/36	Abb
@@ -52655,6 +52656,7 @@ CC:F7:22		IEEE Registration Authority
 CC:F7:22:10:00:00/28	Lucky Tone Technology Co., Ltd.
 CC:F7:22:50:00:00/28	Foritec GmbH
 CC:F7:22:80:00:00/28	75F Engineering Services India Private Ltd
+CC:F7:22:90:00:00/28	deutherm cooling GmbH
 CC:F7:22:B0:00:00/28	Sep
 CC:F7:22:C0:00:00/28	Walnut Medical Private Limited
 CC:F7:22:D0:00:00/28	Konec Solutions Pty Ltd
@@ -52832,6 +52834,7 @@ D0:40:BE		Npo Rps Llc
 D0:40:EF		Murata Manufacturing Co., Ltd.
 D0:41:C9		Fiberhome Telecommunication Technologies Co.,LTD
 D0:43:1E		Dell Inc.
+D0:43:41		Sichuan AI-Link Technology Co., Ltd.
 D0:44:33		Clourney Semiconductor
 D0:45:8D		Shenzhen Skyworth Digital  Technology  CO., Ltd
 D0:46:0C		Dell Inc.
