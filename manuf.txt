@@ -10487,6 +10487,7 @@
 00:35:1A		Cisco Systems, Inc
 00:35:32		Electro-Metrics Corporation
 00:35:60		Rosen Aviation
+00:35:A9		Juniper Networks
 00:35:FF		Texas Instruments
 00:36:76		Commscope
 00:36:BE		Northwest Towers
@@ -25099,6 +25100,7 @@
 38:B8:EB:D0:00:00/28	Yellowbrick Data, Inc.
 38:B8:EB:E0:00:00/28	WT-Consulting SAS
 38:B9:AF		NXP Semiconductors Taiwan Ltd.
+38:B9:B2		GD Midea Air-Conditioning Equipment Co.,Ltd.
 38:BA:B0		Broadcom
 38:BA:F8		Intel Corporate
 38:BB:23		OzVision America LLC
@@ -44061,6 +44063,7 @@
 8C:D0:66		Texas Instruments
 8C:D0:8B		WuXi Rigosys Technology Co.,LTD
 8C:D0:B2		Beijing Xiaomi Mobile Software Co., Ltd
+8C:D1:21		Juniper Networks
 8C:D1:7B		CG Mobile
 8C:D1:A6		eero inc.
 8C:D2:E9		Yokote Seiko Co., Ltd.
@@ -52652,7 +52655,9 @@ CC:F7:22		IEEE Registration Authority
 CC:F7:22:10:00:00/28	Lucky Tone Technology Co., Ltd.
 CC:F7:22:50:00:00/28	Foritec GmbH
 CC:F7:22:80:00:00/28	75F Engineering Services India Private Ltd
+CC:F7:22:B0:00:00/28	Sep
 CC:F7:22:C0:00:00/28	Walnut Medical Private Limited
+CC:F7:22:D0:00:00/28	Konec Solutions Pty Ltd
 CC:F7:35		Amazon Technologies Inc.
 CC:F8:26		Samsung Electronics Co.,Ltd
 CC:F8:41		Lumewave
