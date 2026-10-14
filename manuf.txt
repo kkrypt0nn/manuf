@@ -21008,6 +21008,7 @@
 1C:63:A5		securityplatform
 1C:63:B7		OpenProducts 237 AB
 1C:63:BF		Shenzhen Broadtel  Telecom Co.,Ltd
+1C:64:65		Espressif Inc.
 1C:64:99		Comtrend Corporation
 1C:64:F0		Motorola Mobility LLC, a Lenovo Company
 1C:65:9D		Liteon Technology Corporation
@@ -21858,6 +21859,7 @@
 20:E5:2A		Netgear
 20:E5:64		Commscope
 20:E5:9B		Panasonic Automotive Systems
+20:E5:A4		Espressif Systems (Singapore) Pte. Ltd
 20:E6:DF		eero inc.
 20:E7:91		Siemens Healthcare Diagnostics, Inc
 20:E7:B6		Universal Electronics, Inc.
@@ -25740,6 +25742,7 @@
 3C:E0:64		Texas Instruments
 3C:E0:72		Apple, Inc.
 3C:E1:A1		Universal Global Scientific Industrial., Ltd
+3C:E2:55		Espressif Inc.
 3C:E3:6B		Zhejiang Dahua Technology Co., Ltd.
 3C:E3:E7		China Mobile Group Device Co.,Ltd.
 3C:E4:41		Amazon Technologies Inc.
@@ -31718,6 +31721,7 @@
 68:50:8C		Shanghai Sunmi Technology Co.,Ltd.
 68:51:34		Hewlett Packard Enterprise
 68:51:B7		PowerCloud Systems, Inc.
+68:52:0E		Sichuan Tianyi Comheart Telecom Co.,LTD
 68:52:10		MCS Logic
 68:52:D6		UGame Technology Co.,Ltd
 68:53:6C		SPnS Co.,Ltd
@@ -32490,6 +32494,7 @@
 6C:C3:B2		Cisco Meraki
 6C:C4:1E		NEXSEC Incorporated
 6C:C4:9F		Hewlett Packard Enterprise
+6C:C4:AF		Espressif Systems (Singapore) Pte. Ltd
 6C:C4:D5		HMD Global Oy
 6C:C6:3B		Taicang T&W Electronics
 6C:C7:EC		Samsung Electro-Mechanics(Thailand)
@@ -42779,6 +42784,7 @@
 8C:1F:64:B4:60:00/36	Phygitall Soluções Em Internet Das Coisas
 8C:1F:64:B4:70:00/36	Lineage Power Pvt Ltd.,
 8C:1F:64:B4:C0:00/36	Picocom Technology Ltd
+8C:1F:64:B4:D0:00/36	Otodo
 8C:1F:64:B4:E0:00/36	Aditec GmbH
 8C:1F:64:B4:F0:00/36	Vaunix Technology Corporation
 8C:1F:64:B5:00:00/36	Kinemetrics, Inc.
@@ -47391,6 +47397,7 @@ A4:E7:31		Nokia Corporation
 A4:E7:E4		Connex GmbH
 A4:E8:8D		FN-LINK TECHNOLOGY Ltd.
 A4:E8:A3		Fujian Newland Auto-ID Tech Co.,Ltd.
+A4:E9:72		Espressif Inc.
 A4:E9:75		Apple, Inc.
 A4:E9:91		Sistemas Audiovisuales Itelsis S.L.
 A4:E9:A3		Honest Technology Co., Ltd
@@ -48498,6 +48505,7 @@ B0:3D:C2		Wasp artificial intelligence(Shenzhen) Co.,ltd
 B0:3E:51		Sky Uk Limited
 B0:3E:B0		MICRODIA Ltd.
 B0:3F:64		Apple, Inc.
+B0:3F:70		Sichuan Tianyi Comheart Telecom Co.,LTD
 B0:3F:D3		Espressif Inc.
 B0:40:89		Senient Systems LTD
 B0:41:1D		ITTIM Technologies
@@ -52660,6 +52668,8 @@ CC:F6:7A		Ayecka Communication Systems LTD
 CC:F7:22		IEEE Registration Authority
 CC:F7:22:00:00:00/28	Op Core
 CC:F7:22:10:00:00/28	Lucky Tone Technology Co., Ltd.
+CC:F7:22:30:00:00/28	InfiMaker(Shenzhen)Limited
+CC:F7:22:40:00:00/28	Menuit inc.
 CC:F7:22:50:00:00/28	Foritec GmbH
 CC:F7:22:80:00:00/28	75F Engineering Services India Private Ltd
 CC:F7:22:90:00:00/28	deutherm cooling GmbH
@@ -56199,6 +56209,7 @@ E8:EB:D3		Mellanox Technologies, Inc.
 E8:EB:DD		Guangzhou Qingying Acoustics Technology Co., Ltd
 E8:EC:A3		Dongguan Liesheng Electronic Co.Ltd
 E8:ED:05		Commscope
+E8:ED:BD		Espressif Inc.
 E8:ED:D6		Fortinet, Inc.
 E8:ED:F3		Cisco Systems, Inc
 E8:EE:CC		Fantasia Trading LLC
