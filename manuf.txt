@@ -20171,6 +20171,7 @@
 14:CB:65		Microsoft Corporation
 14:CC:20		Tp-Link Technologies Co.,Ltd.
 14:CC:B3		Ao "Gk Nateks"
+14:CC:E7		Vizio, Inc
 14:CF:8D		Ohsung
 14:CF:92		Tp-Link Technologies Co.,Ltd.
 14:CF:E2		Commscope
@@ -41658,6 +41659,7 @@
 8C:1F:64:52:E0:00/36	CLOUD TELECOM Inc.
 8C:1F:64:53:00:00/36	SIPazon AB
 8C:1F:64:53:10:00/36	EA Elektro-Automatik GmbH
+8C:1F:64:53:20:00/36	Seongwon Eng Co.,Ltd
 8C:1F:64:53:30:00/36	Boeing India Private Limited
 8C:1F:64:53:40:00/36	Surya Electronics
 8C:1F:64:53:50:00/36	Columbus McKinnon
@@ -42212,6 +42214,7 @@
 8C:1F:64:82:50:00/36	MTU Aero Engines AG
 8C:1F:64:82:70:00/36	Meisol Co., Ltd.
 8C:1F:64:82:80:00/36	Aurcore Technology Inc.
+8C:1F:64:82:90:00/36	Potter Electric Signal Company
 8C:1F:64:82:B0:00/36	Flow Power
 8C:1F:64:82:C0:00/36	Power Electronics Espana, S.L.
 8C:1F:64:82:F0:00/36	AnySignal
@@ -42483,6 +42486,7 @@
 8C:1F:64:9A:C0:00/36	Hangzhou Jingtang Communication Technology Co.,Ltd.
 8C:1F:64:9A:D0:00/36	Potter Electric Signal Co. LLC
 8C:1F:64:9A:F0:00/36	Advanced Mechatronics GmbH
+8C:1F:64:9B:00:00/36	Karman
 8C:1F:64:9B:20:00/36	Emerson Rosemount Analytical
 8C:1F:64:9B:30:00/36	Böckelt GmbH
 8C:1F:64:9B:50:00/36	Berkeley Nucleonics Corp
@@ -52653,10 +52657,12 @@ CC:F5:38		3isysnetworks
 CC:F5:5F		E Focus Instruments India Private Limited
 CC:F6:7A		Ayecka Communication Systems LTD
 CC:F7:22		IEEE Registration Authority
+CC:F7:22:00:00:00/28	Op Core
 CC:F7:22:10:00:00/28	Lucky Tone Technology Co., Ltd.
 CC:F7:22:50:00:00/28	Foritec GmbH
 CC:F7:22:80:00:00/28	75F Engineering Services India Private Ltd
 CC:F7:22:90:00:00/28	deutherm cooling GmbH
+CC:F7:22:A0:00:00/28	Wiworld Co.,Ltd
 CC:F7:22:B0:00:00/28	Sep
 CC:F7:22:C0:00:00/28	Walnut Medical Private Limited
 CC:F7:22:D0:00:00/28	Konec Solutions Pty Ltd
@@ -57469,6 +57475,7 @@ F4:3B:D8		Intel Corporate
 F4:3C:3B		Hunan Fn-Link Technology Limited
 F4:3C:96		Ericsson AB
 F4:3D:80		FAG Industrial Services GmbH
+F4:3E:46		Xenox IT & Kommunikations GmbH
 F4:3E:61		Shenzhen Gongjin Electronics Co.,Lt
 F4:3E:66		Bee Computing (HK) Limited
 F4:3E:9D		Benu Networks, Inc.
