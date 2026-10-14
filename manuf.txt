@@ -19313,6 +19313,7 @@
 10:0F:18		Fu Gang Electronic(KunShan)CO.,LTD
 10:10:81		zte corporation
 10:10:B6		McCain Inc
+10:12:01		Amd
 10:12:12		Vivo International Corporation Pty Ltd
 10:12:18		Korins Inc.
 10:12:48		ITG, Inc.
