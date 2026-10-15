@@ -41440,6 +41440,7 @@
 8C:1F:64:3E:C0:00/36	SPEKTRA Schwingungstechnik und Akustik GmbH Dresden
 8C:1F:64:3E:D0:00/36	The Exploration Company
 8C:1F:64:3E:E0:00/36	BnB Information Technology
+8C:1F:64:3F:00:00/36	Supracontrol d.o.o.
 8C:1F:64:3F:20:00/36	Surya Electronics
 8C:1F:64:3F:30:00/36	Cambrian Works, Inc.
 8C:1F:64:3F:40:00/36	Actelser S.L.
@@ -52668,9 +52669,11 @@ CC:F6:7A		Ayecka Communication Systems LTD
 CC:F7:22		IEEE Registration Authority
 CC:F7:22:00:00:00/28	Op Core
 CC:F7:22:10:00:00/28	Lucky Tone Technology Co., Ltd.
+CC:F7:22:20:00:00/28	Everfox Ltd
 CC:F7:22:30:00:00/28	InfiMaker(Shenzhen)Limited
 CC:F7:22:40:00:00/28	Menuit inc.
 CC:F7:22:50:00:00/28	Foritec GmbH
+CC:F7:22:60:00:00/28	Riverside Solutions Private Limited
 CC:F7:22:80:00:00/28	75F Engineering Services India Private Ltd
 CC:F7:22:90:00:00/28	deutherm cooling GmbH
 CC:F7:22:A0:00:00/28	Wiworld Co.,Ltd
