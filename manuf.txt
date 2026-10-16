@@ -20098,6 +20098,7 @@
 14:A9:E3		Mst Corporation
 14:AB:02		Huawei Technologies Co.,Ltd
 14:AB:56		Wuxi Funide Digital Co.,Ltd
+14:AB:7E		Ciena Corporation
 14:AB:C5		Intel Corporate
 14:AB:EC		Hewlett Packard Enterprise
 14:AB:F0		Commscope
@@ -52674,6 +52675,7 @@ CC:F7:22:30:00:00/28	InfiMaker(Shenzhen)Limited
 CC:F7:22:40:00:00/28	Menuit inc.
 CC:F7:22:50:00:00/28	Foritec GmbH
 CC:F7:22:60:00:00/28	Riverside Solutions Private Limited
+CC:F7:22:70:00:00/28	Electronic Security Wholesalers Pty Ltd
 CC:F7:22:80:00:00/28	75F Engineering Services India Private Ltd
 CC:F7:22:90:00:00/28	deutherm cooling GmbH
 CC:F7:22:A0:00:00/28	Wiworld Co.,Ltd
@@ -57858,6 +57860,7 @@ F4:EE:08		Dell Inc.
 F4:EE:14		Mercury Communication Technologies Co.,Ltd.
 F4:EE:31		Cisco Systems, Inc
 F4:EF:9E		Sgsg Science & Technology Co. Ltd
+F4:F0:32		Ciena Corporation
 F4:F1:5A		Apple, Inc.
 F4:F1:97		EMTAKE Inc
 F4:F1:9E		Wistron InforComm (Zhongshan) Corporation
