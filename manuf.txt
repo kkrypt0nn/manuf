@@ -17325,7 +17325,7 @@
 00:E0:E9		Data Labs, Inc.
 00:E0:EA		Innovat Communications, Inc.
 00:E0:EB		Digicom Systems, Incorporated
-00:E0:EC		Celestica Inc.
+00:E0:EC		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
 00:E0:ED		Silicom, Ltd.
 00:E0:EE		Marel Hf
 00:E0:EF		Dionex
@@ -18808,7 +18808,7 @@
 0C:47:A9:E0:00:00/28	BGResearch
 0C:47:C9		Amazon Technologies Inc.
 0C:48:85		LG Electronics (Mobile Communications)
-0C:48:C6		Celestica Inc.
+0C:48:C6		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
 0C:49:33		Sichuan Jiuzhou Electronic Technology Co., Ltd.
 0C:4B:48		Nokia
 0C:4B:54		Tp-Link Technologies Co.,Ltd.
@@ -21330,6 +21330,7 @@
 1C:CA:E3:E0:00:00/28	Dabi Atlante S/A Industrias Medico Odontológicas
 1C:CA:E3:F0:00:00/28	Private
 1C:CB:99		TCT mobile ltd
+1C:CC:CD		Tecno Mobile Limited
 1C:CC:D6		Xiaomi Communications Co Ltd
 1C:CD:E5		Shanghai Wind Technologies Co.,Ltd
 1C:CE:51		AzureWave Technology Inc.
@@ -21591,6 +21592,7 @@
 20:50:0D		Espressif Inc.
 20:50:0F		Fiber Groep B.V.
 20:50:E7		AMPAK Technology,Inc.
+20:51:A5		NetApp, Inc.
 20:51:F5		Earda Technologies co Ltd
 20:52:1D		Apple, Inc.
 20:53:83		Huawei Technologies Co.,Ltd
@@ -22201,6 +22203,7 @@
 24:8A:B3		ICTK Co., Ltd.
 24:8B:E0		Sichuan Tianyi Comheart Telecom Co.,LTD
 24:90:38		Universal Biosensors Pty Ltd
+24:91:23		SZ DJI Ronin Technology Co., Ltd.
 24:91:BB		Huawei Technologies Co.,Ltd
 24:92:0E		Samsung Electronics Co.,Ltd
 24:93:CA		Voxtronic Austria
@@ -24438,7 +24441,7 @@
 34:AB:95		Espressif Inc.
 34:AC:11		China Mobile Group Device Co.,Ltd.
 34:AC:2F		zte corporation
-34:AD:61		Celestica Inc.
+34:AD:61		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
 34:AD:E4		Shanghai Chint Power Systems Co., Ltd.
 34:AF:2C		Nintendo Co., Ltd.
 34:AF:A3		Recogni Inc
@@ -25981,6 +25984,7 @@
 40:51:6C		Grandex International Corporation
 40:52:0D		Pico Technology
 40:53:8C		LG Electronics
+40:53:B3		Sunitec Technology Co.,Limited
 40:54:93		zte corporation
 40:54:E4		Wearsafe Labs Inc
 40:55:39		Cisco Systems, Inc
@@ -27364,6 +27368,7 @@
 48:12:49		Luxcom Technologies Inc.
 48:12:58		Huawei Technologies Co.,Ltd
 48:12:8F		Huawei Technologies Co.,Ltd
+48:13:18		zte corporation
 48:13:7E		Samsung Electronics Co.,Ltd
 48:13:89		Mellanox Technologies, Inc.
 48:13:F3		Bbk Educational Electronics Corp.,Ltd.
@@ -30387,8 +30392,11 @@
 5C:A8:6A		Huawei Technologies Co.,Ltd
 5C:A9:31		Ubee Interactive Co., Limited
 5C:A9:33		Luma Home
-5C:AA:A2		Celestica Inc.
+5C:AA:A2		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
 5C:AA:FD		Sonos, Inc.
+5C:AB:22		IEEE Registration Authority
+5C:AB:22:30:00:00/28	Xiamen Joint Tech. CO.,Ltd.
+5C:AB:22:60:00:00/28	Shanghai Jiweijiu Intelligent Technology Co., Ltd.
 5C:AC:3D		Samsung Electronics Co.,Ltd
 5C:AC:4C		Hon Hai Precision Ind. Co.,Ltd.
 5C:AD:76		Shenzhen TCL New Technology Co., Ltd
@@ -31555,7 +31563,7 @@
 64:F2:FB		Hangzhou Ezviz Software Co.,Ltd.
 64:F5:0E		Kinion Technology Company Limited
 64:F5:4E		EM Microelectronic
-64:F6:4D		Celestica Inc.
+64:F6:4D		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
 64:F6:9D		Cisco Systems, Inc
 64:F6:BB		Fibocom Wireless Inc.
 64:F6:F7		Anhui Dynamic Power Co., Ltd.
@@ -38740,6 +38748,7 @@
 7C:85:2F		Huawei Device Co., Ltd.
 7C:85:30		Nokia
 7C:86:57		Gtwave
+7C:86:F3		zte corporation
 7C:87:67		Cisco Systems, Inc
 7C:87:CE		Espressif Inc.
 7C:88:99		FN-LINK TECHNOLOGY Ltd.
@@ -40241,7 +40250,7 @@
 88:57:EE		Buffalo.Inc
 88:58:BE		kuosheng.com
 88:5A:06		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
-88:5A:23		Celestica Inc.
+88:5A:23		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
 88:5A:85		WNC Corporation
 88:5A:92		Cisco Systems, Inc
 88:5B:DD		Extreme Networks, Inc.
@@ -44923,7 +44932,7 @@
 94:63:72		vivo Mobile Communication Co., Ltd.
 94:63:D1		Samsung Electronics Co.,Ltd
 94:64:24		Hewlett Packard Enterprise
-94:64:42		Celestica Inc.
+94:64:42		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
 94:65:2D		OnePlus Technology (Shenzhen) Co., Ltd
 94:65:9C		Intel Corporate
 94:66:E7		WOM Engineering
@@ -45595,6 +45604,7 @@
 98:94:49		Skyworth Wireless Technology Ltd.
 98:97:CC		Tp-Link Technologies Co.,Ltd.
 98:97:D1		MitraStar Technology Corp.
+98:98:91		zte corporation
 98:98:FB		Google, Inc.
 98:9A:B9		zte corporation
 98:9B:CB		AVM Audiovisuelles Marketing und Computersysteme GmbH
@@ -49341,7 +49351,7 @@ B4:D6:4E		Caldero Limited
 B4:D7:DB		New H3C Technologies Co., Ltd
 B4:D8:A9		BetterBots
 B4:D8:DE		iota Computing, Inc.
-B4:DB:91		Celestica Inc.
+B4:DB:91		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
 B4:DC:09		Guangzhou Dawei Communication Co.,Ltd
 B4:DD:15		ControlThings Oy Ab
 B4:DD:D0		AUMOVIO Hungary Kft.
@@ -52682,6 +52692,7 @@ CC:F7:22:A0:00:00/28	Wiworld Co.,Ltd
 CC:F7:22:B0:00:00/28	Sep
 CC:F7:22:C0:00:00/28	Walnut Medical Private Limited
 CC:F7:22:D0:00:00/28	Konec Solutions Pty Ltd
+CC:F7:22:E0:00:00/28	Asml Us, Lp
 CC:F7:35		Amazon Technologies Inc.
 CC:F8:26		Samsung Electronics Co.,Ltd
 CC:F8:41		Lumewave
@@ -53990,7 +54001,7 @@ D8:47:BB		Huawei Device Co., Ltd.
 D8:48:EE		Hangzhou Xueji Technology Co., Ltd.
 D8:49:0B		Huawei Technologies Co.,Ltd
 D8:49:2F		Canon Inc.
-D8:49:BF		Celestica Inc.
+D8:49:BF		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
 D8:4A:2B		zte corporation
 D8:4A:83		vivo Mobile Communication Co., Ltd.
 D8:4A:87		Oi Electric Co.,Ltd
@@ -54732,7 +54743,7 @@ DC:D9:16		Huawei Technologies Co.,Ltd
 DC:D9:A8		Guang zhou Xradio Technology Co., Ltd
 DC:D9:AE		Nokia Shanghai Bell Co., Ltd.
 DC:DA:0C		Espressif Inc.
-DC:DA:4D		Celestica Inc.
+DC:DA:4D		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
 DC:DA:4F		Getck Technology,  Inc
 DC:DA:80		New H3C Technologies Co., Ltd
 DC:DB:27		Huawei Device Co., Ltd.
@@ -56423,6 +56434,7 @@ EC:4C:8C		Intel Corporate
 EC:4D:3E		Beijing Xiaomi Mobile Software Co., Ltd
 EC:4D:47		Huawei Technologies Co.,Ltd
 EC:4F:82		Calix Inc.
+EC:50:2A		Funshion Online Technologies Co.,Ltd
 EC:50:A6		Sagemcom Broadband SAS
 EC:50:AA		Hewlett Packard Enterprise
 EC:51:BC		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
