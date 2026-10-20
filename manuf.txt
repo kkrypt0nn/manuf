@@ -25537,6 +25537,7 @@
 3C:6D:89		Apple, Inc.
 3C:6E:63		Mitron OY
 3C:6F:45		Fiberpro Inc.
+3C:6F:75		Juniper Networks
 3C:6F:9B		zte corporation
 3C:6F:EA		Panasonic India Pvt. Ltd.
 3C:6F:F7		EnTek Systems, Inc.
@@ -30395,6 +30396,7 @@
 5C:AA:A2		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
 5C:AA:FD		Sonos, Inc.
 5C:AB:22		IEEE Registration Authority
+5C:AB:22:20:00:00/28	Santiam Labs
 5C:AB:22:30:00:00/28	Xiamen Joint Tech. CO.,Ltd.
 5C:AB:22:60:00:00/28	Shanghai Jiweijiu Intelligent Technology Co., Ltd.
 5C:AB:22:90:00:00/28	Kiwee Broadband
@@ -47683,6 +47685,7 @@ A8:72:85		Idt, Inc.
 A8:74:1D		Phoenix Contact GmbH & Co. KG
 A8:74:84		zte corporation
 A8:75:4E		Nexlawn Intelligent Technology (Suzhou) Co., Ltd.
+A8:75:6A		Juniper Networks
 A8:75:D6		FreeTek International Co., Ltd.
 A8:75:E2		Aventura Technologies, Inc.
 A8:76:50		Samsung Electronics Co.,Ltd
