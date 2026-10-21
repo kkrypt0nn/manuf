@@ -18245,6 +18245,7 @@
 08:27:CE		Nagano Keiki Co., Ltd.
 08:27:F0		Accton Technology Co., Ltd.
 08:28:02		Shenzhen Chuangwei-Rgb Electronics Co.,Ltd
+08:29:9E		Nokia
 08:2A:D0		SRD Innovations Inc.
 08:2C:B0		Network Instruments
 08:2C:B6		Apple, Inc.
@@ -31270,6 +31271,7 @@
 64:55:7F		NSFOCUS Information Technology Co., Ltd.
 64:55:B1		Commscope
 64:56:01		Tp-Link Technologies Co.,Ltd.
+64:56:47		Nokia
 64:56:B5		Samsung Electronics Co.,Ltd
 64:57:25		Hui Zhou Gaoshengda Technology Co.,LTD
 64:57:BA		Intel Corporate
@@ -32953,6 +32955,7 @@
 70:93:83		Intelligent Optical Network High Tech CO.,LTD.
 70:93:C1		eero inc.
 70:93:F8		Space Monkey, Inc.
+70:96:20		Hewlett Packard Enterprise
 70:96:84		Apple, Inc.
 70:97:41		Arcadyan Corporation
 70:97:51		Beijing Xiaomi Mobile Software Co., Ltd
