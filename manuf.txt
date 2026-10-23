@@ -25398,6 +25398,7 @@
 3C:2F:3A		SFORZATO Corp.
 3C:30:0C		Dewar Electronics Pty Ltd
 3C:30:6F		Huawei Technologies Co.,Ltd
+3C:31:0A		Metro Electronics
 3C:31:74		Google, Inc.
 3C:31:78		Qolsys Inc.
 3C:31:8A		Samsung Electronics Co.,Ltd
