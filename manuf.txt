@@ -24354,6 +24354,7 @@
 34:79:16		Huawei Technologies Co.,Ltd
 34:7A:60		Commscope
 34:7C:25		Apple, Inc.
+34:7D:53		Juniper Networks
 34:7D:E4		Shenzhen Bilian Electronic Co.，Ltd
 34:7D:F6		Intel Corporate
 34:7E:00		Huawei Device Co., Ltd.
@@ -29687,6 +29688,7 @@
 58:4C:19		Chongqing Guohong Technology Development Company Limited
 58:4C:EE		Digital One Technologies, Limited
 58:4D:42		Dragos, Inc.
+58:50:16		Juniper Networks
 58:50:76		Linear Equipamentos Eletronicos SA
 58:50:9F		Cloud Network Technology Singapore Pte. Ltd.
 58:50:AB		TLS Corporation
@@ -30421,6 +30423,7 @@
 5C:AB:22:80:00:00/28	FEEL Group LLC
 5C:AB:22:90:00:00/28	Kiwee Broadband
 5C:AB:22:A0:00:00/28	Wuxi Bravechip Technologies Co.,Ltd
+5C:AB:22:C0:00:00/28	Link-Card Tech Co.Ltd.
 5C:AB:22:D0:00:00/28	Stadium Grow Lighting B.V
 5C:AC:3D		Samsung Electronics Co.,Ltd
 5C:AC:4C		Hon Hai Precision Ind. Co.,Ltd.
@@ -43455,6 +43458,7 @@
 8C:1F:64:E9:F0:00/36	Lumiplan Duhamel
 8C:1F:64:EA:00:00/36	Oxy Technology Usa Llc
 8C:1F:64:EA:20:00/36	Vision Systems Safety Tech
+8C:1F:64:EA:30:00/36	Newtouch Electronics (Shanghai) Co., LTD.
 8C:1F:64:EA:60:00/36	Dial Plan Limited
 8C:1F:64:EA:80:00/36	Zumbach Electronic AG
 8C:1F:64:EA:A0:00/36	"KB "Modul", LLC
@@ -47524,6 +47528,7 @@ A8:0C:0D		Cisco Systems, Inc
 A8:0C:63		Huawei Technologies Co.,Ltd
 A8:0C:CA		Shenzhen Sundray Technologies company Limited
 A8:0D:E1		Huawei Technologies Co.,Ltd
+A8:0F:CA		Juniper Networks
 A8:10:87		Texas Instruments
 A8:11:FC		Commscope
 A8:13:06		vivo Mobile Communication Co., Ltd.
