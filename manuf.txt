@@ -29704,6 +29704,7 @@
 58:56:C2		Huawei Technologies Co.,Ltd
 58:56:E8		Commscope
 58:57:0D		Danfoss Solar Inverters
+58:57:F0		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
 58:58:CD		Extreme Networks, Inc.
 58:59:24		Nanjing Simon Info Tech Co.,Ltd.
 58:59:C2		Extreme Networks, Inc.
@@ -30415,6 +30416,7 @@
 5C:AA:A2		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
 5C:AA:FD		Sonos, Inc.
 5C:AB:22		IEEE Registration Authority
+5C:AB:22:00:00:00/28	InfraShield Inc.
 5C:AB:22:20:00:00/28	Santiam Labs
 5C:AB:22:30:00:00/28	Xiamen Joint Tech. CO.,Ltd.
 5C:AB:22:40:00:00/28	Comet Technologies Denmark A/S
@@ -30423,6 +30425,7 @@
 5C:AB:22:80:00:00/28	FEEL Group LLC
 5C:AB:22:90:00:00/28	Kiwee Broadband
 5C:AB:22:A0:00:00/28	Wuxi Bravechip Technologies Co.,Ltd
+5C:AB:22:B0:00:00/28	Digicare Biomedical Technology, Inc.
 5C:AB:22:C0:00:00/28	Link-Card Tech Co.Ltd.
 5C:AB:22:D0:00:00/28	Stadium Grow Lighting B.V
 5C:AC:3D		Samsung Electronics Co.,Ltd
@@ -32536,6 +32539,7 @@
 6C:C4:9F		Hewlett Packard Enterprise
 6C:C4:AF		Espressif Systems (Singapore) Pte. Ltd
 6C:C4:D5		HMD Global Oy
+6C:C5:1F		WNC Corporation
 6C:C6:3B		Taicang T&W Electronics
 6C:C7:EC		Samsung Electro-Mechanics(Thailand)
 6C:C8:40		Espressif Inc.
@@ -41949,6 +41953,7 @@
 8C:1F:64:67:50:00/36	Transit Solutions, LLC.
 8C:1F:64:67:60:00/36	sdt.net AG
 8C:1F:64:67:70:00/36	Frey S.J.
+8C:1F:64:67:90:00/36	Guangdong Gospower Electric Technology Co., Ltd.
 8C:1F:64:67:A0:00/36	MG s.r.l.
 8C:1F:64:67:B0:00/36	Wi-DAS LLC
 8C:1F:64:67:C0:00/36	Ensto Protrol AB
@@ -42481,6 +42486,7 @@
 8C:1F:64:95:B0:00/36	Qualitel Corporation
 8C:1F:64:95:C0:00/36	Fasetto, Inc.
 8C:1F:64:95:E0:00/36	Landis+Gyr Equipamentos de Medição Ltda
+8C:1F:64:95:F0:00/36	Invixium Access Inc
 8C:1F:64:96:10:00/36	Jmv Bharat Private Limited
 8C:1F:64:96:20:00/36	Umano Medical Inc.
 8C:1F:64:96:30:00/36	Gogo Business Aviation
@@ -45872,6 +45878,7 @@
 98:FF:6A		OTEC(Shanghai)Technology Co.,Ltd.
 98:FF:D0		Lenovo Mobile Communication Technology Ltd.
 9A:1B:22		InfoCore Co.,Ltd.
+9A:29:95		Shenzhen Rundian Innovation Technology Co., Ltd.
 9A:56:4B		Cubix Corporation
 9A:5C:C3		NuCOMM International Ltd.
 9A:AD:CA		Credo
@@ -53238,6 +53245,7 @@ D0:C1:93		Skybell, Inc
 D0:C1:B1		Samsung Electronics Co.,Ltd
 D0:C1:B5		Dell Inc.
 D0:C1:BF		Xiaomi Communications Co Ltd
+D0:C2:16		Decawave Ltd
 D0:C2:4E		Samsung Electronics Co.,Ltd
 D0:C2:82		Cisco Systems, Inc
 D0:C3:1E		JUNGJIN Electronics Co.,Ltd
@@ -56477,6 +56485,7 @@ EC:42:B4		ADC Corporation
 EC:42:CC		Apple, Inc.
 EC:42:F0		ADL Embedded Solutions, Inc.
 EC:43:8B		Yaptv
+EC:43:C4		MitraStar Technology Corp.
 EC:43:E6		AWCER Ltd.
 EC:43:F6		Zyxel Communications Corporation
 EC:44:76		Cisco Systems, Inc
