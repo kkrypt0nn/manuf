@@ -25885,6 +25885,7 @@
 40:22:D8		Espressif Inc.
 40:22:ED		Digital Projection Ltd
 40:23:43		Chongqing Fugui Electronics Co.,Ltd.
+40:23:64		Serage
 40:24:B2		Sichuan AI-Link Technology Co., Ltd.
 40:24:D2		Huawei Device Co., Ltd.
 40:25:08		Highway 9 Networks, Inc.
@@ -28012,6 +28013,7 @@
 4C:50:77		Huawei Device Co., Ltd.
 4C:50:DD		Hui Zhou Gaoshengda Technology Co.,LTD
 4C:50:F1		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
+4C:51:49		Gsd Viet Nam Technology Company Limited
 4C:52:62		Fujitsu Technology Solutions GmbH
 4C:52:EC		SOLARWATT GmbH
 4C:53:69		YanFeng Visteon(ChongQing) Automotive Electronic Co.,Ltd
@@ -30417,9 +30419,11 @@
 5C:AA:FD		Sonos, Inc.
 5C:AB:22		IEEE Registration Authority
 5C:AB:22:00:00:00/28	InfraShield Inc.
+5C:AB:22:10:00:00/28	MDA SatConn UK
 5C:AB:22:20:00:00/28	Santiam Labs
 5C:AB:22:30:00:00/28	Xiamen Joint Tech. CO.,Ltd.
 5C:AB:22:40:00:00/28	Comet Technologies Denmark A/S
+5C:AB:22:50:00:00/28	Cyngrox Private Limited
 5C:AB:22:60:00:00/28	Shanghai Jiweijiu Intelligent Technology Co., Ltd.
 5C:AB:22:70:00:00/28	Chubb France
 5C:AB:22:80:00:00/28	FEEL Group LLC
@@ -30428,6 +30432,7 @@
 5C:AB:22:B0:00:00/28	Digicare Biomedical Technology, Inc.
 5C:AB:22:C0:00:00/28	Link-Card Tech Co.Ltd.
 5C:AB:22:D0:00:00/28	Stadium Grow Lighting B.V
+5C:AB:22:E0:00:00/28	Private
 5C:AC:3D		Samsung Electronics Co.,Ltd
 5C:AC:4C		Hon Hai Precision Ind. Co.,Ltd.
 5C:AD:76		Shenzhen TCL New Technology Co., Ltd
@@ -42302,6 +42307,7 @@
 8C:1F:64:84:C0:00/36	AvMap srlu
 8C:1F:64:84:D0:00/36	Dave Srl
 8C:1F:64:84:E0:00/36	West Pharmaceutical Services, Inc.
+8C:1F:64:84:F0:00/36	Rouchon Industries Inc.
 8C:1F:64:85:00:00/36	Tokyo Denki Gijutsu Kogyo
 8C:1F:64:85:20:00/36	Abb
 8C:1F:64:85:50:00/36	e.kundenservice Netz GmbH
@@ -42589,6 +42595,7 @@
 8C:1F:64:9E:80:00/36	GHM Messtechnik GmbH
 8C:1F:64:9E:A0:00/36	MSolutions
 8C:1F:64:9E:C0:00/36	Specialized Communications Corp.
+8C:1F:64:9E:D0:00/36	Sotech Development Pvt. Ltd.
 8C:1F:64:9E:E0:00/36	Möbus Engineering GmbH
 8C:1F:64:9F:00:00/36	ePlant, Inc.
 8C:1F:64:9F:10:00/36	Skymira
@@ -42763,6 +42770,7 @@
 8C:1F:64:AD:A0:00/36	Ability Intelligent Corp.
 8C:1F:64:AD:B0:00/36	Hebei Weiji Electric Co.,Ltd
 8C:1F:64:AD:C0:00/36	Motor Protection Electronics
+8C:1F:64:AD:D0:00/36	Intermobility Co., Ltd.
 8C:1F:64:AE:00:00/36	Aster Pro-Audio Inc.
 8C:1F:64:AE:10:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:AE:20:00/36	Jiangsu Yi Rong Mstar Technology Ltd.
@@ -49930,6 +49938,7 @@ B8:F1:2A		Apple, Inc.
 B8:F2:55		Universal Electronics, Inc.
 B8:F3:17		iSun Smasher Communications Private Limited
 B8:F4:4F		u-blox AG
+B8:F4:53:A0:00:00/28	Skeleton Technologies OÜ
 B8:F4:A4		Google, Inc.
 B8:F4:D0		Herrmann Ultraschalltechnik GmbH & Co. Kg
 B8:F5:E7		WayTools, LLC
@@ -50716,6 +50725,7 @@ C0:7B:BC		Cisco Systems, Inc
 C0:7C:90		Shenzhen YOUHUA Technology Co., Ltd
 C0:7C:D1		Pegatron Corporation
 C0:7E:40		Shenzhen Xdk Communication Equipment Co.,Ltd
+C0:80:09		Vantiva USA LLC
 C0:81:35		Ningbo Forfan technology Co., LTD
 C0:81:70		Effigis GeoSolutions
 C0:83:0A		2Wire Inc
