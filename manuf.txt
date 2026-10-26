@@ -22788,6 +22788,7 @@
 28:BC:05		BLU Products Inc
 28:BC:18		SourcingOverseas Co. Ltd
 28:BC:56		EMAC, Inc.
+28:BC:82		AMiT Automation
 28:BD:89		Google, Inc.
 28:BE:03		TCT mobile ltd
 28:BE:43		vivo Mobile Communication Co., Ltd.
@@ -49938,6 +49939,7 @@ B8:F1:2A		Apple, Inc.
 B8:F2:55		Universal Electronics, Inc.
 B8:F3:17		iSun Smasher Communications Private Limited
 B8:F4:4F		u-blox AG
+B8:F4:53		IEEE Registration Authority
 B8:F4:53:A0:00:00/28	Skeleton Technologies OÜ
 B8:F4:A4		Google, Inc.
 B8:F4:D0		Herrmann Ultraschalltechnik GmbH & Co. Kg
