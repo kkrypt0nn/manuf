@@ -23009,6 +23009,7 @@
 2C:0B:97		Xiaomi Communications Co Ltd
 2C:0B:AB		Huawei Technologies Co.,Ltd
 2C:0B:E9		Cisco Systems, Inc
+2C:0C:88		Silicon Laboratories
 2C:0D:27		Huawei Device Co., Ltd.
 2C:0D:A7		Intel Corporate
 2C:0D:CF		Xiaomi Communications Co Ltd
@@ -31773,6 +31774,7 @@
 68:52:10		MCS Logic
 68:52:D6		UGame Technology Co.,Ltd
 68:53:6C		SPnS Co.,Ltd
+68:53:70		Chipsea Technologies (Shenzhen) Corp.
 68:53:77		Bouffalo Lab (Nanjing) Co., Ltd.
 68:53:88		P&S Technology
 68:53:9D		EM Microelectronic
@@ -45026,6 +45028,7 @@
 94:82:B2		GL Intelligence
 94:83:C4		GL Technologies (Hong Kong) Limited
 94:85:7A		Evantage Industries Corp
+94:85:80		Amazon Technologies Inc.
 94:86:CD		Seoul Electronics&Telecom
 94:86:D4		Surveillance Pro Corporation
 94:87:7C		Commscope
@@ -50423,6 +50426,7 @@ BC:D7:67		BAE Systems
 BC:D7:A5		Hewlett Packard Enterprise
 BC:D7:CE		China Mobile (Hangzhou) Information Technology Co., Ltd.
 BC:D7:D4		Roku, Inc
+BC:D8:10		Amazon Technologies Inc.
 BC:D8:49		TP-Link Systems Inc.
 BC:D9:40		ASR Co,.Ltd.
 BC:D9:FB		China Mobile Group Device Co.,Ltd.
@@ -56137,6 +56141,7 @@ E8:9A:8F		Quanta Computer Inc.
 E8:9A:FF		Fujian LANDI Commercial Equipment Co.,Ltd
 E8:9C:25		ASUSTek COMPUTER INC.
 E8:9D:87		Toshiba
+E8:9D:EA		Silicon Laboratories
 E8:9E:0C		Max8Usa Distributors Inc.
 E8:9E:13		Cresyn
 E8:9E:49		Mellanox Technologies, Inc.
