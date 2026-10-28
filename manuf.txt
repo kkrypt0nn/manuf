@@ -21397,6 +21397,7 @@
 1C:FA:68		Tp-Link Technologies Co.,Ltd.
 1C:FC:17		Cisco Systems, Inc
 1C:FC:2A		Huawei Technologies Co.,Ltd
+1C:FC:4E		EFORT Intelligent Robot Co., Ltd. Copyright
 1C:FC:BB		Realfiction ApS
 1C:FD:08		IEEE Registration Authority
 1C:FD:08:00:00:00/28	InSeat Solutions, LLC
@@ -29632,6 +29633,7 @@
 58:2F:F7		Sagemcom Broadband SAS
 58:30:5B		Shanghai Junqian Sensing Technology Co.,LTD
 58:30:6E		Nokia
+58:30:AC		Quectel Wireless Solutions Co.,Ltd.
 58:31:12		Drust
 58:32:77		Reliance Communications LLC
 58:34:3B		Glovast Technology Ltd.
@@ -40662,6 +40664,7 @@
 8A:07:75		Horys Technologies Llc
 8A:0A:F7		Montage Technology Co,.LTD
 8A:34:BC		Fiberworks AS
+8A:4C:F8		Unseen Reality Inc.
 8A:4F:8B		Irdeto
 8A:7D:B3		Evolv Technology, Inc.
 8A:85:2E		Kampr Systems
@@ -41596,6 +41599,7 @@
 8C:1F:64:46:A0:00/36	Pharsighted LLC
 8C:1F:64:46:B0:00/36	Persol Excel Hr Partners Co., Ltd.
 8C:1F:64:46:D0:00/36	MB connect line GmbH
+8C:1F:64:46:F0:00/36	inomatic GmbH
 8C:1F:64:47:00:00/36	Canfield Scientific Inc
 8C:1F:64:47:10:00/36	Apantac LLC
 8C:1F:64:47:20:00/36	Surge Networks, Inc.
@@ -49957,6 +49961,7 @@ B8:F4:4F		u-blox AG
 B8:F4:53		IEEE Registration Authority
 B8:F4:53:10:00:00/28	Ganzhou Dehuida Technology Co., Ltd
 B8:F4:53:20:00:00/28	Hamamatsu Photonics K.K.
+B8:F4:53:80:00:00/28	ViewSonic Corp
 B8:F4:53:A0:00:00/28	Skeleton Technologies OÜ
 B8:F4:53:B0:00:00/28	SDMT Limited
 B8:F4:A4		Google, Inc.
@@ -55862,6 +55867,7 @@ E4:FB:8F		Mobiwire Mobiles (Ningbo) Co.,Ltd
 E4:FC:82		Juniper Networks
 E4:FD:45		Intel Corporate
 E4:FD:8C		Extreme Networks, Inc.
+E4:FD:9D		Shenzhen Skyworth Display Technologies Co.,Ltd
 E4:FD:A1		Huawei Technologies Co.,Ltd
 E4:FE:43		Beijing Xiaomi Mobile Software Co., Ltd
 E4:FE:D4		Microsoft Corporation
@@ -59116,6 +59122,7 @@ FC:F2:9F		China Mobile Iot Limited company
 FC:F5:28		Zyxel Communications Corporation
 FC:F5:C4		Espressif Inc.
 FC:F6:47		Fiberhome Telecommunication Technologies Co.,LTD
+FC:F6:84		MatX
 FC:F7:38		Huawei Technologies Co.,Ltd
 FC:F7:63		KunGao Micro (JiangSu) Co., LTd
 FC:F7:7B		Huawei Device Co., Ltd.
