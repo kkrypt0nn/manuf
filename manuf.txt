@@ -45905,6 +45905,7 @@
 98:FF:6A		OTEC(Shanghai)Technology Co.,Ltd.
 98:FF:D0		Lenovo Mobile Communication Technology Ltd.
 9A:1B:22		InfoCore Co.,Ltd.
+9A:27:1B		CelAudio (Beijing) Technology Inc
 9A:29:95		Shenzhen Rundian Innovation Technology Co., Ltd.
 9A:56:4B		Cubix Corporation
 9A:5C:C3		NuCOMM International Ltd.
@@ -49961,6 +49962,7 @@ B8:F4:4F		u-blox AG
 B8:F4:53		IEEE Registration Authority
 B8:F4:53:10:00:00/28	Ganzhou Dehuida Technology Co., Ltd
 B8:F4:53:20:00:00/28	Hamamatsu Photonics K.K.
+B8:F4:53:40:00:00/28	Ontic Engineering & Manufacturing
 B8:F4:53:80:00:00/28	ViewSonic Corp
 B8:F4:53:A0:00:00/28	Skeleton Technologies OÜ
 B8:F4:53:B0:00:00/28	SDMT Limited
