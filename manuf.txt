@@ -40419,6 +40419,7 @@
 88:89:14		All Components Incorporated
 88:89:2F		Huawei Technologies Co.,Ltd
 88:89:64		GSI Electronics Inc.
+88:8A:F5		Intel Corporate
 88:8B:5D		Storage Appliance Corporation
 88:8C:19		Brady Corp Asia Pacific Ltd
 88:8C:1B		EM Microelectronic
@@ -40995,6 +40996,7 @@
 8C:1F:64:11:80:00/36	Automata GmbH & Co. KG
 8C:1F:64:11:90:00/36	Foxconn Technology Co., Ltd.
 8C:1F:64:11:B0:00/36	Power Electronics Espana, S.L.
+8C:1F:64:11:C0:00/36	WITCON Co., Ltd.
 8C:1F:64:11:E0:00/36	Infosoft Digital Design and Services P L
 8C:1F:64:11:F0:00/36	NodeUDesign
 8C:1F:64:12:10:00/36	Hefei EverACQ Technology Co., LTD
@@ -46238,6 +46240,7 @@
 9C:AA:5D		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 9C:AC:6D		Universal Electronics, Inc.
 9C:AD:97		Hon Hai Precision Ind. Co.,Ltd.
+9C:AD:E0		Intel Corporate
 9C:AD:EF		Obihai Technology, Inc.
 9C:AE:D3		Seiko Epson Corporation
 9C:AF:6F		Itel Mobile Limited
@@ -49960,12 +49963,14 @@ B8:F2:55		Universal Electronics, Inc.
 B8:F3:17		iSun Smasher Communications Private Limited
 B8:F4:4F		u-blox AG
 B8:F4:53		IEEE Registration Authority
+B8:F4:53:00:00:00/28	ELS Instruments
 B8:F4:53:10:00:00/28	Ganzhou Dehuida Technology Co., Ltd
 B8:F4:53:20:00:00/28	Hamamatsu Photonics K.K.
 B8:F4:53:40:00:00/28	Ontic Engineering & Manufacturing
 B8:F4:53:80:00:00/28	ViewSonic Corp
 B8:F4:53:A0:00:00/28	Skeleton Technologies OÜ
 B8:F4:53:B0:00:00/28	SDMT Limited
+B8:F4:53:D0:00:00/28	Withusnet Co., Ltd
 B8:F4:A4		Google, Inc.
 B8:F4:D0		Herrmann Ultraschalltechnik GmbH & Co. Kg
 B8:F5:E7		WayTools, LLC
@@ -53435,6 +53440,7 @@ D4:02:4A		Delphian Systems LLC
 D4:04:CD		Commscope
 D4:04:E6		Broadcom Limited
 D4:04:FF		Juniper Networks
+D4:05:11		TCL King Electrical Appliances(Huizhou)Co.,Ltd
 D4:05:92		Espressif Inc.
 D4:05:98		Commscope
 D4:05:DE		eero inc.
