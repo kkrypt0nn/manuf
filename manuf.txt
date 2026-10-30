@@ -30764,6 +30764,7 @@
 60:3E:CA		Cambridge Medical Robotics Ltd
 60:3F:C5		Cox Co., Ltd
 60:3F:FB		Telink Micro LLC
+60:41:5A		Google, Inc.
 60:42:7F		Shenzhen Chuangwei-Rgb Electronics Co.,Ltd
 60:44:7A		Water-i.d. GmbH
 60:44:F5		Easy Digital Ltd.
@@ -43123,6 +43124,7 @@
 8C:1F:64:C9:90:00/36	Vinfast Trading and Production JSC
 8C:1F:64:C9:A0:00/36	Infosoft Digital Design and Services P L
 8C:1F:64:C9:B0:00/36	J.M. Voith SE & Co. KG
+8C:1F:64:C9:C0:00/36	Idneo Technologies,S.A.U.
 8C:1F:64:C9:D0:00/36	Creating Cloud Technology Co.,Ltd.,CT-CLOUD
 8C:1F:64:C9:E0:00/36	CytoTronics
 8C:1F:64:C9:F0:00/36	PeachCreek
@@ -45325,6 +45327,7 @@
 94:FB:B2		Shenzhen Gongjin Electronics Co.,Lt
 94:FC:04		Dongguan Amsamotion Automation Technology Co.,Ltd.
 94:FC:87		Hirschmann Automation and Control GmbH
+94:FC:9A		Google, Inc.
 94:FD:1D		WhereWhen Corp
 94:FD:2E		Shanghai Uniscope Technologies Co.,Ltd
 94:FE:22		Huawei Technologies Co.,Ltd
