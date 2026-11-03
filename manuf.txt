@@ -16207,7 +16207,7 @@
 00:A0:54		Private
 00:A0:55		Data Device Corporation
 00:A0:56		Micropross
-00:A0:57		LANCOM Systems GmbH
+00:A0:57		Rohde & Schwarz Networks and Cybersecurity GmbH
 00:A0:58		Glory, Ltd.
 00:A0:59		Hamilton Hallmark
 00:A0:5A		Kofax Image Products
@@ -18625,6 +18625,7 @@
 08:F4:AB		Apple, Inc.
 08:F4:F0		Cisco Systems, Inc
 08:F6:06		zte corporation
+08:F6:79		Huawei Device Co., Ltd.
 08:F6:9C		Apple, Inc.
 08:F6:F8		GET Engineering
 08:F7:28		GLOBO Multimedia Sp. z o.o. Sp.k.
@@ -20315,6 +20316,7 @@
 18:2C:B4		Nectarsoft Co., Ltd.
 18:2D:98		Jinwoo Industrial system
 18:2D:F7		Jy Company
+18:2F:58		Veritech LLC
 18:30:09		Woojin Industrial Systems Co., Ltd.
 18:30:0C		Hisense Electric Co.,Ltd
 18:31:4F		Aidin Robotics
@@ -21761,6 +21763,7 @@
 20:AB:53		Motorola Mobility LLC, a Lenovo Company
 20:AC:9C		China Telecom Corporation Limited
 20:AD:56		AUMOVIO Systems, Inc.
+20:AD:72		eero inc.
 20:AE:B6		Huawei Device Co., Ltd.
 20:AF:1B		SteelSeries ApS
 20:B0:01		Vantiva Technologies Belgium
@@ -23488,7 +23491,7 @@
 2C:D3:AD		Texas Instruments
 2C:D4:44		Fujitsu Limited
 2C:D7:48		Itron Inc
-2C:D7:FF		LANCOM Systems GmbH
+2C:D7:FF		Rohde & Schwarz Networks and Cybersecurity GmbH
 2C:D8:AE		Shenzhen SEI Robotics Co.,Ltd
 2C:D8:DE		AltoBeam Inc.
 2C:D9:74		Hui Zhou Gaoshengda Technology Co.,LTD
@@ -23525,6 +23528,7 @@
 2C:EA:DA		ICC Intelligent Platforms GmbH
 2C:EA:DC		Askey Computer Corp
 2C:EA:FC		Intel Corporate
+2C:EB:66		Huawei Device Co., Ltd.
 2C:EC:A6		Huawei Technologies Co.,Ltd
 2C:EC:F7		Shenzhen SDMC Technology CO.,Ltd.
 2C:ED:89		Huawei Technologies Co.,Ltd
@@ -23567,6 +23571,7 @@
 30:05:05		Intel Corporate
 30:05:3F		JTI Co.,Ltd.
 30:05:5C		Brother industries, LTD.
+30:05:C8		Huawei Device Co., Ltd.
 30:07:4D		Samsung Electro-Mechanics(Thailand)
 30:07:5C		Netis Technology Co., Ltd.
 30:07:A3		Shenzhen Skyworth Digital  Technology  CO., Ltd
@@ -24167,6 +24172,7 @@
 34:1B:22		Grandbeing Technology Co., Ltd
 34:1B:2D		Cisco Systems, Inc
 34:1C:F0		Xiaomi Communications Co Ltd
+34:1E:64		Huawei Device Co., Ltd.
 34:1E:6B		Huawei Technologies Co.,Ltd
 34:1F:C4		Shenzhen V-Link Technology CO., LTD.
 34:1F:E4		Commscope
@@ -24176,6 +24182,7 @@
 34:21:09		Jensen Scandinavia AS
 34:22:CF		AUMOVIO Systems, Inc.
 34:23:87		Hon Hai Precision Ind. Co.,Ltd.
+34:23:8E		eero inc.
 34:23:BA		Samsung Electro-Mechanics(Thailand)
 34:24:3E		zte corporation
 34:25:5D		Shenzhen Loadcom Technology Co.,Ltd
@@ -28060,6 +28067,7 @@
 4C:63:AD		Huawei Device Co., Ltd.
 4C:63:EB		Application Solutions (Electronics and Vision) Ltd
 4C:64:60		Itel Mobile Limited
+4C:64:C9		Huawei Device Co., Ltd.
 4C:64:D9		Guangdong Leawin Group Co., Ltd
 4C:65:A8		IEEE Registration Authority
 4C:65:A8:00:00:00/28	WELT Corporation
@@ -28550,6 +28558,7 @@
 50:23:6D		Nintendo Co.,Ltd
 50:23:A2		Apple, Inc.
 50:25:2B		Nethra Imaging Incorporated
+50:25:FE		Huawei Device Co., Ltd.
 50:26:90		Fujitsu Limited
 50:26:D2		AVIRE Trading Limited
 50:26:EF		Murata Manufacturing Co., Ltd.
@@ -29188,6 +29197,7 @@
 54:3E:64		Fiberhome Telecommunication Technologies Co.,LTD
 54:40:AD		Samsung Electronics Co.,Ltd
 54:42:49		Sony Corporation
+54:43:87		Huawei Device Co., Ltd.
 54:43:B2		Espressif Inc.
 54:44:08		Nokia Corporation
 54:44:3B		Huawei Technologies Co.,Ltd
@@ -37165,6 +37175,7 @@
 70:BC:48		Cisco Systems, Inc
 70:BD:96		Cisco Systems, Inc
 70:BD:D2		Adva Network Security GmbH
+70:BE:8E		Huawei Device Co., Ltd.
 70:BF:3E		Charles River Laboratories
 70:BF:92		GN Audio A/S
 70:C2:88		Intel Corporate
@@ -39321,6 +39332,7 @@
 80:6D:DE		Beken Corporation
 80:6F:1C		Huawei Device Co., Ltd.
 80:6F:B0		Texas Instruments
+80:70:39		Huawei Device Co., Ltd.
 80:71:1F		Juniper Networks
 80:71:7A		Huawei Technologies Co.,Ltd
 80:72:15		Sky Uk Limited
@@ -40013,6 +40025,7 @@
 84:C0:EF		Samsung Electronics Co.,Ltd
 84:C1:C1		Juniper Networks
 84:C2:E4		Jiangsu Qinheng Co., Ltd.
+84:C3:00		Shenzhen SDMC Technology CP,.LTD
 84:C3:E8		Vaillant GmbH
 84:C5:A6		Intel Corporate
 84:C6:65		Taicang T&W Electronics
@@ -41076,6 +41089,7 @@
 8C:1F:64:18:90:00/36	Herutu Electronics Corporation
 8C:1F:64:18:A0:00/36	Network Rail
 8C:1F:64:18:B0:00/36	M-Pulse GmbH & Co.KG
+8C:1F:64:18:C0:00/36	Cence Power Inc.
 8C:1F:64:18:E0:00/36	J1-LED Intelligent Transport Systems Pty Ltd
 8C:1F:64:19:00:00/36	Wesync
 8C:1F:64:19:30:00/36	Sicon srl
@@ -41224,6 +41238,7 @@
 8C:1F:64:26:90:00/36	Sicon srl
 8C:1F:64:26:B0:00/36	Profcon AB
 8C:1F:64:26:C0:00/36	Diatech co.,ltd.
+8C:1F:64:26:D0:00/36	Blueprint Subsea
 8C:1F:64:26:E0:00/36	Koizumi Lighting Technology Corp.
 8C:1F:64:26:F0:00/36	QUISS GmbH
 8C:1F:64:27:00:00/36	Xi‘an Hangguang Satellite and Control Technology Co.,Ltd
@@ -43552,6 +43567,7 @@
 8C:1F:64:EF:10:00/36	Biotage Gb Ltd
 8C:1F:64:EF:40:00/36	Mediaport Systems Ltd
 8C:1F:64:EF:50:00/36	Sigma Defense Systems LLC
+8C:1F:64:EF:60:00/36	Uncommon Group Inc
 8C:1F:64:EF:80:00/36	Northwest Central Indiana Community Partnerships Inc dba Wabash Heartland Innovation Network (WHIN)
 8C:1F:64:EF:B0:00/36	Warecube,Inc
 8C:1F:64:EF:C0:00/36	LonTen Technology（BeiJing）Co.,LTD.
@@ -43632,6 +43648,7 @@
 8C:1F:64:F6:70:00/36	Distron S.L.
 8C:1F:64:F6:80:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:F6:90:00/36	SUS Corporation
+8C:1F:64:F6:A0:00/36	NoWire Connect Sweden AB
 8C:1F:64:F6:C0:00/36	Sonatronic
 8C:1F:64:F6:D0:00/36	Ophir Manufacturing Solutions Pte Ltd
 8C:1F:64:F6:E0:00/36	ITG Co.Ltd
@@ -44049,6 +44066,7 @@
 8C:9A:8F		Sagemcom Broadband SAS
 8C:9B:2D		Plantronics, Inc.
 8C:9F:3B		Qingdao Hisense Communications Co.,Ltd.
+8C:A0:2C		Arcadyan Corporation
 8C:A0:48		Beijing NeTopChip Technology Co.,LTD
 8C:A2:29		Huawei Device Co., Ltd.
 8C:A2:F5		Huawei Device Co., Ltd.
@@ -44314,6 +44332,7 @@
 90:1A:4F		EM Microelectronic
 90:1A:CA		Commscope
 90:1B:0E		Fujitsu Technology Solutions GmbH
+90:1C:23		Huawei Device Co., Ltd.
 90:1C:9E		Alcatel-Lucent Enterprise
 90:1D:27		zte corporation
 90:1D:FF		ZOWEE TECHNOLOGY(HEYUAN)Co.,Ltd
@@ -49976,6 +49995,7 @@ B8:F4:53:80:00:00/28	ViewSonic Corp
 B8:F4:53:90:00:00/28	PA Technology Solutions Ltd
 B8:F4:53:A0:00:00/28	Skeleton Technologies OÜ
 B8:F4:53:B0:00:00/28	SDMT Limited
+B8:F4:53:C0:00:00/28	Wavin T&I
 B8:F4:53:D0:00:00/28	Withusnet Co., Ltd
 B8:F4:A4		Google, Inc.
 B8:F4:D0		Herrmann Ultraschalltechnik GmbH & Co. Kg
