@@ -41618,6 +41618,7 @@
 8C:1F:64:46:A0:00/36	Pharsighted LLC
 8C:1F:64:46:B0:00/36	Persol Excel Hr Partners Co., Ltd.
 8C:1F:64:46:D0:00/36	MB connect line GmbH
+8C:1F:64:46:E0:00/36	Optima Engineering INC.
 8C:1F:64:46:F0:00/36	inomatic GmbH
 8C:1F:64:47:00:00/36	Canfield Scientific Inc
 8C:1F:64:47:10:00/36	Apantac LLC
@@ -41685,6 +41686,7 @@
 8C:1F:64:4C:70:00/36	SBS SpA
 8C:1F:64:4C:90:00/36	Apantac LLC
 8C:1F:64:4C:A0:00/36	North Building Technologies Limited
+8C:1F:64:4C:B0:00/36	Haoyu Intelligent Technonlogy
 8C:1F:64:4C:C0:00/36	Carestream Healthcare International Company Limited
 8C:1F:64:4C:D0:00/36	Guan Show Technologe Co., Ltd.
 8C:1F:64:4C:F0:00/36	Sicon srl
@@ -42009,6 +42011,7 @@
 8C:1F:64:68:60:00/36	Pazzk
 8C:1F:64:68:70:00/36	Lamontec
 8C:1F:64:68:90:00/36	Aureka Smart Living W.L.L
+8C:1F:64:68:A0:00/36	PCN Co., Ltd.
 8C:1F:64:68:C0:00/36	GuangZhou HOKO Electric CO.,LTD
 8C:1F:64:68:E0:00/36	Oriental Electronics, Inc.
 8C:1F:64:69:00:00/36	Potter Electric Signal Co. LLC
@@ -49992,6 +49995,8 @@ B8:F4:53:10:00:00/28	Ganzhou Dehuida Technology Co., Ltd
 B8:F4:53:20:00:00/28	Hamamatsu Photonics K.K.
 B8:F4:53:30:00:00/28	Annapurna labs
 B8:F4:53:40:00:00/28	Ontic Engineering & Manufacturing
+B8:F4:53:50:00:00/28	Empiretech Hk Limited
+B8:F4:53:60:00:00/28	Hanque(Chengdu) Information Technology Co.,Ltd.
 B8:F4:53:70:00:00/28	Valthor, s.r.o.
 B8:F4:53:80:00:00/28	ViewSonic Corp
 B8:F4:53:90:00:00/28	PA Technology Solutions Ltd
@@ -51868,6 +51873,7 @@ C8:63:40		Cisco Meraki
 C8:63:F1		Sony Interactive Entertainment Inc.
 C8:63:FC		Commscope
 C8:64:C7		zte corporation
+C8:65:94		IP Yusupov Nargiz Nakibovich
 C8:66:2C		Beijing Haitai Fangyuan High Technology Co,.Ltd.
 C8:66:4B		Aperion Technologies LLC
 C8:66:5D		Extreme Networks, Inc.
