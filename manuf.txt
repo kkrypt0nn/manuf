@@ -30908,6 +30908,7 @@
 60:8C:E6		Commscope
 60:8D:17		Sentrus Government Systems Division, Inc
 60:8D:26		Arcadyan Corporation
+60:8D:28		Motorola Mobility LLC, a Lenovo Company
 60:8E:08		Samsung Electronics Co.,Ltd
 60:8F:5C		Samsung Electronics Co.,Ltd
 60:8F:A4		Nokia Solutions and Networks GmbH & Co. KG
@@ -55529,6 +55530,7 @@ E4:1F:7B		Cisco Systems, Inc
 E4:1F:D5		Intel Corporate
 E4:1F:E9		Dunkermotoren GmbH
 E4:21:50		Shanghai Chint low voltage electrical technology Co.,Ltd.
+E4:22:24		Motorola Mobility LLC, a Lenovo Company
 E4:22:A5		Plantronics, Inc.
 E4:23:3C		Juniper Networks
 E4:23:54		Shenzhen Fuzhi Software Technology Co.,Ltd
