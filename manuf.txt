@@ -17674,8 +17674,11 @@
 04:7A:AE		Huawei Device Co., Ltd.
 04:7B:43		IEEE Registration Authority
 04:7B:43:00:00:00/28	JUNGJUN Co., Ltd.
+04:7B:43:10:00:00/28	Everblessed Technology Inc
+04:7B:43:30:00:00/28	ShenZhen MINIOLT Technology Co., Ltd.
 04:7B:43:40:00:00/28	Medicop d.o.o.
 04:7B:43:50:00:00/28	Shenzhen XJ-Micro Technology Co., Ltd.
+04:7B:43:60:00:00/28	Czur Tech Co., Ltd
 04:7B:43:80:00:00/28	MERAK HVAC España S.A.U.
 04:7B:43:90:00:00/28	Xthings Industry LLC
 04:7B:43:A0:00:00/28	Rubisec Corporation
@@ -20310,6 +20313,7 @@
 18:20:4C		Kummler+Matter AG
 18:20:A6		Sage Co., Ltd.
 18:20:D5		Commscope
+18:21:62		New H3C Technologies Co., Ltd
 18:21:95		Samsung Electronics Co.,Ltd
 18:22:7E		Samsung Electronics Co.,Ltd
 18:24:39		Yippee Electronics Cp.,Limited
@@ -28272,6 +28276,7 @@
 4C:A3:A7		Tecno Mobile Limited
 4C:A5:15		Baikal Electronics JSC
 4C:A5:6D		Samsung Electronics Co.,Ltd
+4C:A6:37		Hisense Home Appliances Group Co.,Ltd.Qingdao Branch
 4C:A6:4D		Cisco Systems, Inc
 4C:A7:4B		Alcatel Lucent
 4C:A9:19		Tuya Smart Inc.
@@ -28415,6 +28420,7 @@
 4C:E1:76		Cisco Systems, Inc
 4C:E1:9E		Tecno Mobile Limited
 4C:E1:BB		Zhuhai HiFocus Technology Co., Ltd.
+4C:E2:0C		New H3C Technologies Co., Ltd
 4C:E2:0F		Xiaomi Communications Co Ltd
 4C:E2:F1		Udino srl
 4C:E4:B6		Motorola Mobility LLC, a Lenovo Company
@@ -39789,6 +39795,7 @@
 84:3E:92		Huawei Technologies Co.,Ltd
 84:3F:4E		Tri-Tech Manufacturing, Inc.
 84:40:76		Drivenets
+84:41:3C		New H3C Technologies Co., Ltd
 84:41:67		Apple, Inc.
 84:44:64		ServerU Inc
 84:44:AF		Zhejiang Tmall Technology Co., Ltd.
@@ -41705,6 +41712,7 @@
 8C:1F:64:4C:10:00/36	Clock-O-Matic
 8C:1F:64:4C:20:00/36	Laser Imagineering Vertriebs GmbH
 8C:1F:64:4C:40:00/36	Innovative Industries
+8C:1F:64:4C:60:00/36	Shengli Technologies
 8C:1F:64:4C:70:00/36	SBS SpA
 8C:1F:64:4C:90:00/36	Apantac LLC
 8C:1F:64:4C:A0:00/36	North Building Technologies Limited
@@ -44702,6 +44710,7 @@
 90:BA:09		Huawei Technologies Co.,Ltd
 90:BD:E6		Quectel Wireless Solutions Co.,Ltd.
 90:BF:D9		Smart Innovation LLC
+90:C0:46		Hon Hai Precision Industry Co., Ltd.
 90:C1:15		Sony Corporation
 90:C1:19		Nokia
 90:C1:C6		Apple, Inc.
@@ -45695,6 +45704,7 @@
 98:81:8A		Huawei Device Co., Ltd.
 98:82:17		Disruptive Ltd
 98:83:89		Samsung Electronics Co.,Ltd
+98:84:C1		New H3C Technologies Co., Ltd
 98:84:E3		Texas Instruments
 98:86:5D		Nokia Shanghai Bell Co., Ltd.
 98:86:8B		Juniper Networks
@@ -55558,6 +55568,7 @@ E4:1F:13		IBM Corp
 E4:1F:7B		Cisco Systems, Inc
 E4:1F:D5		Intel Corporate
 E4:1F:E9		Dunkermotoren GmbH
+E4:20:0B		Polystack Technologies Private Limited
 E4:21:50		Shanghai Chint low voltage electrical technology Co.,Ltd.
 E4:22:24		Motorola Mobility LLC, a Lenovo Company
 E4:22:A5		Plantronics, Inc.
