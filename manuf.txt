@@ -17673,7 +17673,11 @@
 04:7A:0B		Beijing Xiaomi Electronics Co., Ltd.
 04:7A:AE		Huawei Device Co., Ltd.
 04:7B:43		IEEE Registration Authority
+04:7B:43:00:00:00/28	JUNGJUN Co., Ltd.
+04:7B:43:40:00:00/28	Medicop d.o.o.
 04:7B:43:50:00:00/28	Shenzhen XJ-Micro Technology Co., Ltd.
+04:7B:43:80:00:00/28	MERAK HVAC España S.A.U.
+04:7B:43:90:00:00/28	Xthings Industry LLC
 04:7B:43:A0:00:00/28	Rubisec Corporation
 04:7B:43:B0:00:00/28	Academy For Future Health Ltd
 04:7B:43:C0:00:00/28	RR Technologies GmbH
@@ -21737,6 +21741,7 @@
 20:98:D8		Shenzhen Yingdakang Technology CO., LTD
 20:98:ED		AltoBeam Inc.
 20:99:52		Xiaomi Communications Co Ltd
+20:99:EC		1AN Inc.
 20:9A:7D		Sagemcom Broadband SAS
 20:9A:E9		Volacomm Co., Ltd
 20:9B:A5		JIAXING GLEAD Electronics Co.,Ltd
@@ -22496,6 +22501,7 @@
 28:1D:21		In One Smart Technology(H,K,)Limited
 28:1D:AA		ASTI India Private Limited
 28:1D:FB		Huawei Technologies Co.,Ltd
+28:1F:81		SOXAI Inc.
 28:22:1E		Huawei Technologies Co.,Ltd
 28:22:46		Beijing Sinoix Communication Co., LTD
 28:23:73		Digita
@@ -43214,6 +43220,7 @@
 8C:1F:64:CD:D0:00/36	The Signalling Company
 8C:1F:64:CD:F0:00/36	Canway Technology GmbH
 8C:1F:64:CE:00:00/36	Potter Electric Signal Co. LLC
+8C:1F:64:CE:20:00/36	Kova, Corp.
 8C:1F:64:CE:30:00/36	Pixel Design & Manufacturing Sdn. Bhd.
 8C:1F:64:CE:40:00/36	Sl Usa, Llc
 8C:1F:64:CE:50:00/36	Private
@@ -47025,6 +47032,7 @@ A4:01:DE		Sercomm Philippines Inc
 A4:02:B7		Amazon Technologies Inc.
 A4:02:B9		Intel Corporate
 A4:04:50		nFore Technology Co., Ltd.
+A4:05:3E		BSH Electrodomésticos España, S.A.
 A4:05:6E		Tiinlab Corporation
 A4:05:9E		STA Infinity LLP
 A4:05:D6		Commscope
