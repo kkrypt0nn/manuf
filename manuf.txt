@@ -17675,6 +17675,7 @@
 04:7B:43		IEEE Registration Authority
 04:7B:43:00:00:00/28	JUNGJUN Co., Ltd.
 04:7B:43:10:00:00/28	Everblessed Technology Inc
+04:7B:43:20:00:00/28	PEAK International
 04:7B:43:30:00:00/28	ShenZhen MINIOLT Technology Co., Ltd.
 04:7B:43:40:00:00/28	Medicop d.o.o.
 04:7B:43:50:00:00/28	Shenzhen XJ-Micro Technology Co., Ltd.
@@ -41523,6 +41524,7 @@
 8C:1F:64:3B:B0:00/36	Clausal Computing Oy
 8C:1F:64:3B:D0:00/36	Oriux
 8C:1F:64:3B:E0:00/36	Adit Innovation Private Limited
+8C:1F:64:3B:F0:00/36	KanexPro
 8C:1F:64:3C:00:00/36	Snek
 8C:1F:64:3C:10:00/36	Suzhou Lianshichuangzhi Technology Co., Ltd
 8C:1F:64:3C:20:00/36	Samuel Cosgrove
@@ -48593,6 +48595,7 @@ B0:0B:22		Huawei Device Co., Ltd.
 B0:0B:E2		Xiaomi Communications Co Ltd
 B0:0C:9D		Quectel Wireless Solutions Co.,Ltd.
 B0:0C:D1		Hewlett Packard
+B0:0D:A8		Sagemcom Broadband SAS
 B0:10:41		Hon Hai Precision Ind. Co.,Ltd.
 B0:10:4B		Fiberhome Telecommunication Technologies Co.,LTD
 B0:10:A0		Texas Instruments
@@ -50261,6 +50264,7 @@ BC:45:8C		Shenzhen Topwise Communication Co.,Ltd
 BC:46:32		Fiberhome Telecommunication Technologies Co.,LTD
 BC:46:99		Tp-Link Technologies Co.,Ltd.
 BC:47:60		Samsung Electronics Co.,Ltd
+BC:47:D6		Sagemcom Broadband SAS
 BC:49:B2		Shenzhen Along Communication Tech Co., Ltd
 BC:4A:56		Cisco Systems, Inc
 BC:4B:79		SensingTek
