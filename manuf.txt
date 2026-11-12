@@ -17724,6 +17724,7 @@
 04:94:A1		Catch The Wind Inc
 04:94:E9		FAXedge Technologies, LLC
 04:95:73		zte corporation
+04:95:8E		Huawei Technologies Co.,Ltd
 04:95:E6		Tenda Technology Co.,Ltd.Dongguan branch
 04:96:45		Wuxi Sky Chip Interconnection Technology Co.,Ltd.
 04:97:90		Lartech telecom LLC
@@ -20546,6 +20547,7 @@
 18:87:40		Xiaomi Communications Co Ltd
 18:87:96		HTC Corporation
 18:88:57		Beijing Jinhong Xi-Dian Information Technology Corp.
+18:89:47		Hisense Visual Technology Co.,Ltd
 18:89:5B		Samsung Electronics Co.,Ltd
 18:89:A0		Funshion Online Technologies Co.,Ltd
 18:89:CF		Tecno Mobile Limited
@@ -28020,6 +28022,7 @@
 4C:45:53		Silicon Laboratories
 4C:45:76		China Mobile(Hangzhou) Information Technology Co.,Ltd.
 4C:46:D1		Guangzhou V-Solution Telecommunication Technology Co.,Ltd.
+4C:48:D4		Huawei Technologies Co.,Ltd
 4C:48:DA		Beijing Autelan Technology Co.,Ltd
 4C:49:29		TCL King Electrical Appliances(Huizhou)Co.,Ltd
 4C:49:4F		zte corporation
@@ -38289,6 +38292,7 @@
 78:9E:D0		Samsung Electronics Co.,Ltd
 78:9F:38		Shenzhen Feasycom Co., Ltd
 78:9F:4C		HOERBIGER Elektronik GmbH
+78:9F:5B		Huawei Technologies Co.,Ltd
 78:9F:6A		Ruckus Wireless
 78:9F:70		Apple, Inc.
 78:9F:87		Siemens AG I IA PP PRM
@@ -39236,6 +39240,7 @@
 80:23:95		AVM Audiovisuelles Marketing und Computersysteme GmbH
 80:24:8F		Cisco Systems, Inc
 80:25:11		Itel Mobile Limited
+80:25:D2		Huawei Technologies Co.,Ltd
 80:26:89		D-Link International
 80:27:6C		Cisco Systems, Inc
 80:28:3C		Sonova AG
@@ -39665,6 +39670,7 @@
 80:FB:F1		Freescale Semiconductor (China) Ltd.
 80:FD:7A		BLU Products Inc
 80:FD:7B		BLU Products Inc
+80:FF:60		Huawei Technologies Co.,Ltd
 80:FF:A8		Unidis
 84:00:2D		Pegatron Corporation
 84:00:55		VusionGroup
@@ -40736,6 +40742,7 @@
 8C:04:BA		Dell Inc.
 8C:04:FF		Vantiva USA LLC
 8C:05:28		Shen Zhen Tenda Technology Co.,Ltd
+8C:05:4D		Huawei Technologies Co.,Ltd
 8C:05:51		Koubachi AG
 8C:05:72		Huawei Device Co., Ltd.
 8C:06:CB		Toradex AG
@@ -45841,6 +45848,7 @@
 98:BE:94		Ibm
 98:BE:DC		Honor Device Co., Ltd.
 98:BF:F4		MARKIN co., Ltd.
+98:C0:63		Huawei Technologies Co.,Ltd
 98:C0:8A		Huawei Technologies Co.,Ltd
 98:C0:EB		Global Regency Ltd
 98:C3:77		Espressif Inc.
@@ -49687,6 +49695,7 @@ B8:2C:A0		Resideo
 B8:2D:28		AMPAK Technology,Inc.
 B8:2F:CB		CMS Electracom
 B8:30:A8		Road-Track Telematics Development
+B8:31:84		Hewlett Packard Enterprise
 B8:31:B5		Microsoft Corporation
 B8:32:41		Wuhan Tianyu Information Industry Co., Ltd.
 B8:32:50		Suzhou Comay Information Technology Co., LTD
@@ -53664,6 +53673,7 @@ D4:3D:67		Carma Industries Inc.
 D4:3D:7E		Micro-Star Int'l Co, Ltd
 D4:3D:F3		Zyxel Communications Corporation
 D4:3F:32		eero inc.
+D4:3F:38		Huawei Technologies Co.,Ltd
 D4:3F:CB		Commscope
 D4:40:CF		Apple, Inc.
 D4:40:D0		OCOSMOS Co., LTD
@@ -54130,6 +54140,7 @@ D8:1C:14		Compacta International, Ltd.
 D8:1C:79		Apple, Inc.
 D8:1D:13		Texas Instruments
 D8:1D:72		Apple, Inc.
+D8:1E:A8		Huawei Technologies Co.,Ltd
 D8:1E:DD		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 D8:1E:DE		B&W Group Ltd
 D8:1F:12		Tuya Smart Inc.
@@ -55890,6 +55901,7 @@ E4:C0:CC		China Mobile Group Device Co.,Ltd.
 E4:C0:E2		Sagemcom Broadband SAS
 E4:C0:FE		Apple, Inc.
 E4:C1:46		Objetivos y Servicios de Valor A
+E4:C1:D8		Huawei Technologies Co.,Ltd
 E4:C1:F1		SHENZHEN SPOTMAU INFORMATION TECHNOLIGY CO., Ltd
 E4:C2:18		Silicon Laboratories
 E4:C2:D1		Huawei Technologies Co.,Ltd
