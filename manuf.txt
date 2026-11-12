@@ -30335,6 +30335,7 @@
 5C:6B:32		Texas Instruments
 5C:6B:4F		Hello Inc.
 5C:6B:D7		Foshan VIOMI Electric Appliance Technology Co. Ltd.
+5C:6C:BB		IEEE Registration Authority
 5C:6C:BB:D0:00:00/28	Vasco Electronics S.A.
 5C:6D:20		Hon Hai Precision Ind. Co.,Ltd.
 5C:6F:4F		S.A. Sistel
