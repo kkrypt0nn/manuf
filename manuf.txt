@@ -17635,6 +17635,7 @@
 04:6E:02		OpenRTLS Group
 04:6E:49		TaiYear Electronic Technology (Suzhou) Co., Ltd
 04:6E:CB		zte corporation
+04:6E:E5		HI-POWER Solution CO.,LTD.
 04:6F:00		LG Electronics
 04:70:56		Arcadyan Corporation
 04:70:BC		Globalstar Inc.
@@ -19721,6 +19722,7 @@
 10:D3:8A		Samsung Electronics Co.,Ltd
 10:D5:42		Samsung Electronics Co.,Ltd
 10:D5:61		Tuya Smart Inc.
+10:D6:05		FN-LINK TECHNOLOGY Ltd.
 10:D6:57		Siemens Industrial Automation Products Ltd., Chengdu
 10:D6:80		Tendyron Corporation
 10:D7:B0		Sagemcom Broadband SAS
@@ -24394,6 +24396,7 @@
 34:78:77		O-Net Communications (Shenzhen) Limited
 34:78:D7		Gionee Communication Equipment Co.,Ltd.
 34:79:16		Huawei Technologies Co.,Ltd
+34:79:DF		Dell Inc.
 34:7A:60		Commscope
 34:7C:25		Apple, Inc.
 34:7D:53		Juniper Networks
@@ -30341,6 +30344,8 @@
 5C:6B:4F		Hello Inc.
 5C:6B:D7		Foshan VIOMI Electric Appliance Technology Co. Ltd.
 5C:6C:BB		IEEE Registration Authority
+5C:6C:BB:50:00:00/28	Lvt
+5C:6C:BB:80:00:00/28	Private
 5C:6C:BB:A0:00:00/28	Entrust Security UK Limited
 5C:6C:BB:D0:00:00/28	Vasco Electronics S.A.
 5C:6D:20		Hon Hai Precision Ind. Co.,Ltd.
@@ -41117,6 +41122,7 @@
 8C:1F:64:16:F0:00/36	Codasip s.r.o.
 8C:1F:64:17:00:00/36	Fracarro Radioindustrie Srl
 8C:1F:64:17:10:00/36	Maxphotoics GmbH
+8C:1F:64:17:20:00/36	OPEN Alliance
 8C:1F:64:17:30:00/36	iPronics
 8C:1F:64:17:40:00/36	KST technology
 8C:1F:64:17:50:00/36	Wuhan YiValley Opto-electric technology Co.,Ltd
@@ -43416,6 +43422,7 @@
 8C:1F:64:DB:90:00/36	Ermes Elettronica s.r.l.
 8C:1F:64:DB:A0:00/36	Electronic Equipment Company Pvt. Ltd.
 8C:1F:64:DB:B0:00/36	Würth Elektronik ICS GmbH & Co. KG
+8C:1F:64:DB:C0:00/36	QHR Mothership LLC
 8C:1F:64:DB:D0:00/36	Giordano Controls Spa
 8C:1F:64:DB:F0:00/36	Rugged Controls
 8C:1F:64:DC:00:00/36	Pigs Can Fly Labs LLC
@@ -43617,6 +43624,7 @@
 8C:1F:64:ED:80:00/36	Mcs Innovation Pvt Ltd
 8C:1F:64:ED:90:00/36	Netgen Hitech Solutions Llp
 8C:1F:64:ED:A0:00/36	DEUTA-WERKE GmbH
+8C:1F:64:ED:B0:00/36	ADL Systems
 8C:1F:64:ED:C0:00/36	Infosoft Digital Design and Services P L
 8C:1F:64:ED:D0:00/36	OnDis Solutions Ltd
 8C:1F:64:ED:F0:00/36	Xlera Solutions, LLC
@@ -49252,6 +49260,7 @@ B4:3E:3B		Viableware, Inc
 B4:40:A4		Apple, Inc.
 B4:40:DC		Samsung Electronics Co.,Ltd
 B4:41:30		Jabil Circuit (Guangzhou) Ltd.
+B4:41:6B		GX India Pvt Ltd
 B4:41:7A		Shenzhen Gongjin Electronics Co.,Lt
 B4:43:0D		Broadlink Pty Ltd
 B4:43:26		Huawei Technologies Co.,Ltd
