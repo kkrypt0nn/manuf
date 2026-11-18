@@ -18974,6 +18974,7 @@
 0C:84:08		Huawei Technologies Co.,Ltd
 0C:84:11		A.O. Smith Water Products
 0C:84:47		Fiberhome Telecommunication Technologies Co.,LTD
+0C:84:73		Bouffalo Lab (Nanjing) Co., Ltd.
 0C:84:84		Zenovia Electronics Inc.
 0C:84:DC		Hon Hai Precision Ind. Co.,Ltd.
 0C:85:09		Shen Zhen Tenda Technology Co.,Ltd
@@ -27582,6 +27583,7 @@
 48:5F:DF		zte corporation
 48:60:5F		LG Electronics (Mobile Communications)
 48:60:BC		Apple, Inc.
+48:60:CB		Nanjing RISC-V Institute Co., Ltd.
 48:61:A3		Concern "Axion" JSC
 48:61:EE		Samsung Electronics Co.,Ltd
 48:62:64		Arlo Technology
@@ -30348,10 +30350,13 @@
 5C:6B:4F		Hello Inc.
 5C:6B:D7		Foshan VIOMI Electric Appliance Technology Co. Ltd.
 5C:6C:BB		IEEE Registration Authority
+5C:6C:BB:30:00:00/28	Data Knox Dms Private Limited
 5C:6C:BB:50:00:00/28	Lvt
 5C:6C:BB:80:00:00/28	Private
 5C:6C:BB:90:00:00/28	Certaintek Co.,Ltd.
 5C:6C:BB:A0:00:00/28	Entrust Security UK Limited
+5C:6C:BB:B0:00:00/28	BackburnerLabs
+5C:6C:BB:C0:00:00/28	Swegon ILTO Oy
 5C:6C:BB:D0:00:00/28	Vasco Electronics S.A.
 5C:6D:20		Hon Hai Precision Ind. Co.,Ltd.
 5C:6F:4F		S.A. Sistel
@@ -41089,6 +41094,7 @@
 8C:1F:64:12:E0:00/36	inomatic GmbH
 8C:1F:64:12:F0:00/36	MB connect line GmbH
 8C:1F:64:13:00:00/36	Vigor Electric Corp.
+8C:1F:64:13:20:00/36	Shenzhen Enatel Electronics Co,ltd.
 8C:1F:64:13:30:00/36	Vtron Pty Ltd
 8C:1F:64:13:40:00/36	LyconSys GmbH & Co.KG
 8C:1F:64:13:50:00/36	Yuval Fichman
@@ -41396,6 +41402,7 @@
 8C:1F:64:2E:40:00/36	Vision Systems Safety Tech
 8C:1F:64:2E:50:00/36	GS Elektromedizinsiche Geräte G. Stemple GmbH
 8C:1F:64:2E:80:00/36	Sonora Network Solutions
+8C:1F:64:2E:90:00/36	DataCatcher
 8C:1F:64:2E:C0:00/36	HD Vision Systems GmbH
 8C:1F:64:2E:E0:00/36	Qualitrol LLC
 8C:1F:64:2E:F0:00/36	Invisense AB
@@ -41780,6 +41787,7 @@
 8C:1F:64:4E:B0:00/36	flsystem
 8C:1F:64:4E:C0:00/36	XOR UK Corporation Limited
 8C:1F:64:4E:D0:00/36	Ventionex Innovations Sdn Bhd
+8C:1F:64:4E:F0:00/36	Crane Nuclear
 8C:1F:64:4F:00:00/36	Tieline Research Pty Ltd
 8C:1F:64:4F:10:00/36	Abbott Diagnostics Technologies AS
 8C:1F:64:4F:20:00/36	Automation Displays Inc.
@@ -41917,6 +41925,7 @@
 8C:1F:64:5A:80:00/36	Versabyte Data Systems Pvt Ltd
 8C:1F:64:5A:90:00/36	Aktiebolag Solask Energi
 8C:1F:64:5A:A0:00/36	Landis+Gyr Equipamentos de Medição Ltda
+8C:1F:64:5A:B0:00/36	G.O. Engineering GmbH
 8C:1F:64:5A:C0:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:5A:D0:00/36	TAKAHATA PRECISION Co., LTD.
 8C:1F:64:5A:E0:00/36	Suzhou Motorcomm Electronic Technology Co., Ltd
@@ -42715,6 +42724,7 @@
 8C:1F:64:9F:00:00/36	ePlant, Inc.
 8C:1F:64:9F:10:00/36	Skymira
 8C:1F:64:9F:20:00/36	MB connect line GmbH Fernwartungssysteme
+8C:1F:64:9F:30:00/36	Vardaan Electronics Industries Pvt. Ltd.
 8C:1F:64:9F:40:00/36	Grossenbacher Systeme AG
 8C:1F:64:9F:50:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:9F:60:00/36	Vision Systems Safety Tech
@@ -43623,6 +43633,7 @@
 8C:1F:64:EC:20:00/36	Harbin Digital Economy Development Co.,Ltd
 8C:1F:64:EC:30:00/36	Scenario Automation
 8C:1F:64:EC:50:00/36	Stanley Black & Decker Engineered Fastening (Nantong) Co., Ltd.
+8C:1F:64:EC:70:00/36	Linglume (Shanghai) Technology Co., Ltd
 8C:1F:64:EC:C0:00/36	Baldwin Jimek AB
 8C:1F:64:EC:D0:00/36	Beijing BITMC Technology co.Ltd
 8C:1F:64:EC:F0:00/36	Monnit Corporation
@@ -43661,6 +43672,7 @@
 8C:1F:64:EF:C0:00/36	LonTen Technology（BeiJing）Co.,LTD.
 8C:1F:64:EF:D0:00/36	Novatera(Shenzhen)Technologies Co.,Ltd.
 8C:1F:64:EF:F0:00/36	Automata GmbH & Co. KG
+8C:1F:64:F0:00:00/36	GVision Italia S.r.l.
 8C:1F:64:F0:10:00/36	OmniBuds Ltd
 8C:1F:64:F0:30:00/36	Faust ApS
 8C:1F:64:F0:40:00/36	IoTSecure, LLC
@@ -51327,6 +51339,7 @@ C4:52:4F		Apple, Inc.
 C4:53:79		Micronview Limited Liability Company
 C4:54:44		Quanta Computer Inc.
 C4:55:0D		Huawei Technologies Co.,Ltd
+C4:55:10		FRITZ! Technology GmbH
 C4:55:A6		Cadac Holdings Ltd
 C4:55:C2		Bach-Simpson
 C4:56:00		Galleon Embedded Computing
