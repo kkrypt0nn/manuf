@@ -30350,6 +30350,7 @@
 5C:6C:BB		IEEE Registration Authority
 5C:6C:BB:50:00:00/28	Lvt
 5C:6C:BB:80:00:00/28	Private
+5C:6C:BB:90:00:00/28	Certaintek Co.,Ltd.
 5C:6C:BB:A0:00:00/28	Entrust Security UK Limited
 5C:6C:BB:D0:00:00/28	Vasco Electronics S.A.
 5C:6D:20		Hon Hai Precision Ind. Co.,Ltd.
@@ -33010,6 +33011,7 @@
 70:7E:43		Commscope
 70:7E:DA		Gsd Viet Nam Technology Company Limited
 70:7E:DE		Nastec Ltd.
+70:7F:7D		Infinix mobility limited
 70:7F:F2		Telechips, Inc.
 70:81:05		Cisco Systems, Inc
 70:81:85		New H3C Technologies Co., Ltd
@@ -37831,6 +37833,7 @@
 74:DD:CB		China Leadshine Technology Co.,Ltd
 74:DD:F0		Shen Zhen Tenda Technology Co.,Ltd
 74:DE:2B		Liteon Technology Corporation
+74:DF:B9		Cisco Systems, Inc
 74:DF:BF		Liteon Technology Corporation
 74:E0:6E		Ergophone GmbH
 74:E1:47		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
@@ -54921,6 +54924,7 @@ DC:A9:56		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 DC:A9:71		Intel Corporate
 DC:A9:89		Macandc
 DC:AA:43		Shenzhen Terca Information Technology Co., Ltd.
+DC:AB:39		Cisco Systems, Inc
 DC:AC:6F		Everytale Inc
 DC:AD:9E		GreenPriz
 DC:AE:04		CELOXICA Ltd
@@ -55037,6 +55041,7 @@ DC:E6:50		Extreme Networks, Inc.
 DC:E7:1C		AUG Elektronik GmbH
 DC:E8:38		CK Telecom (Shenzhen) Limited
 DC:E9:94		Cloud Network Technology Singapore Pte. Ltd.
+DC:EA:D8		Cisco Systems, Inc
 DC:EA:E7		D-Link Corporation
 DC:EB:4D		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
 DC:EB:53		Wuhan QianXiao Elecronic Technology CO.,LTD
@@ -57458,6 +57463,7 @@ F0:B6:1E		Intel Corporate
 F0:B6:61		eero inc.
 F0:B6:EB		Poslab Technology Co., Ltd.
 F0:B7:15		Huawei Device Co., Ltd.
+F0:B8:F7		Cisco Systems, Inc
 F0:B9:68		Itel Mobile Limited
 F0:BC:50		Mellanox Technologies, Inc.
 F0:BC:C8		MaxID (Pty) Ltd
