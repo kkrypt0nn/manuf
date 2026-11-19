@@ -2207,7 +2207,7 @@
 00:08:AB		EnerLinx.com, Inc.
 00:08:AC		BST GmbH
 00:08:AD		Toyo-Linx Co., Ltd.
-00:08:AE		PacketFront Network Products AB
+00:08:AE		Waystream AB
 00:08:AF		Novatec Corporation
 00:08:B0		HUBER+SUHNER BKtel GmbH
 00:08:B1		ProQuent Systems
@@ -20177,6 +20177,7 @@
 14:BC:68		Cisco Systems, Inc
 14:BD:61		Apple, Inc.
 14:BE:FC		Nanjing Jiahao Technology Co., Ltd.
+14:BF:9A		HavocAI, Inc.
 14:C0:3E		Commscope
 14:C0:50		Guangdong Genius Technology Co., Ltd.
 14:C0:89		Dune Hd Ltd
@@ -27910,6 +27911,7 @@
 4A:07:D6		IEEE 802.1 Working Group
 4A:15:40		sas de la Halle aux Fours
 4A:19:1B		ZigBee Alliance
+4A:52:66		Last Lock Inc
 4A:59:09		Miwa Lock Co.,Ltd.
 4A:5A:6F		Applied Materials
 4A:5A:A9		GoCodeIT Inc
@@ -38584,6 +38586,7 @@
 7A:4D:2F		Open Compute Project
 7A:84:F0		McDowell Signal Processing, LLC (dba McDSP)
 7A:8D:D1		TePS'EG
+7A:8F:27		Mirai Speaker Inc.
 7A:AB:77		Orange
 7A:B2:30		European Telecommunications Standards Institute
 7A:F9:55		Relay, Inc.
@@ -47610,6 +47613,7 @@ A4:DD:58		Huawei Technologies Co.,Ltd
 A4:DE:26		Sumitomo Electric Industries, Ltd
 A4:DE:50		Total Walther GmbH
 A4:DE:C9		QLove Mobile Intelligence Information Technology (W.H.) Co. Ltd.
+A4:E0:41		Ruckus Wireless
 A4:E0:E6		Filizola S.A. Pesagem E Automacao
 A4:E1:1A		Juniper Networks
 A4:E2:87		Xiaomi Communications Co Ltd
