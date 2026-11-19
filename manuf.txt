@@ -19037,6 +19037,7 @@
 0C:98:38		Xiaomi Communications Co Ltd
 0C:9A:3C		Intel Corporate
 0C:9A:42		Fn-Link Technology Limited
+0C:9A:AC		Cisco Meraki
 0C:9A:E6		Sz Dji Technology Co.,Ltd
 0C:9B:13		Shanghai Magic Mobile Telecommunication Co.Ltd.
 0C:9B:78		Extreme Networks, Inc.
@@ -23555,6 +23556,7 @@
 2C:E6:4D		GD Midea Air-Conditioning Equipment Co.,Ltd.
 2C:E6:CC		Ruckus Wireless
 2C:E7:A7		SJIT Co., Ltd.
+2C:E8:47		eero inc.
 2C:E8:71		Alert Metalguard ApS
 2C:EA:7F		Dell Inc.
 2C:EA:DA		ICC Intelligent Platforms GmbH
@@ -30264,6 +30266,7 @@
 5C:56:A4		Wanan Hongsheng Electronic Co.Ltd
 5C:56:ED		3pleplay Electronics Private Limited
 5C:57:1A		Commscope
+5C:57:9B		Cisco Meraki
 5C:57:9E		Chiun Mai Communication System, Inc
 5C:57:C8		Nokia Corporation
 5C:58:19		Jingsheng Technology Co., Ltd.
@@ -32482,6 +32485,7 @@
 6C:78:C1		Juniper Networks
 6C:79:B8		Texas Instruments
 6C:7A:63		Arista Networks
+6C:7C:FD		eero inc.
 6C:7D:B7		Cisco Meraki
 6C:7E:67		Apple, Inc.
 6C:7F:0C		Cisco Meraki
@@ -41898,6 +41902,7 @@
 8C:1F:64:57:C0:00/36	EA Elektro-Automatik GmbH
 8C:1F:64:57:D0:00/36	ISDI Ltd
 8C:1F:64:57:E0:00/36	Guoqing (shangdong) Information Technology Co.,Ltd
+8C:1F:64:57:F0:00/36	BlueSpace TECHNOLOGY SA
 8C:1F:64:58:00:00/36	SAKURA SEIKI Co., Ltd.
 8C:1F:64:58:10:00/36	SpectraDynamics, Inc.
 8C:1F:64:58:30:00/36	3Egreen tech. Co. Ltd.
@@ -42945,6 +42950,7 @@
 8C:1F:64:B1:90:00/36	DITRON S.r.l.
 8C:1F:64:B1:A0:00/36	Panoramic Power
 8C:1F:64:B1:B0:00/36	Nov'in
+8C:1F:64:B1:C0:00/36	BG Systems, Inc.
 8C:1F:64:B1:D0:00/36	Tocho Marking Systems America, Inc
 8C:1F:64:B1:E0:00/36	Aidhom
 8C:1F:64:B1:F0:00/36	wincker international enterprise co., ltd
