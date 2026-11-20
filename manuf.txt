@@ -17408,6 +17408,7 @@
 00:FC:8B		Amazon Technologies Inc.
 00:FC:8D		Hitron Technologies. Inc
 00:FC:BA		Cisco Systems, Inc
+00:FD:05		Silicon Laboratories
 00:FD:22		Cisco Systems, Inc
 00:FD:45		Hewlett Packard Enterprise
 00:FD:4C		Nevatec
@@ -30355,6 +30356,7 @@
 5C:6B:4F		Hello Inc.
 5C:6B:D7		Foshan VIOMI Electric Appliance Technology Co. Ltd.
 5C:6C:BB		IEEE Registration Authority
+5C:6C:BB:20:00:00/28	Shenzhen Dangzhi Technology Co., Ltd.
 5C:6C:BB:30:00:00/28	Data Knox Dms Private Limited
 5C:6C:BB:50:00:00/28	Lvt
 5C:6C:BB:80:00:00/28	Private
@@ -30593,6 +30595,7 @@
 5C:DC:49		Samsung Electronics Co.,Ltd
 5C:DC:96		Arcadyan Corporation
 5C:DD:70		Hangzhou H3C Technologies Co., Limited
+5C:DD:CB		Silicon Laboratories
 5C:DE:34		Shenzhen Mercury Communication Technologies Co.,Ltd.
 5C:DF:89		Ruckus Wireless
 5C:DF:B8		Shenzhen Unionmemory Information System Limited
@@ -32644,6 +32647,7 @@
 6C:D1:E5		Huawei Technologies Co.,Ltd
 6C:D2:BA		zte corporation
 6C:D3:EE		Zimi Corporation
+6C:D4:41		Tech4home, Lda
 6C:D5:52		Shenzhen Bilian Electronic Co.，Ltd
 6C:D6:30		Rootous System Co.,Ltd
 6C:D6:3F		Huawei Technologies Co.,Ltd
@@ -42489,6 +42493,7 @@
 8C:1F:64:89:80:00/36	Copper Connections Ltd
 8C:1F:64:89:90:00/36	American Edge IP
 8C:1F:64:89:A0:00/36	National Control Devices, LLC
+8C:1F:64:89:B0:00/36	Sensia Solutions,S.L.
 8C:1F:64:89:E0:00/36	Cinetix Srl
 8C:1F:64:89:F0:00/36	Potter Electric Signal Co. LLC
 8C:1F:64:8A:00:00/36	H&abyz
@@ -44776,6 +44781,7 @@
 90:B8:E0		Shenzhen Yanray Technology Co.,Ltd
 90:B9:31		Apple, Inc.
 90:B9:42		zte corporation
+90:B9:70		Shenzhen V-Link Technology CO., LTD.
 90:B9:7D		Johnson Outdoors Marine Electronics d/b/a Minnkota
 90:B9:F9		Motorola Mobility LLC, a Lenovo Company
 90:BA:09		Huawei Technologies Co.,Ltd
@@ -46840,6 +46846,7 @@ A0:72:2C		HUMAX Co., Ltd.
 A0:72:E4		Nj System Co.,Ltd
 A0:73:32		Cashmaster International Limited
 A0:73:FC		Rancore Technologies Private Limited
+A0:75:66		Cirrus Logic International Semiconductor Ltd
 A0:75:91		Samsung Electronics Co.,Ltd
 A0:75:EA		BoxLock, Inc.
 A0:76:4E		Espressif Inc.
