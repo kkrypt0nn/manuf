@@ -23733,6 +23733,7 @@
 30:39:26		Sony Corporation
 30:39:55		Shenzhen Jinhengjia Electronic Co., Ltd.
 30:39:A9		Hongshan Information Science and Technology (HangZhou) Co.,Ltd.
+30:39:EB		hanshow America Inc.
 30:39:F2		ADB Broadband Italia
 30:3A:4A		eero inc.
 30:3A:64		Intel Corporate
@@ -24074,6 +24075,7 @@
 30:E4:D8		Huawei Device Co., Ltd.
 30:E4:DB		Cisco Systems, Inc
 30:E7:BC		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
+30:E8:B9		Espressif Systems (Singapore) Pte. Ltd
 30:E8:E4		Qorvo International Pte. Ltd.
 30:E9:8E		Huawei Technologies Co.,Ltd
 30:EA:26		Sycada BV
@@ -35782,7 +35784,7 @@
 70:B3:D5:A5:D0:00/36	Position Imaging
 70:B3:D5:A5:E0:00/36	ConectaIP Tecnologia S.L.
 70:B3:D5:A5:F0:00/36	Daatrics LTD
-70:B3:D5:A6:00:00/36	Pneumax S.p.A.
+70:B3:D5:A6:00:00/36	Pneumax Spa
 70:B3:D5:A6:10:00/36	Omsk Manufacturing Association named after A.S. Popov
 70:B3:D5:A6:20:00/36	Environexus
 70:B3:D5:A6:30:00/36	DesignA Electronics Limited
@@ -38863,6 +38865,7 @@
 7C:7D:3D		Huawei Technologies Co.,Ltd
 7C:7D:41		Jinmuyu Electronics Co., Ltd.
 7C:7E:F9		eero inc.
+7C:81:AA		Shenzhen Enrigin Technology Co. ,Ltd.
 7C:82:2D		Nortec
 7C:82:74		Shenzhen Hikeen Technology CO.,LTD
 7C:83:06		Glen Dimplex Nordic as
@@ -41118,7 +41121,7 @@
 8C:1F:64:13:F0:00/36	Elsist Srl
 8C:1F:64:14:00:00/36	RF-Tuote Oy
 8C:1F:64:14:10:00/36	Code Blue Corporation
-8C:1F:64:14:30:00/36	ChamSys
+8C:1F:64:14:30:00/36	Chamsys Ltd
 8C:1F:64:14:40:00/36	Langfang ENN lntelligent Technology Co.,Ltd.
 8C:1F:64:14:50:00/36	Spectrum FiftyNine BV
 8C:1F:64:14:60:00/36	Zhongrun Xinchan (Beijing) Technology Co., Ltd
@@ -41724,6 +41727,7 @@
 8C:1F:64:48:00:00/36	Soca Technology Co., Ltd.
 8C:1F:64:48:10:00/36	VirtualV Trading Limited
 8C:1F:64:48:20:00/36	Vismes sarl
+8C:1F:64:48:40:00/36	Shenzhen Yahboom Technology Co.,Ltd.
 8C:1F:64:48:60:00/36	Longhorn lntelligent Tech Co.,Ltd.
 8C:1F:64:48:70:00/36	TECHKON GmbH
 8C:1F:64:48:90:00/36	Hupi
@@ -43379,6 +43383,7 @@
 8C:1F:64:D4:80:00/36	Private
 8C:1F:64:D4:90:00/36	Future Life Technology
 8C:1F:64:D4:A0:00/36	Caproc Oy
+8C:1F:64:D4:B0:00/36	Rax-Tech International
 8C:1F:64:D4:D0:00/36	Liburdi Dimetrics Corp.
 8C:1F:64:D4:E0:00/36	Magnatek ApS
 8C:1F:64:D4:F0:00/36	Henan Creatbot Technology Limited
@@ -51566,6 +51571,7 @@ C4:98:94:E0:00:00/28	Hans Sasserath GmbH & Co. KG
 C4:9A:02		LG Electronics (Mobile Communications)
 C4:9A:31		Zyxel Communications Corporation
 C4:9A:89		Suzhou K-Hiragawa Electronic Technology Co.,Ltd
+C4:9A:90		Espressif Systems (Singapore) Pte. Ltd
 C4:9D:08		Huawei Device Co., Ltd.
 C4:9D:ED		Microsoft Corporation
 C4:9E:41		G24 Power Limited
@@ -51897,6 +51903,7 @@ C8:2C:2B:E0:00:00/28	Fränkische Rohrwerke Gebr. Kirchner GmbH & Co. KG
 C8:2E:18		Espressif Inc.
 C8:2E:47		Suzhou SmartChip Semiconductor Co., LTD
 C8:2E:94		Halfa Enterprise Co., Ltd.
+C8:2F:A4		Lyntera Singapore Pte. Ltd.
 C8:30:49		Huawei Device Co., Ltd.
 C8:31:68		eZEX corporation
 C8:32:32		Hunting Innova
@@ -55489,6 +55496,7 @@ E0:BA:B4		Arrcus, Inc
 E0:BB:0C		Synertau LLC
 E0:BB:9E		Seiko Epson Corporation
 E0:BC:43		C2 Microsystems, Inc.
+E0:BC:C8		nFore Technology Co.,Ltd.
 E0:BD:A0		Apple, Inc.
 E0:BE:03		Lite-On Network Communication (Dongguan) Limited
 E0:BF:0B		Silicon Laboratories
@@ -58140,6 +58148,7 @@ F4:DC:F9		Huawei Technologies Co.,Ltd
 F4:DD:06		Samsung Electronics Co.,Ltd
 F4:DD:9E		GoPro
 F4:DE:0C		ESPOD Ltd.
+F4:DE:4D		Nanjing Qinheng Microelectronics Co., Ltd.
 F4:DE:AF		Huawei Technologies Co.,Ltd
 F4:E1:1E		Texas Instruments
 F4:E1:42		Delta Elektronika BV
